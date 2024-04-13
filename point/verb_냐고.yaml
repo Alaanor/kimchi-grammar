@@ -1,0 +1,44 @@
+name: (으/느/이)냐고
+definitions:
+  - slug: quoting-questions
+    name: Quoting questions
+    english_alternatives:
+    meaning: It is used when the speaker quotes another person's question indirectly.
+    examples:
+      - sentence: 저한테 어디 <f>가냐고</f> 물었어요.
+        type: simple
+        translated: They asked me where I was going.
+        audio_url: https://r2.kimchi-reader.app/grammar/저한테_어디_가냐고_물었어요__2024-04-13.mp3
+      - sentence: 저는 몇 <f>살이냐고</f> 물어보는 게 제일 싫어요.
+        type: simple
+        translated: I hate it the most when people ask me how old I am.
+        audio_url: https://r2.kimchi-reader.app/grammar/저는_몇_살이냐고_물어보는_게_제일_싫어요__2024-04-13.mp3
+      - sentence: 전화번호가 몇 <f>번이냐고</f> 그랬어요.
+        type: simple
+        translated: They asked what my phone number was.
+        audio_url: https://r2.kimchi-reader.app/grammar/전화번호가_몇_번이냐고_그랬어요__2024-04-13.mp3
+metadata:
+  type: verb
+details: |-
+  # Usage {#usage}
+  
+  For indirect quote:
+  
+  |Sentence type|Word type|Form|
+  |---|---|---|
+  |Interrogative|Action verb|<f>(느)냐고</f>|
+  |Interrogative|Descriptive verb|<f>(으)냐고</f>|
+  |Interrogative|Noun|<f>(이)냐고</f>|
+  
+  # Shorthand {#shorthand}
+  
+  For indirect quote:
+  
+  |Sentence type|Word type|Full form|Shortened form|
+  |---|---|---|---|
+  |Interrogative (present)|Noun|<f>(느)냐고 하다</f>|<f>(느)냬요</f>|
+  |Interrogative (present)|Descriptive verb|<f>(으)냐고 하다</f>|<f>(으)냬요</f>|
+  |Interrogative (present)|Action verb|<f>(느)냐고 하다</f>|<f>(느)냬요</f>|
+  |Interrogative (past)|Verb|<f>(았/었)(느)냐고 하다</f>|<f>(았/었)냬요</f>|
+  |Interrogative (future)|Verb|<f>-(으)ㄹ 거냐고 하다</f>|<f>-(으)ㄹ 거냬요</f>|
+  

@@ -1,0 +1,22 @@
+name: (으)ㅂ시다
+definitions:
+  - slug: suggestion
+    name: Suggestion
+    english_alternatives: let's
+    meaning: Used to suggest or propose something with the listener, an intention of doing a certain action together.
+    examples:
+      - sentence: 경치가 좋아요. 여기에서 사진을 <f>찍읍시다</f>.
+        type: simple
+        translated: The view is nice. Let's take a picture here.
+        audio_url: https://r2.kimchi-reader.app/grammar/경치가_좋아요_여기에서_사진을_찍읍시다__2024-04-13.mp3
+      - sentence: 제가 매운 음식을 못 먹으니까 다른 음식을 <f>먹읍시다</f>.
+        type: simple
+        translated: Since I can't eat spicy food, let's eat something else.
+        audio_url: https://r2.kimchi-reader.app/grammar/제가_매운_음식을_못_먹으니까_다른_음식을_먹읍시다__2024-04-13.mp3
+      - sentence: 길이 막혀요. 택시를 타지 <f>맙시다</f>.
+        type: simple
+        translated: The road is blocked. Let's take a taxi.
+        audio_url: https://r2.kimchi-reader.app/grammar/길이_막혀요_택시를_타지_맙시다__2024-04-13.mp3
+metadata:
+  type: verb
+details: |-

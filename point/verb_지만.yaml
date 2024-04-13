@@ -1,0 +1,18 @@
+name: 지만
+definitions:
+  - slug: contrast
+    name: Contrasting
+    english_alternatives: but
+    meaning: Express a contrast between two clauses and the second clause is usually a contrast to the first clause.
+    examples:
+      - sentence: 조금 비싸<f>지만</f> 그래도 너무 맛있어요.
+        type: simple
+        translated: It's a bit expensive, but it's still very delicious.
+        audio_url: https://r2.kimchi-reader.app/grammar/조금_비싸지만_그래도_너무_맛있어요__2024-04-13.mp3
+      - sentence: 경고하<f>지만</f> 그것은 위험하다.
+        type: simple
+        translated: I warned you, but it's dangerous.
+        audio_url: https://r2.kimchi-reader.app/grammar/경고하지만_그것은_위험하다__2024-04-13.mp3
+metadata:
+  type: verb
+details: |-

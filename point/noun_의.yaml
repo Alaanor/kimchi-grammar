@@ -1,0 +1,32 @@
+name: 의
+definitions:
+  - slug: relation
+    name: Relation particle
+    english_alternatives: of, [noun]'s
+    meaning: Used to express a relationship between two words, which can be expressed as "of" in English.
+      The first noun being the possessor of the second noun.
+    examples:
+      - sentence: 친구<f>의</f> 집.
+        type: simple
+        translated: Friend's house.
+        audio_url: https://r2.kimchi-reader.app/grammar/친구의_집__2024-03-16.mp3
+      - sentence: 여동생<f>의</f> 생일이 언제예요?
+        type: simple
+        translated: When is your younger sister's birthday?
+        audio_url: https://r2.kimchi-reader.app/grammar/여동생의_생일이_언제예요__2024-03-16.mp3
+      - sentence: 지진<f>의</f> 흔들림이 느껴졌다.
+        type: simple
+        translated: I felt the shaking of the earthquake.
+        audio_url: https://r2.kimchi-reader.app/grammar/지진의_흔들림이_느껴졌다__2024-03-16.mp3
+metadata:
+  type: noun
+details: |-
+  # Contraction {#contraction}
+  
+  Followed by the pronouns <f>나</f> and <f>저</f>, the particle :grammar[noun_의]{noprefix} undergoes contraction.
+  - <f>나</f> + <f>의</f> ⇒ <f>내</f>
+  - <f>저</f> + <f>의</f> ⇒ <f>제</f>
+  
+  # Pronunciation {#pronunciation}
+  
+  When <f>의</f> is used as a particle, it sounds like <f>에</f>.

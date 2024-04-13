@@ -1,0 +1,18 @@
+name: 듯이
+definitions: 
+  - slug: similarity
+    name: Similarity
+    english_alternatives: like, as if
+    meaning: A connective ending used when the following statement is almost the same to the preceding statement.
+    examples:
+      - sentence: 왜 이렇게 싸우<f>듯이</f> 마시나요?
+        type: simple
+        translated: Why are you drinking like you're fighting?
+        audio_url: https://r2.kimchi-reader.app/grammar/왜_이렇게_싸우듯이_마시나요__2024-04-13.mp3
+      - sentence: 가수는 노래를 부르<f>듯이</f> 말했다.
+        type: simple
+        translated: The singer spoke as if singing.
+        audio_url: https://r2.kimchi-reader.app/grammar/가수는_노래를_부르듯이_말했다__2024-04-13.mp3
+metadata:
+  type: verb
+details: |-

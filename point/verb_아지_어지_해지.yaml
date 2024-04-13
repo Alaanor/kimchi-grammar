@@ -1,0 +1,22 @@
+name: 아/어지다
+definitions:
+  - slug: change-in-state
+    name: Change in state
+    english_alternatives: become, turn into
+    meaning: Express a change in state over time. Can only be used with descriptive verbs.
+    examples:
+      - sentence: 요즘 운동을 해서 살이 많이 <f>빠졌어요</f>.
+        type: simple
+        translated: I've lost a lot of weight recently because I've been exercising.
+        audio_url: https://r2.kimchi-reader.app/grammar/요즘_운동을_해서_살이_많이_빠졌어요__2024-04-13.mp3
+      - sentence: 공부를 하고 있는데 갑자기 방에 불이 <f>꺼졌어요</f>.
+        type: simple
+        translated: I was studying when the lights suddenly went out.
+        audio_url: https://r2.kimchi-reader.app/grammar/공부를_하고_있는데_갑자기_방에_불이_꺼졌어요__2024-04-13.mp3
+metadata:
+  type: verb
+details: |-
+  # Spacing {#spacing}
+  
+  Although :dict[지다] technically is a auxiliary action verb like :grammar[verb_아두다_어두다_해두다],
+  :grammar[verb_아놓다_어놓다_해놓다] etc, in practice it almost always found without spacing.

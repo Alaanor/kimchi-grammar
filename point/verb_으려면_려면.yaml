@@ -1,0 +1,19 @@
+name: (으)려면
+definitions:
+  - slug: assume-intention
+    name: Assume intention
+    english_alternatives: if you want to
+    meaning: Shortened form of (으)려고 하면. Used when the speaker assume that one want to achieve something
+      and give the condition and requirement to achieve it.
+    examples:
+      - sentence: 덜렁대는 버릇을 고치<f>려면</f> 어떻게 해야 할까요?
+        type: simple
+        translated: What should I do to fix my habit of being indecisive?
+        audio_url: https://r2.kimchi-reader.app/grammar/덜렁대는_버릇을_고치려면_어떻게_해야_할까요__2024-04-13.mp3
+      - sentence: 다음 마술을 하<f>려면</f> 여러분 중 한 명이 필요합니다.
+        type: simple
+        translated: We need one of you to volunteer to do the next magic trick.
+        audio_url: https://r2.kimchi-reader.app/grammar/다음_마술을_하려면_여러분_중_한_명이_필요합니다__2024-04-13.mp3
+metadata:
+  type: verb
+details: |-

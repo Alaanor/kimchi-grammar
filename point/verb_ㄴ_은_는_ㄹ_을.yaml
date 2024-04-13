@@ -1,0 +1,29 @@
+name: 는/(으)ㄴ/(으)ㄹ
+definitions:
+  - slug: noun-modifiers
+    name: Noun modifiers
+    english_alternatives: that, who
+    meaning: Enables it to function as a modifying clause for the substantive following it.
+    examples:
+      - sentence: 호수 주변에는 <f>예쁜</f> 꽃밭이 있어요.
+        type: simple
+        translated: There is a beautiful flower garden around the lake.
+        audio_url: https://r2.kimchi-reader.app/grammar/호수_주변에는_예쁜_꽃밭이_있어요__2024-04-13.mp3
+      - sentence: 저녁에 <f>먹을</f> 음식을 준비합시다.
+        type: simple
+        translated: Let's prepare the food to eat in the evening.
+        audio_url: https://r2.kimchi-reader.app/grammar/저녁에_먹을_음식을_준비합시다__2024-04-13.mp3
+      - sentence: 우리는 일요일 아침에 늦잠 <f>자는</f> 것을 좋아합니다.
+        type: simple
+        translated: We like to sleep in on Sunday mornings.
+        audio_url: https://r2.kimchi-reader.app/grammar/우리는_일요일_아침에_늦잠_자는_것을_좋아합니다__2024-04-13.mp3
+metadata:
+  type: verb
+details: |-
+    |Tense|Modifiers|
+    |---|---|
+    |Present (descriptive verb)|<f>(으)ㄴ</f>|
+    |Present (action verb)|<f>는</f>|
+    |Past (all)|<f>(으)ㄴ</f>|
+    |Future (all)|<f>(으)ㄹ</f>|
+  

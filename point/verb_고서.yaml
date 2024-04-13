@@ -1,0 +1,19 @@
+name: 고서
+definitions:
+  - slug: sequence
+    name: Sequence
+    english_alternatives:
+    meaning: When the first action get completed before the subsequent action started
+      and there is a relationship between the two actions.
+    examples:
+      - sentence: 저 문을 뚫<f>고서</f> 궁전으로 돌진합시다!
+        type: simple
+        translated: Let's break through that door and rush into the palace!
+        audio_url: https://r2.kimchi-reader.app/grammar/저_문을_뚫고서_궁전으로_돌진합시다__2024-04-13.mp3
+      - sentence: 그 남자는 결혼을 하<f>고서</f> 사람이 달라졌어.
+        type: simple
+        translated: He has changed after getting married.
+        audio_url: https://r2.kimchi-reader.app/grammar/그_남자는_결혼을_하고서_사람이_달라졌어__2024-04-13.mp3
+metadata:
+  type: verb
+details: |-

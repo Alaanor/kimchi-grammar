@@ -1,0 +1,18 @@
+name: 잖아
+definitions:
+  - slug: reminding
+    name: Reminding
+    english_alternatives: as you know, you might recall
+    meaning: Indicates that the speaker is reminding the listener of a reason they should be aware or might have forgotten.
+    examples:
+      - sentence: 지하철을 탑시다. 출퇴근 시간에는 차가 많이 <f>밀리잖아요</f>.
+        type: simple
+        translated: Let's take the subway. There surely are a lot of traffic during rush hours.
+        audio_url: https://r2.kimchi-reader.app/grammar/지하철을_탑시다_출퇴근_시간에는_차가_많이_밀리잖아요__2024-04-13.mp3
+      - sentence: 그렇게 싸우지 말고 사이좋게 지내. 둘이 <f>친구잖아</f>.
+        type: simple
+        translated: Don't fight like that and get along well. You two are friends, you know.
+        audio_url: https://r2.kimchi-reader.app/grammar/그렇게_싸우지_말고_사이좋게_지내_둘이_친구잖아__2024-04-13.mp3
+metadata:
+  type: verb
+details: |-

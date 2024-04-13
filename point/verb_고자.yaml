@@ -1,0 +1,18 @@
+name: 고자
+definitions:
+  - slug: purpose
+    name: Purpose
+    english_alternatives:
+    meaning: State the intention or purpose for doing the action stated in the next clause. Used in formal situation.
+    examples:
+      - sentence: 저는 오늘 시민 여러분들의 의견을 듣<f>고자</f> 이 자리에 섰습니다.
+        type: simple
+        translated: I am here to listen to the opinions of the citizens today.
+        audio_url: https://r2.kimchi-reader.app/grammar/저는_오늘_시민_여러분들의_의견을_듣고자_이_자리에_섰습니다__2024-04-13.mp3
+      - sentence: 한국어 실력을 늘리<f>고자</f> 한국 드라마를 자주 보고 있어요.
+        type: simple
+        translated: I often watch Korean dramas to improve my Korean language skills.
+        audio_url: https://r2.kimchi-reader.app/grammar/한국어_실력을_늘리고자_한국_드라마를_자주_보고_있어요__2024-04-13.mp3
+metadata:
+  type: verb
+details: |-

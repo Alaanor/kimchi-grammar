@@ -1,0 +1,23 @@
+name: (으)ㄹ 수도 있다/없다
+definitions:
+  - slug: possibility
+    name: Possibility
+    english_alternatives: it is possible that, it might
+    meaning: Expresses that such a possibility also exists.
+    examples:
+      - sentence: 저 내일 시간이 <f>없을 수도 있어요</f>.
+        type: simple
+        translated: I might not have time tomorrow.
+        audio_url: https://r2.kimchi-reader.app/grammar/저_내일_시간이_없을_수도_있어요__2024-04-13.mp3
+      - sentence: 친구가 <f>올 수도 있어요</f>.
+        type: simple
+        translated: My friend might come.
+        audio_url: https://r2.kimchi-reader.app/grammar/친구가_올_수도_있어요__2024-04-13.mp3
+      - sentence: 그렇게 많은 돈을 가지고 있는 것을 <f>상상할 수도 없어요</f>.
+        type: simple
+        translated: I can't even imagine having that much money.
+        audio_url: https://r2.kimchi-reader.app/grammar/그렇게_많은_돈을_가지고_있는_것을_상상할_수도_없어요__2024-04-13.mp3
+metadata:
+  type: composite
+details: |-
+  

@@ -1,0 +1,26 @@
+name: 대로
+definitions:
+  - slug: according-to
+    name: According to
+    english_alternatives: as, just as
+    meaning: When added to the end of a noun, it indicates that something is "as" or "in accordance with" the noun.
+    examples:
+      - sentence: 모든 것이 예정<f>대로</f> 진행되고 있습니다.
+        type: simple
+        translated: Everything is proceeding as planned.
+        audio_url: https://r2.kimchi-reader.app/grammar/모든_것이_예정대로_진행되고_있습니다__2024-04-13.mp3
+      - sentence: 화면의 모습<f>대로</f>, 그 배우는 멋있어요.
+        type: simple
+        translated: Just as the appearance on screen, that actor is stylish.
+        audio_url: https://r2.kimchi-reader.app/grammar/화면의_모습대로,_그_배우는_멋있어요__2024-04-13.mp3
+metadata:
+  type: noun
+details: |-
+  # Usage with verbs {#usage-with-verbs}
+
+  When used with verbs, it appears as V+은/는 대로.
+
+  Sometimes can be translated to "as soon as"
+
+  ::example[메시지를 받<f>는 대로</f>, 답장해 주세요. | Please reply as soon as you receive the message. | https://r2.kimchi-reader.app/grammar/메시지를_받는_대로,_답장해_주세요__2024-04-13.mp3]
+  ::example[밥을 먹<f>은 대로</f> 설거지를 해 주세요. | Please do the dishes as soon as you've finished eating. | https://r2.kimchi-reader.app/grammar/밥을_먹은_대로_설거지를_해_주세요__2024-04-13.mp3]

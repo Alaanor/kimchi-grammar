@@ -1,0 +1,23 @@
+name: (ㄴ/는)다면
+definitions:
+  - slug: hypothetical-situation
+    name: Hypothetical situation
+    english_alternatives:
+    meaning: Used to express a hypothetical situation contrary to what actually happened in the past
+      or now or situation that have yet to occurs.
+    examples:
+      - sentence: 10년 전 <f>돌아간다면</f> 더 열심히 공부하고 싶어.
+        type: simple
+        translated: If I could go back 10 years, I would want to study harder.
+        audio_url: https://r2.kimchi-reader.app/grammar/10년_전_돌아간다면_더_열심히_공부하고_싶어__2024-04-13.mp3
+      - sentence: 날씨가 <f>좋았다면</f> 한라산에 갈 수 있었을 텐데.
+        type: simple
+        translated: If the weather had been good, I could have gone to 한라산.
+        audio_url: https://r2.kimchi-reader.app/grammar/날씨가_좋았다면_한라산에_갈_수_있었을_텐데__2024-04-13.mp3
+      - sentence: 지난 학기에 열심히 공부하지 <f>않았다면</f> 장학금을 받을 수 없었겠지?
+        type: simple
+        translated: If you hadn't studied hard last semester, you wouldn't have been able to get a scholarship, right?
+        audio_url: https://r2.kimchi-reader.app/grammar/지난_학기에_열심히_공부하지_않았다면_장학금을_받을_수_없었겠지__2024-04-13.mp3
+metadata:
+  type: verb
+details: |-

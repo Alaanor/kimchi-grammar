@@ -1,0 +1,34 @@
+name: 아/어 두다
+definitions:
+  - slug: maintain
+    name: Maintain
+    english_alternatives: to keep it as it is
+    meaning: Indicates the continuation of a state after an action is being done or just maintaining a certain state.
+    examples:
+      - sentence: 서랍 안에 중요한 것이 많아서 항상 <f>잠가 둡니다</f>.
+        type: simple
+        translated: There are many important things in the drawer, so I always lock it.
+        audio_url: https://r2.kimchi-reader.app/grammar/서랍_안에_중요한_것이_많아서_항상_잠가_둡니다__2024-03-21.mp3
+      - sentence: 코트는 이 옷걸이에 <f>걸어 두세요</f>.
+        type: simple
+        translated: Hang the coat on this hanger.
+        audio_url: https://r2.kimchi-reader.app/grammar/코트는_이_옷걸이에_걸어_두세요__2024-03-21.mp3
+      - sentence: 라면을 많이 <f>사 뒀어요</f>.
+        type: simple
+        translated: I bought a lot of ramen.
+        audio_url: https://r2.kimchi-reader.app/grammar/라면을_많이_사_뒀어요__2024-03-21.mp3
+  - slug: prepare
+    name: Prepare
+    english_alternatives: do something in advance
+    meaning: Doing an action in advance to prepare for a future event.
+    examples:
+      - sentence: 발표할 때 실수하지 않으려면 연습을 많이 <f>해 두세요</f>.
+        type: simple
+        translated: If you don't want to make a mistake during the presentation, practice a lot in advance.
+        audio_url: https://r2.kimchi-reader.app/grammar/발표할_때_실수하지_않으려면_연습을_많이_해_두세요__2024-03-21.mp3
+metadata:
+  type: verb
+details: |-
+  # Spacing {#spacing}
+  
+  Both versions <f>[아/어]두다</f> and <f>아/어 두다</f> (with space) exist and can be used interchangeably.

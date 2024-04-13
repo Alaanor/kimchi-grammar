@@ -1,0 +1,23 @@
+name: 더니
+definitions:
+  - slug: change-compared-to-the-past
+    name: Change compared to the past
+    english_alternatives:
+    meaning: Used when the speaker wants to refer to a change compared to the past that they directly seen or experienced
+    examples:
+      - sentence: 아침에 날씨가 흐리<f>더니</f> 오후에는 눈이 왔어요.
+        type: simple
+        translated: The weather was cloudy in the morning, but it snowed in the afternoon.
+        audio_url: https://r2.kimchi-reader.app/grammar/아침에_날씨가_흐리더니_오후에는_눈이_왔어요__2024-04-13.mp3
+      - sentence: 요즘 부동산에 집 보러 다니<f>더니</f> 좋은 집을 찾았어요?
+        type: simple
+        translated: You've been looking at houses lately. Did you find a good one?
+        audio_url: https://r2.kimchi-reader.app/grammar/요즘_부동산에_집_보러_다니더니_좋은_집을_찾았어요__2024-04-13.mp3
+metadata:
+  type: verb
+details: |-
+  Possible alternative form <f>-더니만<f>.
+  
+  ::example[네가 예전엔 이런 음식을 안 먹<f>더니만</f> 이제는 잘 먹는구나. | You didn't eat this kind of food before, but now you eat it well. | https://r2.kimchi-reader.app/grammar/네가_예전엔_이런_음식을_안_먹더니만_이제는_잘_먹는구나__2024-04-13.mp3]
+  
+  Can be used with nouns if they are followed by :grammar[noun_이다].

@@ -1,0 +1,16 @@
+name: (이)라도
+definitions:
+  - slug: sufficient-choice
+    name: Sufficient choice
+    english_alternatives: at least
+    meaning: It expresses the speaker's choice of something will suffice even though it may not be the best choice.
+    examples:
+      - sentence: 과자<f>라도</f> 먹을래요?
+        type: simple
+        translated: Do you want some snack <f>at least</f>?
+      - sentence: 배가 고파서 라면<f>이라도</f> 먹어야 될 거예요.
+        type: simple
+        translated: I'm so hungry, I should <f>at least</f> eat ramen.
+metadata:
+  type: noun
+details: |-

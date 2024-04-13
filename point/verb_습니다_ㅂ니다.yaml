@@ -1,0 +1,22 @@
+name: (스)ㅂ니다
+definitions:
+  - slug: present-tense
+    name: Present tense
+    english_alternatives:
+    meaning: Used to explain the present action, state, or fact politely.
+    examples:
+      - sentence: 할아버지가 <f>칭찬하셨습니다</f>.
+        type: simple
+        translated: Grandfather praised me.
+        audio_url: https://r2.kimchi-reader.app/grammar/할아버지가_칭찬하셨습니다__2024-04-13.mp3
+      - sentence: 전 사람을 해친 적이 <f>없습니다</f>.
+        type: simple
+        translated: I have never harmed anyone.
+        audio_url: https://r2.kimchi-reader.app/grammar/전_사람을_해친_적이_없습니다__2024-04-13.mp3
+      - sentence: 저를 살려 주신 은혜를 꼭 갚고 <f>싶습니다</f>.
+        type: simple
+        translated: I want to repay the favor of saving me.
+        audio_url: https://r2.kimchi-reader.app/grammar/저를_살려_주신_은혜를_꼭_갚고_싶습니다__2024-04-13.mp3
+metadata:
+  type: verb
+details: |-

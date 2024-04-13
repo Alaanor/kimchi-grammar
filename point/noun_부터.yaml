@@ -1,0 +1,22 @@
+name: 부터
+definitions:
+  - slug: starting-point
+    name: Action's starting point
+    english_alternatives: from, since
+    meaning: Indicate the starting point of an action, time or place.
+    examples:
+      - sentence: 지금<f>부터</f> 시작합니다.
+        type: simple
+        translated: I will start now.
+        audio_url: https://r2.kimchi-reader.app/grammar/지금부터_시작합니다__2024-03-15.mp3
+      - sentence: 23일<f>부터</f> 축제가 열려요.
+        type: simple
+        translated: The festival will be held from the 23rd.
+        audio_url: https://r2.kimchi-reader.app/grammar/23일부터_축제가_열려요__2024-04-13.mp3
+      - sentence: 오전 5시<f>부터</f> 지하철이 다녀요.
+        type: simple
+        translated: The subway runs from 5 a.m.
+        audio_url: https://r2.kimchi-reader.app/grammar/오전_5시부터_지하철이_다녀요__2024-04-13.mp3
+metadata:
+  type: noun
+details: |-

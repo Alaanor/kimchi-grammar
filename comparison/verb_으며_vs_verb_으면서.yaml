@@ -1,0 +1,8 @@
+points:
+  - grammar_id: verb_면서_으면서
+    definition_slug: simultaneous
+  - grammar_id: verb_며_으며
+    definition_slug: occurring-simultaneously
+details: |-
+  :grammar[verb_며_으며]{occurring-simultaneously} can be replaced by :grammar[verb_면서_으면서]{simultaneous} with no change in meaning.
+  It can be seen as a shorthand form but it is not.

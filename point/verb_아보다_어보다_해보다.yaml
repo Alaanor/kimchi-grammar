@@ -1,0 +1,22 @@
+name: 아/어 보다
+definitions:
+  - slug: try
+    name: Trying out
+    english_alternatives: to try to do something
+    meaning: Expresses the meaning of trying something out or experiencing an action.
+    examples:
+      - sentence: 김치를 <f>먹어보세요</f>.
+        type: simple
+        translated: Try eating kimchi.
+        audio_url: https://r2.kimchi-reader.app/grammar/김치를_먹어보세요__2024-03-20.mp3
+      - sentence: 제가 한번 <f>읽어볼까요</f>?
+        type: simple
+        translated: Shall I try reading it once?
+        audio_url: https://r2.kimchi-reader.app/grammar/제가_한번_읽어볼까요__2024-03-20.mp3
+metadata:
+  type: verb
+details: |-
+  # Spacing {#spacing}
+  
+  Both versions <f>[아/어]보다</f> and <f>아/어 보다</f> (with space) exist and can be used interchangeably.
+  :source[https://korean.stackexchange.com/questions/37/spacing-rules-is-it-가-보다-or-가보다]

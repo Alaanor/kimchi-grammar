@@ -1,0 +1,14 @@
+name: (으)ㄹ지(도)
+definitions:
+  - slug: vague-doubt
+    name: Vague doubt
+    english_alternatives:
+    meaning: Used to indicate the speaker's vague doubt.
+    examples:
+      - sentence: 내일 있을 중요한 시험을 잘 볼 수 <f>있을지</f> 걱정이 되어 잠을 설쳤다.
+        type: simple
+        translated: I was worried about the important exam tomorrow and couldn't sleep.
+        audio_url: https://r2.kimchi-reader.app/grammar/내일_있을_중요한_시험을_잘_볼_수_있을지_걱정이_되어_잠을_설쳤다__2024-04-13.mp3
+metadata:
+  type: verb
+details: |-

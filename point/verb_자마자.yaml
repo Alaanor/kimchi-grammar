@@ -1,0 +1,19 @@
+name: 자마자
+definitions:
+  - slug: as-soon-as
+    name: Immediately after
+    english_alternatives: as soon as
+    meaning: Indicates that something happens immediately at the end of an action.
+    examples:
+      - sentence: 비가 그치<f>자마자</f> 날씨가 추워졌다.
+        type: simple
+        translated: The weather got cold as soon as the rain stopped.
+        audio_url: https://r2.kimchi-reader.app/grammar/비가_그치자마자_날씨가_추워졌다__2024-04-13.mp3
+      - sentence: 벨이 울리<f>자마자</f> 아이들은 방을 뛰쳐나갔다.
+        type: simple
+        translated: The children ran out of the room as soon as the bell rang.
+        audio_url: https://r2.kimchi-reader.app/grammar/벨이_울리자마자_아이들은_방을_뛰쳐나갔다__2024-04-13.mp3
+metadata:
+  type: verb
+details: |-
+  Note: The tense we want to express in the sentence is done by conjugating the final verb of the sentence.

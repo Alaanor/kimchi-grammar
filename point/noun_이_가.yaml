@@ -1,0 +1,48 @@
+name: 이/가
+definitions:
+  - slug: subject
+    name: Subject Marker
+    meaning: Mark the subject of the sentence.
+    examples:
+      - sentence: 눈<f>이</f> 펑펑 내려요.
+        type: simple
+        translated: The snow is falling heavily.
+        audio_url: https://r2.kimchi-reader.app/grammar/눈이_펑펑_내려요._2024-03-14.mp3
+      - sentence: 머리<f>가</f> 길다면 머리를 묶어야 해요.
+        type: simple
+        translated: If your hair is long, you should tie it up.
+        audio_url: https://r2.kimchi-reader.app/grammar/머리가_길다면_머리를_묶어야_해요._2024-03-14.mp3
+metadata:
+  type: noun
+details: |-
+  # Usage {#usage}
+  
+  - The particle <f>이</f> is used in front of words ending in a consonant.
+  - The particle <f>가</f> is used in front of words ending in a vowel.
+  
+  # Emphasis {#emphasis}
+  
+  The particle :grammar[noun_이_가] can also be used to emphasize the preceding subject.
+  
+  ::example[제<f>가</f> 할게요. | I will do it. | https://r2.kimchi-reader.app/grammar/제가_할게요__2024-04-13.mp3]
+  
+  # New topic {#new-topic}
+  
+  :grammar[noun_이_가] is used to introduce a new theme, change it or add new information.
+  
+  ::example[옛날 어느 마을에 착한 농부<f>가</f> 살았다. 농부는 아직 결혼하지 않고 혼자 살았다. | Once upon a time, in a village, there lived a kind farmer. The farmer was still unmarried and lived alone. | https://r2.kimchi-reader.app/grammar/옛날_어느_마을에_착한_농부가_살았다._농부는_아직_결혼하지_않고_혼자_살았다._2024-03-14.mp3]
+  
+  # Phonetic transformation {#phonetic}
+  
+  When the particle <f>가</f> is combined with <f>나</f>, <f>너</f>,
+  <f>저</f>, <f>누구</f> or <f>무엇</f> a phonetic transformation takes place.
+  
+  - <f>나</f> + <f>가</f> becomes <f>내가</f>
+  - <f>너</f> + <f>가</f> becomes <f>네가</f>
+  - <f>저</f> + <f>가</f> becomes <f>제가</f>
+  - <f>누구</f> + <f>가</f> becomes <f>누가</f>
+  - <f>무엇</f> + <f>가</f> becomes <f>뭐가</f>
+  
+  # Honorific language {#honorific}
+  
+  In honorific language, :grammar[noun_이_가]{subject} is replaced by :grammar[noun_께서]{subject}.

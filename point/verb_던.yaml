@@ -1,0 +1,24 @@
+name: 던
+definitions:
+  - slug: past-experience
+    name: Past experience
+    english_alternatives:
+    meaning: Used to share or ask about a past experience.
+    examples:
+      - sentence: 어렸을 때 성격이 너무 소심했<f>던</f> 탓에 친구를 사귀지 못했어요.
+        type: simple
+        translated: I couldn't make friends because I was too timid when I was young.
+        audio_url: https://r2.kimchi-reader.app/grammar/어렸을_때_성격이_너무_소심했던_탓에_친구를_사귀지_못했어요__2024-04-13.mp3
+  - slug: past-action
+    name: Past action
+    english_alternatives:
+    meaning: Implies that an event or action might have not been completed in the past and has been stopped since.
+    examples:
+      - sentence: "'김'이라는 성은 신라에 살고 있<f>던</f> 귀족들의 성씨였어요."
+        type: simple
+        translated: The surname '김' was the surname of the nobles who lived in Silla.
+        audio_url: https://r2.kimchi-reader.app/grammar/'김'이라는_성은_신라에_살고_있던_귀족들의_성씨였어요__2024-04-13.mp3
+metadata:
+  type: verb
+details: |-
+

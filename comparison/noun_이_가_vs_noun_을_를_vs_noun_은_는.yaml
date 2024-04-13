@@ -1,0 +1,16 @@
+points:
+  - grammar_id: noun_이_가
+    definition_slug: subject
+    details: |-
+      Mark the subject, who or what is doing the action.
+  - grammar_id: noun_은_는
+    definition_slug: topic
+    details:  |-
+      Mark the topic, what the sentence is about. The topic of the conversation.
+  - grammar_id: noun_을_를
+    definition_slug: object
+    details: |-
+      Mark the object, who or what is being acted upon.
+details: |-
+  Note that these particles can sometimes be dropped in practice and we assume the audience
+  is smart enough to understand the context.

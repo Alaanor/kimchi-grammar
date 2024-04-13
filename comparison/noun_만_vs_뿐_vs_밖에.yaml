@@ -1,0 +1,14 @@
+points:
+  - grammar_id: noun_만
+    definition_slug: limitation
+    details: |-
+      Is a limitation and is a neutral term and does not imply a negative or positive connotation.
+  - grammar_id: noun_뿐
+    definition_slug: nothing-more
+    details: |-
+      Only one, no other choice. Emphasis exclusiveness.
+  - grammar_id: noun_밖에
+    definition_slug: exclusion
+    details: |-
+      Might express a lack or insufficiency of something, paired with negative verbs.
+details: |-

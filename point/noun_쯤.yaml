@@ -1,0 +1,20 @@
+name: 쯤
+definitions:
+  - slug: approximation
+    name: Approximation
+    english_alternatives: about, around, approximately
+    meaning: Used after nouns indicating numbers, quantities, and
+      time to express approximation.
+    examples:
+      - sentence: 공항에 한 시<f>쯤</f> 도착했어요.
+        type: simple
+        translated: I arrived at the airport around one o'clock.
+        audio_url: https://r2.kimchi-reader.app/grammar/공항에_한_시쯤_도착했어요._2024-03-13.mp3
+      - sentence: 저는 일 년에 두 번<f>쯤</f> 여행을 가요.
+        type: simple
+        translated: I travel about twice a year.
+        audio_url: https://r2.kimchi-reader.app/grammar/저는_일_년에_두_번쯤_여행을_가요._2024-03-13.mp3
+metadata:
+  type: noun
+details: |-
+  Note: There is also :dict[정도] (noun) that can be used as it is similar to :grammar[noun_쯤]{approximation}.

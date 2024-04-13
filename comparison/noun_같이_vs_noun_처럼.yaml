@@ -1,0 +1,10 @@
+points:
+  - grammar_id: noun_같이
+    definition_slug: similarity
+  - grammar_id: noun_처럼
+    definition_slug: similarity
+details: |-
+  Only :grammar[noun_같이]{similarity} can be used after time-related nouns.
+
+  - :correct[새벽<span c-orange>같이</span> 떠나다]
+  - :wrong[새벽<span c-orange>처럼</span> 떠나다]

@@ -1,0 +1,22 @@
+name: (으)면서
+definitions:
+  - slug: simultaneous
+    name: Simultaneous actions
+    english_alternatives: while
+    meaning: Indicates that two or more actions are happening at the same time.
+    examples:
+      - sentence: 밥을 먹<f>으면서</f> 이야기를 했어요.
+        type: simple
+        translated: We talked while eating.
+        audio_url: https://r2.kimchi-reader.app/grammar/밥을_먹으면서_이야기를_했어요__2024-03-24.mp3
+      - sentence: 춤을 추<f>면서</f> 노래를 불렀어요.
+        type: simple
+        translated: I sang while dancing.
+        audio_url: https://r2.kimchi-reader.app/grammar/춤을_추면서_노래를_불렀어요__2024-03-24.mp3
+      - sentence: 친구를 기다리<f>면서</f> 뉴스를 읽고 있어요.
+        type: simple
+        translated: I am reading the news while waiting for my friend.
+        audio_url: https://r2.kimchi-reader.app/grammar/친구를_기다리면서_뉴스를_읽고_있어요__2024-03-24.mp3
+metadata:
+  type: verb
+details: |-

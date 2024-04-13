@@ -1,0 +1,19 @@
+name: (으)ㄴ/는지
+definitions:
+  - slug: vague-reasoning
+    name: Vague reasoning
+    english_alternatives:
+    meaning: Indicate an ambiguous, uncertain reason or judgment about the following statement.
+      Can also indicate a vague doubt.
+    examples:
+      - sentence: 시험 문제가 <f>어려웠는지</f> 점수가 좋은 학생이 적어요.
+        type: simple
+        translated: Fewer students scored well because the test questions were difficult.
+        audio_url: https://r2.kimchi-reader.app/grammar/시험_문제가_어려웠는지_점수가_좋은_학생이_적어요__2024-04-13.mp3
+      - sentence: 제 친구는 여행을 <f>좋아하는지</f> 방학 때마다 여행을 가요.
+        type: simple
+        translated: My friend goes on a trip every vacation, so I think she likes traveling.
+        audio_url: https://r2.kimchi-reader.app/grammar/제_친구는_여행을_좋아하는지_방학_때마다_여행을_가요__2024-04-13.mp3
+metadata:
+  type: verb
+details: |-

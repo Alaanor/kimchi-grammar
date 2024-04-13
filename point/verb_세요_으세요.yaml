@@ -1,0 +1,22 @@
+name: (으)세요
+definitions: 
+  - slug: politely-asking
+    name: Politely asking
+    english_alternatives: please do
+    meaning: A polite imperative form used to give instructions or make requests.
+    examples:
+      - sentence: 여기 <f>앉으세요</f>.
+        type: simple
+        translated: Please sit here.
+        audio_url: https://r2.kimchi-reader.app/grammar/여기_앉으세요__2024-04-13.mp3
+      - sentence: 이 길로 쭉 <f>가세요</f>.
+        type: simple
+        translated: Please go straight on this road.
+        audio_url: https://r2.kimchi-reader.app/grammar/이_길로_쭉_가세요__2024-04-13.mp3
+      - sentence: <f>조심하세요</f>.
+        type: simple
+        translated: Please be careful.
+        audio_url: https://r2.kimchi-reader.app/grammar/조심하세요__2024-04-13.mp3
+metadata:
+  type: verb
+details: |-

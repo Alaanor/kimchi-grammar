@@ -1,0 +1,18 @@
+name: 뿐
+definitions:
+  - slug: nothing-more
+    name: Nothing more
+    english_alternatives: there is nothing else, it is the only one.
+    meaning: Used when there is nothing more than the content of the preceding statement or when it is the only one.
+    examples:
+      - sentence: 하루 종일 먹은 게 김밥 한 줄<f>뿐</f>이라서 너무 배가 고파요.
+        type: simple
+        translated: I'm so hungry because I only ate a piece of kimbap all day.
+        audio_url: https://r2.kimchi-reader.app/grammar/하루_종일_먹은_게_김밥_한_줄뿐이라서_너무_배가_고파요__2024-04-13.mp3
+      - sentence: 내가 가진 것은 천 원<f>뿐</f>이에요.
+        type: simple
+        translated: I only have a thousand won.
+        audio_url: https://r2.kimchi-reader.app/grammar/내가_가진_것은_천_원뿐이에요__2024-04-13.mp3
+metadata:
+  type: noun
+details: |-

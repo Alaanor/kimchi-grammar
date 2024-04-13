@@ -1,0 +1,43 @@
+name: 한테
+definitions:
+  - slug: target
+    name: Target
+    english_alternatives:
+    meaning: Define a person or a living creature as the recipient or target of an action.
+    examples:
+      - sentence: 친구<f>한테</f> 선물을 보냈어요.
+        type: simple
+        translated: I sent a gift to my friend.
+        audio_url: https://r2.kimchi-reader.app/grammar/친구한테_선물을_보냈어요._2024-03-15.mp3
+      - sentence: 그 돈을 누구<f>한테</f> 주었어요?
+        type: simple
+        translated: To whom did you give that money?
+        audio_url: https://r2.kimchi-reader.app/grammar/그_돈을_누구한테_주었어요%3F_2024-03-15.mp3
+      - sentence: 뭐라고? 야 꼬맹이 너! 지금 나<f>한테</f> 한 소리야?
+        type: simple
+        translated: What did you say? Hey, you little brat! Are you talking to me right now?
+        audio_url: https://r2.kimchi-reader.app/grammar/뭐라고_야_꼬맹이_너_지금_나한테_한_소리야__2024-03-15.mp3
+metadata:
+  type: noun
+details: |-
+  # Usage {#usage}
+  
+  The particle :grammar[noun_한테] is used with specific verbs such as
+  :dict[전화하다],
+  :dict[묻다],
+  :dict[보내다],
+  :dict[부치다],
+  :dict[가르치다],
+  :dict[팔다],
+  :dict[말하다],
+  :dict[주다],
+  :dict[선물하다],
+  :dict[던지다],
+  :dict[쓰다],
+  :dict[가다] and
+  :dict[오다].
+  
+  The particle :grammar[noun_한테]{noprefix} can only be used if the person receiving the action has a
+  status lower than or equal to ours.
+  
+  When the target is not a good fit for :grammar[noun_한테]{noprefix} (such as plants, things and places), the :grammar[noun_에] particle can be used instead.

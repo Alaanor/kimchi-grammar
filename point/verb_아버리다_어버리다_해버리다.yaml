@@ -1,0 +1,21 @@
+name: 아/어 버리다
+definitions:
+  - slug: completed
+    name: After completed action or event
+    english_alternatives:
+    meaning: Used after an action or event is finished and completed. It can refers to facts nothing remains after that or the speaker's feeling about it.
+    examples:
+      - sentence: 그 사람이 드디어 <f>떠나 버렸어요</f>.
+        type: simple
+        translated: That person finally left. (And so I feel relieved)
+        audio_url: https://r2.kimchi-reader.app/grammar/그_사람이_드디어_떠나_버렸어요__2024-03-22.mp3
+      - sentence: 건강을 위하여 담배를 <f>끊어 버렸어요</f>.
+        type: simple
+        translated: I quit smoking for my health.
+        audio_url: https://r2.kimchi-reader.app/grammar/건강을_위하여_담배를_끊어_버렸어요__2024-03-22.mp3
+metadata:
+  type: verb
+details: |-
+  # Spacing {#spacing}
+  
+  Both versions <f>[아/어]버리다</f> and <f>아/어 버리다</f> (with space) exist and can be used interchangeably.

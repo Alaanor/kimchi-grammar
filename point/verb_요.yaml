@@ -1,0 +1,18 @@
+name: 요
+definitions:
+  - slug: politeness-ending
+    name: Politeness ending
+    english_alternatives:
+    meaning: Used to indicate respect for the other person, the subject who is shown respect.
+    examples:
+      - sentence: 꽃향기를 맡고 <f>있었어요</f>.
+        type: simple
+        translated: I was smelling the scent of flowers.
+        audio_url: https://r2.kimchi-reader.app/grammar/꽃향기를_맡고_있었어요__2024-04-13.mp3
+metadata:
+  type: verb
+details: |-
+  # Usage {#usage}
+  
+  This grammar pattern :grammar[verb_요] is extremely common.
+  It is used with a lot of other grammar patterns to make the sentence polite.

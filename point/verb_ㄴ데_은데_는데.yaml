@@ -1,0 +1,40 @@
+name: (은/ㄴ/는)데
+definitions:
+  - slug: background-information
+    name: Background information
+    english_alternatives:
+    meaning: Used by the speaker to provide some background information to the listener so they can understand the context.
+    examples:
+      - sentence: 신발이 조금 <f>작은데</f> 더 큰 사이즈 있어요?
+        type: simple
+        translated: My shoes are a little small. Do you have a bigger size?
+        audio_url: https://r2.kimchi-reader.app/grammar/신발이_조금_작은데_더_큰_사이즈_있어요__2024-04-13.mp3
+      - sentence: 음식이 너무 <f>매운데</f> 물을 좀 더 넣어 주시면 좋겠어요.
+        type: simple
+        translated: The food is too spicy. Could you add more water?
+        audio_url: https://r2.kimchi-reader.app/grammar/음식이_너무_매운데_물을_좀_더_넣어_주시면_좋겠어요__2024-04-13.mp3
+  - slug: await-response
+    name: Waiting for a response
+    english_alternatives: ...and?, ...but?
+    meaning: It can be used to express the expectation for a response from the listener.
+    examples:
+      - sentence: 오늘은 좀 <f>바쁜데</f>...
+        type: simple
+        translated: Today is a bit busy...
+        audio_url: https://r2.kimchi-reader.app/grammar/오늘은_좀_바쁜데__2024-04-13.mp3
+      - sentence: 제가 머리가 많이 <f>아픈데</f>.
+        type: simple
+        translated: My head hurts a lot.
+        audio_url: https://r2.kimchi-reader.app/grammar/제가_머리가_많이_아픈데__2024-04-13.mp3
+metadata:
+  type: verb
+details: |-
+  # Expressing disagreement {#disagreement}
+  
+  Usually expressed in an answer (think of this example as 2 person dialog):
+  
+  ::example[오늘 날씨가 안 추워요. 저는 <f>추운데요</f>. | The weather isn't cold today. But I'm cold. | https://r2.kimchi-reader.app/grammar/오늘_날씨가_안_추워요_저는_추운데요__2024-04-13.mp3]
+  
+  # Expressing a surprise {#surprise}
+  ::example[여자 친구가 정말 <f>예븐데요</f>! | Your girlfriend is really pretty! | https://r2.kimchi-reader.app/grammar/여자_친구가_정말_예븐데요__2024-04-13.mp3]
+  ::example[한국말을 아주 <f>잘하시는데요</f>. | You speak Korean very well. | https://r2.kimchi-reader.app/grammar/한국말을_아주_잘하시는데요__2024-04-13.mp3]

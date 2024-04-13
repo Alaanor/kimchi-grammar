@@ -1,0 +1,25 @@
+name: 아/어 드리다
+definitions:
+  - slug: favor-request
+    name: Doing a favor or make a request
+    english_alternatives:
+    meaning: Indicate that you are doing something for the sake of others or to ask someone to do something for you.
+    examples:
+      - sentence: 에어컨을 <f>켜 드릴까요</f>?
+        type: simple
+        translated: Do you want me to turn on the air conditioner?
+        audio_url: https://r2.kimchi-reader.app/grammar/에어컨을_켜_드릴까요__2024-03-28.mp3
+      - sentence: 고객님, 이 상품이 마음에 드시면 새 상품으로 <f>포장해 드릴게요</f>.
+        type: simple
+        translated: Sir, if you like this product, I will wrap it as a new product for you.
+        audio_url: https://r2.kimchi-reader.app/grammar/고객님,_이_상품이_마음에_드시면_새_상품으로_포장해_드릴게요__2024-03-28.mp3
+metadata:
+  type: verb
+details: |-
+  # Spacing {#spacing}
+
+  Both versions <f>[아/어]드리다</f> and <f>아/어 드리다</f> (with space) exist and can be used interchangeably.
+  
+  # Politeness {#politeness}
+  
+  :grammar[verb_아드리다_어드리다_해드리다] is the polite form of :grammar[verb_아주다_어주다_해주다].

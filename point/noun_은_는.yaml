@@ -1,0 +1,58 @@
+name: 은/는
+definitions:
+  - slug: topic
+    name: Topic marker
+    english_alternatives: About, regarding, as for
+    meaning: Mark the topic of the sentence
+    examples:
+      - sentence: 저<f>는</f> 학생입니다.
+        type: simple
+        translated: I am a student.
+        audio_url: https://r2.kimchi-reader.app/grammar/저는_학생입니다._2024-03-15.mp3
+      - sentence: 카멜레온 혀<f>는</f> 번개처럼 빨라요.
+        type: simple
+        translated: The chameleon's tongue is as fast as lightning.
+        audio_url: https://r2.kimchi-reader.app/grammar/카멜레온_혀는_번개처럼_빨라요._2024-03-15.mp3
+      - sentence: 설탕<f>은</f> 사탕처럼 단맛이에요.
+        type: simple
+        translated: Sugar is sweet like candy.
+        audio_url: https://r2.kimchi-reader.app/grammar/설탕은_사탕처럼_단맛이에요._2024-03-15.mp3
+metadata:
+  type: noun
+details: |-
+  # Usage {#usage}
+  
+  - We add -<f>는</f> after a word that ends in a vowel.
+  - We add -<f>은</f> after a word that ends with a consonant.
+  
+  # Evocation {#evoke}
+  
+  The :grammar[noun_은_는]{noprefix} particle can also be used to refer to something mentioned
+  earlier in the conversation or to evoke something already known by both sides in the
+  conversation.
+  
+  # Comparison {#compare}
+  
+  The :grammar[noun_은_는]{noprefix} particle is used to express comparison or contrast. In this case, it can attached
+  to more than just subjects.
+  
+  ::example[저<f>는</f> 솨과를 좋아해요. 배<f>는</f> 싫어해요. | I like apples. However, I dislike pears. | https://r2.kimchi-reader.app/grammar/저는_솨과를_좋아해요._배는_싫어해요._2024-03-15.mp3]
+  
+  # Emphasis {#emphasis}
+  
+  The particle :grammar[noun_은_는]{noprefix} is also used to emphasize on something.
+  
+  ::example[우리에게도 문제<f>는</f> 있다. | We also have a problem. | https://r2.kimchi-reader.app/grammar/우리에게도_문제는_있다__2024-04-13.mp3]
+  
+  # Formal language {#formal}
+  
+  When using formal language, we use the particle <f>께서는</f> (:grammar[noun_께서]{noprefix} + :grammar[noun_은_는]{noprefix}).
+  Unlike the :grammar[noun_은_는]{noprefix} particle, the <f>께서는</f> particle
+  does not change depending on whether the preceding word ends in a vowel or a consonant.
+  
+  # Spoken language {#spoken}
+  
+  When spoken, the <f>는</f> particle is sometimes replaced by <f>ㄴ</f>, this is a contraction.
+
+  ::example[글쎄, <f>전</f> 잘 모르겠어요. | Well, I am not sure. | https://r2.kimchi-reader.app/grammar/글쎄,_전_잘_모르겠어요._2024-03-15.mp3]
+  ::example[오<f>빤</f> 가끔 바보처럼 굴거든. | He sometimes acts like a fool. | https://r2.kimchi-reader.app/grammar/오빤_가끔_바보처럼_굴거든__2024-03-18.mp3]

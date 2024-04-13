@@ -1,0 +1,19 @@
+name: 안 아요
+definitions:
+  - slug: negative-expression
+    name: Negative expression
+    english_alternatives: not
+    meaning: A pattern used to express the negative form of a verb.
+    examples:
+      - sentence: 저는 생선을 <f>안 좋아해요</f>.
+        type: simple
+        translated: I don't like fish.
+        audio_url: https://r2.kimchi-reader.app/grammar/저는_생선을_안_좋아해요__2024-04-13.mp3
+      - sentence: 아까 전화했었는데 왜 <f>안 받았어</f>?
+        type: simple
+        translated: I called you earlier, why didn't you pick up?
+        audio_url: https://r2.kimchi-reader.app/grammar/아까_전화했었는데_왜_안_받았어__2024-04-13.mp3
+metadata:
+  type: composite
+details: |-
+  

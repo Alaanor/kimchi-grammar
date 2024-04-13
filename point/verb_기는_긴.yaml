@@ -1,0 +1,30 @@
+name: 기는(요)
+definitions:
+  - slug: gentle-refutation
+    name: Gentle refutation
+    english_alternatives:
+    meaning: Expression is used to politely refute or disagree with the other person's statement.
+      Used in response to a compliment to show modesty.
+      Can also be used lightly criticize or scold someone.
+    examples:
+      - sentence: 잘하<f>기는요</f>. 저보다 잘하는 사람이 많아요.
+        type: simple
+        translated: I'm not that good. There are many people who are better than me.
+        audio_url: https://r2.kimchi-reader.app/grammar/잘하기는요_저보다_잘하는_사람이_많아요__2024-04-13.mp3
+  - slug: contrast
+    name: Contrast
+    english_alternatives:
+    meaning: Used to contrast the current situation with a different situation.
+      The speaker acknowledge the first clause but want to express a difference stance or view.
+      Only the 기는 form is valid in this case.
+    examples:
+      - sentence: 우리 아이가 시끄럽게 하<f>기는</f> 해도 말썽을 부리지는 않아. 그러니까 걱정하지 마.
+        type: simple
+        translated: Even though my child can be noisy, they don't cause trouble. So don't worry.
+        audio_url: https://r2.kimchi-reader.app/grammar/우리_아이가_시끄럽게_하기는_해도_말썽을_부리지는_않아_그러니까_걱정하지_마__2024-04-13.mp3
+metadata:
+  type: verb
+details: |-
+  # Shortened form {#shortened}
+  Instead of the full version :grammar[verb_기는_긴]{gentle-refutation} can be shortened to <f>긴(요)</f>.
+  

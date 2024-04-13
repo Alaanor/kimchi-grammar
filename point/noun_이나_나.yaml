@@ -1,0 +1,43 @@
+name: (이)나
+definitions:
+  - slug: choice
+    name: Listing choice
+    english_alternatives: or
+    meaning: Can be used to list two or more choices and one of them will be chosen.
+      V+거나 is the same but with verbs.
+    examples:
+      - sentence: 한가할 때는 책<f>이나</f> 영화를 봅니다.
+        type: simple
+        translated: When I have free time, I either read books or watch movies.
+        audio_url: https://r2.kimchi-reader.app/grammar/한가할_때는_책이나_영화를_봅니다._2024-03-15.mp3
+      - sentence: 학교 갈 때는 버스<f>나</f> 전철을 타고 갑니다.
+        type: simple
+        translated: When going to school, I take the bus or subway.
+        audio_url: https://r2.kimchi-reader.app/grammar/학교_갈_때는_버스나_전철을_타고_갑니다._2024-03-15.mp3
+  - slug: no-less-than
+    name: Much more than expected
+    english_alternatives: no less than
+    meaning: It expresses that the amount of something is much more than expected or
+      higher than the standard.
+    examples:
+      - sentence: 저는 남동생 다섯 명<f>이나</f> 있어요.
+        type: simple
+        translated: I have as many as five younger brothers.
+        audio_url: https://r2.kimchi-reader.app/grammar/저는_남동생_다섯_명이나_있어요._2024-03-15.mp3
+  - slug: at-least
+    name: Not the best choice
+    english_alternatives: at least
+    meaning: It expresses that the choice is not really one's first choice but it is
+      fine as the second best option.
+    examples:
+      - sentence: 오늘 오후에 시간 있으면 카페에<f>나</f> 갑시다.
+        type: simple
+        translated: If you have time this afternoon, let's, at least, go to a cafe.
+        audio_url: https://r2.kimchi-reader.app/grammar/오늘_오후에_시간_있으면_카페에나_갑시다._2024-03-15.mp3
+metadata:
+  type: noun
+details: |-
+  # Usage {#usage}
+  
+  - <f>이나</f> is added before a counter ending in a consonant
+  - <f>나</f> is added before a counter that ends in a vowel

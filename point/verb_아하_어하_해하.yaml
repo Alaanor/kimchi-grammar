@@ -1,0 +1,26 @@
+name: 아/어하다
+definitions: 
+  - slug: perceived-action
+    name: Perceived action
+    english_alternatives: appears to be, seems
+    meaning: Added to descriptive verbs to change turn them into action verbs and convey an emotion or sensation.
+    examples:
+      - sentence: 동생은 한국어 공부를 <f>재미있어해요</f>.
+        type: simple
+        translated: My younger sibling seems to enjoy studying Korean.
+        audio_url: https://r2.kimchi-reader.app/grammar/동생은_한국어_공부를_재미있어해요__2024-04-13.mp3
+      - sentence: 눈치가 없는 사람을 <f>싫어해요</f>.
+        type: simple
+        translated: I dislike people who are insensitive.
+        audio_url: https://r2.kimchi-reader.app/grammar/눈치가_없는_사람을_싫어해요__2024-04-13.mp3
+metadata:
+  type: verb
+details: |-
+  # Usage {#usage}
+  
+  | Base form | Meaning | Extended form | Meaning |
+  |---|---|---|---|
+  |:dict[좋다]|to be good|:dict[좋아하다]|to like|
+  |:dict[맵다]|to be spicy|:dict[매워하다]|to find spicy|
+  |:dict[무섭다]|to be scary|:dict[무서워하다]|to fear|
+  |:dict[예쁘다]|to be pretty|:dict[예뻐하다]|to treat with love/affection|

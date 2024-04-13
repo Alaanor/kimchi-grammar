@@ -1,0 +1,23 @@
+name: 느라(고)
+definitions:
+  - slug: indicating-the-cause
+    name: Indicating the cause
+    english_alternatives: due to
+    meaning: Used when the action of the preceding statement is the purpose or cause of the following statement.
+      Mostly used in negative scenario.
+    examples:
+      - sentence: 샤워를 하<f>느라고</f> 전화를 못 받았어요.
+        type: simple
+        translated: I couldn't answer the phone because I was taking a shower.
+        audio_url: https://r2.kimchi-reader.app/grammar/샤워를_하느라고_전화를_못_받았어요__2024-04-13.mp3
+      - sentence: 옷을 사<f>느라고</f> 돈을 다 썼어요.
+        type: simple
+        translated: I spent all my money buying clothes.
+        audio_url: https://r2.kimchi-reader.app/grammar/옷을_사느라고_돈을_다_썼어요__2024-04-13.mp3
+      - sentence: 아침에 등교하<f>느라</f> 일어나기가 힘들어.
+        type: simple
+        translated: It's hard to wake up in the morning to go to school.
+        audio_url: https://r2.kimchi-reader.app/grammar/아침에_등교하느라_일어나기가_힘들어__2024-04-13.mp3
+metadata:
+  type: verb
+details: |-

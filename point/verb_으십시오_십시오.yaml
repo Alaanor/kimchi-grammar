@@ -1,0 +1,14 @@
+name: (으)십시오
+definitions: 
+  - slug: politely-asking
+    name: Politely asking
+    english_alternatives: please do
+    meaning: An even more polite imperative form used to give instructions or make requests.
+    examples:
+      - sentence: 여기서 <f>내리십시오</f>.
+        type: simple 
+        translated: Please get off here.
+        audio_url: https://r2.kimchi-reader.app/grammar/여기서_내리십시오__2024-04-13.mp3
+metadata:
+  type: verb
+details: |-

@@ -1,0 +1,46 @@
+name: (는/ㄴ)다고
+definitions:
+  - slug: quote-declarative-sentence
+    name: Quote declarative sentence
+    english_alternatives:
+    meaning: Used to pass along what the speaker heard from another person, or to present
+      the subject's thoughts, opinions, etc.
+    examples:
+      - sentence: 내일 한국에 <f>간다고</f> 들었는데요.
+        type: simple
+        translated: I heard that you're going to Korea tomorrow.
+        audio_url: https://r2.kimchi-reader.app/grammar/내일_한국에_간다고_들었는데요__2024-04-13.mp3
+      - sentence: 비가 <f>온다고요</f>? 스키 타러 가려고 했는데 못 가겠네요.
+        type: simple
+        translated: Is it going to rain? I was going to go skiing but I can't go now.
+        audio_url: https://r2.kimchi-reader.app/grammar/비가_온다고요_스키_타러_가려고_했는데_못_가겠네요__2024-04-13.mp3
+      - sentence: 회의가 조금 있으면 <f>끝난다고</f> 하니까 끝나자마자 빨리 갈게요.
+        type: simple
+        translated: They said the meeting will end soon, so I'll leave as soon as it's over.
+        audio_url: https://r2.kimchi-reader.app/grammar/회의가_조금_있으면_끝난다고_하니까_끝나자마자_빨리_갈게요__2024-04-13.mp3
+metadata:
+  type: verb
+details: |-
+  # Usage {#usage}
+  
+  For direct quote:
+  - "quoted statement" + <f>다고</f>
+  
+  For indirect quote:
+  
+  |Sentence type|Word type|Form|
+  |---|---|---|
+  |Declarative (Present)|Action verb|<f>(느)ㄴ다고</f>|
+  |Declarative (Present)|Descriptive verb|<f>다고</f>|
+  |Declarative (Past)|Verb|<f>(았/었/했)다고</f>|
+  
+  # Shorthand {#shorthand}
+  
+  For indirect quote:
+  
+  |Sentence type|Word type|Full form|Shortened form|
+  |---|---|---|---|
+  | Declarative (Present) | Action verb | <f>(느)ㄴ다고 해요</f> | <f>(느)ㄴ대요</f> |
+  | Declarative (Present) | Descriptive verb | <f>다고 해요</f> | <f>대요</f> |
+  | Declarative (Past) | Verb | <f>(았/었/였)다고 해요</f> | <f>(았/었/였)대요</f> |
+  

@@ -1,0 +1,22 @@
+name: 지 말다
+definitions:
+  - slug: prohibition
+    name: Prohibition
+    english_alternatives: don't do
+    meaning: Used to requesting, persuading or ordering the listener not to do something.
+    examples:
+      - sentence: 기대도 <f>하지 마</f>.
+        type: simple
+        translated: Don't expect anything.
+        audio_url: https://r2.kimchi-reader.app/grammar/기대도_하지_마__2024-04-13.mp3
+      - sentence: 복도에서 <f>뛰지 마세요</f>.
+        type: simple
+        translated: Don't run in the hallway.
+        audio_url: https://r2.kimchi-reader.app/grammar/복도에서_뛰지_마세요__2024-04-13.mp3
+      - sentence: 선생님이 내일 시험을 보니까 시험 시간에 <f>늦지 말라고</f> 했어요.
+        type: simple
+        translated: The teacher told me not to be late for the exam tomorrow.
+        audio_url: https://r2.kimchi-reader.app/grammar/선생님이_내일_시험을_보니까_시험_시간에_늦지_말라고_했어요__2024-04-13.mp3
+metadata:
+  type: composite
+details: |-

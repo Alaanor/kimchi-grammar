@@ -1,0 +1,64 @@
+name: Irregular Verbs
+definitions: []
+metadata:
+  type: other
+details: |-
+  # Irregular 르 {#irregular-leu}
+  
+  :::alert {rule}
+  For most verbs that end with <f>르</f>, <f>르</f> is replaced by <f>ㄹㄹ</f>.
+  :::
+  
+  An example with the verb :dict[다르다] and <f>아요</f> ending:
+  1. 다르다 + 아요
+  2. 다<span c-red>르</span><span c-text-tertiary>다</span> + 아요
+  3. 다<span c-green>ㄹㄹ</span> + 아요
+  4. 달ㄹ + 아요
+  5. 달라요
+  
+  # Irregular ㄹ {#irregular-l}
+  
+  :::alert {rule}
+  - When the ending start with <f>ㄴ</f>, <f>ㅂ</f> or <f>ㅅ</f> then <f>ㄹ</f> from the verb is omitted.<br />
+  - When the ending start with <f>으</f>, <f>으</f> from the ending is omitted.
+  :::
+  
+  # Irregular ㅂ {#irregular-b}
+  
+  :::alert {rule}
+  - When the verb is <f>돕다</f> or <f>곱다</f>, <f>ㅂ</f> is replaced by <f>오</f>.<br />
+  - Otherwise, <f>ㅂ</f> is replaced by <f>우</f>.
+  :::
+  
+  # Irregular ㅎ {#irregular-h}
+  
+  :::alert {rule}
+  - On verb and when the ending start with a <f>으</f>, both <f>ㅎ</f> and <f>으</f> are omitted.<br />
+  - On verb and when the ending start with a <f>아</f> or <f>어</f>, <f>ㅎ</f> is omitted and <f>ㅣ</f> is added.<br />
+  - Otherwise, on verb and when the ending start with a <f>vowel</f>, <f>ㅎ</f> is omitted.
+  :::
+  
+  - List of verb not affected by the <f>ㅎ irregular</f> rule, these are conjugated normally: :dict[넣다],
+  :dict[낳다], :dict[좋다], :dict[많다], :dict[찧다], :dict[쌓다], :dict[싫다] and :dict[괜찮다].
+  
+  # Irregular ㅡ {#irregular-eu}
+  
+  :::alert {rule}
+  <f>ㅡ</f> is always omitted when adding an ending that start with <f>아/어</f>.
+  :::
+  
+  # Irregular ㄷ {#irregular-d}
+  
+  :::alert {rule}
+  For a few verbs that end with <f>ㄷ</f> and the ending start with a <f>vowel</f>, <f>ㄷ</f> is replaced by <f>ㄹ</f>.
+  :::
+  
+  - List of verb not affected by the <f>ㄷ irregular</f> rule, these are conjugated normally :dict[걷다], :dict[깨닫다], :dict[묻다], :dict[듣다] and :dict[싣다].
+  
+  # Irregular ㅅ {#irregular-s}
+  
+  :::alert {rule}
+  For a few verbs that end with <f>ㅅ</f> and the ending start with a <f>vowel</f>, <f>ㅅ</f> is omitted.
+  :::
+  
+  - List of verb not affected by the <f>ㅅ irregular</f> rule, these are conjugated normally :dict[잇다], :dict[낫다], :dict[붓다], :dict[긋다], :dict[젓다] and :dict[짓다].

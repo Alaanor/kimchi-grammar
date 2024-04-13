@@ -1,0 +1,10 @@
+points:
+  - grammar_id: noun_답다
+    definition_slug: has-quality-of
+    details: |-
+      Has <span c-orange>all</span> the qualities of the noun.
+  - grammar_id: noun_스럽다
+    definition_slug: has-quality-of
+    details: |-
+      Has <span c-orange>some</span> of the qualities of the noun.
+details: |-

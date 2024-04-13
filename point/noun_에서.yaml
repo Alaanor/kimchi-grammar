@@ -1,0 +1,23 @@
+name: 에서
+definitions:
+  - slug: action-place
+    name: Place of action
+    english_alternatives: ""
+    meaning: Used to indicate where an action occurs or to indicate a reference
+      frame that is considered a point of origin.
+    examples:
+      - sentence: 서울<f>에서</f> 멀어요?
+        type: simple
+        translated: Is it far from Seoul?
+        audio_url: https://r2.kimchi-reader.app/grammar/서울에서_멀어요__2024-03-17.mp3
+      - sentence: 자습실<f>에서</f> 5시간 공부했어요.
+        type: simple
+        translated: I studied for 5 hours at the self-study room.
+        audio_url: https://r2.kimchi-reader.app/grammar/자습실에서_5시간_공부했어요__2024-03-17.mp3
+      - sentence: 그중<f>에서</f> 누가 제일 좋은데?
+        type: simple
+        translated: Who do you like the most among us?
+        audio_url: https://r2.kimchi-reader.app/grammar/그중에서_누가_제일_좋은데__2024-03-17.mp3
+metadata:
+  type: noun
+details: |-

@@ -1,0 +1,31 @@
+name: 고
+definitions:
+  - slug: listing
+    name: Listing
+    english_alternatives: and
+    meaning: Used when listing two or more equals elements or facts.
+    examples:
+      - sentence: 그 모임은 아주 즐겁<f>고</f> 좋았어요.
+        type: simple
+        translated: The meeting was very pleasant and nice.
+        audio_url: https://r2.kimchi-reader.app/grammar/그_모임은_아주_즐겁고_좋았어요__2024-04-13.mp3
+      - sentence: 제 남자 친구는 키가 크<f>고</f> 조금 통통한 편이에요.
+        type: simple
+        translated: My boyfriend is tall and a bit chubby.
+        audio_url: https://r2.kimchi-reader.app/grammar/제_남자_친구는_키가_크고_조금_통통한_편이에요__2024-04-13.mp3
+  - slug: sequential
+    name: Sequential
+    english_alternatives: and then
+    meaning: Used when the preceding and following statement happens in a sequential manner.
+    examples:
+      - sentence: 친구를 만나<f>고</f> 영화를 봤어요.
+        type: simple
+        translated: I met my friend and watched a movie.
+        audio_url: https://r2.kimchi-reader.app/grammar/친구를_만나고_영화를_봤어요__2024-04-13.mp3
+      - sentence: 우리 아침도 안 먹<f>고</f> 나왔는데 국수나 먹고 갈까?
+        type: simple
+        translated: We didn't even eat breakfast and came out. Should we eat noodles?
+        audio_url: https://r2.kimchi-reader.app/grammar/우리_아침도_안_먹고_나왔는데_국수나_먹고_갈까__2024-04-13.mp3
+metadata:
+  type: verb
+details: |-

@@ -1,0 +1,18 @@
+name: 냐
+definitions:
+  - slug: informal-question
+    name: Informal question
+    english_alternatives:
+    meaning: A casual interrogative ending in Korean, often used in informal speech to ask questions.
+    examples:
+      - sentence: 상담 한 번 받아보면 어떻겠<f>냐</f>?
+        type: simple
+        translated: How about trying a consultation once?
+        audio_url: https://r2.kimchi-reader.app/grammar/상담_한_번_받아보면_어떻겠냐__2024-04-13.mp3
+      - sentence: 둘째 날인데 벌써부터 싸움질이<f>냐</f>?
+        type: simple
+        translated: It's only the second day, and you're already fighting?
+        audio_url: https://r2.kimchi-reader.app/grammar/둘째_날인데_벌써부터_싸움질이냐__2024-04-13.mp3
+metadata:
+  type: verb
+details: |-

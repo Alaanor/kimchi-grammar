@@ -1,0 +1,18 @@
+name: (ㄴ/는)다
+definitions:
+  - slug: plain-form
+    name: Plain form
+    english_alternatives:
+    meaning: A sentence final ending used to describe an event or fact of the present.
+    examples:
+      - sentence: 바람이 <f>시원하다</f>.
+        type: simple
+        translated: The wind is cool.
+        audio_url: https://r2.kimchi-reader.app/grammar/바람이_시원하다__2024-04-13.mp3
+      - sentence: 우리 가족은 아파트에서 <f>산다</f>.
+        type: simple
+        translated: My family lives in an apartment.
+        audio_url: https://r2.kimchi-reader.app/grammar/우리_가족은_아파트에서_산다__2024-04-13.mp3
+metadata:
+  type: verb
+details: |-

@@ -1,0 +1,27 @@
+name: 들
+definitions:
+  - slug: plural
+    name: Plural marker
+    english_alternatives: ""
+    meaning: Attached to nouns, pronouns, adverbs, etc. to indicate plurality.
+    examples:
+      - sentence: 옆방 애<f>들</f>이랑 싸웠어?
+        type: simple
+        translated: Did you fight with the kids next door?
+        audio_url: https://r2.kimchi-reader.app/grammar/옆방_애들이랑_싸웠어%3F_2024-02-20.mp3
+      - sentence: 과일<f>들</f>도 예쁘게 깎아서 접시에 담아요.
+        type: simple
+        translated: I cut the fruits beautifully and put them on a plate.
+        audio_url: https://r2.kimchi-reader.app/grammar/과일들도_예쁘게_깎아서_접시에_담아요__2024-03-15.mp3
+      - sentence: 미나의 친한 친구<f>들</f>을 집으로 초대했어요.
+        type: simple
+        translated: We invited Mina's close friends to our house.
+        audio_url: https://r2.kimchi-reader.app/grammar/미나의_친한_친구들을_집으로_초대했어요__2024-03-15.mp3
+metadata:
+  type: noun
+details: |-
+  # Usage note {#usage}
+  
+  In Korean, grammatical structures do not inherently distinguish between singular and plural
+  nouns. As a result, even in the absence of the plural marker :grammar[noun_들]{noprefix}, nouns
+  can be interpreted as plural depending on the context.

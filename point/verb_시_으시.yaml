@@ -1,0 +1,22 @@
+name: (으)시
+definitions:
+  - slug: honorific
+    name: Honoring the subject
+    english_alternatives:
+    meaning: Honor the subject of the sentence. Show respect to a person, their possessions or body part.
+    examples:
+      - sentence: 국에 소금을 더 넣<f>으시</f>겠어요?
+        type: simple
+        translated: Would you like to add more salt to the soup?
+        audio_url: https://r2.kimchi-reader.app/grammar/국에_소금을_더_넣으시겠어요__2024-04-13.mp3
+      - sentence: 여기 앉<f>으시</f>겠어요?
+        type: simple
+        translated: Would you like to sit here?
+        audio_url: https://r2.kimchi-reader.app/grammar/여기_앉으시겠어요__2024-04-13.mp3
+      - sentence: 저도 곧 따라갈 테니까 먼저 출발하<f>시</f>지요.
+        type: simple
+        translated: I will follow you soon, so please go ahead.
+        audio_url: https://r2.kimchi-reader.app/grammar/저도_곧_따라갈_테니까_먼저_출발하시지요__2024-04-13.mp3
+metadata:
+  type: verb
+details: |-

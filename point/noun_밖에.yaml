@@ -1,0 +1,22 @@
+name: 밖에
+definitions:
+  - slug: exclusion
+    name: Exclusion
+    english_alternatives: except for that, other than that
+    meaning: Express the only thing or option available, no other possibilities available.
+    examples:
+      - sentence: 푸른 구슬은 세상에 하나<f>밖에</f> 없습니다.
+        type: simple
+        translated: This is the only blue-green marble in the world.
+        audio_url: https://r2.kimchi-reader.app/grammar/푸른_구슬은_세상에_하나밖에_없습니다__2024-04-13.mp3
+      - sentence: 왜 빵을 두 개<f>밖에</f> 안 줘?
+        type: simple
+        translated: Why are you only giving me two pieces of bread?
+        audio_url: https://r2.kimchi-reader.app/grammar/왜_빵을_두_개밖에_안_줘__2024-04-13.mp3
+      - sentence: 그는 공부<f>밖에</f> 모른다.
+        type: simple
+        translated: He knows nothing but studying.
+        audio_url: https://r2.kimchi-reader.app/grammar/그는_공부밖에_모른다__2024-04-13.mp3
+metadata:
+  type: noun
+details: |-

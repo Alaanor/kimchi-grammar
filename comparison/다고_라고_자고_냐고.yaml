@@ -1,0 +1,20 @@
+points:
+  - grammar_id: verb_다고
+    details: |-
+      - Used for direct quotation too
+      - For declarative sentences
+      - Quoting verbs
+  - grammar_id: verb_라고
+    details: |-
+      - Used for direct quotation too
+      - For declarative and imperative sentences
+      - Quoting nouns (through 이다) in declarative sentences
+  - grammar_id: verb_자고
+    details: |-
+      - For suggestive sentences
+      - Quoting suggestions
+  - grammar_id: verb_냐고
+    details: |-
+      - For interrogative sentences
+      - Quoting questions
+details: |-

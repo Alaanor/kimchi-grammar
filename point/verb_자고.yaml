@@ -1,0 +1,39 @@
+name: 자고
+definitions:
+  - slug: quote-suggestion
+    name: Quoting a suggestion
+    english_alternatives:
+    meaning: Used to indirectly convey someone's recommendation or suggestion.
+    examples:
+      - sentence: 아빠가 밥을 <f>먹자고</f> 했어.
+        type: simple
+        translated: Dad suggested we eat.
+        audio_url: https://r2.kimchi-reader.app/grammar/아빠가_밥을_먹자고_했어__2024-04-13.mp3
+      - sentence: 이번 주말에 <f>만나자고</f> 말했다.
+        type: simple
+        translated: They suggested we meet this weekend.
+        audio_url: https://r2.kimchi-reader.app/grammar/이번_주말에_만나자고_말했다__2024-04-13.mp3
+      - sentence: 남자 친구가 주말에 극장에서 영화를 <f>보자고</f> 해요.
+        type: simple
+        translated: My boyfriend suggested we watch a movie at the theater this weekend.
+        audio_url: https://r2.kimchi-reader.app/grammar/남자_친구가_주말에_극장에서_영화를_보자고_해요__2024-04-13.mp3
+metadata:
+  type: verb
+details: |-
+  # Usage {#usage}
+  
+  For indirect quote:
+  
+  |Sentence type|Word type|Form|
+  |---|---|---|
+  |Suggestive|Action verb|<f>자고</f>|
+  
+  # Shorthand {#shorthand}
+  
+  For indirect quote:
+  
+  |Sentence type|Word type|Full form|Shortened form|
+  |---|---|---|---|
+  | Suggestive | Action verb | <f>자고 해요</f> | <f>재요</f> |
+  
+  

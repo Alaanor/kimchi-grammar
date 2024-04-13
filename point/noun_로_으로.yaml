@@ -1,0 +1,38 @@
+name: (으)로
+definitions:
+  - slug: method
+    name: Method or way
+    english_alternatives: using, with
+    meaning: Expresses the means or tools that enable us to perform an action.
+    examples:
+      - sentence: 자전거<f>로</f> 다녀요.
+        type: simple
+        translated: I go by bike.
+        audio_url: https://r2.kimchi-reader.app/grammar/자전거로_다녀요__2024-03-17.mp3
+      - sentence: 글은 연필<f>로</f> 씁니다.
+        type: simple
+        translated: I write with a pencil.
+        audio_url: https://r2.kimchi-reader.app/grammar/글은_연필로_씁니다__2024-03-17.mp3
+  - slug: direction
+    name: Direction
+    english_alternatives: to, toward
+    meaning: Used to express a direction.
+    examples:
+      - sentence: 우리 집 창밖<f>으로</f> 서울 타워가 보여요.
+        type: simple
+        translated: You can see the Seoul Tower from the window of our house.
+        audio_url: https://r2.kimchi-reader.app/grammar/우리_집_창밖으로_서울_타워가_보여요__2024-03-17.mp3
+metadata:
+  type: noun
+details: |-
+  # Usage {#usage}
+  
+  - When the word ends in a vowel or <f>ㄹ</f>, we add <f>로</f> after it.
+  - When the word ends with a consonant, add <f>으로</f> after the word.
+  
+  # :grammar[noun_로_으로]{direction} VS :grammar[noun_에]{direction}
+  
+  The :grammar[noun_로_으로]{noprefix} particle highlights direction, allowing for the use of terms that indicate
+  directions such as "left, right". This contrasts with the :grammar[noun_에]{noprefix} particle, which focuses
+  on the destination element within the sentence. Since "left, right" indicate direction rather than specific
+  destinations, they cannot be used with the :grammar[noun_에]{noprefix} particle.

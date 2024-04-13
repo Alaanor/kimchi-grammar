@@ -1,0 +1,23 @@
+name: 보다
+definitions:
+  - slug: compare
+    name: Comparison
+    english_alternatives: more than
+    meaning: Express that something is more or less than the noun in a certain quality or quantity.
+      Used to directly compare two items.
+    examples:
+      - sentence: 택시가 버스<f>보다</f> 빠릅니다.
+        type: simple
+        translated: Taxis are faster than buses.
+        audio_url: https://r2.kimchi-reader.app/grammar/택시가_버스보다_빠릅니다__2024-04-13.mp3
+      - sentence: 사람에게는 무엇<f>보다</f> 사랑이 필요합니다.
+        type: simple
+        translated: More than anything, people need love.
+        audio_url: https://r2.kimchi-reader.app/grammar/사람에게는_무엇보다_사랑이_필요합니다__2024-04-13.mp3
+metadata:
+  type: noun
+details: |-
+  # Usage {#usage}
+
+  - It is often accompanied by <f>더</f>, <f>훨씬</f>.
+  - The position of [noun] + :grammar[noun_보다]{noprefix} is free, so you can place it before the name you wish to compare.

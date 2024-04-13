@@ -1,0 +1,30 @@
+name: 아/어
+definitions:
+  - slug: present-tense
+    name: Present tense
+    english_alternatives:
+    meaning: Describe a certain fact, ask a question, give an order, or advise.
+    examples:
+      - sentence: 학교에 <f>가요</f>.
+        type: simple
+        translated: I go to school.
+        audio_url: https://r2.kimchi-reader.app/grammar/학교에_가요__2024-04-13.mp3
+      - sentence: 그 여자는 진짜 <f>예뻐요</f>.
+        type: simple
+        translated: That girl is really pretty.
+        audio_url: https://r2.kimchi-reader.app/grammar/그_여자는_진짜_예뻐요__2024-04-13.mp3
+      - sentence: 날씨가 정말 <f>좋아요</f>.
+        type: simple
+        translated: The weather is really nice.
+        audio_url: https://r2.kimchi-reader.app/grammar/날씨가_정말_좋아요__2024-04-13.mp3
+      - sentence: 그 사람은 어디에 <f>살아요</f>?
+        type: simple
+        translated: Where does that person live?
+        audio_url: https://r2.kimchi-reader.app/grammar/그_사람은_어디에_살아요__2024-04-13.mp3
+metadata:
+  type: verb
+details: |-
+  # Usage {#usage}
+  
+  :grammar[verb_아_어_여] is one of the most common verb endings in Korean. Also note that it is very
+  common that :grammar[verb_아_어_여] is used along with :grammar[verb_요] to make the sentence polite.

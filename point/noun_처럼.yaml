@@ -1,0 +1,22 @@
+name: 처럼
+definitions:
+  - slug: similarity
+    name: Similarity
+    english_alternatives: like, as
+    meaning: Expresses similarity or metaphor, can be translated as "like" in English
+    examples:
+      - sentence: 설탕은 사탕<f>처럼</f> 단맛이에요.
+        type: simple
+        translated: Sugar tastes sweet like candy.
+        audio_url: https://r2.kimchi-reader.app/grammar/설탕은_사탕처럼_단맛이에요__2024-03-18.mp3
+      - sentence: 소금은 바닷물<f>처럼</f> 짠맛이에요.
+        type: simple
+        translated: Salt tastes like sea water.
+        audio_url: https://r2.kimchi-reader.app/grammar/소금은_바닷물처럼_짠맛이에요__2024-03-18.mp3
+      - sentence: 카멜레온 혀는 번개<f>처럼</f> 빨라요.
+        type: simple
+        translated: A chameleon's tongue is as fast as lightning.
+        audio_url: https://r2.kimchi-reader.app/grammar/카멜레온_혀는_번개처럼_빨라요__2024-03-18.mp3
+metadata:
+  type: noun
+details: |-

@@ -1,0 +1,18 @@
+name: 답다
+definitions:
+  - slug: has-quality-of
+    name: Has all the quality of
+    english_alternatives: -like, -ish, -ly
+    meaning: Indicate that it has some of the qualities or characteristics of the noun and turn it into an descriptive verb.
+    examples:
+      - sentence: 정말 <f>신사답게</f> 행동하네요.
+        type: simple
+        translated: They acts like a gentleman.
+        audio_url: https://r2.kimchi-reader.app/grammar/정말_신사답게_행동하네요__2024-03-25.mp3
+      - sentence: 전쟁에서 승리한 <f>장군답다</f>.
+        type: simple
+        translated: He is like a general who won the war.
+        audio_url: https://r2.kimchi-reader.app/grammar/전쟁에서_승리한_장군답다__2024-03-25.mp3
+metadata:
+  type: noun
+details: |-

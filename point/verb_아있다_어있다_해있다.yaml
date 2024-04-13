@@ -1,0 +1,21 @@
+name: 아/어 있다
+definitions:
+  - slug: continuing-state
+    name: Continuing state
+    english_alternatives: -ing
+    meaning: Expresses a continuing state of a completed action. The action has been completed, but the state still maintains itself.
+    examples:
+      - sentence: 얼굴에 상처가 아직 <f>남아 있습니다</f>.
+        type: simple
+        translated: The wound is still there on the face.
+        audio_url: https://r2.kimchi-reader.app/grammar/얼굴에_상처가_아직_남아_있습니다__2024-03-24.mp3
+      - sentence: 버스 정류장에는 사람들이 줄을 <f>서 있어요</f>.
+        type: simple
+        translated: People are standing in line at the bus stop.
+        audio_url: https://r2.kimchi-reader.app/grammar/버스_정류장에는_사람들이_줄을_서_있어요__2024-03-24.mp3
+metadata:
+  type: verb
+details: |-
+  # Spacing {#spacing}
+  
+  Both versions <f>[아/어]있다</f> and <f>아/어 있다</f> (with space) exist and can be used interchangeably.

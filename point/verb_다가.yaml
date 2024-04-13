@@ -1,0 +1,31 @@
+name: 다가
+definitions:
+  - slug: change-of-action
+    name: Change of action
+    english_alternatives: and then
+    meaning: Expresses the speaker's interruption of one action to immediately start another action.
+    examples:
+      - sentence: 밥을 먹<f>다가</f> 전화를 받았습니다.
+        type: simple
+        translated: I was eating when I received a phone call.
+        audio_url: https://r2.kimchi-reader.app/grammar/밥을_먹다가_전화를_받았습니다__2024-04-13.mp3
+      - sentence: 누워서 영상을 보<f>다가</f> 핸드폰을 손에서 놓쳤어요.
+        type: simple
+        translated: I was lying down watching a video when I dropped my phone.
+        audio_url: https://r2.kimchi-reader.app/grammar/누워서_영상을_보다가_핸드폰을_손에서_놓쳤어요__2024-04-13.mp3
+  - slug: transition-of-action
+    name: Transition of action
+    english_alternatives: while I was doing
+    meaning: It can also be used to express that the action in the first clause continues while the action in the second clause occurs.
+    examples:
+      - sentence: 잠을 자<f>다가</f> 무서운 꿈을 꿨어요.
+        type: simple
+        translated: I was sleeping and had a scary dream.
+        audio_url: https://r2.kimchi-reader.app/grammar/잠을_자다가_무서운_꿈을_꿨어요__2024-04-13.mp3
+      - sentence: 집에 오<f>다가</f> 친구를 만났어요.
+        type: simple
+        translated: I was on my way home when I met a friend.
+        audio_url: https://r2.kimchi-reader.app/grammar/집에_오다가_친구를_만났어요__2024-04-13.mp3
+metadata:
+  type: verb
+details: |-

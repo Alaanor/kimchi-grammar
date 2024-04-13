@@ -1,0 +1,35 @@
+name: (으)ㄹ까
+definitions:
+  - slug: suggestion
+    name: Suggestion
+    english_alternatives: shall we
+    meaning: Used to make a suggestion to the listener, sometime with the intent of doing something together.
+    examples:
+      - sentence: 비가 많이 와요. 택시를 <f>탈까요</f>?
+        type: simple
+        translated: It's raining a lot. Shall we take a taxi?
+        audio_url: https://r2.kimchi-reader.app/grammar/비가_많이_와요_택시를_탈까요__2024-04-13.mp3
+      - sentence: 어디에서 사진을 <f>찍을까요</f>?
+        type: simple
+        translated: Where shall we take a picture?
+        audio_url: https://r2.kimchi-reader.app/grammar/어디에서_사진을_찍을까요__2024-04-13.mp3
+  - slug: asking-opinion
+    name: Asking opinion
+    english_alternatives: I wonder if, shall I, do you want me to
+    meaning: Ask the for listener's preference, thought or opinion.
+    examples:
+      - sentence: 제가 몇 시에 <f>전화할까요</f>?
+        type: simple
+        translated: What time shall I call you?
+        audio_url: https://r2.kimchi-reader.app/grammar/제가_몇_시에_전화할까요__2024-04-13.mp3
+      - sentence: 오늘 백화점에 사람이 <f>많을까요</f>?
+        type: simple
+        translated: Do you think there will be a lot of people at the department store today?
+        audio_url: https://r2.kimchi-reader.app/grammar/오늘_백화점에_사람이_많을까요__2024-04-13.mp3
+      - sentence: 공기가 나쁜데 창문을 <f>닫을까요</f>?
+        type: simple
+        translated: The air is bad. Shall I close the window?
+        audio_url: https://r2.kimchi-reader.app/grammar/공기가_나쁜데_창문을_닫을까요__2024-04-13.mp3
+metadata:
+  type: verb
+details: |-

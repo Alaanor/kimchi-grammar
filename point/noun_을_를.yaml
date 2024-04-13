@@ -1,0 +1,31 @@
+name: 을/를
+definitions:
+  - slug: object
+    name: Object marker
+    english_alternatives: ""
+    meaning: The object marker is used to indicate that a noun is the object in a
+      sentence.
+    examples:
+      - sentence: 그때부터 10년<f>을</f> 기다렸어요.
+        type: simple
+        translated: I have been waiting for 10 years since then.
+        audio_url: https://r2.kimchi-reader.app/grammar/그때부터_10년을_기다렸어요_2024-01-18.mp3
+      - sentence: 저도 몇 번<f>을</f> 가봤어요.
+        type: simple
+        translated: I have also gone several times.
+        audio_url: https://r2.kimchi-reader.app/grammar/저도_몇_번을_가봤어요_2024-01-18.mp3
+metadata:
+  type: noun
+details: |-
+  # Dropping the particle {#dropping-particle}
+  
+  The object marker :grammar[noun_을_를] is used to indicate that a noun is the
+  object in a sentence. In formal Korean, its use is more strict to clearly
+  define the sentence structure. However, in colloquial speech, this particle is
+  often omitted for brevity or when the context already makes the object clear.
+  
+  # Contraction {#contraction}
+  
+  Certain cases allow for contraction, such as <f>저</f> and <span
+  c-orange>를</f> merging to form <f>절</f>.
+  :source[https://namu.wiki/w/절#s-4.1]

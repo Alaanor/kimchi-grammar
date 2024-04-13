@@ -1,0 +1,14 @@
+points:
+  - grammar_id: noun_에게
+    definition_slug: target
+    details: |-
+      Is the formal form.
+  - grammar_id: noun_한테
+    definition_slug: target
+    details:  |-
+      Is the informal form.
+  - grammar_id: noun_께
+    definition_slug: target
+    details: |-
+      Is the honorific form.
+details: |-

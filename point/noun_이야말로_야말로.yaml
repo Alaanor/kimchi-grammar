@@ -1,0 +1,18 @@
+name: (이)야말로
+definitions:
+  - slug: prime-example
+    name: Prime example
+    english_alternatives: really is, truly is, the very
+    meaning: Emphasizes the preceding noun as the prime example among a number of other possibilities.
+    examples:
+      - sentence: 한글<f>이야말로</f> 세계에서 가장 우수한 문자예요.
+        type: simple
+        translated: Hangul really is the best alphabet in the world.
+        audio_url: https://r2.kimchi-reader.app/grammar/한글이야말로_세계에서_가장_우수한_문자예요__2024-04-13.mp3
+      - sentence: 운동<f>이야말로</f> 가장 중요한 것이라고 생각해요.
+        type: simple
+        translated: I think exercise is the most important thing.
+        audio_url: https://r2.kimchi-reader.app/grammar/운동이야말로_가장_중요한_것이라고_생각해요__2024-04-13.mp3
+metadata:
+  type: noun
+details: |-

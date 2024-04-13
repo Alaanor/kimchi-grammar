@@ -1,0 +1,19 @@
+name: (ㄴ/는)다는, (이)라는
+definitions:
+  - slug: quote
+    name: Quote
+    english_alternatives: I heard that
+    meaning: Used to quote other people or yourself.
+    examples:
+      - sentence: 이 분수에 동전을 던지면 <f>행복해진다는</f> 이야기가 있어요.
+        type: simple
+        translated: There is a story that you will be happy if you throw a coin into this fountain.
+        audio_url: https://r2.kimchi-reader.app/grammar/이_분수에_동전을_던지면_행복해진다는_이야기가_있어요__2024-04-13.mp3
+      - sentence: 주연 씨 <f>결혼한다는</f> 소식 들었어요?
+        type: simple
+        translated: Did you hear that 주연 is getting married?
+        audio_url: https://r2.kimchi-reader.app/grammar/주연_씨_결혼한다는_소식_들었어요__2024-04-13.mp3
+metadata:
+  type: verb
+details: |-
+  This is an abbreviation of <f>다[고 하]는</f> and <f>(이)라[고 하]는</f>, can be shortened even further with <f>란</f>.

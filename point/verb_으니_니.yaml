@@ -1,0 +1,35 @@
+name: (으/이)니
+definitions:
+  - slug: informal-question
+    name: Informal question
+    english_alternatives:
+    meaning: A casual interrogative ending in Korean, often used in informal speech to ask questions. Appear at the end of the sentence and only as 니.
+    examples:
+      - sentence: 넌 어느 게 더 비싸 보이<f>니</f>?
+        type: simple
+        translated: Which one looks more expensive to you?
+        audio_url: https://r2.kimchi-reader.app/grammar/넌_어느_게_더_비싸_보이니__2024-04-13.mp3
+      - sentence: 빵을 몇 개나 샀<f>니</f>?
+        type: simple
+        translated: How many breads did you buy?
+        audio_url: https://r2.kimchi-reader.app/grammar/빵을_몇_개나_샀니__2024-04-13.mp3
+      - sentence: 요즘 바쁘<f>니</f>?
+        type: simple
+        translated: Are you busy these days?
+        audio_url: https://r2.kimchi-reader.app/grammar/요즘_바쁘니__2024-04-13.mp3
+  - slug: reason-or-cause
+    name: Reason or cause
+    english_alternatives:
+    meaning: When the preceding statement is the cause or reason for the next statement or convey a fact.
+    examples:
+      - sentence: 시간이 없<f>으니</f> 빨리 이동합시다.
+        type: simple
+        translated: Since we don't have time, let's move quickly.
+        audio_url: https://r2.kimchi-reader.app/grammar/시간이_없으니_빨리_이동합시다__2024-04-13.mp3
+      - sentence: 오늘 수업은 끝났<f>으니</f> 돌아가셔도 좋습니다.
+        type: simple
+        translated: Since today's class is over, you can go back.
+        audio_url: https://r2.kimchi-reader.app/grammar/오늘_수업은_끝났으니_돌아가셔도_좋습니다__2024-04-13.mp3
+metadata:
+  type: verb
+details: |-

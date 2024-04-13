@@ -1,0 +1,22 @@
+name: (으)러
+definitions:
+  - slug: movement-with-intention
+    name: Movement with intention
+    english_alternatives: in order to
+    meaning: Express a movement toward a location in order to perform the action. Used with verbs of movement.
+    examples:
+      - sentence: 나 지금 도서관에 책 빌리<f>러</f> 가는데 같이 갈래?
+        type: simple
+        translated: I'm going to the library to borrow a book, do you want to come with me?
+        audio_url: https://r2.kimchi-reader.app/grammar/나_지금_도서관에_책_빌리러_가는데_같이_갈래__2024-04-13.mp3
+      - sentence: 동생은 학원에 피아노를 배<f>우러</f> 가요.
+        type: simple
+        translated: My younger sibling is going to the academy to learn piano.
+        audio_url: https://r2.kimchi-reader.app/grammar/동생은_학원에_피아노를_배우러_가요__2024-04-13.mp3
+      - sentence: 저는 극장에 공연을 보<f>러</f> 가요.
+        type: simple
+        translated: I'm going to the theater to watch a performance.
+        audio_url: https://r2.kimchi-reader.app/grammar/저는_극장에_공연을_보러_가요__2024-04-13.mp3
+metadata:
+  type: verb
+details: |-

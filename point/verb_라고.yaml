@@ -1,0 +1,56 @@
+name: (이/으)라고
+definitions:
+  - slug: quote-declarative-sentence
+    name: Quote declarative sentence
+    english_alternatives:
+    meaning: It can be used to quote what the speaker heard from another person.
+      Indirectly quoting a declarative sentence.
+      Used to ask for clarification or reconfirmation of something they just heard.
+    examples:
+      - sentence: 가족이 모두 4명<f>이라고</f> 하요.
+        type: simple
+        translated: They said their family has four members.
+        audio_url: https://r2.kimchi-reader.app/grammar/가족이_모두_4명이라고_하요__2024-04-13.mp3
+      - sentence: 선생님이 뭐<f>라고</f> 했어요?
+        type: simple
+        translated: What did the teacher say?
+        audio_url: https://r2.kimchi-reader.app/grammar/선생님이_뭐라고_했어요__2024-04-13.mp3
+  - slug: quote-imperative-sentence
+    name: Quote imperative sentence
+    english_alternatives:
+    meaning: It can also be used to quote an imperative statement.
+      Can be an instruction or command.
+    examples:
+      - sentence: 일곱 시까지 돌아오<f>라고</f> 일렀거늘 왜 늦었느냐?
+        type: simple
+        translated: I told you to come back by seven, why are you late?
+        audio_url: https://r2.kimchi-reader.app/grammar/일곱_시까지_돌아오라고_일렀거늘_왜_늦었느냐__2024-04-13.mp3
+      - sentence: 의사가 매운 음식을 먹지 말<f>라고</f> 했다.
+        type: simple
+        translated: The doctor said not to eat spicy food.
+        audio_url: https://r2.kimchi-reader.app/grammar/의사가_매운_음식을_먹지_말라고_했다__2024-04-13.mp3
+metadata:
+  type: verb
+details: |-
+  # Usage {#usage}
+  
+  For direct quote:
+  - "quoted statement" + <f>라고</f>
+  
+  For indirect quote:
+  
+  |Sentence type|Word type|Form|
+  |---|---|---|
+  |Declarative (Present)|Noun|<f>(이)라고</f>|
+  |Declarative (Future)|Verb|<f>(으)ㄹ 거라고</f>|
+  |Imperative|Verb|<f>(으)라고</f>|
+  
+  # Shorthand {#shorthand}
+  
+  For indirect quote:
+  
+  |Sentence type|Word type|Full form|Shortened form|
+  |---|---|---|---|
+  | Declarative (Present) | Noun | <f>(이)라고 해요</f> | <f>(이)래요</f> |
+  | Declarative (Future) | Verb | <f>-(으)ㄹ 거라고 해요</f> | <f>-(으)ㄹ 거래요</f> |
+  | Imperative | Action verb | <f>-(으)라고 해요</f> | <f>-(으)래요</f> |

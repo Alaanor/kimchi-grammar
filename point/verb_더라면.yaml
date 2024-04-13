@@ -1,0 +1,23 @@
+name: 더라면
+definitions:
+  - slug: hypothetical-past-situation
+    name: Hypothetical past situation
+    english_alternatives: if I had
+    meaning: Used to hypothesize a past situation that is the opposite of what actually happened, usually to
+      express the speaker's regret or disappointment or the relief of not doing it.
+    examples:
+      - sentence: 제가 키가 컸<f>더라면</f> 모델이 되었을 거예요.
+        type: simple
+        translated: If I had been taller, I would have become a model.
+        audio_url: https://r2.kimchi-reader.app/grammar/제가_키가_컸더라면_모델이_되었을_거예요__2024-04-13.mp3
+      - sentence: 제가 2분 빨리 집을 나갔<f>더라면</f> 버스를 안 놓쳤을 거에요.
+        type: simple
+        translated: If I had left home 2 minutes earlier, I wouldn't have missed the bus.
+        audio_url: https://r2.kimchi-reader.app/grammar/제가_2분_빨리_집을_나갔더라면_버스를_안_놓쳤을_거에요__2024-04-13.mp3
+      - sentence: 돈을 아껴서 썼<f>더라면</f> 다른 사람에게 돈을 빌리지 않아도 됐을 텐데.
+        type: simple
+        translated: If I had saved money, I wouldn't have had to borrow money from others.
+        audio_url: https://r2.kimchi-reader.app/grammar/돈을_아껴서_썼더라면_다른_사람에게_돈을_빌리지_않아도_됐을_텐데__2024-04-13.mp3
+metadata:
+  type: verb
+details: |-

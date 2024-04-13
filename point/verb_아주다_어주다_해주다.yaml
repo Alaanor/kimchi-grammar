@@ -1,0 +1,33 @@
+name: 아/어 주다
+definitions:
+  - slug: favor-request
+    name: Doing a favor or make a request
+    english_alternatives:
+    meaning: Indicate that you are doing something for the sake of others or to ask someone to do something for you.
+    examples:
+      - sentence: 할아버지는 잉어를 강물에 <f>놓아주었다</f>.
+        type: simple
+        translated: The grandfather put the fish in the river.
+        audio_url: https://r2.kimchi-reader.app/grammar/할아버지는_잉어를_강물에_놓아주었다__2024-03-21.mp3
+      - sentence: 여러분 벌써 포기하지 <f>말아주세요</f>! 제가 천천히 설명해 보겠습니다!
+        type: simple
+        translated: Please don't give up yet! I will explain it slowly!
+        audio_url: https://r2.kimchi-reader.app/grammar/여러분_벌써_포기하지_말아주세요_제가_천천히_설명해_보겠습니다__2024-03-21.mp3
+metadata:
+  type: verb
+details: |-
+  # Spacing {#spacing}
+  
+  Both version <f>[아/어]주다</f> and <f>아/어 주다</f> exist and can be used interchangeably.
+  
+  # Common pattern {#common-pattern}
+  
+  - <f>아/어 주세요</f> - roughly translated as "please/would you".
+  - <f>아/어 주시겠어요</f> - same as above but with more politeness.
+  - <f>아/어 줄게요</f> - roughly translated as "will do".
+  - <f>아/어 줄까요</f> - roughly translated as "shall I do".
+  
+  # Politeness {#politeness}
+  
+  The polite form of :grammar[verb_아주다_어주다_해주다] is :grammar[verb_아드리다_어드리다_해드리다].
+  

@@ -1,0 +1,22 @@
+name: 네(요)
+definitions:
+  - slug: discovery
+    name: Discovery
+    english_alternatives:
+    meaning: Indicate that the speaker is impressed by a fact or situation they just learned about.
+    examples:
+      - sentence: 꼭 드라마 한 장면 같<f>네요</f>.
+        type: simple
+        translated: It's just like a scene from a drama.
+        audio_url: https://r2.kimchi-reader.app/grammar/꼭_드라마_한_장면_같네요__2024-04-13.mp3
+      - sentence: 오늘은 TV 안 틀어 놨<f>네요</f>?
+        type: simple
+        translated: You didn't turn on the TV today?
+        audio_url: https://r2.kimchi-reader.app/grammar/오늘은_TV_안_틀어_놨네요__2024-04-13.mp3
+      - sentence: 지갑을 찾았다니 다행이<f>네요</f>.
+        type: simple
+        translated: It's a relief that you found your wallet.
+        audio_url: https://r2.kimchi-reader.app/grammar/지갑을_찾았다니_다행이네요__2024-04-13.mp3
+metadata:
+  type: verb
+details: |-

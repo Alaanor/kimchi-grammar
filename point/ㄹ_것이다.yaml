@@ -1,0 +1,40 @@
+name: (으)ㄹ 것이다
+definitions:
+  - slug: future-plan
+    name: Future plan
+    english_alternatives: going to, will do
+    meaning: Used to express a future plan.
+    examples:
+      - sentence: 저는 내일 학교에 <f>갈 것입니다</f>.
+        type: simple
+        translated: I will go to school tomorrow.
+        audio_url: https://r2.kimchi-reader.app/grammar/저는_내일_학교에_갈_것입니다__2024-04-13.mp3
+      - sentence: 어디에서 <f>팔 거예요</f>?
+        type: simple
+        translated: Where will you sell it?
+        audio_url: https://r2.kimchi-reader.app/grammar/어디에서_팔_거예요__2024-04-13.mp3
+      - sentence: 토요일에는 소풍을 <f>갈 거에요</f>.
+        type: simple
+        translated: I will go on a picnic on Saturday.
+        audio_url: https://r2.kimchi-reader.app/grammar/토요일에는_소풍을_갈_거에요__2024-04-13.mp3
+      - sentence: 나는 주말에 집에서 푹 <f>쉴 거야</f>.
+        type: simple
+        translated: I will rest at home on the weekend.
+        audio_url: https://r2.kimchi-reader.app/grammar/나는_주말에_집에서_푹_쉴_거야__2024-04-13.mp3
+  - slug: supposition
+    name: Supposition
+    english_alternatives:
+    meaning: Expresses the speaker's supposition about a certain situation based on something heard,
+      seen or personal experience.
+    examples:
+      - sentence: 생일 선물로는 스마트폰을 <f>좋아할 거예요</f>.
+        type: simple
+        translated: I think he will like a smartphone as a birthday present.
+        audio_url: https://r2.kimchi-reader.app/grammar/생일_선물로는_스마트폰을_좋아할_거예요__2024-04-13.mp3
+      - sentence: 공사를 하는 동안 좀 <f>시끄러울 거예요</f>.
+        type: simple
+        translated: It will be noisy while they are doing construction.
+        audio_url: https://r2.kimchi-reader.app/grammar/공사를_하는_동안_좀_시끄러울_거예요__2024-04-13.mp3
+metadata:
+  type: composite
+details: |-

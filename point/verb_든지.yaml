@@ -1,0 +1,34 @@
+name: 든지
+definitions:
+  - slug: regardless
+    name: Regardless
+    english_alternatives: Whether this or that
+    meaning: Used when any of the stated choices are fine, express a contrast between the options. Require at least 2 options.
+    examples:
+      - sentence: 누구<f>든지</f> 언제<f>든지</f> 참여하실 수 있는 챌린지니까.
+        type: simple
+        translated: Anyone can participate whenever.
+        audio_url: https://r2.kimchi-reader.app/grammar/누구든지_언제든지_참여하실_수_있는_챌린지니까__2024-03-31.mp3
+      - sentence: 대학교에 진학하<f>든지</f> 진학하지 않<f>든지</f> 열심히 공부해야 돼요.
+        type: simple
+        translated: You have to study hard whether you go to college or not.
+        audio_url: https://r2.kimchi-reader.app/grammar/대학교에_진학하든지_진학하지_않든지_열심히_공부해야_돼요__2024-03-31.mp3
+metadata:
+  type: verb
+details: |-
+  # Interrogative words {#interrogative-words}
+  
+  This grammar :grammar[verb_든지] is commonly attached to :dict[누구], :dict[어디], :dict[언제], :dict[뭐] and :dict[어느].
+  
+  | Base word | With :grammar[verb_든지] |
+  | ---- | -- |
+  | :dict[누구] (who) | 누구든지 (whoever) |
+  | :dict[어디] (where) | 어디든지 (wherever) |
+  | :dict[언제] (when) | 언제든지 (whenever) |
+  | :dict[뭐] (what) | 뭐든지 (whatever) |
+  | :dict[어느] (which) | 어느든지 (whichever) |
+  
+  # With nouns {#nouns}
+  
+  :grammar[verb_든지] can be indirectly attached to nouns, in those case it goes through :grammar[noun_이다] first.
+  Note that <span c-orange>이</span> might not appear at all.

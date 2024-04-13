@@ -1,0 +1,31 @@
+name: 마다
+definitions:
+  - slug: repetition
+    name: Repetition
+    english_alternatives: every, each, once every
+    meaning: When preceded by a temporal indication, it indicates the recurrence of an event.
+    examples:
+      - sentence: 3시간<f>마다</f> 확인하십시오.
+        type: simple
+        translated: Check every 3 hours.
+        audio_url: https://r2.kimchi-reader.app/grammar/3시간마다_확인하십시오__2024-03-17.mp3
+      - sentence: 음식을 먹을 때<f>마다</f> 배가 아파요.
+        type: simple
+        translated: My stomach hurts every time I eat.
+        audio_url: https://r2.kimchi-reader.app/grammar/음식을_먹을_때마다_배가_아파요__2024-03-17.mp3
+  - slug: all
+    name: Including all
+    english_alternatives: every, all
+    meaning: Indicates the inclusion of all the elements of a group with no exception.
+    examples:
+      - sentence: 나라<f>마다</f> 국기가 달라요.
+        type: simple
+        translated: Each country has a different flag.
+        audio_url: https://r2.kimchi-reader.app/grammar/나라마다_국기가_달라요__2024-03-17.mp3
+      - sentence: 불의 제국은 날<f>마다</f> 전쟁을 일으켜.
+        type: simple
+        translated: The Fire Nation goes to war every day.
+        audio_url: https://r2.kimchi-reader.app/grammar/불의_제국은_날마다_전쟁을_일으켜__2024-03-17.mp3
+metadata:
+  type: noun
+details: |-

@@ -1,0 +1,18 @@
+name: 거나
+definitions:
+  - slug: choice
+    name: Listing choice
+    english_alternatives: or
+    meaning: Used when one of either the preceding statement or the following statement can be chosen.
+    examples:
+      - sentence: 저는 주말에 책을 읽<f>거나</f> 영화를 봐요.
+        type: simple
+        translated: I read books or watch movies on weekends.
+        audio_url: https://r2.kimchi-reader.app/grammar/저는_주말에_책을_읽거나_영화를_봐요__2024-04-13.mp3
+      - sentence: 주말에는 공부를 하<f>거나</f> 밖에서 놀<f>거나</f> 합니다.
+        type: simple
+        translated: On weekends, I either study or go out.
+        audio_url: https://r2.kimchi-reader.app/grammar/주말에는_공부를_하거나_밖에서_놀거나_합니다__2024-04-13.mp3
+metadata:
+  type: verb
+details: |-

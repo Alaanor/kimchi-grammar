@@ -1,0 +1,43 @@
+name: 이다
+definitions:
+  - slug: copula
+    name: Copula
+    english_alternatives: to be, is
+    meaning: Express that the subject and predicate are the same thing.
+    examples:
+      - sentence: 저는 학생<f>이에요</f>.
+        type: simple
+        translated: I am a student.
+        audio_url: https://r2.kimchi-reader.app/grammar/저는_학생이에요__2024-03-31.mp3
+      - sentence: 오늘은 내 친구 생일<f>이에요</f>.
+        type: simple
+        translated: Today is my friend's birthday.
+        audio_url: https://r2.kimchi-reader.app/grammar/오늘은_내_친구_생일이에요__2024-03-31.mp3
+      - sentence: 지금은 쉬는 시간<f>이야</f>.
+        type: simple
+        translated: Now is break time.
+        audio_url: https://r2.kimchi-reader.app/grammar/지금은_쉬는_시간이야__2024-03-31.mp3
+metadata:
+  type: noun
+details: |-
+  
+  # Common conjugation {#conjugation}
+  
+  - <f>입니다</f>: Formal, polite form, used in formal writings or respectful speech.
+  - <f>예요</f>/<f>이에요</f>: Polite form, used in everyday polite conversation. <f>예요</f> follows
+    a vowel, and <f>이에요</f> follows a consonant.
+  - <f>이야</f>: Informal form, used with close friends or in casual settings.
+  
+  # Opposite {#opposite}
+  The opposite of :dict[이다] is :dict[아니다].
+  
+  # Bridge with verbs {#verbs}
+  
+  There are a lot of grammar pattern that would normally require to be connected to a
+  verb base (action/descriptive verb) but they can be connected to nouns by using
+  :grammar[noun_이다] as a bridge.
+  
+  Here is an example with :grammar[verb_며_으며]:
+  
+  ::example[졸업식에 가족<f>이며</f> 친구<f>며</f> 아는 사람들이 다 왔어요. | All my acquaintances including my family and friends came to the graduation ceremony. | https://r2.kimchi-reader.app/grammar/졸업식에_가족이며_친구며_아는_사람들이_다_왔어요__2024-03-31.mp3]
+  

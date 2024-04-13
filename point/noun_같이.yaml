@@ -1,0 +1,27 @@
+name: 같이
+definitions:
+  - slug: similarity
+    name: Similarity
+    english_alternatives: like, as
+    meaning: Indicates resemblance or a metaphorical comparison in actions or objects
+    examples:
+      - sentence: 그녀는 너<f>같이</f> 예쁜다.
+        type: simple
+        translated: She is as pretty as you.
+        audio_url: https://r2.kimchi-reader.app/grammar/그녀는_너같이_예쁜다__2024-03-17.mp3
+      - sentence: 로봇<f>같이</f> 걷다.
+        type: simple
+        translated: Walk like a robot.
+        audio_url: https://r2.kimchi-reader.app/grammar/로봇같이_걷다__2024-03-17.mp3
+      - sentence: 영화배우<f>같이</f> 잘생겼어요.
+        type: simple
+        translated: He is handsome like a actor.
+        audio_url: https://r2.kimchi-reader.app/grammar/영화배우같이_잘생겼어요__2024-03-17.mp3
+metadata:
+  type: noun
+details: |-
+  # 같이 as adverb {#adverb}
+  
+  Note that :dict[같이] also exists as an adverb. In this case, it is used to express that an action is performed with someone else. Often accompanied with the particle :grammar[noun_와_과].
+  
+  ::example[촛불을 켜고 <f>같이</f> 생일 축하 노래를 불렀어요. | We lit the candles and sang the birthday song together. | https://r2.kimchi-reader.app/grammar/촛불을_켜고_같이_생일_축하_노래를_불렀어요__2024-03-17.mp3]

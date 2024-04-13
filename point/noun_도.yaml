@@ -1,0 +1,27 @@
+name: 도
+definitions:
+  - slug: addition
+    name: Addition
+    english_alternatives: also, too, as well, and even
+    meaning: It indicates that the noun is being added to a list of items, actions,
+      or descriptions previously mentioned or understood from the context.
+    examples:
+      - type: simple
+        sentence: 저<f>도</f> 아직 확신이 사실은 없어요.
+        translated: I actually don't have confidence yet either.
+        audio_url: https://r2.kimchi-reader.app/grammar/저도_아직_확신이_사실은_없어요_2024-02-18.mp3
+      - sentence: 친구<f>도</f> 왔어요.
+        type: simple
+        translated: The friend came too.
+        audio_url: https://r2.kimchi-reader.app/grammar/친구도_왔어요_2024-02-18.mp3
+metadata:
+  type: noun
+details: |-
+  # Particle Omission {#ommision}
+  
+  When combined with :grammar[noun_은_는]{noprefix topic} or
+  :grammar[noun_을_를]{noprefix object} the :grammar[noun_도]
+  particle can replace them entirely, rather than appending to them.
+  
+  In other cases, it functions as usual, adding its meaning without replacing
+  any existing particles

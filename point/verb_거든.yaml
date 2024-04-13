@@ -1,0 +1,40 @@
+name: 거든(요)
+definitions:
+  - slug: reasoning
+    name: Reasoning
+    english_alternatives:
+    meaning: Referring to the reason, cause, or basis for the preceding statement that the speaker thought of.
+      Usually expected that the listener has no prior knowledge of the reason. Used only in conversation.
+    examples:
+      - sentence: 오늘은 공부해야 해요. 내일 중간시험을 보<f>거든요</f>.
+        type: simple
+        translated: I have to study today. Because I have a midterm exam tomorrow.
+        audio_url: https://r2.kimchi-reader.app/grammar/오늘은_공부해야_해요_내일_중간시험을_보거든요__2024-04-13.mp3
+      - sentence: 시원한 바람이 솔솔 불고, 배가 고프면 간식도 먹을 수 있<f>거든요</f>.
+        type: simple
+        translated: The cool breeze is blowing, and if you're hungry, you can also eat snacks.
+        audio_url: https://r2.kimchi-reader.app/grammar/시원한_바람이_솔솔_불고,_배가_고프면_간식도_먹을_수_있거든요__2024-04-13.mp3
+      - sentence: 한국에서는 집의 크기를 이야기할 때 '평', 평이라는 단위를 쓰<f>거든요</f>.
+        type: simple
+        translated: In Korea, when talking about the size of a house, we use the unit called '평'.
+        audio_url: https://r2.kimchi-reader.app/grammar/한국에서는_집의_크기를_이야기할_때_'평',_평이라는_단위를_쓰거든요__2024-04-13.mp3
+  - slug: conditional
+    name: Conditional
+    english_alternatives: if actually true, then
+    meaning: Express that if the preceding statement is turn out to be true, then the following statement can happen.
+    examples:
+      - sentence: 바쁘<f>거든</f> 먼저 가십시오.
+        type: simple
+        translated: If you're busy, please go first.
+        audio_url: https://r2.kimchi-reader.app/grammar/바쁘거든_먼저_가십시오__2024-04-13.mp3
+      - sentence: 비가 그치<f>거든</f> 축구를 할까요?
+        type: simple
+        translated: Shall we play soccer when the rain stops?
+        audio_url: https://r2.kimchi-reader.app/grammar/비가_그치거든_축구를_할까요__2024-04-13.mp3
+metadata:
+  type: verb
+details: |-
+  # Usage {#usage}
+  
+  :grammar[verb_거든]{conditional} usually appear in the middle of the sentence while :grammar[verb_거든]{reasoning} can
+  have <f>요</f> at the end of the sentence and is used at the end of the sentence.

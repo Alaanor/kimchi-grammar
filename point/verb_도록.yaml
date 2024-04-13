@@ -1,0 +1,22 @@
+name: 도록
+definitions:
+  - slug: objective
+    name: Objective
+    english_alternatives: so that, in order to
+    meaning: It expresses that the preceding clause is the goal or reason for doing the action stated in the following clause.
+    examples:
+      - sentence: 아침에 일찍 일어나<f>도록</f> 어젯밤에 일찍 잤어요.
+        type: simple
+        translated: I went to bed early last night so that I could wake up early in the morning.
+        audio_url: https://r2.kimchi-reader.app/grammar/아침에_일찍_일어나도록_어젯밤에_일찍_잤어요__2024-04-13.mp3
+      - sentence: 필요할 때 잘 찾아볼 수 있<f>도록</f> 정리를 잘 해 두세요.
+        type: simple
+        translated: Organize things well so that you can find them easily when you need them.
+        audio_url: https://r2.kimchi-reader.app/grammar/필요할_때_잘_찾아볼_수_있도록_정리를_잘_해_두세요__2024-04-13.mp3
+      - sentence: 음식은 상하지 않<f>도록</f> 냉장고에 넣어 두는 게 좋겠어요.
+        type: simple
+        translated: It would be better to put food in the refrigerator so that it doesn't spoil.
+        audio_url: https://r2.kimchi-reader.app/grammar/음식은_상하지_않도록_냉장고에_넣어_두는_게_좋겠어요__2024-04-13.mp3
+metadata:
+  type: verb
+details: |-

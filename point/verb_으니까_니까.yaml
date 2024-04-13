@@ -1,0 +1,30 @@
+name: (으)니까
+definitions:
+  - slug: reason-or-cause
+    name: Reason or cause
+    english_alternatives: so, because
+    meaning: It expresses the reason or cause for something.
+      Commonly used to explain the reason for one’s actions or to express to provide justification for something.
+    examples:
+      - sentence: 이번 주는 <f>바쁘니까</f> 다음 주에 합시다.
+        type: simple
+        translated: I'm busy this week, so let's do that next week.
+        audio_url: https://r2.kimchi-reader.app/grammar/이번_주는_바쁘니까_다음_주에_합시다__2024-04-13.mp3
+  - slug: discovery
+    name: Discovery
+    english_alternatives: when, do something only to discover
+    meaning: It expresses the discovery of a fact or situation.
+      The first clause is the action and the second clause is about the discovery.
+      This form can only be used with action verbs.
+    examples:
+      - sentence: 아침에 회사에 <f>가니까</f> 아무도 없었어요.
+        type: simple
+        translated: When I went to the office in the morning, no one was there.
+        audio_url: https://r2.kimchi-reader.app/grammar/아침에_회사에_가니까_아무도_없었어요__2024-04-13.mp3
+      - sentence: 어제 백화점에 <f>가니까</f> 세일을 하고 있었어요.
+        type: simple
+        translated: When I went to the department store yesterday, they were having a sale.
+        audio_url: https://r2.kimchi-reader.app/grammar/어제_백화점에_가니까_세일을_하고_있었어요__2024-04-13.mp3
+metadata:
+  type: verb
+details: |-

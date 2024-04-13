@@ -1,0 +1,19 @@
+name: 께
+definitions:
+  - slug: target
+    name: Target
+    english_alternatives: to, by, for
+    meaning: Define a person or a living creature as the recipient or target of an action.
+      This is the honorific version of 한테 or 에게.
+    examples:
+      - sentence: 선생님<f>께</f> 인사를 드렸습니다.
+        type: simple
+        translated: I greeted the teacher.
+        audio_url: https://r2.kimchi-reader.app/grammar/선생님께_인사를_드렸습니다__2024-03-25.mp3
+      - sentence: 사장님<f>께</f> 보고서를 보냈어요.
+        type: simple
+        translated: I sent the report to the boss.
+        audio_url: https://r2.kimchi-reader.app/grammar/사장님께_보고서를_보냈어요__2024-03-25.mp3
+metadata:
+  type: noun
+details: |-

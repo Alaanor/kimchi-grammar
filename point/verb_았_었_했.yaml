@@ -1,0 +1,22 @@
+name: 았/었/했
+definitions:
+  - slug: past-tense
+    name: Past tense
+    english_alternatives:
+    meaning: Indicate that an event happened in the past.
+    examples:
+      - sentence: 어제 배가 <f>아팠어요</f>. 그래서 잠을 못 <f>잤어요</f>.
+        type: simple
+        translated: My stomach hurt yesterday. So I couldn't sleep.
+        audio_url: https://r2.kimchi-reader.app/grammar/어제_배가_아팠어요_그래서_잠을_못_잤어요__2024-04-13.mp3
+      - sentence: 어제 회사 동료하고 저녁을 <f>먹었어요</f>.
+        type: simple
+        translated: I had dinner with my colleague yesterday.
+        audio_url: https://r2.kimchi-reader.app/grammar/어제_회사_동료하고_저녁을_먹었어요__2024-04-13.mp3
+      - sentence: 남자 친구를 처음 <f>만났을</f> 때 첫인상이 <f>어땠어요</f>?
+        type: simple
+        translated: What was your first impression when you first met your boyfriend?
+        audio_url: https://r2.kimchi-reader.app/grammar/남자_친구를_처음_만났을_때_첫인상이_어땠어요__2024-04-13.mp3
+metadata:
+  type: verb
+details: |-

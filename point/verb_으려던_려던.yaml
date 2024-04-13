@@ -1,0 +1,19 @@
+name: (으)려던
+definitions:
+  - slug: interruption
+    name: Interruption
+    english_alternatives: was about to
+    meaning: Express that the action or intention was about to happens but got interrupted to change to something else.
+    examples:
+      - sentence: 라면을 끓이는군요. 저도 마침 라면을 먹<f>으려던</f> 참이었어요.
+        type: simple
+        translated: I see you're making ramen, I was just about to eat ramen too.
+        audio_url: https://r2.kimchi-reader.app/grammar/라면을_끓이는군요_저도_마침_라면을_먹으려던_참이었어요_2024-04-13.mp3
+      - sentence: 저도 백화점에 가<f>려던</f> 참이었는데 같이 가요.
+        type: simple
+        translated: I was just about to go to the department store too, let's go together.
+        audio_url: https://r2.kimchi-reader.app/grammar/저도_백화점에_가려던_참이었는데_같이_가요__2024-04-13.mp3
+metadata:
+  type: verb
+details: |-
+  The popular full form of this grammar point is :grammar[verb_으려던_려던] :dict[참]{참이다}

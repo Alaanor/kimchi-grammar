@@ -1,0 +1,17 @@
+inheritance:
+  - parent: "을지도_모르다"
+    children: ["verb_을지_ㄹ지_을지도_ㄹ지도"]
+  - parent: "지_못하다"
+    children: ["verb_지"]
+  - parent: "지_않다"
+    children: ["verb_지"]
+  - parent: "지_말다"
+    children: ["verb_지"]
+  - parent: "고_있다"
+    children: ["verb_고"]
+  - parent: "ㄹ_것이다"
+    children: ["verb_ㄴ_은_는_ㄹ_을"]
+  - parent: "ㄹ_수_있다"
+    children: ["verb_ㄴ_은_는_ㄹ_을"]
+  - parent: "ㄹ_수도_있다"
+    children: ["verb_ㄴ_은_는_ㄹ_을"]

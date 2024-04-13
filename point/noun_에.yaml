@@ -1,0 +1,46 @@
+name: 에
+definitions:
+  - slug: time
+    name: Time of an action
+    english_alternatives: at
+    meaning: Indicates the time of the action. Can be used with days, hours, seasons, etc.
+    examples:
+      - sentence: 비행기는 아홉 시<f>에</f> 출발합니다.
+        type: simple
+        translated: The plane leaves at nine o'clock.
+        audio_url: https://r2.kimchi-reader.app/grammar/비행기는_아홉_시에_출발합니다__2024-03-16.mp3
+      - sentence: 저는 지난주<f>에</f> 감기에 걸렸어요.
+        type: simple
+        translated: I caught a cold last week.
+        audio_url: https://r2.kimchi-reader.app/grammar/저는_지난주에_감기에_걸렸어요__2024-03-16.mp3
+  - slug: location
+    name: Location
+    english_alternatives: in, on
+    meaning:
+      When used with 있다 or 없다, it express the location of a person or thing.
+    examples:
+      - sentence: 소파 위<f>에</f> 고양이가 <f>있어요</f>.
+        type: simple
+        translated: There is a cat on the sofa.
+        audio_url: https://r2.kimchi-reader.app/grammar/소파_위에_고양이가_있어요__2024-03-16.mp3
+      - sentence: 집<f>에</f> 안 쓰는 나무판자나 널빤지 같은 거 <f>없나</f>?
+        type: simple
+        translated: Do we have any unused wooden boards or planks that we don't use at home?
+        audio_url: https://r2.kimchi-reader.app/grammar/집에_안_쓰는_나무판자나_널빤지_같은_거_없나__2024-03-16.mp3
+  - slug: direction
+    name: Direction
+    english_alternatives: to, toward
+    meaning:
+      When used with verbs of movement, it express the direction of the action.
+    examples:
+      - sentence: 저기 빈자리<f>에</f> <f>가서</f> 앉고.
+        type: simple
+        translated: Go sit in the empty seat over there.
+        audio_url: https://r2.kimchi-reader.app/grammar/저기_빈자리에_가서_앉고__2024-03-16.mp3
+      - sentence: 여동생은 학교<f>에</f> 남동생은 유치원<f>에</f> <f>갑니다</f>.
+        type: simple
+        translated: My younger sister goes to school, my younger brother goes to kindergarten.
+        audio_url: https://r2.kimchi-reader.app/grammar/여동생은_학교에_남동생은_유치원에_갑니다__2024-03-16.mp3
+metadata:
+  type: noun
+details: |-

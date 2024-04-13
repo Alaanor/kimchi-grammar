@@ -1,0 +1,18 @@
+name: (으)ㄹ걸(요)
+definitions:
+  - slug: guessing
+    name: Guessing
+    english_alternatives:
+    meaning: Used when stating an unconfirmed assumptions or supposition about a something unsure or a future event.
+    examples:
+      - sentence: 출퇴근 시간이니까 지하철을 타는 게 더 <f>빠를걸요</f>.
+        type: simple
+        translated: Since it's rush hour, I think it would be faster to take the subway.
+        audio_url: https://r2.kimchi-reader.app/grammar/출퇴근_시간이니까_지하철을_타는_게_더_빠를걸요__2024-04-13.mp3
+      - sentence: 아이들이 매운 요리는 잘 먹지 <f>않을걸요</f>.
+        type: simple
+        translated: I don't think kids would eat spicy food well.
+        audio_url: https://r2.kimchi-reader.app/grammar/아이들이_매운_요리는_잘_먹지_않을걸요__2024-04-13.mp3
+metadata:
+  type: verb
+details: |-

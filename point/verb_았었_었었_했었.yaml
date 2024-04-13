@@ -1,0 +1,22 @@
+name: (았/었/했)었
+definitions:
+  - slug: past-tense
+    name: Past tense
+    english_alternatives: has changed since
+    meaning: Referring to a past event that is different from the present or does not continue to the present.
+    examples:
+      - sentence: 10년 전까지는 외국에 <f>살았었어요</f>.
+        type: simple
+        translated: I lived abroad until 10 years ago.
+        audio_url: https://r2.kimchi-reader.app/grammar/10년_전까지는_외국에_살았었어요__2024-04-13.mp3
+      - sentence: 어렸을 때는 파를 안 <f>먹었었어요</f>.
+        type: simple
+        translated: I didn't eat green onions when I was young.
+        audio_url: https://r2.kimchi-reader.app/grammar/어렸을_때는_파를_안_먹었었어요__2024-04-13.mp3
+      - sentence: 이 아빠가 군대 있을 때 취사병이었다고 <f>얘기했었나</f>?
+        type: simple
+        translated: Did this dad say he was a cook when he was in the army?
+        audio_url: https://r2.kimchi-reader.app/grammar/이_아빠가_군대_있을_때_취사병이었다고_얘기했었나__2024-04-13.mp3
+metadata:
+  type: verb
+details: |-

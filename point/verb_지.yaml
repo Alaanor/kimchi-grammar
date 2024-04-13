@@ -1,0 +1,24 @@
+name: 지
+definitions:
+  - slug: confirmation
+    name: Confirmation
+    english_alternatives: Doesn't it?
+    meaning: Used when the speaker want to confirm an already known fact with the listener
+      or obtains the listener's agreement.
+    examples:
+      - sentence: 설마 그 사람이랑 다시 사귀고 싶은 건 <f>아니지</f>?
+        type: simple
+        translated: You don't want to get back together with that person, do you?
+        audio_url: https://r2.kimchi-reader.app/grammar/설마_그_사람이랑_다시_사귀고_싶은_건_아니지__2024-04-13.mp3
+metadata:
+  type: verb
+details: |-
+  # Shortened {#shortened}
+  
+  Sometime <f>죠</f> is used and it is a shortened form of <f>지요</f>.
+  
+  ::example[자 여기 칠판에 뭐라고 <f>쓰여있죠</f>? | What is written on the board here? | https://r2.kimchi-reader.app/grammar/자_여기_칠판에_뭐라고_쓰여있죠__2024-04-13.mp3]
+  
+  # Other usages {#other-usages}
+  
+  Can be part of a bigger pattern such as :grammar[지_못하다] or :grammar[지_않다].

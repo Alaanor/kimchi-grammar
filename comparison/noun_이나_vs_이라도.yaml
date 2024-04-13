@@ -1,0 +1,10 @@
+points:
+  - grammar_id: noun_이나_나
+    definition_slug: at-least
+    details: |-
+      When the best option is not available, any other options are basically the same, any of them is fine.
+  - grammar_id: noun_이라도_라도
+    definition_slug: sufficient-choice
+    details: |-
+      When choosing the next best option, the second best.
+details: |-

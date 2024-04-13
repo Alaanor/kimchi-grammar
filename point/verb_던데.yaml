@@ -1,0 +1,24 @@
+name: 던데(요)
+definitions:
+  - slug: surprise
+    name: Surprise
+    english_alternatives:
+    meaning: Used to express surprise or disbelief toward a past event or particular situation.
+      Expecting an answer from the listener. Can also be used to make contradiction.
+    examples:
+      - sentence: 그 사람은 축구도 제법 잘하<f>던데요</f>.
+        type: simple
+        translated: That person was quite good at soccer.
+        audio_url: https://r2.kimchi-reader.app/grammar/그_사람은_축구도_제법_잘하던데요__2024-04-13.mp3
+      - sentence: 제가 오늘 학교에 왔을 때 교실에 아무도 없<f>던데요</f>.
+        type: simple
+        translated: When I came to school today, there was no one in the classroom.
+        audio_url: https://r2.kimchi-reader.app/grammar/제가_오늘_학교에_왔을_때_교실에_아무도_없던데요__2024-04-13.mp3
+      - sentence: 그곳에는 맛있는 음식들이 많<f>던데요</f>.
+        type: simple
+        translated: There were many delicious foods there.
+        audio_url: https://r2.kimchi-reader.app/grammar/그곳에는_맛있는_음식들이_많던데요__2024-04-13.mp3
+metadata:
+  type: verb
+details: |-
+

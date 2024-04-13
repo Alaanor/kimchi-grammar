@@ -1,0 +1,21 @@
+name: 자
+definitions:
+  - slug: suggestion
+    name: Suggestion
+    english_alternatives: let's
+    meaning: A way to express a suggestion to do a certain act together.
+    examples:
+      - sentence: 오늘 저녁엔 생선구이 실컷 먹<f>자</f>!
+        type: simple
+        translated: Let's eat grilled fish to our heart's content tonight!
+        audio_url: https://r2.kimchi-reader.app/grammar/오늘_저녁엔_생선구이_실컷_먹자__2024-04-13.mp3
+      - sentence: 회사 끝나면 술 한 잔 하<f>자</f>.
+        type: simple
+        translated: Let's have a drink after work.
+        audio_url: https://r2.kimchi-reader.app/grammar/회사_끝나면_술_한_잔_하자__2024-04-13.mp3
+metadata:
+  type: verb
+details: |-
+  # Formal version {#formal}
+  
+  :grammar[verb_자]{suggestion} is a bit informal, the more formal version of this expression would be :grammar[verb_읍시다_ㅂ시다]{suggestion}.

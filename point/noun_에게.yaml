@@ -1,0 +1,19 @@
+name: 에게
+definitions:
+  - slug: target
+    name: Target
+    english_alternatives:
+    meaning: Define a person or a living creature as the recipient or target of an action.
+      This is the formal version of 한테 or 께.
+    examples:
+      - sentence: 저는 친구<f>에게</f> 빌려준 책을 달라고 했어요.
+        type: simple
+        translated: I asked my friend for the book I lent him.
+        audio_url: https://r2.kimchi-reader.app/grammar/저는_친구에게_빌려준_책을_달라고_했어요__2024-03-25.mp3
+      - sentence: 경찰이 운전자<f>에게</f> 운전면허증을 보여 달라고 해요.
+        type: simple
+        translated: The police ask the driver to show his driver's license.
+        audio_url: https://r2.kimchi-reader.app/grammar/경찰이_운전자에게_운전면허증을_보여_달라고_해요__2024-03-25.mp3
+metadata:
+  type: noun
+details: |-

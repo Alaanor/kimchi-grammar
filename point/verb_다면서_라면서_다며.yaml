@@ -1,0 +1,33 @@
+name: 다면서(요)
+definitions:
+  - slug: fact-checking
+    name: Fact checking
+    english_alternatives: I heard that
+    meaning: Used to confirm with another person something that the speaker heard previously from some other source.
+    examples:
+      - sentence: 한국 사람들이 거의 날마다 김치를 먹는<f>다면서요</f>?
+        type: simple
+        translated: I heard that Korean people eat kimchi almost every day, is it true?
+        audio_url: https://r2.kimchi-reader.app/grammar/한국_사람들이_거의_날마다_김치를_먹는다면서요__2024-04-13.mp3
+      - sentence: 방학 동안 스웨덴에 갔었<f>다면서</f>? 춥지 않았어?
+        type: simple
+        translated: I heard you went to Sweden during the vacation? Wasn't it cold?
+        audio_url: https://r2.kimchi-reader.app/grammar/방학_동안_스웨덴에_갔었다면서_춥지_않았어__2024-04-13.mp3
+      - sentence: 벌써 다 끝났<f>다면서요</f>?
+        type: simple
+        translated: I heard you've already finished everything?
+        audio_url: https://r2.kimchi-reader.app/grammar/벌써_다_끝났다면서요__2024-04-13.mp3
+metadata:
+  type: verb
+details: |-
+  # With nouns {#nouns}
+  
+  When attached to nouns, the <f>(이)라면서(요)</f> form can be used instead.
+  
+  ::example[업계 1위<f>라면서요</f>. | They say they're the best in the industry. | https://r2.kimchi-reader.app/grammar/업계_1위라면서요__2024-04-13.mp3]
+  
+  # Shortened form {#shortened-form}
+  
+  Instead of the full form :grammar[verb_다면서_라면서_다며], one can use <f>다며</f> instead.
+  
+  ::example[그래. 니가 그렇게 게임을 잘 한다고 소문났<f>다며</f>? | I heard you're so good at playing games? | https://r2.kimchi-reader.app/grammar/그래_니가_그렇게_게임을_잘_한다고_소문났다며__2024-04-13.mp3]

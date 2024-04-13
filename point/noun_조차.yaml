@@ -1,0 +1,18 @@
+name: 조차
+definitions:
+  - slug: extreme-cases
+    name: Inclusion of extreme cases
+    english_alternatives: not even that but
+    meaning: Used to emphasize that something is not even as much as something else. An inclusion of extreme cases that are generally hard to predict. The one attached to 조차 is the most important.
+    examples:
+      - sentence: 엄마<f>조차</f> 저를 못 믿으시는 거예요?
+        type: simple
+        translated: Even my mom doesn't believe me?
+        audio_url: https://r2.kimchi-reader.app/grammar/엄마조차_저를_못_믿으시는_거예요__2024-03-26.mp3
+      - sentence: 그 학생은 시험마다 공부<f>조차</f> 하지 않은데 성적표가 진짜 대단하네.
+        type: simple
+        translated: That student doesn't even study for exams, but their grades are really amazing.
+        audio_url: https://r2.kimchi-reader.app/grammar/그_학생은_시험마다_공부조차_하지_않은데_성적표가_진짜_대단하네__2024-03-26.mp3
+metadata:
+  type: noun
+details: |-

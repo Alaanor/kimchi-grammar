@@ -1,0 +1,40 @@
+name: (으)면
+definitions:
+  - slug: condition
+    name: Condition
+    english_alternatives: if
+    meaning: Used when the preceding statement becomes the condition of the following statement.
+    examples:
+      - sentence: 공부를 열심히 <f>하면</f> 좋은 성적이 좋아집니다.
+        type: simple
+        translated: If you study hard, your grades will improve.
+        audio_url: https://r2.kimchi-reader.app/grammar/공부를_열심히_하면_좋은_성적이_좋아집니다__2024-04-13.mp3
+      - sentence: 내일 시간이 <f>있으면</f> 같이 영화를 볼래요?
+        type: simple
+        translated: Shall we watch a movie together if you have time tomorrow?
+        audio_url: https://r2.kimchi-reader.app/grammar/내일_시간이_있으면_같이_영화를_볼래요__2024-04-13.mp3
+  - slug: supposition
+    name: Supposition
+    english_alternatives: when
+    meaning: Used to suppose or assume something that has not yet happened.
+    examples:
+      - sentence: 내가 <f>죽으면</f> 우리 아이들은 누가 돌보니?
+        type: simple
+        translated: When I die, who will take care of our children?
+        audio_url: https://r2.kimchi-reader.app/grammar/내가_죽으면_우리_아이들은_누가_돌보니__2024-04-13.mp3
+      - sentence: 시험이 <f>끝나면</f> 푹 쉴 거예요.
+        type: simple
+        translated: When the exam is over, I will take a good rest.
+        audio_url: https://r2.kimchi-reader.app/grammar/시험이_끝나면_푹_쉴_거예요__2024-04-13.mp3
+  - slug: repetitive
+    name: Repetitive
+    english_alternatives:
+    meaning: Used to indicate a habitual and repetitive condition.
+    examples:
+      - sentence: 남편은 내가 잠들어 <f>있으면</f> 깨우지 않으려고 살금살금 걸어 다닌다.
+        type: simple
+        translated: My husband walks around quietly so as not to wake me up when I'm asleep.
+        audio_url: https://r2.kimchi-reader.app/grammar/남편은_내가_잠들어_있으면_깨우지_않으려고_살금살금_걸어_다닌다__2024-04-13.mp3
+metadata:
+  type: verb
+details: |-

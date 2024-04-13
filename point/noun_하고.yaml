@@ -1,0 +1,32 @@
+name: 하고
+definitions:
+  - slug: enumeration
+    name: Enumeration
+    english_alternatives: and
+    meaning: Connects multiple nouns, indicating a list or group without specifying order.
+    examples:
+      - sentence: 책<f>하고</f> 잡지를 샀어요.
+        type: simple
+        translated: I bought books and magazines.
+        audio_url: https://r2.kimchi-reader.app/grammar/책하고_잡지를_샀어요__2024-04-13.mp3
+      - sentence: 담배<f>하고</f> 술을 끊었어요.
+        type: simple
+        translated: I quit smoking and drinking.
+        audio_url: https://r2.kimchi-reader.app/grammar/담배하고_술을_끊었어요__2024-04-13.mp3
+  - slug: companionship
+    name: Companionship
+    english_alternatives: together, with
+    meaning: Indicates that an action involves more than one party or that something
+      is done together with someone or something else.
+    examples:
+      - sentence: 어제 회사 동료<f>하고</f> 저녁을 먹었어요.
+        type: simple
+        translated: I had dinner with my colleague yesterday.
+        audio_url: https://r2.kimchi-reader.app/grammar/어제_회사_동료하고_저녁을_먹었어요__2024-04-13.mp3
+      - sentence: 그 사람이 싫은 건 아니고 그냥 저<f>하고</f> 성격이 잘 안 맞는 거 같아요.
+        type: simple
+        translated: It's not that I don't like that person, but I think our personalities don't match well.
+        audio_url: https://r2.kimchi-reader.app/grammar/그_사람이_싫은_건_아니고_그냥_저하고_성격이_잘_안_맞는_거_같아요__2024-04-13.mp3
+metadata:
+  type: noun
+details: |-

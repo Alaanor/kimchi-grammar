@@ -1,0 +1,32 @@
+name: 아/어서
+definitions:
+  - slug: reason-or-cause
+    name: Reason or cause
+    english_alternatives: because of, therefore
+    meaning: The first clause is the reason for or the cause of the second clause.
+    examples:
+      - sentence: 그 옷은 <f>작아서</f> 못 입어요.
+        type: simple
+        translated: I can't wear these clothes because they're too small.
+        audio_url: https://r2.kimchi-reader.app/grammar/그_옷은_작아서_못_입어요__2024-04-13.mp3
+      - sentence: 요즘에 <f>바빠서</f> 친구들을 못 만나요.
+        type: simple
+        translated: I can't meet my friends because I'm busy these days.
+        audio_url: https://r2.kimchi-reader.app/grammar/요즘에_바빠서_친구들을_못_만나요__2024-04-13.mp3
+  - slug: sequence-of-events
+    name: Sequence of events
+    english_alternatives: in order to
+    meaning: A connective ending to indicate a temporal relationship between events.
+      The second clause can only happen after the first action has happened.
+    examples:
+      - sentence: 내일 친구를 <f>만나서</f> 영화를 볼 거예요.
+        type: simple
+        translated: I'm going to meet my friend tomorrow in order to watch a movie.
+        audio_url: https://r2.kimchi-reader.app/grammar/내일_친구를_만나서_영화를_볼_거예요__2024-04-13.mp3
+      - sentence: 조금 더 돈을 <f>모아서</f> 장난감을 살까요?
+        type: simple
+        translated: Should we save a little more money in order to buy toys?
+        audio_url: https://r2.kimchi-reader.app/grammar/조금_더_돈을_모아서_장난감을_살까요__2024-04-13.mp3
+metadata:
+  type: verb
+details: |-

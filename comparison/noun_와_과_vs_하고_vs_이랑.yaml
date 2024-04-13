@@ -1,0 +1,16 @@
+points:
+  - grammar_id: noun_와_과
+    details: |-
+      - Preferred in writing, presentations and speeches.
+  - grammar_id: noun_랑_이랑
+    details: |-
+      - Preferred in everyday conversations.
+  - grammar_id: noun_하고
+    details: |-
+      - Preferred in everyday conversations.
+details: |-
+  All three grammar points are both used to list things and correspond to "together with" in English.
+  
+  Note for when used for listing thing:
+  - Although :grammar[noun_하고] and :grammar[noun_랑_이랑] can be added to the final noun in a list, :grammar[noun_와_과] cannot.
+  - Although they can be used interchangeably to list things, they cannot be mixed in the same sentence.

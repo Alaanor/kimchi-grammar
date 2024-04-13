@@ -1,0 +1,32 @@
+name: 랑/이랑
+definitions:
+  - slug: enumeration
+    name: Enumeration
+    english_alternatives: and
+    meaning: Connects multiple nouns, indicating a list or group without specifying order.
+    examples:
+      - sentence: 아저씨, 식빵<f>이랑</f> 꽈배기 주세요.
+        type: simple
+        translated: Sir, please give me a bread and twisted doughnuts.
+        audio_url: https://r2.kimchi-reader.app/grammar/아저씨,_식빵이랑_꽈배기_주세요._2024-02-20.mp3
+  - slug: companionship
+    name: Companionship
+    english_alternatives: together, with
+    meaning: Indicates that an action involves more than one party or that something
+      is done together with someone or something else.
+    examples:
+      - sentence: 옆방 애들<f>이랑</f> 싸웠어?
+        type: simple
+        translated: Did you get into a fight with the guys in the next room?
+        audio_url: https://r2.kimchi-reader.app/grammar/옆방_애들이랑_싸웠어%3F_2024-02-20.mp3
+      - sentence: 선생님<f>이랑</f> 같이 풀어봐요.
+        type: simple
+        translated: Let's try solving it together with the teacher.
+        audio_url: https://r2.kimchi-reader.app/grammar/선생님이랑_같이_풀어봐요._2024-02-20.mp3
+metadata:
+  type: noun
+details: |-
+  # Usage {#usage}
+  
+  - We add -<f>랑</f> after a word that ends in a vowel.
+  - We add -<f>이랑</f> after a word that ends with a consonant.

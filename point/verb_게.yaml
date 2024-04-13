@@ -1,0 +1,35 @@
+name: 게
+definitions:
+  - slug: making-adverb
+    name: Making adverb
+    english_alternatives: in a ... manner, -ly
+    meaning: Expresses the purpose, method or though about the action that follows. It turns descriptive verb into adverb.
+    examples:
+      - sentence: 오늘 학교 <f>늦게</f> 갔어요.
+        type: simple
+        translated: I went to school late today.
+        audio_url: https://r2.kimchi-reader.app/grammar/오늘_학교_늦게_갔어요__2024-04-13.mp3
+      - sentence: 머리를 <f>짧게</f> 잘랐어요.
+        type: simple
+        translated: I cut my hair short.
+        audio_url: https://r2.kimchi-reader.app/grammar/머리를_짧게_잘랐어요__2024-04-13.mp3
+      - sentence: 입 <f>크게</f> 벌리고, 아 하세요.
+        type: simple
+        translated: Open your mouth wide and say "ah."
+        audio_url: https://r2.kimchi-reader.app/grammar/입_크게_벌리고,_아_하세요__2024-04-13.mp3
+  - slug: expectation
+    name: Expectation
+    english_alternatives: so that, in a way that
+    meaning: Expect a result, criterion or standard in the following action and is necessary for the first clause to be realized.
+    examples:
+      - sentence: 저녁 같이 <f>먹게</f> 빨리 오세요.
+        type: simple
+        translated: Come quickly so that we can eat dinner together.
+        audio_url: https://r2.kimchi-reader.app/grammar/저녁_같이_먹게_빨리_오세요__2024-04-13.mp3
+      - sentence: 사람들이 모두 보게 안내문 벽에 붙였다.
+        type: simple
+        translated: They put up a notice on the wall so that everyone could see it.
+        audio_url: https://r2.kimchi-reader.app/grammar/사람들이_모두_보게_안내문_벽에_붙였다__2024-04-13.mp3
+metadata:
+  type: verb
+details: |-

@@ -1,0 +1,22 @@
+name: 아/어야
+definitions:
+  - slug: condition
+    name: Condition
+    english_alternatives: should, must, have to
+    meaning: Express a necessity, obligation or a condition that has be completed for something else to realize.
+    examples:
+      - sentence: 날씨가 추워졌으니까 옷을 따뜻하게 입<f>어야</f>겠어요.
+        type: simple
+        translated: Since the weather has gotten cold, I should wear warm clothes.
+        audio_url: https://r2.kimchi-reader.app/grammar/날씨가_추워졌으니까_옷을_따뜻하게_입어야겠어요__2024-04-13.mp3
+      - sentence: 품질이 좋<f>아야</f> 사람들이 그 물건을 살 거예요.
+        type: simple
+        translated: People will buy that product if the quality is good.
+        audio_url: https://r2.kimchi-reader.app/grammar/품질이_좋아야_사람들이_그_물건을_살_거예요__2024-04-13.mp3
+      - sentence: 내 실수였으니까 내가 바로잡<f>아야</f> 한다고.
+        type: simple
+        translated: It was my mistake, so I have to correct it.
+        audio_url: https://r2.kimchi-reader.app/grammar/내_실수였으니까_내가_바로잡아야_한다고__2024-04-13.mp3
+metadata:
+  type: verb
+details: |-

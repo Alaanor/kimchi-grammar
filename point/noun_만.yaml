@@ -1,0 +1,18 @@
+name: 만
+definitions:
+  - slug: limitation
+    name: Limitation
+    english_alternatives: only, but only
+    meaning: A particle that expresses the sense of limitation, emphasis and degree of comparison.
+    examples:
+      - sentence: 제 남동생은 액션 영화<f>만</f> 보고 다른 영화는 안 봐요.
+        type: simple
+        translated: My younger brother only watches action movies and doesn't watch other movies.
+        audio_url: https://r2.kimchi-reader.app/grammar/제_남동생은_액션_영화만_보고_다른_영화는_안_봐요__2024-04-13.mp3
+      - sentence: 주말에는 하루 종일 집에서 잠<f>만</f> 자요.
+        type: simple
+        translated: On weekends, I just sleep at home all day.
+        audio_url: https://r2.kimchi-reader.app/grammar/주말에는_하루_종일_집에서_잠만_자요__2024-04-13.mp3
+metadata:
+  type: noun
+details: |-

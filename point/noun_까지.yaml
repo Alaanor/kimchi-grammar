@@ -1,0 +1,22 @@
+name: 까지
+definitions:
+  - slug: range
+    name: End of range
+    english_alternatives: until, to
+    meaning: Indicate the end of the range of time, place or action.
+    examples:
+      - sentence: 오늘은 6시<f>까지</f> 일할 거에요.
+        type: simple
+        translated: I will work until 6 o'clock today.
+        audio_url: https://r2.kimchi-reader.app/grammar/오늘은_6시까지_일할_거에요__2024-03-15.mp3
+      - sentence: 조금 식을 때<f>까지</f> 기다려야겠어요.
+        type: simple
+        translated: I should wait until it cools down a bit.
+        audio_url: https://r2.kimchi-reader.app/grammar/조금_식을_때까지_기다려야겠어요__2024-03-15.mp3
+      - sentence: 전화비 많이 나오게 언제<f>까지</f> 떠들고 있을 거야!
+        type: simple
+        translated: Until when are you going to keep talking and make the phone bill go up!
+        audio_url: https://r2.kimchi-reader.app/grammar/전화비_많이_나오게_언제까지_떠들고_있을_거야__2024-03-15.mp3
+metadata:
+  type: noun
+details: |-

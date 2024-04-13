@@ -1,0 +1,31 @@
+name: (으)ㄹ래(요)
+definitions:
+  - slug: intention
+    name: Intention
+    english_alternatives: going to, will
+    meaning: Used to indicate the speaker's intention to do something in the future.
+    examples:
+      - sentence: 어른이 되면 우선 운전 면허를 <f>딸래요</f>.
+        type: simple
+        translated: When I become an adult, I will get a driver's license first.
+        audio_url: https://r2.kimchi-reader.app/grammar/어른이_되면_우선_운전_면허를_딸래요__2024-04-13.mp3
+      - sentence: 전 홍차를 <f>마실래요</f>.
+        type: simple
+        translated: I'll have a cup of black tea.
+        audio_url: https://r2.kimchi-reader.app/grammar/전_홍차를_마실래요__2024-04-13.mp3
+  - slug: asking-opinion
+    name: Asking opinion
+    english_alternatives: how about
+    meaning: To ask for the listener's thoughts about the thing to do in the future.
+    examples:
+      - sentence: 내일 시간이 있으면 같이 영화를 <f>볼래요</f>?
+        type: simple
+        translated: If you have time tomorrow, how about watching a movie together?
+        audio_url: https://r2.kimchi-reader.app/grammar/내일_시간이_있으면_같이_영화를_볼래요__2024-04-13.mp3
+      - sentence: 오늘 점심을 같이 <f>먹을래요</f>?
+        type: simple
+        translated: How about having lunch together today?
+        audio_url: https://r2.kimchi-reader.app/grammar/오늘_점심을_같이_먹을래요__2024-04-13.mp3
+metadata:
+  type: verb
+details: |-

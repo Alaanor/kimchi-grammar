@@ -1,0 +1,22 @@
+name: 기
+definitions:
+  - slug: verb-to-noun
+    name: Verb to noun
+    english_alternatives:
+    meaning: Convert the preceding word as a noun.
+    examples:
+      - sentence: 그 약은 작아서 먹<f>기</f>가 편해요.
+        type: simple
+        translated: The pill is small, so it's easy to take.
+        audio_url: https://r2.kimchi-reader.app/grammar/그_약은_작아서_먹기가_편해요__2024-04-13.mp3
+      - sentence: 회사에 다니면서 공부하<f>기</f>가 힘들어요.
+        type: simple
+        translated: It's hard to study while working.
+        audio_url: https://r2.kimchi-reader.app/grammar/회사에_다니면서_공부하기가_힘들어요__2024-04-13.mp3
+metadata:
+  type: verb
+details: |-
+  # Usage {#usage}
+  
+  Can be applied on <f>descriptive verbs</f> and <f>action verbs</f> and converts them into a <f>noun</f>.
+  This effectively make it possible to add any <f>N+</f> grammar point after the verb.

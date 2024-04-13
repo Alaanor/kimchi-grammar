@@ -1,0 +1,34 @@
+name: 다니/라니/냐니/자니
+definitions:
+  - slug: reaction
+    name: Reaction
+    english_alternatives:
+    meaning: Expression to show the speaker's reaction, shock or disbelief to something they just learned, heard, saw or experienced.
+    examples:
+      - sentence: 두 달 동안 살을 10kg이나 빼<f>다니</f> 정말이에요?
+        type: simple
+        translated: You lost 10kg in two months, really?
+        audio_url: https://r2.kimchi-reader.app/grammar/두_달_동안_살을_10kg이나_빼다니_정말이에요__2024-04-13.mp3
+      - sentence: 그 사람이 너에게 뭐<f>라니</f>?
+        type: simple
+        translated: What did that person say to you?
+        audio_url: https://r2.kimchi-reader.app/grammar/그_사람이_너에게_뭐라니__2024-04-13.mp3
+      - sentence: 친구에게 내일 등산을 가겠<f>냐니</f> 싫다고 하더라.
+        type: simple
+        translated: My friend said they don't want to go hiking tomorrow.
+        audio_url: https://r2.kimchi-reader.app/grammar/친구에게_내일_등산을_가겠냐니_싫다고_하더라__2024-04-13.mp3
+      - sentence: 그래 너희 남편은 이번 여름에 어디로 휴가를 가<f>자니</f>?
+        type: simple
+        translated: So where is your husband planning to go on vacation this summer?
+        audio_url: https://r2.kimchi-reader.app/grammar/그래_너희_남편은_이번_여름에_어디로_휴가를_가자니__2024-04-13.mp3
+metadata:
+  type: verb
+details: |-
+  Shorthand for quote <f>[다/라/냐/자]고</f> + :dict[하다]{하니}. See :grammar[verb_으니_니]{informal-question}.
+  
+  |Full Pattern|Short form|
+  |---|---|
+  |:grammar[verb_다고] <f>하니</f>|<f>다니</f>|
+  |:grammar[verb_라고] <f>하니</f>|<f>라니</f>|
+  |:grammar[verb_냐고] <f>하니</f>|<f>냐니</f>|
+  |:grammar[verb_자고] <f>하니</f>|<f>자니</f>|

@@ -1,0 +1,31 @@
+name: 군(요)/구나
+definitions:
+  - slug: new-information
+    name: New information
+    english_alternatives:
+    meaning: Express surprise after learning something new.
+    examples:
+      - sentence: 한 달 배운 것치고는 운전을 꽤 <f>잘하는구나</f>.
+        type: simple
+        translated: You're quite good at driving for only having learned for a month.
+        audio_url: https://r2.kimchi-reader.app/grammar/한_달_배운_것치고는_운전을_꽤_잘하는구나__2024-04-13.mp3
+      - sentence: 이 식당 반찬이 모두 <f>맛있군요</f>.
+        type: simple
+        translated: All the side dishes at this restaurant are delicious.
+        audio_url: https://r2.kimchi-reader.app/grammar/이_식당_반찬이_모두_맛있군요__2024-04-13.mp3
+      - sentence: 저 배우가 연기를 정말 <f>잘하는군요</f>.
+        type: simple
+        translated: That actor is really good at acting.
+        audio_url: https://r2.kimchi-reader.app/grammar/저_배우가_연기를_정말_잘하는군요__2024-04-13.mp3
+metadata:
+  type: verb
+details: |-
+  # Usage {#usage}
+  
+  |Tense|Word type|Pattern|
+  |---|---|---|
+  |Present|Action verb|<f>는군(요)</f> or <f>는구나</f>|
+  |Present|Descriptive verb|<f>군(요)</f> or <f>구나</f>|
+  |Past|Verb|<f>았/었군(요)</f> or <f>았/었구나</f>|
+  
+  For usage with noun, :grammar[noun_이다] is used to make the transition.

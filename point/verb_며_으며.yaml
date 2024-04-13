@@ -1,0 +1,44 @@
+name: (으)며
+definitions:
+  - slug: occurring-simultaneously
+    name: Occurring simultaneously
+    english_alternatives: at the same time
+    meaning: Indicates that two or more actions are happening at the same time.
+    examples:
+      - sentence: 노래를 하<f>며</f> 공부를 한다.
+        type: simple
+        translated: I study while singing.
+        audio_url: https://r2.kimchi-reader.app/grammar/노래를_하며_공부를_한다__2024-03-24.mp3
+      - sentence: 빨갛고 매운 음식을 먹<f>으며</f> 스트레스를 푸는 장면을 본 적이 있나요?
+        type: simple
+        translated: Have you ever seen a scene where you de-stress by eating red and spicy food?
+        audio_url: https://r2.kimchi-reader.app/grammar/빨갛고_매운_음식을_먹으며_스트레스를_푸는_장면을_본_적이_있나요__2024-03-24.mp3
+  - slug: listing-actions-states-or-facts
+    name: Listing actions, states or facts
+    english_alternatives:
+    meaning: Used to list two or more actions, states, or facts. Mainly used in written language or formal situations.
+    examples:
+      - sentence: 그곳은 마치 고향처럼 아늑하고 포근하<f>며</f> 정겨운 느낌을 주는 곳이다.
+        type: simple
+        translated: That place is cozy, warm, and give a feeling like home.
+        audio_url: https://r2.kimchi-reader.app/grammar/그곳은_마치_고향처럼_아늑하고_포근하며_정겨운_느낌을_주는_곳이다__2024-03-24.mp3
+      - sentence: 한국 사람들은 매운 음식을 좋아하<f>며</f> 일을 빨리 처리한다고 들었다.
+        type: simple
+        translated: I heard that Koreans like spicy food and get things done quickly.
+        audio_url: https://r2.kimchi-reader.app/grammar/한국_사람들은_매운_음식을_좋아하며_일을_빨리_처리한다고_들었다__2024-03-24.mp3
+  - slug: listing-things
+    name: Listing things
+    english_alternatives:
+    meaning: When used with 이다, it used to list two or more things or statement. Also implies that they are large in number and there are more than just the listed items.
+    examples:
+      - sentence: 돈이<f>며</f> 명예<f>며</f> 관심없다.
+        type: simple
+        translated: I don't care about money or fame.
+        audio_url: https://r2.kimchi-reader.app/grammar/돈이며_명예며_관심없다__2024-03-24.mp3
+      - sentence: 무<f>며</f> 오이<f>며</f> 부추<f>며</f> 갖가지 채소로 김치를 담근다.
+        type: simple
+        translated: Kimchi is made from various vegetables such as white radishes, cucumbers, and leeks.
+        audio_url: https://r2.kimchi-reader.app/grammar/무며_오이며_부추며_갖가지_채소로_김치를_담근다__2024-03-24.mp3
+metadata:
+  type: verb
+details: |-

@@ -1,0 +1,31 @@
+name: 겠
+definitions:
+  - slug: intention
+    name: Intention
+    english_alternatives: going to, plan to
+    meaning: Expresses the speaker's intention or plan to do something in the future.
+    examples:
+      - sentence: 시술 시작하<f>겠</f>습니다.
+        type: simple
+        translated: I will start the treatment.
+        audio_url: https://r2.kimchi-reader.app/grammar/시술_시작하겠습니다__2024-04-13.mp3
+      - sentence: 조금 식을 때까지 기다려야<f>겠</f>어요.
+        type: simple
+        translated: I will have to wait until it cools down a bit.
+        audio_url: https://r2.kimchi-reader.app/grammar/조금_식을_때까지_기다려야겠어요__2024-04-13.mp3
+  - slug: supposition
+    name: Supposition
+    english_alternatives: looks like, sounds, appears
+    meaning: Expresses the speaker's supposition about a certain situation.
+    examples:
+      - sentence: 이 음식 정말 맛있<f>겠</f>다!
+        type: simple
+        translated: This food looks really delicious!
+        audio_url: https://r2.kimchi-reader.app/grammar/이_음식_정말_맛있겠다__2024-04-13.mp3
+      - sentence: 이 영화 정말 재밌<f>겠</f>다!
+        type: simple
+        translated: This movie looks really fun!
+        audio_url: https://r2.kimchi-reader.app/grammar/이_영화_정말_재밌겠다__2024-04-13.mp3
+metadata:
+  type: verb
+details: |-

@@ -1,0 +1,19 @@
+name: (으)ㄹ지(도) 모르다
+definitions:
+  - slug: possible-outcome
+    name: Possible outcome
+    english_alternatives: might happen
+    meaning: Used to indicate that something might happen or could possibly occur.
+    examples:
+      - sentence: 오늘 오후에 비가 <f>올지도 몰라요</f>.
+        type: simple
+        translated: It might rain this afternoon.
+        audio_url: https://r2.kimchi-reader.app/grammar/오늘_오후에_비가_올지도_몰라요__2024-04-13.mp3
+      - sentence: 바람이 많이 불어서 비행기가 출발할 수 <f>있을지 모르겠습니다</f>.
+        type: simple
+        translated: I don't know if the plane can take off because it's very windy.
+        audio_url: https://r2.kimchi-reader.app/grammar/바람이_많이_불어서_비행기가_출발할_수_있을지_모르겠습니다__2024-04-13.mp3
+metadata:
+  type: composite
+details: |-
+  

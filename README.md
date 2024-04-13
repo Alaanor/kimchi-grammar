@@ -1,6 +1,6 @@
 # Kimchi Grammar
 
-This repository is hosts the data used in the grammar section of Kimchi Reader, you can see it live at [kimchi-reader.app/grammar](https://kimchi-reader.app/grammar).
+This repository is hosting the data used in the grammar section of Kimchi Reader, you can see it live at [kimchi-reader.app/grammar](https://kimchi-reader.app/grammar).
 It exclusively contains data in the form of .yaml files for now, no code is included.
 
 ## Purpose and scope

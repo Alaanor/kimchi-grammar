@@ -1,0 +1,18 @@
+name: 고 싶다
+definitions:
+  - slug: desire
+    name: Desire
+    english_alternatives: to want
+    meaning: Used to express a desire or wish to do something.
+    examples:
+      - sentence: 한 친구를 만나<f>고 싶습니다</f>.
+        type: simple
+        translated: I want to meet a friend.
+        audio_url: https://r2.kimchi-reader.app/grammar/한_친구를_만나고_싶습니다__2024-04-15.mp3
+      - sentence: 작년에 한국에 여행하<f>고 싶었어요</f>.
+        type: simple
+        translated: Last year, I wanted to travel to Korea.
+        audio_url: https://r2.kimchi-reader.app/grammar/작년에_한국에_여행하고_싶었어요__2024-04-15.mp3
+metadata:
+  type: composite
+details: |-

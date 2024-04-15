@@ -1,0 +1,38 @@
+name: 는/(으)ㄴ/(으)ㄹ 것
+definitions:
+  - slug: change-sentence-to-noun
+    name: Change sentence to a noun
+    english_alternatives:
+    meaning: Changes the sentence, or the verb phrase of a sentence, into a noun.
+    examples:
+      - sentence: 책을 읽<f>는 것</f>을 좋아해요.
+        type: simple
+        translated: I like the act of reading books.
+        audio_url: https://r2.kimchi-reader.app/grammar/책을_읽는_것을_좋아해요__2024-04-15.mp3
+      - sentence: 우리는 다음 주에 <f>갈 것</f>이에요.
+        type: simple
+        translated: We will go next week.
+        audio_url: https://r2.kimchi-reader.app/grammar/우리는_다음_주에_갈_것이에요__2024-04-15.mp3
+metadata:
+  type: composite
+details: |-
+  # (으)ㄹ 것 {#을_것}
+
+  (으)ㄹ 것 signifies future tense
+
+  ::example[이 책을 읽<f>을 것</f>을 추천합니다. | I recommend that you will read this book. | https://r2.kimchi-reader.app/grammar/이_책을_읽을_것을_추천합니다__2024-04-15.mp3]
+
+  Check out noun modifiers :grammar[verb_ㄴ_은_는_ㄹ_을] for more info.
+
+  # 는 거 {#는_거}
+  
+  In casual or colloquial language, 는 것 is often shortened to 는 거. Spoken language transcribed to text may often be written this way.
+  
+  ::example[친구를 만나<f>는 거</f> 항상 즐거워. | The act of meeting friends is always enjoyable. | https://r2.kimchi-reader.app/grammar/친구를_만나는_거_항상_즐거워__2024-04-15.mp3]
+  
+  # 는거 {#는거}
+
+  Native speakers often colloquially write 는거 (without the space). It doesn't strictly follow spacing rules, so its a common "mistake". The meaning is the same.
+
+  ::example[알고 있<f>는거</f>지? | You know that, right? | https://r2.kimchi-reader.app/grammar/알고_있는거지__2024-04-15.mp3]
+  ::example[그가 도움을 요청하<f>는거</f>지, 그래서 우리가 도와줘야 해. | It's that he is asking for help, so we need to help. | https://r2.kimchi-reader.app/grammar/그가_도움을_요청하는거지,_그래서_우리가_도와줘야_해__2024-04-15.mp3]

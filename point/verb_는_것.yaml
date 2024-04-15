@@ -1,4 +1,4 @@
-name: 는 것
+name: 는/(으)ㄴ/(으)ㄹ 것
 definitions:
   - slug: change-sentence-to-noun
     name: Change Sentence to a Noun
@@ -9,29 +9,25 @@ definitions:
         type: simple
         translated: I like the act of reading books.
         audio_url: 
-      - sentence: 매일 운동하<f>는 것</f>이 건강에 좋아요.
-        type: simple
-        translated: The act of exercising daily is good for health.
-        audio_url: 
-  - slug: change-sentence-to-future-noun
-    name: Change Sentence to a Future Noun
-    english_alternatives:
-    meaning: ㄹ/을 것 is the same as 는 것, but expresses that it will happen in the future.
-    examples:
       - sentence: 우리는 다음 주에 <f>갈 것</f>이에요.
         type: simple
         translated: We will go next week. 
         audio_url: 
-      - sentence: 이 책을 읽<f>을 것</f>을 추천합니다.
-        type: simple
-        translated: I recommend reading this book (literally: "I recommend that you will read this book.")
-        audio_url: 
 metadata:
   type: verb
 details: |-
+
+  # (으)ㄹ 것
+
+  (으)ㄹ 것 signifies future tense
+
+  ::example[이 책을 읽을 것을 추천합니다. | I recommend that you will read this book.]
+
+  Check out noun modifiers :grammar[verb_ㄴ_은_는_ㄹ_을] for more info.
+
   # 는 거
   
-  In spoken or casual language, 는 것 is often shortened to 는 거. Spoken language transcribed to text may often be written this way.
+  In casual or colloquial language, 는 것 is often shortened to 는 거. Spoken language transcribed to text may often be written this way.
   
   ::example[친구를 만나는 거 항상 즐거워. | The act of meeting friends is always enjoyable.]
   

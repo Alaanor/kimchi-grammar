@@ -1,8 +1,8 @@
 name: (느)ㄴ다니까/(이)라니까
 definitions:
-  - slug: i-said-that
-    name: I said that
-    english_alternatives: I said that, i told you that
+  - slug: confirming-prior-information
+    name: Confirming prior information
+    english_alternatives: I said that, I told you that
     meaning: Reminds the listener about something already said, or about a prediction that came true.
     examples:
       - sentence: 약속 취소했다고 말했<f>다니까</f>, 왜 기다렸어?
@@ -13,7 +13,7 @@ definitions:
         type: simple
         translated: I told you I’m going home, don't worry.
         audio_url: 
-      - sentence: 이게 정답이라니까, 더 이상 의심하지 마.
+      - sentence: 이게 정답<f>이라니까</f>, 더 이상 의심하지 마.
         type: simple
         translated: Since this is the correct answer, don't doubt it any further.
         audio_url: 

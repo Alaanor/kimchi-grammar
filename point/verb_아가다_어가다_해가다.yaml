@@ -1,0 +1,67 @@
+name: 아/어 가다
+definitions:
+  - slug: continuely
+    name: Continuely
+    english_alternatives: Keep doing
+    meaning: Indicates an action in the present continues into the future.
+    examples:
+      - sentence: 한국어를 <f>공부해 가겠습니다</f>!
+        type: simple
+        translated: I will keep studying Korean! (now and in the future)
+        audio_url: 
+      - sentence: 일이 잘 <f>돼 가요</f>?
+        type: simple
+        translated: Are things going well? / Is work progressing favourably?
+        audio_url:
+      - sentence: 시간이 지나면서, 저는 아버지를 더 <f>닮아 가고 있어요</f>!
+        type: simple
+        translated: As time goes on, I'm looking like my father (more and more)!
+        audio_url:
+      - sentence: <f>살아가면서</f> 힘든 일이 많지만 포기하지 않을 거예요!
+        type: simple
+        translated: As you go through life there are many difficlties, but I won't give up!
+        audio_url:        
+  - slug: going-somewhere
+    name: Going somewhere
+    english_alternatives: Moving towards
+    meaning: Indicates an action moves away from the speaker and towards a destination or person.
+    examples:
+      - sentence: 식당까지 <f>걸어 갔어요</f>. 
+        type: simple
+        translated: I walked to the restaurant.
+        audio_url:
+      - sentence: 집에서 기다려 주세요. 치킨을 <f>사 갈게요</f>. 
+        type: simple
+        translated: Please wait at home. I'll buy chicken (and go to you.)
+        audio_url:
+      - sentence: 여기에서 먹어도 안 돼요. 음식을 <f>가져가세요</f>. 
+        type: simple
+        translated: You're not allowed to eat here. Please take your food (and leave).
+        audio_url:
+  - slug: almost-done
+    name: Almost done 
+    english_alternatives: About to finish
+    meaning: Indicates an action that has started is still in progress but will soon end.
+    examples:
+      - sentence: 드라마가 다 <f>끝나 가요</f>.
+        type: simple
+        translated: The TV show is about to end.
+        audio_url: 
+      - sentence: 물이 조금밖에 안 남아서 거의 다 <f>마셔 가요</f>.
+        type: simple
+        translated: There's only a bit of water left, so I'm almost done drinking it. 
+        audio_url:        
+      - sentence: 이 책을 다 <f>읽어 가요</f>.
+        type: simple
+        translated: I'm almost done reading this book. 
+        audio_url:     
+      - sentence: 거의 다 <f>도착해 가요</f>. 조금만 더 기다려 주세요.
+        type: simple
+        translated: I'm almost there (about to arrive). Please wait a little longer.
+        audio_url:          
+metadata:
+  type: verb
+details: |-
+  # Spacing {#spacing}
+  
+  Both versions <f>[아/어]가다</f> and <f>아/어 가다</f> (with space) exist and can be used interchangeably.

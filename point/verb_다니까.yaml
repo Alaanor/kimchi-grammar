@@ -8,7 +8,7 @@ definitions:
       - sentence: 약속 취소했다고 말했<f>다니까</f>, 왜 기다렸어?
         type: simple
         translated: I told you I canceled the appointment, why did you wait?
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/약속_취소했다고_말했다니까,_왜_기다렸어__2024-04-19.mp3
       - sentence: 집에 간<f>다니까</f>, 걱정하지 마.
         type: simple
         translated: I told you I’m going home, don't worry.

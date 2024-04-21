@@ -20,7 +20,7 @@ definitions:
       - sentence: <f>살아가면서</f> 힘든 일이 많지만 포기하지 않을 거예요!
         type: simple
         translated: As you go through life there are many difficlties, but I won't give up!
-        audio_url:        
+        audio_url: https://r2.kimchi-reader.app/grammar/살아가면서_힘든_일이_많지만_포기하지_않을_거예요__2024-04-21.mp3
   - slug: going-somewhere
     name: Going somewhere
     english_alternatives: Moving towards

@@ -12,7 +12,7 @@ definitions:
       - sentence: 일이 잘 <f>돼 가요</f>?
         type: simple
         translated: Are things going well? / Is work progressing favourably?
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/일이_잘_돼_가요__2024-04-21.mp3
       - sentence: 시간이 지나면서, 저는 아버지를 더 <f>닮아 가고 있어요</f>!
         type: simple
         translated: As time goes on, I'm looking like my father (more and more)!

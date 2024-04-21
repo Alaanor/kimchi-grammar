@@ -29,7 +29,7 @@ definitions:
       - sentence: 치킨을 먹고 싶어? 그럼 지금 <f>사 올게</f>. 
         type: simple
         translated: You want to eat some fried chicken? Then I'll go buy some now (and then come back here).
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/치킨을_먹고_싶어_그럼_지금_사_올게__2024-04-21.mp3
       - sentence: 학생들이 교실에 <f>들어왔어요</f>. 
         type: simple
         translated: The students came into the classroom. 

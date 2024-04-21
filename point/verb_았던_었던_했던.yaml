@@ -8,7 +8,7 @@ definitions:
       - sentence: <f>시끄러웠던</f> 교실이 요즘에 아주 조용해요.
         type: simple
         translated: The classroom that used to be noisy is very quiet these days.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/시끄러웠던_교실이_요즘에_아주_조용해요__2024-04-21.mp3
     examples:
       - sentence: 우리가 <f>살았던</f> 집은 매우 넓었어요.
         type: simple

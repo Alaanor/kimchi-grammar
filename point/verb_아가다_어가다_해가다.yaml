@@ -50,7 +50,7 @@ definitions:
       - sentence: 물이 조금밖에 안 남아서 거의 다 <f>마셔 가요</f>.
         type: simple
         translated: There's only a bit of water left, so I'm almost done drinking it. 
-        audio_url:        
+        audio_url: https://r2.kimchi-reader.app/grammar/물이_조금밖에_안_남아서_거의_다_마셔_가요__2024-04-21.mp3
       - sentence: 이 책을 다 <f>읽어 가요</f>.
         type: simple
         translated: I'm almost done reading this book. 

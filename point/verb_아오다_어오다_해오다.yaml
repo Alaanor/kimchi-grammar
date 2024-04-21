@@ -16,7 +16,7 @@ definitions:
       - sentence: 나는 열심히 <f>일해 왔어요</f>.
         translated: I've worked hard (from the start continually even now)
         type: simple
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/나는_열심히_일해_왔어요__2024-04-21.mp3
       - sentence: 이 순간을 <f>기다려 왔어요</f>.
         type: simple
         translated: I've waited for ths moment.

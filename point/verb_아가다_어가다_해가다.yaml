@@ -58,7 +58,7 @@ definitions:
       - sentence: 거의 다 <f>도착해 가요</f>. 조금만 더 기다려 주세요.
         type: simple
         translated: I'm almost there (about to arrive). Please wait a little longer.
-        audio_url:          
+        audio_url: https://r2.kimchi-reader.app/grammar/거의_다_도착해_가요_조금만_더_기다려_주세요__2024-04-21.mp3
 metadata:
   type: verb
 details: |-

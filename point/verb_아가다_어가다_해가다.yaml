@@ -16,7 +16,7 @@ definitions:
       - sentence: 시간이 지나면서, 저는 아버지를 더 <f>닮아 가고 있어요</f>!
         type: simple
         translated: As time goes on, I'm looking like my father (more and more)!
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/시간이_지나면서,_저는_아버지를_더_닮아_가고_있어요__2024-04-21.mp3
       - sentence: <f>살아가면서</f> 힘든 일이 많지만 포기하지 않을 거예요!
         type: simple
         translated: As you go through life there are many difficlties, but I won't give up!

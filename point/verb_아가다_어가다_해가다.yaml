@@ -37,7 +37,7 @@ definitions:
       - sentence: 여기에서 먹어도 안 돼요. 음식을 <f>가져가세요</f>. 
         type: simple
         translated: You're not allowed to eat here. Please take your food (and leave).
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/여기에서_먹어도_안_돼요_음식을_가져가세요__2024-04-21.mp3
   - slug: almost-done
     name: Almost done 
     english_alternatives: About to finish

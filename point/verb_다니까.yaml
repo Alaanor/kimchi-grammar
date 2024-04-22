@@ -1,0 +1,23 @@
+name: (ㄴ/는)다니까/(이)라니까
+definitions:
+  - slug: confirming-prior-information
+    name: Confirming prior information
+    english_alternatives: I said that, I told you that
+    meaning: Reminds the listener about something already said, or about a prediction that came true.
+    examples:
+      - sentence: 약속 취소했다고 말했<f>다니까</f>, 왜 기다렸어?
+        type: simple
+        translated: I told you I canceled the appointment, why did you wait?
+        audio_url: https://r2.kimchi-reader.app/grammar/약속_취소했다고_말했다니까,_왜_기다렸어__2024-04-19.mp3
+      - sentence: 집에 간<f>다니까</f>, 걱정하지 마.
+        type: simple
+        translated: I told you I’m going home, don't worry.
+        audio_url: https://r2.kimchi-reader.app/grammar/이게_정답이라니까,_더_이상_의심하지_마__2024-04-19.mp3
+      - sentence: 이게 정답<f>이라니까</f>, 더 이상 의심하지 마.
+        type: simple
+        translated: Since this is the correct answer, don't doubt it any further.
+        audio_url: https://r2.kimchi-reader.app/grammar/집에_간다니까,_걱정하지_마__2024-04-19.mp3
+metadata:
+  type: verb
+details: |-
+  This is an abbreviation of <f>다[고 하니까]는</f> and <f>(이)라[고 하니까]는</f>.

@@ -3,8 +3,7 @@ definitions:
   - slug: object
     name: Object marker
     english_alternatives: ""
-    meaning: The object marker is used to indicate that a noun is the object in a
-      sentence.
+    meaning: The object marker is used to indicate that a noun is the object in a sentence.
     examples:
       - sentence: 그때부터 10년<f>을</f> 기다렸어요.
         type: simple
@@ -18,14 +17,14 @@ metadata:
   type: noun
 details: |-
   # Dropping the particle {#dropping-particle}
-  
+
   The object marker :grammar[noun_을_를] is used to indicate that a noun is the
   object in a sentence. In formal Korean, its use is more strict to clearly
   define the sentence structure. However, in colloquial speech, this particle is
   often omitted for brevity or when the context already makes the object clear.
-  
+
   # Contraction {#contraction}
-  
+
   Certain cases allow for contraction, such as <f>저</f> and <span
   c-orange>를</f> merging to form <f>절</f>.
   :source[https://namu.wiki/w/절#s-4.1]

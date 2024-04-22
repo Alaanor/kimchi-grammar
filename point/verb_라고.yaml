@@ -33,22 +33,22 @@ metadata:
   type: verb
 details: |-
   # Usage {#usage}
-  
+
   For direct quote:
   - "quoted statement" + <f>라고</f>
-  
+
   For indirect quote:
-  
+
   |Sentence type|Word type|Form|
   |---|---|---|
   |Declarative (Present)|Noun|<f>(이)라고</f>|
   |Declarative (Future)|Verb|<f>(으)ㄹ 거라고</f>|
   |Imperative|Verb|<f>(으)라고</f>|
-  
+
   # Shorthand {#shorthand}
-  
+
   For indirect quote:
-  
+
   |Sentence type|Word type|Full form|Shortened form|
   |---|---|---|---|
   | Declarative (Present) | Noun | <f>(이)라고 해요</f> | <f>(이)래요</f> |

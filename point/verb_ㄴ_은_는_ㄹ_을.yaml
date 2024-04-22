@@ -20,10 +20,9 @@ definitions:
 metadata:
   type: verb
 details: |-
-    |Tense|Modifiers|
-    |---|---|
-    |Present (descriptive verb)|<f>(으)ㄴ</f>|
-    |Present (action verb)|<f>는</f>|
-    |Past (all)|<f>(으)ㄴ</f>|
-    |Future (all)|<f>(으)ㄹ</f>|
-  
+  |Tense|Modifiers|
+  |---|---|
+  |Present (descriptive verb)|<f>(으)ㄴ</f>|
+  |Present (action verb)|<f>는</f>|
+  |Past (all)|<f>(으)ㄴ</f>|
+  |Future (all)|<f>(으)ㄹ</f>|

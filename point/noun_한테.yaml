@@ -21,7 +21,7 @@ metadata:
   type: noun
 details: |-
   # Usage {#usage}
-  
+
   The particle :grammar[noun_한테] is used with specific verbs such as
   :dict[전화하다],
   :dict[묻다],
@@ -36,8 +36,8 @@ details: |-
   :dict[쓰다],
   :dict[가다] and
   :dict[오다].
-  
+
   The particle :grammar[noun_한테]{noprefix} can only be used if the person receiving the action has a
   status lower than or equal to ours.
-  
+
   When the target is not a good fit for :grammar[noun_한테]{noprefix} (such as plants, things and places), the :grammar[noun_에] particle can be used instead.

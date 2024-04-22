@@ -3,8 +3,7 @@ definitions:
   - slug: approximation
     name: Approximation
     english_alternatives: about, around, approximately
-    meaning: Used after nouns indicating numbers, quantities, and
-      time to express approximation.
+    meaning: Used after nouns indicating numbers, quantities, and time to express approximation.
     examples:
       - sentence: 공항에 한 시<f>쯤</f> 도착했어요.
         type: simple

@@ -3,12 +3,12 @@ points:
     definition_slug: continuing-state
     details: |-
       Expresses the continuing state of a completed action.
-      
+
       Can be used when talking about standing, sitting, lying, whereas :grammar[고_있다]{no_prefix} can not.
   - grammar_id: 고_있다
     definition_slug: ongoing-state
     details: |-
       Expresses an action currently in progress.
-      
+
       Can be used with verb of wearing such as :dict[입다], :dict[신다], :dict[쓰다].
 details: |-

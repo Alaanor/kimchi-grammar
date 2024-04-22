@@ -25,7 +25,7 @@ metadata:
   type: verb
 details: |-
   Shorthand for quote <f>[다/라/냐/자]고</f> + :dict[하다]{하니}. See :grammar[verb_으니_니]{informal-question}.
-  
+
   |Full Pattern|Short form|
   |---|---|
   |:grammar[verb_다고] <f>하니</f>|<f>다니</f>|

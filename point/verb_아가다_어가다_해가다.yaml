@@ -26,20 +26,20 @@ definitions:
     english_alternatives: Moving towards
     meaning: Indicates an action moves away from the speaker and towards a destination or person.
     examples:
-      - sentence: 식당까지 <f>걸어 갔어요</f>. 
+      - sentence: 식당까지 <f>걸어 갔어요</f>.
         type: simple
         translated: I walked to the restaurant.
         audio_url: https://r2.kimchi-reader.app/grammar/식당까지_걸어_갔어요__2024-04-21.mp3
-      - sentence: 집에서 기다려 주세요. 치킨을 <f>사 갈게요</f>. 
+      - sentence: 집에서 기다려 주세요. 치킨을 <f>사 갈게요</f>.
         type: simple
         translated: Please wait at home. I'll buy chicken (and go to you.)
         audio_url: https://r2.kimchi-reader.app/grammar/집에서_기다려_주세요_치킨을_사_갈게요__2024-04-21.mp3
-      - sentence: 여기에서 먹어도 안 돼요. 음식을 <f>가져가세요</f>. 
+      - sentence: 여기에서 먹어도 안 돼요. 음식을 <f>가져가세요</f>.
         type: simple
         translated: You're not allowed to eat here. Please take your food (and leave).
         audio_url: https://r2.kimchi-reader.app/grammar/여기에서_먹어도_안_돼요_음식을_가져가세요__2024-04-21.mp3
   - slug: almost-done
-    name: Almost done 
+    name: Almost done
     english_alternatives: About to finish
     meaning: Indicates an action that has started is still in progress but will soon end.
     examples:
@@ -49,11 +49,11 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/드라마가_다_끝나_가요__2024-04-21.mp3
       - sentence: 물이 조금밖에 안 남아서 거의 다 <f>마셔 가요</f>.
         type: simple
-        translated: There's only a bit of water left, so I'm almost done drinking it. 
+        translated: There's only a bit of water left, so I'm almost done drinking it.
         audio_url: https://r2.kimchi-reader.app/grammar/물이_조금밖에_안_남아서_거의_다_마셔_가요__2024-04-21.mp3
       - sentence: 이 책을 다 <f>읽어 가요</f>.
         type: simple
-        translated: I'm almost done reading this book. 
+        translated: I'm almost done reading this book.
         audio_url: https://r2.kimchi-reader.app/grammar/이_책을_다_읽어_가요__2024-04-21.mp3
       - sentence: 거의 다 <f>도착해 가요</f>. 조금만 더 기다려 주세요.
         type: simple
@@ -63,5 +63,5 @@ metadata:
   type: verb
 details: |-
   # Spacing {#spacing}
-  
+
   Both versions <f>[아/어]가다</f> and <f>아/어 가다</f> (with space) exist and can be used interchangeably.

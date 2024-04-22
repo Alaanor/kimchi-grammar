@@ -1,5 +1,5 @@
 name: 아/어다가
-definitions: 
+definitions:
   - slug: sequential-actions
     name: Sequential actions
     english_alternatives:
@@ -24,4 +24,3 @@ details: |-
   # Shortened form {#shortened}
 
   :grammar[verb_아다가_어다가_해다가] can be shortened to the form -<f>다</f>.
-

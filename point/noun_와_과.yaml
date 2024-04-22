@@ -3,13 +3,11 @@ definitions:
   - slug: enumeration
     name: Enumeration
     english_alternatives: and
-    meaning: Connects multiple nouns, indicating a list or group without specifying
-      order.
+    meaning: Connects multiple nouns, indicating a list or group without specifying order.
     examples:
       - type: simple
         sentence: 초가집에는 어머니<f>와</f> 어린 삼 남매가 살았다.
-        translated: In the straw-thatched house lived a mother and her three young
-          siblings.
+        translated: In the straw-thatched house lived a mother and her three young siblings.
         audio_url: https://r2.kimchi-reader.app/grammar/초가집에는_어머니와_어린_삼_남매가_살았다._2024-02-21.mp3
       - sentence: 대만<f>과</f> 일본은 사이가  좋다.
         type: simple
@@ -33,6 +31,6 @@ metadata:
   type: noun
 details: |-
   # Usage {#usage}
-  
+
   - <f>와</f> is used in front of a word ending in a vowel.
   - <f>과</f> is used in front of a word ending in a consonant.

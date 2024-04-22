@@ -17,9 +17,9 @@ metadata:
   type: verb
 details: |-
   # Interrogative words {#interrogative-words}
-  
+
   This grammar :grammar[verb_든지] is commonly attached to :dict[누구], :dict[어디], :dict[언제], :dict[뭐] and :dict[어느].
-  
+
   | Base word | With :grammar[verb_든지] |
   | ---- | -- |
   | :dict[누구] (who) | 누구든지 (whoever) |
@@ -27,8 +27,8 @@ details: |-
   | :dict[언제] (when) | 언제든지 (whenever) |
   | :dict[뭐] (what) | 뭐든지 (whatever) |
   | :dict[어느] (which) | 어느든지 (whichever) |
-  
+
   # With nouns {#nouns}
-  
+
   :grammar[verb_든지] can be indirectly attached to nouns, in those case it goes through :grammar[noun_이다] first.
   Note that <span c-orange>이</span> might not appear at all.

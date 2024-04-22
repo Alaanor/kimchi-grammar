@@ -22,25 +22,24 @@ metadata:
   type: verb
 details: |-
   # Usage {#usage}
-  
+
   For direct quote:
   - "quoted statement" + <f>다고</f>
-  
+
   For indirect quote:
-  
+
   |Sentence type|Word type|Form|
   |---|---|---|
   |Declarative (Present)|Action verb|<f>(느)ㄴ다고</f>|
   |Declarative (Present)|Descriptive verb|<f>다고</f>|
   |Declarative (Past)|Verb|<f>(았/었/했)다고</f>|
-  
+
   # Shorthand {#shorthand}
-  
+
   For indirect quote:
-  
+
   |Sentence type|Word type|Full form|Shortened form|
   |---|---|---|---|
   | Declarative (Present) | Action verb | <f>(느)ㄴ다고 해요</f> | <f>(느)ㄴ대요</f> |
   | Declarative (Present) | Descriptive verb | <f>다고 해요</f> | <f>대요</f> |
   | Declarative (Past) | Verb | <f>(았/었/였)다고 해요</f> | <f>(았/었/였)대요</f> |
-  

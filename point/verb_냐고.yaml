@@ -21,19 +21,19 @@ metadata:
   type: verb
 details: |-
   # Usage {#usage}
-  
+
   For indirect quote:
-  
+
   |Sentence type|Word type|Form|
   |---|---|---|
   |Interrogative|Action verb|<f>(느)냐고</f>|
   |Interrogative|Descriptive verb|<f>(으)냐고</f>|
   |Interrogative|Noun|<f>(이)냐고</f>|
-  
+
   # Shorthand {#shorthand}
-  
+
   For indirect quote:
-  
+
   |Sentence type|Word type|Full form|Shortened form|
   |---|---|---|---|
   |Interrogative (present)|Noun|<f>(느)냐고 하다</f>|<f>(느)냬요</f>|
@@ -41,4 +41,3 @@ details: |-
   |Interrogative (present)|Action verb|<f>(느)냐고 하다</f>|<f>(느)냬요</f>|
   |Interrogative (past)|Verb|<f>(았/었)(느)냐고 하다</f>|<f>(았/었)냬요</f>|
   |Interrogative (future)|Verb|<f>-(으)ㄹ 거냐고 하다</f>|<f>-(으)ㄹ 거냬요</f>|
-  

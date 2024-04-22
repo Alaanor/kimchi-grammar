@@ -21,37 +21,37 @@ metadata:
   type: noun
 details: |-
   # Usage {#usage}
-  
+
   - We add -<f>는</f> after a word that ends in a vowel.
   - We add -<f>은</f> after a word that ends with a consonant.
-  
+
   # Evocation {#evoke}
-  
+
   The :grammar[noun_은_는]{noprefix} particle can also be used to refer to something mentioned
   earlier in the conversation or to evoke something already known by both sides in the
   conversation.
-  
+
   # Comparison {#compare}
-  
+
   The :grammar[noun_은_는]{noprefix} particle is used to express comparison or contrast. In this case, it can attached
   to more than just subjects.
-  
+
   ::example[저<f>는</f> 솨과를 좋아해요. 배<f>는</f> 싫어해요. | I like apples. However, I dislike pears. | https://r2.kimchi-reader.app/grammar/저는_솨과를_좋아해요._배는_싫어해요._2024-03-15.mp3]
-  
+
   # Emphasis {#emphasis}
-  
+
   The particle :grammar[noun_은_는]{noprefix} is also used to emphasize on something.
-  
+
   ::example[우리에게도 문제<f>는</f> 있다. | We also have a problem. | https://r2.kimchi-reader.app/grammar/우리에게도_문제는_있다__2024-04-13.mp3]
-  
+
   # Formal language {#formal}
-  
+
   When using formal language, we use the particle <f>께서는</f> (:grammar[noun_께서]{noprefix} + :grammar[noun_은_는]{noprefix}).
   Unlike the :grammar[noun_은_는]{noprefix} particle, the <f>께서는</f> particle
   does not change depending on whether the preceding word ends in a vowel or a consonant.
-  
+
   # Spoken language {#spoken}
-  
+
   When spoken, the <f>는</f> particle is sometimes replaced by <f>ㄴ</f>, this is a contraction.
 
   ::example[글쎄, <f>전</f> 잘 모르겠어요. | Well, I am not sure. | https://r2.kimchi-reader.app/grammar/글쎄,_전_잘_모르겠어요._2024-03-15.mp3]

@@ -5,7 +5,7 @@ points:
       Mark the subject, who or what is doing the action.
   - grammar_id: noun_은_는
     definition_slug: topic
-    details:  |-
+    details: |-
       Mark the topic, what the sentence is about. The topic of the conversation.
   - grammar_id: noun_을_를
     definition_slug: object

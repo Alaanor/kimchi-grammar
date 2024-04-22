@@ -20,24 +20,22 @@ definitions:
 metadata:
   type: noun
 details: |-
-  
   # Common conjugation {#conjugation}
-  
+
   - <f>입니다</f>: Formal, polite form, used in formal writings or respectful speech.
   - <f>예요</f>/<f>이에요</f>: Polite form, used in everyday polite conversation. <f>예요</f> follows
     a vowel, and <f>이에요</f> follows a consonant.
   - <f>이야</f>: Informal form, used with close friends or in casual settings.
-  
+
   # Opposite {#opposite}
   The opposite of :dict[이다] is :dict[아니다].
-  
+
   # Bridge with verbs {#verbs}
-  
+
   There are a lot of grammar pattern that would normally require to be connected to a
   verb base (action/descriptive verb) but they can be connected to nouns by using
   :grammar[noun_이다] as a bridge.
-  
+
   Here is an example with :grammar[verb_며_으며]:
-  
+
   ::example[졸업식에 가족<f>이며</f> 친구<f>며</f> 아는 사람들이 다 왔어요. | All my acquaintances including my family and friends came to the graduation ceremony. | https://r2.kimchi-reader.app/grammar/졸업식에_가족이며_친구며_아는_사람들이_다_왔어요__2024-03-31.mp3]
-  

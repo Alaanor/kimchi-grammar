@@ -17,6 +17,6 @@ metadata:
   type: verb
 details: |-
   # Usage {#usage}
-  
+
   Can be applied on <f>descriptive verbs</f> and <f>action verbs</f> and converts them into a <f>noun</f>.
   This effectively make it possible to add any <f>N+</f> grammar point after the verb.

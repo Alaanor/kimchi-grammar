@@ -17,8 +17,7 @@ definitions:
   - slug: no-less-than
     name: Much more than expected
     english_alternatives: no less than
-    meaning: It expresses that the amount of something is much more than expected or
-      higher than the standard.
+    meaning: It expresses that the amount of something is much more than expected or higher than the standard.
     examples:
       - sentence: 저는 남동생 다섯 명<f>이나</f> 있어요.
         type: simple
@@ -27,8 +26,7 @@ definitions:
   - slug: at-least
     name: Not the best choice
     english_alternatives: at least
-    meaning: It expresses that the choice is not really one's first choice but it is
-      fine as the second best option.
+    meaning: It expresses that the choice is not really one's first choice but it is fine as the second best option.
     examples:
       - sentence: 오늘 오후에 시간 있으면 카페에<f>나</f> 갑시다.
         type: simple
@@ -38,6 +36,6 @@ metadata:
   type: noun
 details: |-
   # Usage {#usage}
-  
+
   - <f>이나</f> is added before a counter ending in a consonant
   - <f>나</f> is added before a counter that ends in a vowel

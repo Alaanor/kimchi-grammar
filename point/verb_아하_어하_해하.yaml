@@ -1,5 +1,5 @@
 name: 아/어하다
-definitions: 
+definitions:
   - slug: perceived-action
     name: Perceived action
     english_alternatives: appears to be, seems
@@ -17,7 +17,7 @@ metadata:
   type: verb
 details: |-
   # Usage {#usage}
-  
+
   | Base form | Meaning | Extended form | Meaning |
   |---|---|---|---|
   |:dict[좋다]|to be good|:dict[좋아하다]|to like|

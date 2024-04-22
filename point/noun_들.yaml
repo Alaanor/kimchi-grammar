@@ -21,7 +21,7 @@ metadata:
   type: noun
 details: |-
   # Usage note {#usage}
-  
+
   In Korean, grammatical structures do not inherently distinguish between singular and plural
   nouns. As a result, even in the absence of the plural marker :grammar[noun_들]{noprefix}, nouns
   can be interpreted as plural depending on the context.

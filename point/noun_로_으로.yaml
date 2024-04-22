@@ -26,12 +26,12 @@ metadata:
   type: noun
 details: |-
   # Usage {#usage}
-  
+
   - When the word ends in a vowel or <f>ㄹ</f>, we add <f>로</f> after it.
   - When the word ends with a consonant, add <f>으로</f> after the word.
-  
+
   # :grammar[noun_로_으로]{direction} VS :grammar[noun_에]{direction}
-  
+
   The :grammar[noun_로_으로]{noprefix} particle highlights direction, allowing for the use of terms that indicate
   directions such as "left, right". This contrasts with the :grammar[noun_에]{noprefix} particle, which focuses
   on the destination element within the sentence. Since "left, right" indicate direction rather than specific

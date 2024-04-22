@@ -21,11 +21,11 @@ metadata:
   type: verb
 details: |-
   # Usage {#usage}
-  
+
   |Tense|Word type|Pattern|
   |---|---|---|
   |Present|Action verb|<f>는군(요)</f> or <f>는구나</f>|
   |Present|Descriptive verb|<f>군(요)</f> or <f>구나</f>|
   |Past|Verb|<f>았/었군(요)</f> or <f>았/었구나</f>|
-  
+
   For usage with noun, :grammar[noun_이다] is used to make the transition.

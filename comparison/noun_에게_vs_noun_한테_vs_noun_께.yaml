@@ -5,7 +5,7 @@ points:
       Is the formal form.
   - grammar_id: noun_한테
     definition_slug: target
-    details:  |-
+    details: |-
       Is the informal form.
   - grammar_id: noun_께
     definition_slug: target

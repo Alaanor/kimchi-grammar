@@ -16,8 +16,7 @@ definitions:
   - slug: location
     name: Location
     english_alternatives: in, on
-    meaning:
-      When used with 있다 or 없다, it express the location of a person or thing.
+    meaning: When used with 있다 or 없다, it express the location of a person or thing.
     examples:
       - sentence: 소파 위<f>에</f> 고양이가 <f>있어요</f>.
         type: simple
@@ -30,8 +29,7 @@ definitions:
   - slug: direction
     name: Direction
     english_alternatives: to, toward
-    meaning:
-      When used with verbs of movement, it express the direction of the action.
+    meaning: When used with verbs of movement, it express the direction of the action.
     examples:
       - sentence: 저기 빈자리<f>에</f> <f>가서</f> 앉고.
         type: simple

@@ -34,7 +34,7 @@ definitions:
         type: simple
         translated: The students came into the classroom. 
         audio_url: https://r2.kimchi-reader.app/grammar/학생들이_교실에_들어왔어요__2024-04-21.mp3
-      - sentence: 책을 몇 권 <f>가져와 주세요</f>.
+      - sentence: 책을 몇 권 <f>가져와</f> 주세요.
         type: simple
         translated: Bring (to me) a few books.
         audio_url: https://r2.kimchi-reader.app/grammar/책을_몇_권_가져와_주세요__2024-04-21.mp3

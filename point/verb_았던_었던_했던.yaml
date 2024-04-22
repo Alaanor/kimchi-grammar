@@ -9,13 +9,11 @@ definitions:
         type: simple
         translated: The classroom that used to be noisy is very quiet these days.
         audio_url: https://r2.kimchi-reader.app/grammar/시끄러웠던_교실이_요즘에_아주_조용해요__2024-04-21.mp3
-    examples:
       - sentence: 우리가 <f>살았던</f> 집은 매우 넓었어요.
         type: simple
         translated: The house we had lived in was very spacious.
         audio_url: https://r2.kimchi-reader.app/grammar/우리가_살았던_집은_매우_넓었어요__2024-04-21.mp3
-    examples:
-      - sentence: 저는 어릴 때 했던 게임을 아직 좋아해요.
+      - sentence: 저는 어릴 때 <f>했던</f> 게임을 아직 좋아해요.
         type: simple
         translated: I still like the games I played when I was young
         audio_url: https://r2.kimchi-reader.app/grammar/저는_어릴_때_했던_게임을_아직_좋아해요__2024-04-21.mp3

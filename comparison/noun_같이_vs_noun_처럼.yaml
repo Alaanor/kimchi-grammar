@@ -6,5 +6,5 @@ points:
 details: |-
   Only :grammar[noun_같이]{similarity} can be used after time-related nouns.
 
-  - :correct[새벽<span c-orange>같이</span> 떠나다]
-  - :wrong[새벽<span c-orange>처럼</span> 떠나다]
+  - :correct[새벽<f>같이</f> 떠나다]
+  - :wrong[새벽<f>처럼</f> 떠나다]

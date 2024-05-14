@@ -1,0 +1,20 @@
+name: 에 대해(서)
+definitions:
+  - slug: About
+    name: About
+    english_alternatives: About
+    meaning: When you want to talk about something
+    examples:
+      - sentence: 한국 패션 스타일<f>에 대해</f> 어떻게 생각해요?
+        type: simple
+        translated: What do you think about Korean fashion style?
+        audio_url: 
+      - sentence: 사람들은 여행<f>에 대해서</f>는 말이 많아요.
+        type: simple
+        translated: People talk a lot about traveling.
+        audio_url: 
+metadata:
+  type: noun
+details: |- 
+
+

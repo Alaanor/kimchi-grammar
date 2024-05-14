@@ -1,0 +1,25 @@
+name: 아/어도 되다
+definitions:
+  - slug: Permission or approval for a behaviour
+    name: Permission or approval for a behaviour
+    english_alternatives: May, be allowed to
+    meaning: Used to ask for permission or approval before doing a certain action
+    examples:
+      - sentence: 사진을 <f>찍어도 돼요</f>?
+        type: simple
+        translated: May I take a picture?
+        audio_url: 
+      - sentence: 여기 <f>앉아도 돼요</f>?
+        type: simple
+        translated: May I sit here?
+        audio_url: 
+      - sentence: 창문을 <f>열어도 돼요</f>?
+        type: simple
+        translated: Eo you mind if I open the window?
+        audio_url: 
+metadata:
+  type: verb
+details: |-
+  # Other forms
+
+  In place of <f>아/어도 되다</f> you can also use <f>아/어도 괜찮아요</f> and <f>아/어도 좋다</f>

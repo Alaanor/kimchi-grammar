@@ -9,7 +9,7 @@ definitions:
         type: simple
         translated: What do you think about Korean fashion style?
         audio_url: https://r2.kimchi-reader.app/grammar/한국_패션_스타일에_대해_어떻게_생각해요__2024-05-15.mp3
-      - sentence: 사람들은 여행<f>에 대해서</f>는 말이 많아요.
+      - sentence: 사람들은 여행<f>에 대해서</f> 말이 많아요.
         type: simple
         translated: People talk a lot about traveling.
         audio_url: https://r2.kimchi-reader.app/grammar/사람들은_여행에_대해서는_말이_많아요__2024-05-15.mp3

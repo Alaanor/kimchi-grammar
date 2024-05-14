@@ -8,15 +8,15 @@ definitions:
       - sentence: 실내에서 담배를 피우면 안 돼요.
         type: simple
         translated: Smoking indoors is not allowed.
-        audio_url: 
+        audio_url:
       - sentence: 욵전 중에 전화하면 안 돼요.
         type: simple
         translated: Using the phone while driving is not allowed.
-        audio_url: 
+        audio_url:
       - sentence: 지금 길을 건너면 안 돼요.
         type: simple
         translated: You may not cross the street now.
-        audio_url: 
+        audio_url:
 metadata:
   type: composite
 details: |-

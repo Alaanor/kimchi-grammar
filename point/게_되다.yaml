@@ -1,6 +1,6 @@
 name: 게 되다
 definitions:
-  - slug: 
+  - slug: made-to-become-a-certain-way
     name: Made to become a certain way
     english_alternatives: Became, came to (be/do), ended up
     meaning: Expresses a change from one state to another or a change in situation as a result of someone else's action or the environment, regardless of the will of the subject.
@@ -8,15 +8,15 @@ definitions:
       - sentence: 요리를 <f>잘하게 되었어요</f>.
         type: simple
         translated: I became good at cooking.
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/요리를_잘하게_되었어요__2024-05-15.mp3
       - sentence: 축구를 <f>좋아하게 되었어요</f>.
         type: simple
         translated: I came to like soccer.
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/축구를_좋아하게_되었어요__2024-05-15.mp3
       - sentence: 저는 버섯을 안 먹었었는데 <f>먹게 됐어요</f>.
         type: simple
         translated: I didn't eat mushrooms, but I ended up eating them.
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/저는_버섯을_안_먹었었는데_먹게_됐어요__2024-05-15.mp3
 metadata:
-  type: verb
+  type: composite
 details: |- 

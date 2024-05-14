@@ -9,7 +9,7 @@ definitions:
         type: simple
         translated: Preschool students don't have to pay the bus fare.
         audio_url:
-      - sentence: 평일이니까 영화 표를 미리 <f>사지 않아도 돼요</f>. 
+      - sentence: 평일이니까 영화 표를 미리 <f>사지 않아도 돼요</f>.
         type: simple
         translated: Because it's a weekday, we don't have to buy tickets in advance.
         audio_url:

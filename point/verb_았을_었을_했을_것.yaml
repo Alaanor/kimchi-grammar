@@ -1,0 +1,25 @@
+name: (았/었/했)을 것
+definitions:
+  - slug: past-assumption
+    name: Past Assumption
+    english_alternatives: Would have/Might have/Must have had
+    meaning: Indicates an assumption about past events or potential outcomes of past events.
+    examples:
+      - sentence: 날씨가 좀 더 따뜻했다면 <f>나갔을 거예요</f>.
+        type: simple
+        translated:  If the weather was a little warmer, I would have gone out.
+        audio_url: 
+    examples:
+      - sentence: 그 카메라를 싼다면 <f>샀을 거예요</f>. 
+        type: simple
+        translated: I would have bought that camera if it were cheaper.
+        audio_url: 
+    examples:
+      - sentence: 아이가 배가 <f>아팠을 것이다</f>.
+        type: simple
+        translated: The child must have had a stomachache.
+        audio_url: 
+metadata:
+  type: composite
+details: |-
+

@@ -1,0 +1,24 @@
+name: 지 않아도 되다
+definitions:
+  - slug: behaviour-is-not-necessary
+    name: Behaviour is not necessary
+    english_alternatives: Does not have to
+    meaning: Used to say a particular behaviour is not necesssary. It is the negative form of <f>아/어야 되다</f>.
+    examples:
+      - sentence: 유치원생은 버스 요금을 <f>내지 않아도 돼요</f>.
+        type: simple
+        translated: Preschool students don't have to pay the bus fare.
+        audio_url:
+      - sentence: 평일이니까 영화 표를 미리 <f>사지 않아도 돼요</f>.
+        type: simple
+        translated: Because it's a weekday, we don't have to buy tickets in advance.
+        audio_url:
+metadata:
+  type: composite
+details: |-
+  # Other forms {#other-forms}
+
+  In place of <f>지 안아도 되다</f> you can also use <f>안 아/어도 되다</f>
+
+  ::example[금요일에는 정장을 <f>안 입어도 돼요</f>. | On Fridays, we don't have to wear suits. | ]
+  

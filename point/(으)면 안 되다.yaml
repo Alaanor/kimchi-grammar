@@ -1,0 +1,27 @@
+name: (으)면 안 되다
+definitions:
+  - slug: not-allowed-to-do-an-action
+    name: Not allowed to do an action
+    english_alternatives: May not, not allowed to
+    meaning: Used to say a particular action is not allowed
+    examples:
+      - sentence: 실내에서 담배를 피우면 안 돼요.
+        type: simple
+        translated: Smoking indoors is not allowed.
+        audio_url:
+      - sentence: 욵전 중에 전화하면 안 돼요.
+        type: simple
+        translated: Using the phone while driving is not allowed.
+        audio_url:
+      - sentence: 지금 길을 건너면 안 돼요.
+        type: simple
+        translated: You may not cross the street now.
+        audio_url:
+metadata:
+  type: composite
+details: |-
+  # Double Negative {#double-negative}
+
+  It can also be used in the double negative form that is, <f>지 않으면 안 되다</f>, to emphasize that a particular behaviour must be performed
+
+  ::example[병이 심각해서 수술하지 않으면 안 돼요. | Because the illness is serious, surgery must be performed. | ]

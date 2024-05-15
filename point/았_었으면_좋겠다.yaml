@@ -1,0 +1,29 @@
+name: 았/었으면 좋겠다
+definitions:
+  - slug: person's-wish-or-hope
+    name: Peron's wish or hope
+    english_alternatives: Hope, want
+    meaning: Expresses a peron's wish or hope about something that has yet to be realized.
+    examples:
+      - sentence: 따뜻한 봄에 <f>결혼했으면 좋겠어요<f/>.
+        type: simple
+        translated: It would be nice to get married in the warm spring.
+        audio_url:
+      - sentence: 친구들하고 스키장에 갈거예요. 방학이 빨리 <f>왔으면 좋겠어요</f>.
+        type: simple
+        translated: I plan to go skiing with my friends. I wish vacation would come sooner.
+        audio_url:
+      - sentence: 차가 <f>있었으면 좋겠어요</f>.
+        type: simple
+        translated: I wish I had a car.
+        audio_url:
+      - sentence: 크리스마스에 눈이 <f>왔으면 좋겠어요</f>.
+        type: simple
+        translated: I hope it snows on Christmas.
+        audio_url:
+metadata:
+  type: composite
+details: |-
+  # Note {#Note}
+
+  <F>았/었으면 하다</f> can also be used, but <f>았/었으면 좋겠다</f> indicates a stronger degree of hope or desire.

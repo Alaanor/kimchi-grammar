@@ -1,0 +1,25 @@
+name: (으)ㄴ 지
+definitions:
+  - slug: time-passed
+    name: Time passed
+    english_alternatives: Since
+    meaning: Indicates how much time has passed since some situation or action occurred
+    examples:
+      - sentence: 저는 한국에 <f>온 지</f> 2년이 됐습니다.
+        type: simple
+        translated: It's been two years since I came to Korea.
+        audio_url:
+      - sentence: 담배 <f>끊은 지</f> 한 달 됐어요.
+        type: simple
+        translated: It's been one month since I stopped smoking
+        audio_url:
+      - sentence: 컴퓨터게임을 <f>한 지</f> 5시간이 넘었어요.
+        type: simple
+        translated: It's been over five hours since you started playing computer games
+        audio_url:
+metadata:
+  type: composite
+details: |-
+  # Different forms {#different-forms}
+
+  It can be expresed in various ways, including <f>(으)ㄴ 지 ... 되다</f>, <f>(으)ㄴ 지 ... 넘다</f> and <f>(으)ㄴ 지 ... 안 되다</f>

@@ -1,0 +1,25 @@
+name: 아/어 보이다
+definitions:
+  - slug: feelings-based-on-outward-appearance
+    name: Feelings based on outward appearance
+    english_alternatives: Looks like, seems like
+    meaning: Conveys feelings based on some outward appearance.
+    examples:
+      - sentence: 마크 씨, 얼굴이 <f>피곤해 보여요</f>. 무슨 일 있어요?
+        type: simple
+        translated: Mark, you look tired. Did something happen?
+        audio_url:
+      - sentence: 도서관 앞에서 봤는데 많이 <f>우울해 보였어요</f>.
+        type: simple
+        translated: I saw him in front of the library, and he looked really sad.
+        audio_url:
+      - sentence: 이 음식은 많이 <f>매워 보이는데</f> 괜찮겠어요?
+        type: simple
+        translated: This food looks really spicy. Is that oke?
+        audio_url:
+metadata:
+  type: composite
+details: |-
+ # Alternate form {#alternate-form}
+
+ <f>게 보이다</f> is an alternate form of this expression having the same meaning.

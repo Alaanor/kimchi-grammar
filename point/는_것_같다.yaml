@@ -8,59 +8,53 @@ definitions:
       - sentence: 날씨가 추<f>을 것 같아요</f>.
         type: simple
         translated: It seems like the weather will be cold.
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/날씨가_추을_것_같아요__2024-05-15.mp3
       - sentence: 파티가 재미있<f>을 것 같아요</f>.
         type: simple
         translated: I think the party will be fun.
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/파티가_재미있을_것_같아요__2024-05-15.mp3
       - sentence: 여기에 아무도 없<f>는 것 같아요</f>.
         type: simple
         translated: It seems/I think there's no one here.
-        audio_url: 
-      - sentence:  점심 시간이 끝나서 제 친구가 이미 먹<f>은 것 같아요</f>. 
+        audio_url: https://r2.kimchi-reader.app/grammar/여기에_아무도_없는_것_같아요__2024-05-15.mp3
+      - sentence: 점심 시간이 끝나서 제 친구가 이미 먹<f>은 것 같아요</f>.
         type: simple
         translated: Since lunch time is over, I think my friend has already eaten.
-        audio_url: 
-      - sentence:  좋은 사람<f>인 것 같다</f>.
+        audio_url: https://r2.kimchi-reader.app/grammar/점심_시간이_끝나서_제_친구가_이미_먹은_것_같아요__2024-05-15.mp3
+      - sentence: 좋은 사람<f>인 것 같다</f>.
         type: simple
-        translated: I think/they seem like a good person. 
-        audio_url:         
+        translated: I think/they seem like a good person.
+        audio_url: https://r2.kimchi-reader.app/grammar/좋은_사람인_것_같다__2024-05-15.mp3
 metadata:
   type: composite
 details: |-
-  # (으)ㄹ 것 같다{#을_것_같다}
+  # (으)ㄹ 것 같다 {#을_것_같다}
 
-  (으)ㄹ 것 같다 signifies future tense
+  <f>(으)ㄹ 것 같다</f> signifies future tense.
 
-  ::example[그 영화가 재미있<f>을 것 같아요</f>. | That movie seems like it'll be fun. | 
+  ::example[그 영화가 재미있<f>을 것 같아요</f>. | That movie seems like it'll be fun. | https://r2.kimchi-reader.app/grammar/그_영화가_재미있을_것_같아요__2024-05-15.mp3]
 
+  # 았던/었던/했더 것 같다 {#았던_것_같다}
 
-  # 았던/었던/했더 것 같다{#았던_것_같다}
+  <f>았던/었던/했던 것 같다</f> signifies speculating on a past event while recalling a memory of it.
 
-  았던/었던/했던 것 같다 signifies speculating on a past event while recalling a memory of it.
+  ::example[그 사람을 만났<f>던 것 같아요</f>. | I think I met that person. | https://r2.kimchi-reader.app/grammar/그_사람을_만났_던_것_같아요__2024-05-15.mp3]
 
-  ::example[그 사람을 만났<f> 던 것 같아요</f>. | I think I met that person. | 
+  # 았을/었을/했을 것 같다 {#았던_것_같다}
 
+  <f>았을/었을/했을 것 같다</f> signifies a guess about a possible outcome or a past event that might have occurred.
 
-  # 았을/었을/했을 것 같다{#았던_것_같다}
-
-  았을/었을/했을 것 같다 signifies a guess about a possible outcome or a past event that might have occurred
-
-  ::example[음식이 맛있<f>었을 것 같다</f>. | The food seems like it would have been delicious. | 
-  ::example[지난 주에 도작<f>했을 것 같다</f>. | It seems like he might have arrived last week. | 
-
+  ::example[음식이 맛있<f>었을 것 같다</f>. | The food seems like it would have been delicious. | https://r2.kimchi-reader.app/grammar/음식이_맛있었을_것_같다__2024-05-15.mp3]
+  ::example[지난 주에 도착<f>했을 것 같다</f>. | It seems like he might have arrived last week. | https://r2.kimchi-reader.app/grammar/지난_주에_도착했을_것_같다__2024-05-15.mp3]
 
   Check out noun modifiers :grammar[verb_ㄴ_은_는_ㄹ_을] and :grammar[verb_았던_었던_했던] and :grammar[verb_았을_었을_했을_것] for more info.
 
+  # 는 거 같다 {#는_거_같다}
 
-  # 는 거 같다{#는_거_같다}
-  
-  In casual or colloquial language, 는 것 같다 is often shortened to 는 거 같다. Spoken language transcribed to text may often be written this way.
-  
-  ::example[그 남자가 <f>바쁜 거 같아요</f>. | That man seems busy | 
-  
+  In casual or colloquial language, <f>는 것 같다</f> is often shortened to <f>는 거 같다</f>. Spoken language transcribed to text may often be written this way.
 
-  # 는거 같다 {#는거_같다}
-  # 는것같다 {#는것같다}
+  ::example[그 남자가 <f>바쁜 거 같아요</f>. | That man seems busy | https://r2.kimchi-reader.app/grammar/그_남자가_바쁜_거_같아요__2024-05-15.mp3]
+
+  # Spacing {#spacing}
 
   Native speakers may colloquially write 는거 or 는것같다 (without the space). It doesn't strictly follow spacing rules, so its a common "mistake". The meaning is the same.

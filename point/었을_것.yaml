@@ -7,19 +7,16 @@ definitions:
     examples:
       - sentence: 날씨가 좀 더 따뜻했다면 <f>나갔을 거예요</f>.
         type: simple
-        translated:  If the weather was a little warmer, I would have gone out.
-        audio_url: 
-    examples:
-      - sentence: 그 카메라를 싼다면 <f>샀을 거예요</f>. 
+        translated: If the weather was a little warmer, I would have gone out.
+        audio_url: https://r2.kimchi-reader.app/grammar/날씨가_좀_더_따뜻했다면_나갔을_거예요__2024-05-15.mp3
+      - sentence: 그 카메라를 싼다면 <f>샀을 거예요</f>.
         type: simple
         translated: I would have bought that camera if it were cheaper.
-        audio_url: 
-    examples:
+        audio_url: https://r2.kimchi-reader.app/grammar/그_카메라를_싼다면_샀을_거예요__2024-05-15.mp3
       - sentence: 아이가 배가 <f>아팠을 것이다</f>.
         type: simple
         translated: The child must have had a stomachache.
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/아이가_배가_아팠을_것이다__2024-05-15.mp3
 metadata:
   type: composite
 details: |-
-

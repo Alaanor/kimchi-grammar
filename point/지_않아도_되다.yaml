@@ -3,7 +3,7 @@ definitions:
   - slug: behaviour-is-not-necessary
     name: Behaviour is not necessary
     english_alternatives: Does not have to
-    meaning: Used to say a particular behaviour is not necessary. It is the negative form of :grammar[아어도_되다]{permission-or-approval-for-a-behaviour}.
+    meaning: Used to say a particular behaviour is not necessary. It is the negative form of <f>아/어야 되다</f>.
     examples:
       - sentence: 유치원생은 버스 요금을 <f>내지 않아도 돼요</f>.
         type: simple

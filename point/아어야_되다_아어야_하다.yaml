@@ -1,0 +1,27 @@
+name: 아/어야 되다/하다
+definitions:
+  - slug: necessity-to-do-something
+    name: Necessity to do something
+    english_alternatives: Must, have to
+    meaning: Express an obligation or necessity to do something.
+    examples:
+      - sentence: 내일 시험이 있어요. 그래서 <f>공부해야 돼요</f>.
+        type: simple
+        translated: I have an exam tomorrow. So I must study.
+        audio_url:
+      - sentence: 감기에 걸리지 않기 위해서 따뜻한 옷을 <f>입어야 해요</f>.
+        type: simple
+        translated: You should wear warm clothes to avoid catching a cold.
+        audio_url:
+      - sentence: 늘 너무 피곤해요. 집에서 <f>쉬어야 돼요</f>.
+        type: simple
+        translated: I am so tired today. I have to rest at home.
+        audio_url:
+metadata:
+  type: composite
+details: |-
+  # Negative forms {#negative-forms}
+
+  -아/어야 되다 has 2 negative forms:
+  1. :grammar[지_않아도_되다] = not necessary to do something.
+  2. :grammar[으면_안_되다] = prohibition of some behavior.

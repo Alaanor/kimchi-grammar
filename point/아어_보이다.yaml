@@ -8,18 +8,18 @@ definitions:
       - sentence: 마크 씨, 얼굴이 <f>피곤해 보여요</f>. 무슨 일 있어요?
         type: simple
         translated: Mark, you look tired. Did something happen?
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/마크_씨,_얼굴이_피곤해_보여요_무슨_일_있어요__2024-05-16.mp3
       - sentence: 도서관 앞에서 봤는데 많이 <f>우울해 보였어요</f>.
         type: simple
         translated: I saw him in front of the library, and he looked really sad.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/도서관_앞에서_봤는데_많이_우울해_보였어요__2024-05-16.mp3
       - sentence: 이 음식은 많이 <f>매워 보이는데</f> 괜찮겠어요?
         type: simple
         translated: This food looks really spicy. Is that oke?
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/이_음식은_많이_매워_보이는데_괜찮겠어요__2024-05-16.mp3
 metadata:
   type: composite
 details: |-
- # Alternate form {#alternate-form}
+  # Alternate form {#alternate-form}
 
- <f>게 보이다</f> is an alternate form of this expression having the same meaning.
+  <f>게 보이다</f> is an alternate form of this expression having the same meaning.

@@ -1,29 +1,35 @@
 relation:
   - concern:
-      - {id: "noun_랑_이랑", slug: "enumeration"}
-      - {id: "noun_와_과", slug: "enumeration"}
+      - { id: "noun_랑_이랑", slug: "enumeration" }
+      - { id: "noun_와_과", slug: "enumeration" }
   - concern:
-      - {id: "noun_이_가", slug: "subject"}
-      - {id: "noun_께서", slug: "subject"}
+      - { id: "noun_이_가", slug: "subject" }
+      - { id: "noun_께서", slug: "subject" }
   - concern:
-      - {id: "noun_에게", slug: "target"}
-      - {id: "noun_한테", slug: "target"}
-      - {id: "noun_께", slug: "target"}
+      - { id: "noun_에게", slug: "target" }
+      - { id: "noun_한테", slug: "target" }
+      - { id: "noun_께", slug: "target" }
   - concern:
-      - {id: "verb_아드리다_어드리다_해드리다", slug: "favor-request"}
-      - {id: "verb_아주다_어주다_해주다", slug: "favor-request"}
+      - { id: "verb_아드리다_어드리다_해드리다", slug: "favor-request" }
+      - { id: "verb_아주다_어주다_해주다", slug: "favor-request" }
   - concern:
-      - {id: "verb_으십시오_십시오", slug: "politely-asking"}
-      - {id: "verb_세요_으세요", slug: "politely-asking"}
+      - { id: "verb_으십시오_십시오", slug: "politely-asking" }
+      - { id: "verb_세요_으세요", slug: "politely-asking" }
   - concern:
-      - {id: "verb_으니까_니까", slug: "reason-or-cause"}
-      - {id: "verb_아서_어서_해서", slug: "reason-or-cause"}
+      - { id: "verb_으니까_니까", slug: "reason-or-cause" }
+      - { id: "verb_아서_어서_해서", slug: "reason-or-cause" }
   - concern:
-      - {id: "verb_거나", slug: "choice"}
-      - {id: "noun_이나_나", slug: "choice"}
+      - { id: "verb_거나", slug: "choice" }
+      - { id: "noun_이나_나", slug: "choice" }
   - concern:
-      - {id: "verb_으니_니", slug: "reason-or-cause"}
-      - {id: "verb_으니까_니까", slug: "reason-or-cause"}
+      - { id: "verb_으니_니", slug: "reason-or-cause" }
+      - { id: "verb_으니까_니까", slug: "reason-or-cause" }
   - concern:
-      - {id: "verb_읍시다_ㅂ시다", slug: "suggestion"}
-      - {id: "verb_자", slug: "suggestion"}
+      - { id: "verb_읍시다_ㅂ시다", slug: "suggestion" }
+      - { id: "verb_자", slug: "suggestion" }
+  - concern:
+      - { id: "아어_가지고", slug: "reasoning" }
+      - { id: "verb_아서_어서_해서", slug: "reason-or-cause" }
+  - concern:
+      - { id: "아어_가지고", slug: "time-order-of-two-actions" }
+      - { id: "verb_아서_어서_해서", slug: "sequence-of-events" }

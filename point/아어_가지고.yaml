@@ -8,31 +8,27 @@ definitions:
       - sentence: <f>빨래해 가지고</f> 걸고 있어요.
         type: simple
         translated: I washed my clothes and am hanging them now.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/빨래해_가지고_걸고_있어요__2024-05-16.mp3
       - sentence: 친구에게 책을 <f>빌려 가지고</f> 읽었어요.
         type: simple
         translated: I borrowed a book from my friend and read it.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/친구에게_책을_빌려_가지고_읽었어요__2024-05-16.mp3
   - slug: reasoning
     name: Reasoning
     english_alternatives: Because, and so
-    meaning: Used to indicate reason or cause to do an action
+    meaning: Used to indicate reason or cause to do an action.
     examples:
       - sentence: 많이 <f>먹어 가지고</f> 너무 배불러요.
         type: simple
         translated: I am so full because I ate a lot.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/많이_먹어_가지고_너무_배불러요__2024-05-16.mp3
       - sentence: 낮에 커피를 많이 <f>마셔 가지고</f> 밤에 잠을 못잤어요.
         type: simple
         translated: I drank a lot of coffee during the day, so couldn't sleep at night.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/낮에_커피를_많이_마셔_가지고_밤에_잠을_못잤어요__2024-05-16.mp3
 metadata:
   type: composite
 details: |-
   # Short form {#short-forms}
 
   It is often used in speaking and can be shortened to <f>아/어 갖고</f>
-
-  # Similar grammar {#similar-grammar}
-
-  It's similar to the grammar points <f>고서</f> or <f>아/어서</f>

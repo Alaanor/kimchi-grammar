@@ -1,0 +1,23 @@
+name: (으)ㄴ/는 모양이다
+definitions:
+  - slug: guess-a-situation-after-observation
+    name: Guess a situation after observation
+    english_alternatives: It seems, I guess
+    meaning: Used to infer or guess a situation after observation
+    examples:
+      - sentence: 하늘을 보니 곧 비가 <f>올 모양이에요</f>.
+        type: simple
+        translated: Looking at the sky, it looks like it will rain soon.
+        audio_url:
+      - sentence: 전화를 안 받는 걸 보니 집에 아무도 <f>없는 모양이에요</f>.
+        type: simple
+        translated: It seems that no one is at home because they don't answer the phone.
+        audio_url:
+metadata:
+  type: composite
+details: |-
+  # Usage {#usage}
+
+  Often used with ~(으)ㄴ/는 걸 보니까 earlier in the sentence and gives the reason for the inference or guess
+  Not used for talking about yourself (you can't infer/guess about yourself)
+  Not for subjective thoughts (use :grammar[는_것_같다] instead)

@@ -1,0 +1,10 @@
+points:
+  - grammar_id: ㄹ_수_있다
+    definition_slug: ability-or-possibility
+    details: |-
+      - Used not only to express the ability to do something, but also whether a situation permits something to be done.
+  - grammar_id: 을_줄_알다
+    details: |-
+      - Expresses whether one knows how or has the ability to do something.
+      - Cannot be used to express possibility.
+details: |-

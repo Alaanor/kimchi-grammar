@@ -8,11 +8,11 @@ definitions:
       - sentence: 된장찌개를 맛있게 <f>끓일 줄 알아요</f>.
         type: simple
         translated: I know how to cook a tasty doenjang stew.
-        audio_url:
-      - sentence: 저는 잡채하고 스파게티를 <f>만둘 둘 알아요</f>.
+        audio_url: https://r2.kimchi-reader.app/grammar/된장찌개를_맛있게_끓일_줄_알아요__2024-05-16.mp3
+      - sentence: 저는 잡채하고 스파게티를 <f>만들 줄 알아요</f>.
         type: simple
         translated: I know how to make japchae and spaghetti.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/저는_잡채하고_스파게티를_만들_줄_알아요__2024-05-16.mp3
   - slug: doesn't-know-how-to-do-something
     name: Doesn't know how to do something
     english_alternatives: Doesn't know how to
@@ -21,11 +21,11 @@ definitions:
       - sentence: 휴대 전화로 사진을 <f>보낼 줄 몰라요</f>.
         type: simple
         translated: I don't know how to dsend pictures by mobile phone.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/휴대_전화로_사진을_보낼_줄_몰라요__2024-05-16.mp3
       - sentence: 저는 영어를 <f>할 줄 몰라요</f>.
         type: simple
         translated: I don't know how to speak English.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/저는_영어를_할_줄_몰라요__2024-05-16.mp3
 metadata:
   type: composite
 details: |-
@@ -33,14 +33,6 @@ details: |-
 
   <f>(으)ㄹ 줄 알다</f> can also mean 'I thought'.
 
-   ::example[친구가 <f>갈 줄 알았어요</f>. | I thought my friend would go. | ]
-   ::example[친구가 <f>가는 줄 알았어요</f>. | I thought my friend was going. | ]
-   ::example[친구가 <f>간 줄 알았어요</f>. | I thought my friend was gone. | ]
-
-  # Difference {#difference}
-
-  The difference between <f>(으)ㄹ 수 있다/없다</f> and <f>(으)ㄹ 줄 알다/모르다</f> is as followed:
-  |(으)ㄹ 줄 알다/모르다|(으)ㄹ 수 있다/없다|
-  |---|---|
-  |Expresses wheter one knows how or has the ability to do something|Used not only to express the ability to do something, but also whether a situation permits something to be done|
-  |Cannot be used to express posibility|-|
+  ::example[친구가 <f>갈 줄 알았어요</f>. | I thought my friend would go. | https://r2.kimchi-reader.app/grammar/친구가_갈_줄_알았어요__2024-05-16.mp3]
+  ::example[친구가 <f>가는 줄 알았어요</f>. | I thought my friend was going. | https://r2.kimchi-reader.app/grammar/친구가_가는_줄_알았어요__2024-05-16.mp3]
+  ::example[친구가 <f>간 줄 알았어요</f>. | I thought my friend was gone. | https://r2.kimchi-reader.app/grammar/친구가_간_줄_알았어요__2024-05-16.mp3]

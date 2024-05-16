@@ -1,0 +1,25 @@
+name: (으)ㄴ/는 편이다
+definitions:
+  - slug: tendency-to-do-something
+    name: Tendency to do something
+    english_alternatives: Tend to
+    meaning: 
+    examples:
+      - sentence: 저는 다른 사람들보다 커피를 많이 <f>마시는 편이에요</f>.
+        type: simple
+        translated: I tend to drink more coffee than other people.
+        audio_url:
+      - sentence: 회사 앞 식당이 음식도 맛있고 가격도 <f>싼 편이에요</f>.
+        type: simple
+        translated: The restaurant in front of the company is good and cheap.
+        audio_url:
+      - sentence: 오늘은 날씨가 <f>좋은 편이에요</f>.
+        type: simple
+        translated: The weather today is rather good.
+        audio_url:
+metadata:
+  type: composite
+details: |-
+  # Negative form {#negative-form}
+
+  <f>안 A/V-(으)ㄴ/는 편이다</f> or <f>A/V-(으)ㄴ/는 편이 아니다</f>.

@@ -3,16 +3,16 @@ definitions:
   - slug: make-a-promise-with-another-person-or-oneself
     name: Make a promise with another person or oneself
     english_alternatives: To decide to do, promise to do
-    meaning: Used to make a promise with another person or oneself
+    meaning: Used to make a promise with another person or oneself.
     examples:
       - sentence: 건강 때문에 올해부터 담배를 <f>끊기로 했어요</f>.
         type: simple
         translated: I made the decision to stop smoking for my health from this year.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/건강_때문에_올해부터_담배를_끊기로_했어요__2024-05-16.mp3
       - sentence: 우리는 3년 후에 <f>결혼하기로 했습니다</f>.
         type: simple
         translated: We've decided to get married three years from now.
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/우리는_3년_후에_결혼하기로_했습니다__2024-05-16.mp3
 metadata:
   type: composite
 details: |-

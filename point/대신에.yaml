@@ -5,11 +5,11 @@ definitions:
     english_alternatives: Instead of, compensate for, but
     meaning: Indicates an action can be replaced or compensated by another.
     examples:
-      - sentence: 저 <f>대신에</f> 주문좀 해주시겠어요?
+      - sentence: <f>저 대신에</f> 주문좀 해주시겠어요?
         type: simple
         translated: Could you order instead of me?
         audio_url:
-      - sentence: 밥 <f>대신에</f> 피자를 먹을래요?
+      - sentence: <f>밥 대신에</f> 피자를 먹을래요?
         type: simple
         translated: Will you have pizza instead of rice?
         audio_url:

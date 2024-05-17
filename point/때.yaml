@@ -1,0 +1,24 @@
+name: 때
+definitions:
+  - slug: when-an-action-occurs
+    name: When an action occurs
+    english_alternatives: When, during
+    meaning: Expresses the time when an action occurs or its duration
+    examples:
+      - sentence: <f>방학 때</f> 아르바이트를 해요.
+        type: simple
+        translated: I work part-time during vacation.
+        audio_url:
+      - sentence: <f>7살 때</f> 사진이에요.
+        type: simple
+        translated: This is a picture when I was 7 years old.
+        audio_url:
+metadata:
+  type: composite
+details: |-
+  # Usage with verbs {#usage-with-verbs}
+
+  It can also be used with verbs in the form of <f>(으)ㄹ 때</f>
+
+  ::example[자동차를 <f>운전할 때</f> 음악을 들어요. | I listen to music when driving. | ]
+  ::example[밖에서 <f>놀았을 때</f> 날씨가 좋았어요. | When we played outside, the weather was good. | ]

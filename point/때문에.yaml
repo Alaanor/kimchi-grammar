@@ -1,0 +1,24 @@
+name: 때문에
+definitions:
+  - slug: reason-or-cause
+    name: Reason or Cause
+    english_alternatives: Because (of), since
+    meaning: Expresses a reason or cause of a situation
+    examples:
+      - sentence: <f>눈 때문에</f> 길이 미끄러워요
+        type: simple
+        translated: The road is slippery because of the snow.
+        audio_url:
+      - sentence: <f>감기 때문에</f> 병원에 갔어요.
+        type: simple
+        translated: I went to the hospital because of the cold.
+        audio_url:
+metadata:
+  type: composite
+details: |-
+  # Usage with verbs {#usage-with-verbs}
+
+  It can also be used with verbs in the form of <f>기 때문에/f>
+
+  ::example[날씨가 <f>좋기 때문에</f> 산에 갔어요 | I went to the mountain because the weather was good. | ]
+  ::example[<f>외국인이기 때문에</f> 한국말을 잘 못해요. | I can't speak Korean well because I am a foreigner. | ]

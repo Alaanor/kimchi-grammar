@@ -1,0 +1,24 @@
+name: 후에
+definitions:
+  - slug: after-a-certain-period-of-time
+    name: After a certain period of time
+    english_alternatives: After, later
+    meaning: Used to say something happens after a certain period of time
+    examples:
+      - sentence: <f>한 달 후에</f> 아기가 태어나요.
+        type: simple
+        translated: My baby will be born one month later.
+        audio_url:
+      - sentence: 대학교를 <f>졸업 후에</f> 취직을 했어요.
+        type: simple
+        translated: I got a job after college graduation.
+        audio_url:
+metadata:
+  type: composite
+details: |-
+  # Usage with verbs {#usage-with-verbs}
+
+  It can also be used with verbs in the form of <f>기 전에</f>
+
+  ::example[<f>운동한 후에</f> 샤워해요. | I take a shower after playing sports. | ]
+  ::example[밥을 <f>먹은 후에</f> 이를 닦아요. | I brush my teeth after meals. | ]

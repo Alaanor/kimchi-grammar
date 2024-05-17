@@ -1,0 +1,22 @@
+name: (으)ㄹ 뻔하다
+definitions:
+  - slug: something-almost-happened
+    name: Something almsot happened
+    english_alternatives: Almost, nearly
+    meaning: Indicate one's relief that a past event almost happened but did not.
+    examples:
+      - sentence: 친구와 통화하다가 음식을 다 <f>태울 뻔했어요</f>.
+        type: simple
+        translated: I was talking with my friend on the phone and almost burned all my food.
+        audio_url:
+      - sentence: 네가 전화하지 않았더라면 약속을 <f>잊어버릴 뻔했어요</f>.
+        type: simple
+        translated: If you hadn't called me, I would have forgotten the appointment.
+        audio_url:
+      - sentence: 너무 추워서 <f>죽을 뻔했어요</f>.
+        type: simple
+        translated: It was so cold, I almost die.
+        audio_url:
+metadata:
+  type: composite
+details: |-

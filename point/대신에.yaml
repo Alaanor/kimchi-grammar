@@ -1,0 +1,28 @@
+name: 대신(에)
+definitions:
+  - slug: replace-an-action
+    name: Replace an action
+    english_alternatives: Instead of, compensate for, but
+    meaning: Indicates an action can be replaced or compensated by another.
+    examples:
+      - sentence: 저 <f>대신에</f> 주문좀 해주시겠어요?
+        type: simple
+        translated: Could you order instead of me?
+        audio_url:
+      - sentence: 밥 <f>대신에</f> 피자를 먹을래요?
+        type: simple
+        translated: Will you have pizza instead of rice?
+        audio_url:
+metadata:
+  type: composite
+details: |-
+  # Usage with nouns modifiers {#noun-modifiers}
+
+  There is a common pattern that make use of :grammar[verb_ㄴ_은_는_ㄹ_을] and :grammar[대신에] to describe
+  an action can be replaced or compensated by another action
+
+  ## ㄴ/은/는 만큼 (Present and past) {#present-past}
+  Expresses the extent to which something is done, or a condition exists
+
+  ::example[이 옷은 <f>예쁜 대신에</f> 가격이 비싸요. | This dress is expensive but pretty. | ]
+  ::example[여행을 <f>가는 대신에</f> 집에서 쉴 거예요. | Instead of going on a trip, I will rest at home.  | ]

@@ -3,7 +3,7 @@ definitions:
   - slug: tendency-to-do-something
     name: Tendency to do something
     english_alternatives: Tend to
-    meaning: 
+    meaning: Expresses a tendency or habit to do or be something.
     examples:
       - sentence: 저는 다른 사람들보다 커피를 많이 <f>마시는 편이에요</f>.
         type: simple

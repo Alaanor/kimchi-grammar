@@ -1,0 +1,27 @@
+name: (으)ㄹ까 봐
+definitions:
+  - slug: concern-about-something
+    name: Concern about something
+    english_alternatives: Be worried, afraid that
+    meaning: Indicates the speaker did, or is doing, something in the second clause because they are worried or afraid that what is mentioned in the first clause has happened or will happen.
+    examples:
+      - sentence: 주말에 날씨가 <f>나쁠까 봐</f> 걱정이에요.
+        type: simple
+        translated: I am worried that the weather would be bad in weekend
+        audio_url:
+      - sentence: 중요한 일을 <f>잊어버릴까 봐</f> 수첩에 항상 메모해요.
+        type: simple
+        translated: I always write memo because I am afraid that I would forget important things.
+        audio_url:
+      - sentence: 살이 <f>찔까 봐</f> 기름진 음식 안 먹어요.
+        type: simple
+        translated: I don't eat fatty food since I am worried that I would gain weight.
+        audio_url:
+metadata:
+  type: composite
+details: |-
+  # Alternative forms {#Alternative-forms}
+
+  You can use <f>(으)ㄹ까 봐서</f> without changing the meaning.
+
+  ::example[수업에 방해가 <f>될까 봐사</f> 휴대폰을 꺼 놓았어요. | I turned off my phone because I am worried that it could interrupt the lecture. | ]

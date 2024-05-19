@@ -1,0 +1,24 @@
+name: 을/를 위해(서)
+definitions:
+  - slug: before-a-certain-time
+    name: Before a certain time
+    english_alternatives: For the sake of, in order to
+    meaning:
+    examples:
+      - sentence: 군인은 <f>나라를 위해서</f> 일하는 사람이에요.
+        type: simple
+        translated: Soldiers are people who work for their country.
+        audio_url:
+      - sentence: <f>건강을 위해서</f> 매일 비타민을 먹고 있어요
+        type: simple
+        translated: I take vitamins daily for my health.
+        audio_url:
+metadata:
+  type: composite
+details: |-
+  # Usage with verbs {#usage-with-verbs}
+
+  It can also be used with verbs in the form of <f>기 위해(서)</f>
+
+  ::example[시험에 <f>합격하기 위해서</f> 열심히 공부했어요 | I studied hard in order to pass the test| ]
+  ::example[스마트폰을 <f>사기 위해서</f> 돈을 모았어요. | I saved up money to buy a smartphone.  | ]

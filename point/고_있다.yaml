@@ -16,7 +16,7 @@ definitions:
 metadata:
   type: composite
 details: |-
-  # Honorific Form {#honorific-form}
+  # Honorific language {#honorific}
 
   There is an honorific form of :grammar[고_있다] which is <f>고 계시다/<f>
 

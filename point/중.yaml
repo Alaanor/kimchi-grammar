@@ -23,7 +23,7 @@ details: |-
   ::example[친구를 <f>기다리는 중에</f> 전화가 왔어요. | I got a phone call while I was waiting for a friend. | ]
   ::example[나 지금 밥 <f>먹는 중이니까</f> 나중에 전화할게요. | I am currently eating now, so I will call you later. | ]
 
-  # Note {#note}
+  # Usage {#usage}
   :grammar[중] and :grammar[고_있다] have similar usage. However, while :grammar[고_있다] can be used with any subjects, :grammar[중] cannot be used with subjects representing natural phenomena (rain, snow, wind, fire…).
   :wrong[비가 <f>오는 중이에요</f>.]
   :correct[비가 <f>오고 있어요</f>.]

@@ -5,11 +5,11 @@ definitions:
     english_alternatives:
     meaning: This phrase is used to show that the information in the next part of the sentence describes the topic better than the information in the previous part.
     examples:
-      - sentence: 이 장소가 시끄럽다기보다는 사람들이 많이 모여서 복잡해요.
+      - sentence: 이 장소가 <f>시끄럽다기보다는</f> 사람들이 많이 모여서 복잡해요.
         type: simple
         translated: Rather than saying this place is noisy, it's more accurate to say it is crowded because many people gather here.
         audio_url:
-      - sentence: 그 가수가 유명하다기보다는 독특한 목소리로 알려져 있어요.
+      - sentence: 그 가수가 <f>유명하다기보다는</f> 독특한 목소리로 알려져 있어요.
         type: simple
         translated: Rather than saying the singer is famous, it's more accurate to say they are known for their unique voice.
         audio_url:

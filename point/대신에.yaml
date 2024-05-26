@@ -8,11 +8,11 @@ definitions:
       - sentence: <f>저 대신에</f> 주문좀 해주시겠어요?
         type: simple
         translated: Could you order instead of me?
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/저_대신에_주문좀_해주시겠어요__2024-05-26.mp3
       - sentence: <f>밥 대신에</f> 피자를 먹을래요?
         type: simple
         translated: Will you have pizza instead of rice?
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/밥_대신에_피자를_먹을래요__2024-05-26.mp3
 metadata:
   type: composite
 details: |-
@@ -20,8 +20,8 @@ details: |-
 
   There is a common pattern that make use of :grammar[verb_ㄴ_은_는_ㄹ_을] and :grammar[대신에] to describe an action can be replaced or compensated by another action
 
-  ## ㄴ/은/는 만큼 (Present and past) {#present-past}
+  ## ㄴ/은/는 대신에 (Present and past) {#present-past}
   Expresses the extent to which something is done, or a condition exists
 
-  ::example[이 옷은 <f>예쁜 대신에</f> 가격이 비싸요. | This dress is expensive but pretty. | ]
-  ::example[여행을 <f>가는 대신에</f> 집에서 쉴 거예요. | Instead of going on a trip, I will rest at home.  | ]
+  ::example[이 옷은 <f>예쁜 대신에</f> 가격이 비싸요. | This dress is expensive but pretty. | https://r2.kimchi-reader.app/grammar/이_옷은_예쁜_대신에_가격이_비싸요__2024-05-26.mp3]
+  ::example[여행을 <f>가는 대신에</f> 집에서 쉴 거예요. | Instead of going on a trip, I will rest at home.  | https://r2.kimchi-reader.app/grammar/여행을_가는_대신에_집에서_쉴_거예요__2024-05-26.mp3]

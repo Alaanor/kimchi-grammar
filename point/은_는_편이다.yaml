@@ -8,15 +8,15 @@ definitions:
       - sentence: 저는 다른 사람들보다 커피를 많이 <f>마시는 편이에요</f>.
         type: simple
         translated: I tend to drink more coffee than other people.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/저는_다른_사람들보다_커피를_많이_마시는_편이에요__2024-05-26.mp3
       - sentence: 회사 앞 식당이 음식도 맛있고 가격도 <f>싼 편이에요</f>.
         type: simple
         translated: The restaurant in front of the company is good and cheap.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/회사_앞_식당이_음식도_맛있고_가격도_싼_편이에요__2024-05-26.mp3
       - sentence: 오늘은 날씨가 <f>좋은 편이에요</f>.
         type: simple
         translated: The weather today is rather good.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/오늘은_날씨가_좋은_편이에요__2024-05-26.mp3
 metadata:
   type: composite
 details: |-

@@ -8,11 +8,11 @@ definitions:
       - sentence: <f>한 달 후에</f> 아기가 태어나요.
         type: simple
         translated: My baby will be born one month later.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/한_달_후에_아기가_태어나요__2024-05-26.mp3
       - sentence: 대학교를 <f>졸업 뒤에</f> 취직을 했어요.
         type: simple
         translated: I got a job after college graduation.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/대학교를_졸업_뒤에_취직을_했어요__2024-05-26.mp3
 metadata:
   type: composite
 details: |-
@@ -20,5 +20,5 @@ details: |-
 
   Can also be used with verbs in the form of <f>(으)ㄴ 후에/뒤에</f>
 
-  ::example[<f>운동한 후에</f> 샤워해요. | I take a shower after playing sports. | ]
-  ::example[밥을 <f>먹은 뒤에</f> 이를 닦아요. | I brush my teeth after meals. | ]
+  ::example[<f>운동한 후에</f> 샤워해요. | I take a shower after playing sports. | https://r2.kimchi-reader.app/grammar/운동한_후에_샤워해요__2024-05-26.mp3]
+  ::example[밥을 <f>먹은 뒤에</f> 이를 닦아요. | I brush my teeth after meals. | https://r2.kimchi-reader.app/grammar/밥을_먹은_뒤에_이를_닦아요__2024-05-26.mp3]

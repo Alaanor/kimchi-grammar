@@ -8,11 +8,11 @@ definitions:
       - sentence: 나는 <f>수업 중이에요</f>. 나중에 전화할게요.
         type: simple
         translated: I am in class now. I will call you later.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/나는_수업_중이에요_나중에_전화할게요__2024-05-26.mp3
       - sentence: 그 건물은 <f>공사 중입니다</f>.
         type: simple
         translated: That building is under construction.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/그_건물은_공사_중입니다__2024-05-26.mp3
 metadata:
   type: composite
 details: |-
@@ -20,8 +20,8 @@ details: |-
 
   Can also be used with verbs in the form of <f>는 중</f>
 
-  ::example[친구를 <f>기다리는 중에</f> 전화가 왔어요. | I got a phone call while I was waiting for a friend. | ]
-  ::example[나 지금 밥 <f>먹는 중이니까</f> 나중에 전화할게요. | I am currently eating now, so I will call you later. | ]
+  ::example[친구를 <f>기다리는 중에</f> 전화가 왔어요. | I got a phone call while I was waiting for a friend. | https://r2.kimchi-reader.app/grammar/친구를_기다리는_중에_전화가_왔어요__2024-05-26.mp3]
+  ::example[나 지금 밥 <f>먹는 중이니까</f> 나중에 전화할게요. | I am currently eating now, so I will call you later. | https://r2.kimchi-reader.app/grammar/나_지금_밥_먹는_중이니까_나중에_전화할게요__2024-05-26.mp3]
 
   # Usage {#usage}
   :grammar[중] and :grammar[고_있다] have similar usage. However, while :grammar[고_있다] can be used with any subjects, :grammar[중] cannot be used with subjects representing natural phenomena (rain, snow, wind, fire…).

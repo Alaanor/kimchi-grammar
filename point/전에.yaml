@@ -1,0 +1,24 @@
+name: 전에
+definitions:
+  - slug: before-a-certain-time
+    name: Before a certain time
+    english_alternatives: Before
+    meaning: Used to say before a certain time or before an action
+    examples:
+      - sentence: <f>5년 전에</f> 한국에 왔어요.
+        type: simple
+        translated: I came to Korea 5 years ago.
+        audio_url: https://r2.kimchi-reader.app/grammar/5년_전에_한국에_왔어요__2024-05-26.mp3
+      - sentence: <f>식사 전에</f> 이 약을 드세요.
+        type: simple
+        translated: Please take this medicine before meals.
+        audio_url: https://r2.kimchi-reader.app/grammar/식사_전에_이_약을_드세요__2024-05-26.mp3
+metadata:
+  type: composite
+details: |-
+  # Usage with verbs {#usage-with-verbs}
+
+  Can also be used with verbs in the form of <f>기 전에</f>
+
+  ::example[<f>수영하기 전에</f> 준비운동을 해요. | I do warm-up exercises before swimming. | https://r2.kimchi-reader.app/grammar/수영하기_전에_준비운동을_해요__2024-05-26.mp3]
+  ::example[<f>식사하기 전에</f> 손을 씻어요. | I wash my hands before eating. | https://r2.kimchi-reader.app/grammar/식사하기_전에_손을_씻어요__2024-05-26.mp3]

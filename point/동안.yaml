@@ -5,7 +5,7 @@ definitions:
     english_alternatives: During, while
     meaning: Indicates the time period when a certain action begins and lasts until it ends.
     examples:
-      - sentence: 어제 <f>12 시간 동안</f> 잤어요.
+      - sentence: 어제 12 <f>시간 동안</f> 잤어요.
         type: simple
         translated: Yesterday, I slept for 12 hours.
         audio_url: https://r2.kimchi-reader.app/grammar/어제_12_시간_동안_잤어요__2024-05-26.mp3

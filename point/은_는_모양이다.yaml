@@ -8,11 +8,11 @@ definitions:
       - sentence: 하늘을 보니 곧 비가 <f>올 모양이에요</f>.
         type: simple
         translated: Looking at the sky, it looks like it will rain soon.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/하늘을_보니_곧_비가_올_모양이에요__2024-05-26.mp3
       - sentence: 전화를 안 받는 걸 보니 집에 아무도 <f>없는 모양이에요</f>.
         type: simple
         translated: It seems that no one is at home because they don't answer the phone.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/전화를_안_받는_걸_보니_집에_아무도_없는_모양이에요__2024-05-26.mp3
 metadata:
   type: composite
 details: |-

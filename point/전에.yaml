@@ -5,7 +5,7 @@ definitions:
     english_alternatives: Before
     meaning: Used to say before a certain time or before an action
     examples:
-      - sentence: <f>5년 전에</f> 한국에 왔어요.
+      - sentence: 5<f>년 전에</f> 한국에 왔어요.
         type: simple
         translated: I came to Korea 5 years ago.
         audio_url: https://r2.kimchi-reader.app/grammar/5년_전에_한국에_왔어요__2024-05-26.mp3

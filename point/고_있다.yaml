@@ -16,3 +16,8 @@ definitions:
 metadata:
   type: composite
 details: |-
+  # Honorific language {#honorific}
+
+  There is an honorific form of :grammar[고_있다] which is <f>고 계시다/<f>
+
+  ::example[할아버지께서는 거실에서 신문을 <f>읽고 계셨어요</f>. | Grandpa was reading a newspaper in the living room. | https://r2.kimchi-reader.app/grammar/할아버지께서는_거실에서_신문을_읽고_계셨어요__2024-05-26.mp3]

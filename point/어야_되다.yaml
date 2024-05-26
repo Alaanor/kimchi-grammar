@@ -22,6 +22,6 @@ metadata:
 details: |-
   # Negative forms {#negative-forms}
 
-  -아/어야 되다 has 2 negative forms:
+  :grammar[어야_되다] has 2 negative forms:
   1. :grammar[지_않아도_되다] = not necessary to do something.
   2. :grammar[으면_안_되다] = prohibition of some behavior.

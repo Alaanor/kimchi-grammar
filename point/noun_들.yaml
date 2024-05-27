@@ -20,7 +20,7 @@ definitions:
 metadata:
   type: noun
 details: |-
-  # Usage note {#usage}
+  # Usage {#usage}
 
   In Korean, grammatical structures do not inherently distinguish between singular and plural
   nouns. As a result, even in the absence of the plural marker :grammar[noun_들]{noprefix}, nouns

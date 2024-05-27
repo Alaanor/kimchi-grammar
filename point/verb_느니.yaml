@@ -8,11 +8,11 @@ definitions:
       - sentence: 비가 오는 날에 <F>걷느니</f> 차라리 집에 있을래요.
         type: simple
         translated: Rather than walking on a rainy day, I'd rather stay at home.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/비가_오는_날에_<F>걷느니_차라리_집에_있을래요__2024-05-27.mp3
       - sentence: 혼자서 <f>공부하느니</f> 도서관에서 친구들과 같이 공부할게요.
         type: simple
         translated: Rather than studying alone, I'll study with friends at the library.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/혼자서_공부하느니_도서관에서_친구들과_같이_공부할게요__2024-05-27.mp3
 metadata:
   type: verb
 details: |-

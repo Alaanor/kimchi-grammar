@@ -8,11 +8,11 @@ definitions:
       - sentence: 군인은 <f>나라를 위해서</f> 일하는 사람이에요.
         type: simple
         translated: Soldiers are people who work for their country.
-        audio_url:
-      - sentence: <f>건강을 위해서</f> 매일 비타민을 먹고 있어요
+        audio_url: https://r2.kimchi-reader.app/grammar/군인은_나라를_위해서_일하는_사람이에요__2024-05-27.mp3
+      - sentence: <f>건강을 위해서</f> 매일 비타민을 먹고 있어요.
         type: simple
         translated: I take vitamins daily for my health.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/건강을_위해서_매일_비타민을_먹고_있어요__2024-05-27.mp3
 metadata:
   type: composite
 details: |-
@@ -20,5 +20,5 @@ details: |-
 
   Can also be used with verbs in the form of <f>기 위해(서)</f>
 
-  ::example[시험에 <f>합격하기 위해서</f> 열심히 공부했어요 | I studied hard in order to pass the test| ]
-  ::example[스마트폰을 <f>사기 위해서</f> 돈을 모았어요. | I saved up money to buy a smartphone.  | ]
+  ::example[시험에 <f>합격하기 위해서</f> 열심히 공부했어요. | I studied hard in order to pass the test| https://r2.kimchi-reader.app/grammar/시험에_합격하기_위해서_열심히_공부했어요__2024-05-27.mp3]
+  ::example[스마트폰을 <f>사기 위해서</f> 돈을 모았어요. | I saved up money to buy a smartphone.  | https://r2.kimchi-reader.app/grammar/스마트폰을_사기_위해서_돈을_모았어요__2024-05-27.mp3]

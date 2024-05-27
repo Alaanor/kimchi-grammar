@@ -8,20 +8,20 @@ definitions:
       - sentence: 주말에 날씨가 <f>나쁠까 봐</f> 걱정이에요.
         type: simple
         translated: I am worried that the weather would be bad in weekend
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/주말에_날씨가_나쁠까_봐_걱정이에요__2024-05-27.mp3
       - sentence: 중요한 일을 <f>잊어버릴까 봐</f> 수첩에 항상 메모해요.
         type: simple
         translated: I always write memo because I am afraid that I would forget important things.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/중요한_일을_잊어버릴까_봐_수첩에_항상_메모해요__2024-05-27.mp3
       - sentence: 살이 <f>찔까 봐</f> 기름진 음식 안 먹어요.
         type: simple
         translated: I don't eat fatty food since I am worried that I would gain weight.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/살이_찔까_봐_기름진_음식_안_먹어요__2024-05-27.mp3
 metadata:
   type: composite
 details: |-
   # Alternate form {#alternate-form}
 
-  <f>(으)ㄹ까 봐서</f> can be used without changign the meaning.
+  <f>(으)ㄹ까 봐서</f> can be used without changing the meaning.
 
-  ::example[수업에 방해가 <f>될까 봐사</f> 휴대폰을 꺼 놓았어요. | I turned off my phone because I am worried that it could interrupt the lecture. | ]
+  ::example[수업에 방해가 <f>될까 봐서</f> 휴대폰을 꺼 놓았어요. | I turned off my phone because I am worried that it could interrupt the lecture. | https://r2.kimchi-reader.app/grammar/수업에_방해가_될까_봐사_휴대폰을_꺼_놓았어요__2024-05-27.mp3]

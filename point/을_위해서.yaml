@@ -3,7 +3,7 @@ definitions:
   - slug: before-a-certain-time
     name: Before a certain time
     english_alternatives: For the sake of, in order to
-    meaning:
+    meaning: Used when doing something to achieve a goal or for a specific purpose.
     examples:
       - sentence: 군인은 <f>나라를 위해서</f> 일하는 사람이에요.
         type: simple

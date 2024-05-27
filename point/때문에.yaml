@@ -3,16 +3,16 @@ definitions:
   - slug: reason-or-cause
     name: Reason or Cause
     english_alternatives: Because (of), since
-    meaning: Expresses a reason or cause of a situation
+    meaning: Expresses a reason or cause of a situation.
     examples:
-      - sentence: <f>눈 때문에</f> 길이 미끄러워요
+      - sentence: <f>눈 때문에</f> 길이 미끄러워요.
         type: simple
         translated: The road is slippery because of the snow.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/눈_때문에_길이_미끄러워요__2024-05-27.mp3
       - sentence: <f>감기 때문에</f> 병원에 갔어요.
         type: simple
         translated: I went to the hospital because of the cold.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/감기_때문에_병원에_갔어요__2024-05-27.mp3
 metadata:
   type: composite
 details: |-
@@ -20,5 +20,5 @@ details: |-
 
   Can also be used with verbs in the form of <f>기 때문에/f>
 
-  ::example[날씨가 <f>좋기 때문에</f> 산에 갔어요 | I went to the mountain because the weather was good. | ]
-  ::example[<f>외국인이기 때문에</f> 한국말을 잘 못해요. | I can't speak Korean well because I am a foreigner. | ]
+  ::example[날씨가 <f>좋기 때문에</f> 산에 갔어요. | I went to the mountain because the weather was good. | https://r2.kimchi-reader.app/grammar/날씨가_좋기_때문에_산에_갔어요__2024-05-27.mp3]
+  ::example[<f>외국인이기 때문에</f> 한국말을 잘 못해요. | I can't speak Korean well because I am a foreigner. | https://r2.kimchi-reader.app/grammar/외국인이기_때문에_한국말을_잘_못해요__2024-05-27.mp3]

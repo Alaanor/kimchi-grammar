@@ -33,3 +33,8 @@ relation:
   - concern:
       - { id: "아어_가지고", slug: "time-order-of-two-actions" }
       - { id: "verb_아서_어서_해서", slug: "sequence-of-events" }
+  - concern:
+      - { id: "verb_으니_니", slug: "reason-or-cause" }
+      - { id: "verb_아서_어서_해서", slug: "reason-or-cause" }
+      - { id: "때문에", slug: "reason-or-cause" }
+      - { id: "verb_으니까_니까", slug: "reason-or-cause" }

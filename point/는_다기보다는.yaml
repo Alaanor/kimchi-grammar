@@ -1,0 +1,18 @@
+name: (ㄴ/는)다기보다는/(이)라기보다는
+definitions:
+  - slug: more-appropriate-description
+    name: More appropriate description
+    english_alternatives:
+    meaning: This phrase is used to show that the information in the next part of the sentence describes the topic better than the information in the previous part.
+    examples:
+      - sentence: 이 장소가 <f>시끄럽다기보다는</f> 사람들이 많이 모여서 복잡해요.
+        type: simple
+        translated: Rather than saying this place is noisy, it's more accurate to say it is crowded because many people gather here.
+        audio_url: https://r2.kimchi-reader.app/grammar/이_장소가_시끄럽다기보다는_사람들이_많이_모여서_복잡해요__2024-05-27.mp3
+      - sentence: 그 가수가 <f>유명하다기보다는</f> 독특한 목소리로 알려져 있어요.
+        type: simple
+        translated: Rather than saying the singer is famous, it's more accurate to say they are known for their unique voice.
+        audio_url: https://r2.kimchi-reader.app/grammar/그_가수가_유명하다기보다는_독특한_목소리로_알려져_있어요__2024-05-27.mp3
+metadata:
+  type: verb
+details: |-

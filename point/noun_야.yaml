@@ -3,7 +3,7 @@ definitions:
   - slug: emphasis
     name: Emphasis
     english_alternatives:
-    meaning: Particle reffering to an emphasis.
+    meaning: Particle referring to an emphasis.
     examples:
       - sentence: <f>커피야</f> 늘 한 잔씩 마시고 있어.
         type: simple

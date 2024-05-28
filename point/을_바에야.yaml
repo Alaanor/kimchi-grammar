@@ -1,0 +1,21 @@
+name: (으)ㄹ 바에야
+definitions:
+  - slug: better-choice
+    name: Better choice
+    english_alternatives: Rather
+    meaning: Used when expressing a preference between two choices, where neither is ideal. The first choice is either not feasible or inappropriate, so the second choice is selected instead.
+    examples:
+      - sentence: 그 영화를 <f>볼 바에야</f> 차라리 책을 읽겠어요.
+        type: simple
+        translated: Rather than watching that movie, I would prefer to read a book.
+        audio_url: https://r2.kimchi-reader.app/grammar/그_영화를_볼_바에야_차라리_책을_읽겠어요__2024-05-28.mp3
+      - sentence: 혼자 <f>갈 바에야</f> 친구랑 같이 가는 게 낫겠어요.
+        type: simple
+        translated: If I have to go alone, it's better to go with a friend.
+        audio_url: https://r2.kimchi-reader.app/grammar/혼자_갈_바에야_친구랑_같이_가는_게_낫겠어요__2024-05-28.mp3
+metadata:
+  type: composite
+details: |-
+  # Usage {#usage}
+
+  The words 차라리 or 아예 are often used in the following clause.

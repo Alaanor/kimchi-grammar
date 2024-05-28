@@ -1,0 +1,27 @@
+name: (이)야
+definitions:
+  - slug: copula
+    name: Copula
+    english_alternatives: to be, is
+    meaning: Express that the subject and predicate are the same thing.
+    examples:
+    - sentence: 지금은 쉬는 시간<f>이야</f>.
+      type: simple
+      translated: Now is break time.
+      audio_url: https://r2.kimchi-reader.app/grammar/지금은_쉬는_시간이야__2024-03-31.mp3
+  - slug: emphasis
+    name: Emphasis
+    english_alternatives:
+    meaning: Particle referring to an emphasis.
+    examples:
+      - sentence: <f>커피야</f> 늘 한 잔씩 마시고 있어.
+        type: simple
+        translated: I always have a cup of coffee.
+        audio_url: https://r2.kimchi-reader.app/grammar/커피야_늘_한_잔씩_마시고_있어__2024-05-28.mp3
+      - sentence: 왜 <f>이제야</f> 도착하는 거야?
+        type: simple
+        translated: Why are you just getting here now?
+        audio_url: https://r2.kimchi-reader.app/grammar/왜_이제야_도착하는_거야__2024-05-28.mp3
+metadata:
+  type: noun
+details: |-

@@ -13,10 +13,6 @@ definitions:
         type: simple
         translated: Today is my friend's birthday.
         audio_url: https://r2.kimchi-reader.app/grammar/오늘은_내_친구_생일이에요__2024-03-31.mp3
-      - sentence: 지금은 쉬는 시간<f>이야</f>.
-        type: simple
-        translated: Now is break time.
-        audio_url: https://r2.kimchi-reader.app/grammar/지금은_쉬는_시간이야__2024-03-31.mp3
 metadata:
   type: noun
 details: |-
@@ -25,7 +21,7 @@ details: |-
   - <f>입니다</f>: Formal, polite form, used in formal writings or respectful speech.
   - <f>예요</f>/<f>이에요</f>: Polite form, used in everyday polite conversation. <f>예요</f> follows
     a vowel, and <f>이에요</f> follows a consonant.
-  - <f>이야</f>: Informal form, used with close friends or in casual settings.
+  - <f>이야</f>: Informal form, used with close friends or in casual settings - See :grammar[noun_이야].
 
   # Opposite {#opposite}
   The opposite of :dict[이다] is :dict[아니다].

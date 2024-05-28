@@ -38,3 +38,6 @@ relation:
       - { id: "verb_아서_어서_해서", slug: "reason-or-cause" }
       - { id: "때문에", slug: "reason-or-cause" }
       - { id: "verb_으니까_니까", slug: "reason-or-cause" }
+  - concern:
+      - { id: "noun_이야", slug: "copula" }
+      - { id: "noun_이다", slug: "copula" }

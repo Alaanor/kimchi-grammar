@@ -65,6 +65,186 @@ on [Kimchi Reader's discord](https://discord.gg/aEm5eDRpeZ) and/or open a pull r
 Contributions should be introducing small, focused changes that address specific aspects without including unrelated
 modifications.
 
+# Contributions
+
+Contributions are highly welcomed, feel free to open an issue, talking about it on [Kimchi Reader's discord](https://discord.gg/aEm5eDRpeZ) and/or open a pull request.
+Contributions should be introducing small, focused changes that address specific aspects without including unrelated modifications.
+
+# Grammar Entry Style Guide
+
+Use the [Template](#template) as a starting point for making your own grammar page. Refer to the Field Details for more info regarding style and purpose of the field.
+
+[Field Explanations](#field-explanation) contain tips and examples for how to write a good entry.
+
+Table of Contents
+
+- [Creating the file](#creating-the-file)
+- [Template](#template)
+- [Field Explanation](#field-explanations)
+- [Field Details](#field-details)
+  - [point](#point)
+  - [definitions](#definitions)
+    - [slug](#slug)
+    - [name](#name)
+    - [english_alternatives](#english-alternatives)
+    - [meaning](#meaning)
+    - [examples](#examples)
+    - [type](#type)
+    - [sentence](#sentence)
+    - [audio_url](#audio_url)
+  - [metadata](#metadata)
+    - [type](#type)
+
+## Creating the File
+
+1. Use a text editor to make a .yaml file.
+2. Name the file based on being attached to a noun, attached to a verb, or "composite". "Composite" here means there is a space in the middle of the form. This gets its own category:
+
+- Examples:
+  - `noun_까지.yaml`
+  - `verb_으려고_라고.yaml`
+  - `고_싶다.yaml` (composite)
+
+## Template
+
+The Following example is the page for 와/과:
+
+```yaml
+point: 와/과
+definitions:
+  - slug: enumeration
+    name: Enumeration
+    english_alternatives: and
+    meaning: Connects multiple nouns, indicating a list or group without specifying order.
+    examples:
+      - type: simple
+        sentence: 초가집에는 어머니<f>와</f> 어린 삼 남매가 살았다.
+        translated: In the straw-thatched house lived a mother and her three young siblings.
+        audio_url: https://r2.kimchi-reader.app/grammar/초가집에는_어머니와_어린_삼_남매가_살았다._2024-02-21.mp3
+      - sentence: 대만<f>과</f> 일본은 사이가  좋다.
+        type: simple
+        translated: Taiwan and Japan are on good terms.
+        audio_url: https://r2.kimchi-reader.app/grammar/대만과_일본은_사이가_좋다._2024-02-21.mp3
+  - slug: companionship
+    name: Companionship
+    english_alternatives: together, with
+    meaning:
+      Indicates that an action involves more than one party or that something
+      is done together with someone or something else.
+    examples:
+      - sentence: 너<f>와</f> 난 평생을 함께할 친구야.
+        type: simple
+        translated: You and I are friends for the rest of our lives.
+        audio_url: https://r2.kimchi-reader.app/grammar/너와_난_평생을_함께할_친구야._2024-02-21.mp3
+      - sentence: 친구<f>와</f> 같이 갔어요.
+        type: simple
+        translated: I went with my friend.
+        audio_url: https://r2.kimchi-reader.app/grammar/친구와_같이_갔어요._2024-02-21.mp3
+metadata:
+  type: noun
+details: |-
+  # Usage {#usage}
+
+  - <f>와</f> is used in front of a word ending in a vowel.
+  - <f>과</f> is used in front of a word ending in a consonant.
+```
+
+## Field Explanations
+
+```yaml
+point: [Hangul form of grammar, appears in pop-up dict]
+definitions: (blank line)
+  - slug: [Appears at the end of url in browser ]
+    name: [Summarizes grammar in pop-up]
+    english_alternatives: [english phrases with similar meaning]
+    meaning: [Describes grammar in one or two sentences]
+    examples: 
+      - type: simple
+        sentence: [Korean example sentence]
+        translated: [English translation of korean sentence]
+        audio_url: [generated audio reading. leave blank]
+metadata:
+  type: [noun, verb, or composite]
+details: |-
+  [Use markdown syntax to explain more details about the grammar]
+```
+
+## Field Details
+
+### Name
+
+This field appears in the popup dictionary next to the grammar point. Keep the name short, and refer to the examples for tips on naming. If you're not sure which of the two naming styles should be used, pick whichever one seems simple and makes sense.
+
+_When to use Active Descriptive Voice_
+
+- Conveying a specific emotion or intent:
+  - "Expresses Surprise" (for -네)
+
+- When describing the functionality or purpose of a grammar point:
+  - "Expresses Possibility" (for -을 수 있다)
+
+- Reflecting the speakers attitude or perspective:
+  - "Conveys Politeness" (for -습니다/습니다)
+
+_What to Avoid_
+
+- Present progressive: "Indicating concern", "Expressing Contrast"
+- Non-present tense: "Showed Intent", "Will demonstrate Emphasis"
+- Imperative (command): "Express Surprise", "Clarify Reason"
+- Passive voice: "Politeness Conveyed"
+
+_When to Use Labels Instead of Active Voice_
+
+- Neutral descriptions of the sequence or structure of a sentence without an emotional or intentional nuance.
+  - "Cause and Effect" (for -기 때문에)
+  - "Simultaneous Actions" (for -면서)
+
+- When the grammar point fits a generic "grammatical" purpose or category.
+  - "Condition" (for -면)
+  - "Comparison" (for -보다)
+
+- Indicating tense or aspect
+  - "Past" (for -았/었)
+  - "Progressive" or "Ongoing" (for -고 있다)
+
+_What to Avoid_
+
+- Technical or linguistic terms: "Progressive **Aspect**", "Subordinating clauses".
+- Terms should be understood without linguistic knowledge beyond basic grammar concepts i.e. "verb", "tense".
+
+### point
+wip
+
+### definitions
+wip
+
+### slug
+wip
+
+### name
+wip
+
+### english alternatives
+wip
+
+### meaning
+wip
+
+### metadata
+wip
+
+### type
+wip
+
+### sentence
+wip
+
+### audio_url
+wip
+
+### type
+wip
+
 ## License
 
 The content in the Kimchi Grammar repository is available under

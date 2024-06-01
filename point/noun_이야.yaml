@@ -5,10 +5,10 @@ definitions:
     english_alternatives: to be, is
     meaning: Express that the subject and predicate are the same thing.
     examples:
-    - sentence: 지금은 쉬는 시간<f>이야</f>.
-      type: simple
-      translated: Now is break time.
-      audio_url: https://r2.kimchi-reader.app/grammar/지금은_쉬는_시간이야__2024-03-31.mp3
+      - sentence: 지금은 쉬는 시간<f>이야</f>.
+        type: simple
+        translated: Now is break time.
+        audio_url: https://r2.kimchi-reader.app/grammar/지금은_쉬는_시간이야__2024-03-31.mp3
   - slug: emphasis
     name: Emphasis
     english_alternatives:

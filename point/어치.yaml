@@ -1,0 +1,21 @@
+name: 어치
+definitions:
+  - slug: amount-that-corresponds-to-price
+    name: Amount that corresponds to that price
+    english_alternatives:
+    meaning: Used to mean the amount that corresponds to that price
+    examples:
+      - sentence: 이것 30우로 <f>어치만</f> 살 수 있어요?
+        type: simple
+        translated: Can I have 30 euros worth of this?
+        audio_url:
+      - sentence: 잃어버린 휴대폰는 수억 원 <f>어치이다</f>.
+        type: simple
+        translated: The lost phones cost hundreds of millions of won.
+        audio_url:
+metadata:
+  type: composite
+details: |-
+  ## Spacing {#spacing}
+
+  Native speakers don't always follow proper spacing rules and may sometimes leave out the space turning it into <f>N어치</f>

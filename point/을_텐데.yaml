@@ -1,0 +1,22 @@
+name: (으)ㄹ 텐데
+definitions:
+  - slug: expected-future-situation
+    name: Expected future situation
+    english_alternatives: Would, suppose, must be
+    meaning: Used to express an expected or intended future event.
+    examples:
+      - sentence: 내일 비가 <f>올 텐데</f> 우산을 챙겨 가세요.
+        type: simple
+        translated: It's probably going to rain tomorrow, so make sure to bring an umbrella.
+        audio_url:
+      - sentence: 지금쯤 <f>도착했을 텐데</f> 아직 오지 않았어.
+        type: simple
+        translated: They should have arrived by now, but they still haven't come.
+        audio_url:
+      - sentence: 일찍 <f>일어날 텐데</f> 왜 아직도 자고 있어요?
+        type: simple
+        translated: You're supposed to wake up early, so why are you still sleeping?
+        audio_url:
+metadata:
+  type: composite
+details: |-

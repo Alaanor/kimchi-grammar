@@ -1,0 +1,21 @@
+name: 고 나서
+definitions:
+  - slug: sequence-of-actions
+    name: Sequence of actions
+    english_alternatives: After, and then, and so
+    meaning: Indicates that an action or event happens after another action or event.
+    examples:
+      - sentence: 저는 밥을 <f>먹고 나서</f> 숙제를 할 거예요.
+        type: simple
+        translated: I will do my homework after eating.
+        audio_url:
+      - sentence: 저는 저녁을 <f>먹고 나서</f> 텔레비전을 봐요.
+        type: simple
+        translated: I watch TV after eating dinner.
+        audio_url:
+metadata:
+  type: composite
+details: |-
+  # Usage {#usage}
+
+  There are similar forms available which slightly change the meaning such as, :grammar[고_나면], :grammar[고_나니까].

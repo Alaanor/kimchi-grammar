@@ -1,0 +1,21 @@
+name: 고 나니(까)
+definitions:
+  - slug: sequence-of-actions
+    name: Sequence of actions with background information
+    english_alternatives: After, and then, and so
+    meaning: Indicates that an action or event happens after another action or event but with a reason or cause.
+    examples:
+      - sentence: 요리를 <f>하고 나니까</f> 주방이 매우 더러워졌어요.
+        type: simple
+        translated: After cooking, the kitchen became very dirty.
+        audio_url:
+      - sentence: 오랫동안 무언가를 <f>하고 나니</f> 팔이 조금 아프네요.
+        type: simple
+        translated: After doing something for a long time, my arms hurt a bit.
+        audio_url:
+metadata:
+  type: composite
+details: |-
+  # Usage {#usage}
+
+  There are similar forms available which slightly change the meaning such as, :grammar[고_나서], :grammar[고_나면].

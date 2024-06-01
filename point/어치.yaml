@@ -16,6 +16,6 @@ definitions:
 metadata:
   type: composite
 details: |-
-  ## Spacing {#spacing}
+  # Spacing {#spacing}
 
   Native speakers don't always follow proper spacing rules and may sometimes leave out the space turning it into <f>N어치</f>

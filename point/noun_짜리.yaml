@@ -12,7 +12,7 @@ definitions:
       - sentence: 우리 집은 세 <f>층짜리</f> 건물이에요.
         type: simple
         translated: My house is a three-story building.
-        audio_url: 
+        audio_url:
 metadata:
   type: noun
 details: |-

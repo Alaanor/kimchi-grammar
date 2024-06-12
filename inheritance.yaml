@@ -17,3 +17,5 @@ inheritance:
     children: ["verb_ㄴ_은_는_ㄹ_을"]
   - parent: "verb_았던_었던_했던"
     children: ["verb_았_었_했", "verb_던"]
+  - parent: "verb_기는_긴"
+    children: [ "verb_기", "noun_은_는" ]

@@ -3,7 +3,7 @@ definitions:
   - slug: broad-negation
     name: Broad Negation
     english_alternatives:
-    meaning: Used to express disappointment in the action or state.
+    meaning: Used to emphasize the negation of an action or state."
     examples:
       - sentence: 그 남자는 일을 <f>하지를 않아요</f>.
         type: simple

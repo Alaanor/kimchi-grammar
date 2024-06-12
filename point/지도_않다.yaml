@@ -1,0 +1,18 @@
+name: 지도 않다
+definitions:
+  - slug: emphatic-negation
+    name: Emphatic Negation
+    english_alternatives:
+    meaning: Used to emphasize that an action or state does not occur or is not done. It adds an extra layer of emphasis to the negation.
+    examples:
+      - sentence: 공부를 <f>하지도 않아요</f>.
+        type: simple
+        translated: I don't even study.
+        audio_url:
+      - sentence: 그 남자가 밥을 <f>먹지도 않아요</f>.
+        type: simple
+        translated: He doesn't even eat.
+        audio_url:
+metadata:
+  type: composite
+details: |-

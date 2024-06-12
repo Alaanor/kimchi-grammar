@@ -1,7 +1,7 @@
 name: 지가 않다
 definitions:
-  - slug: subjective-negation
-    name: Subjective Negation
+  - slug: subject-negation
+    name: Subject Negation
     english_alternatives:
     meaning: used to emphasize the subject's personal experience or involvement in the negation of an action or state.
     examples:

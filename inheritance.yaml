@@ -14,7 +14,7 @@ inheritance:
   - parent: "지를_않다"
     children: ["verb_지"]
   - parent: "지만_않다"
-    children: ["verb_지"]          
+    children: ["verb_지"]
   - parent: "지_말다"
     children: ["verb_지"]
   - parent: "고_있다"

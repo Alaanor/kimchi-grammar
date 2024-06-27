@@ -1,6 +1,6 @@
 inheritance:
   - parent: "을지도_모르다"
-    children: ["verb_을지_ㄹ지_을지도_ㄹ지도"]
+    children: ["verb_을지_ㄹ지"]
   - parent: "지_못하다"
     children: ["verb_지"]
   - parent: "지_않다"

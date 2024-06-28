@@ -16,3 +16,33 @@ definitions:
 metadata:
   type: composite
 details: |-
+  # Emphasis {#emphasis}
+
+  ## -지가 않다 (Subject Negation) {subject-negation}
+  Used to emphasize the subject's personal experience or involvement in the negation of an action or state.
+
+  ::example[내가 <f>이해하지가 않아요</f>. | I don't understand. | ]
+
+  ## -지는 않다 (Contrastive Negation) {contrastive-negation}
+  Used to form a negative sentence, emphasizing the contrast or the unexpected nature of the action or state being negated.
+
+  ::example[한국어는 <f>쉽지는 않아요</f>. | Korean is not exactly easy. | ]
+
+  Can be shortened to the form -<f>진 않다</f>.
+
+  ## -지를 않다 (Broad Negation) {broad-negation}
+  Used to emphasize the negation of an action or state.
+
+  ::example[선생님은 말을 <f>하지를 않아요.</f> | The teacher doesn't talk. | ]
+  Can be shortened to the form -<f>질 않다</f>.
+
+  ## -지도 않다 (Emphatic Negation) {emphatic-negation}
+  Used to emphasize that an action or state does not occur or is not done. It adds an extra layer of emphasis to the negation.
+
+  ::example[그 남자가 밥을 <f>먹지도 않아요</f>. | He doesn't even eat. | ]
+
+  ## -지만 않다 (Conditional Negation) {conditional-negation}
+  Used to indicate that while something may not happen or be the case, it leaves open the possibility that something else might. It often implies "as long as" or "as far as."
+
+  ::example[날씨가 <f>춥지만 않아요.</f> | The weather isn't cold, but it's not warm either. | ]
+  It's possible to add the :grammar[noun_은_는] to -<f>지만 않다</f> to form -<f>지만은 않다</f>.

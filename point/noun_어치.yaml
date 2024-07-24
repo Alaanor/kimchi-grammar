@@ -8,11 +8,11 @@ definitions:
       - sentence: 그 가게에서 책 20,000<f>원어치를</f> 샀어요.
         type: simple
         translated: I bought 20,000 won worth of books at that store.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/그_가게에서_책_20,000원어치를_샀어요__2024-07-24.mp3
       - sentence: 그의 경험은 매우 <f>값어치</f> 있는 것이었다.
         type: simple
         translated: His experience was very valuable.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/그의_경험은_매우_값어치_있는_것이었다__2024-07-24.mp3
 metadata:
-  type: composite
+  type: noun
 details: |-

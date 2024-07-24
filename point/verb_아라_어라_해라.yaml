@@ -8,15 +8,15 @@ definitions:
       - sentence: 밥을 <f>먹어라</f>.
         type: simple
         translated: Eat your rice.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/밥을_먹어라__2024-07-24.mp3
       - sentence: 집에 가서 숙제를 <f>해라</f>.
         type: simple
         translated: Go home and do your homework.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/집에_가서_숙제를_해라__2024-07-24.mp3
       - sentence: 창문을 <f>닫아라</f>. 바람이 너무 많이 들어와.
         type: simple
         translated: Close the window. Too much wind is coming in.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/창문을_닫아라_바람이_너무_많이_들어와__2024-07-24.mp3
 metadata:
   type: verb
 details: |-

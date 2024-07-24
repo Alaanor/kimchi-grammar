@@ -1,0 +1,18 @@
+name: 어치
+definitions:
+  - slug: amount-that-corresponds-to-price
+    name: Amount that corresponds to that price
+    english_alternatives:
+    meaning: Used to mean the amount that corresponds to that price
+    examples:
+      - sentence: 그 가게에서 책 20,000<f>원어치를</f> 샀어요.
+        type: simple
+        translated: I bought 20,000 won worth of books at that store.
+        audio_url:
+      - sentence: 그의 경험은 매우 <f>값어치</f> 있는 것이었다.
+        type: simple
+        translated: His experience was very valuable.
+        audio_url:
+metadata:
+  type: composite
+details: |-

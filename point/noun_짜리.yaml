@@ -1,0 +1,18 @@
+name: 짜리
+definitions:
+  - slug: such-a-number-or-amount
+    name: Such a number or amount
+    english_alternatives:
+    meaning: Something of such a number or amount
+    examples:
+      - sentence: 이 신발로 <f>6사이즈짜리</f> 있나요?
+        type: simple
+        translated: Do you have these shoes in size 6?
+        audio_url:
+      - sentence: 우리 집은 세 <f>층짜리</f> 건물이에요.
+        type: simple
+        translated: My house is a three-story building.
+        audio_url:
+metadata:
+  type: noun
+details: |-

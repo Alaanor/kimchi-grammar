@@ -1,0 +1,25 @@
+name: (으)ㄹ 테니까
+definitions:
+  - slug: reason-for-suggestion
+    name: Reason for suggestion
+    english_alternatives: Suppose, will
+    meaning: The second part of the sentence gives the speaker's advice or suggestion to the listener. The first part explains why the speaker is giving that advice or suggestion.
+    examples:
+      - sentence: 비가 <f>올 테니까</f> 우산을 가져 가세요.
+        type: simple
+        translated: Since it will rain, please bring an umbrella.
+        audio_url:
+      - sentence: 일찍 <f>일어날 테니까</f> 늦지 말고 잘 준비하세요.
+        type: simple
+        translated: Since you will wake up early, don't be late and prepare well.
+        audio_url:
+      - sentence: <f>바빌 테니까</f> 오늘은 점심을 밖에서 먹자.
+        type: simple
+        translated: Since we're busy, let's eat lunch outside today.
+        audio_url:
+metadata:
+  type: composite
+details: |-
+  # Other usages {#other-usages}
+
+  It can also be used at the end of a sentence in the form of <f>(으)ㄹ 테니까요</f>.

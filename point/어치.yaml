@@ -5,13 +5,13 @@ definitions:
     english_alternatives:
     meaning: Used to mean the amount that corresponds to that price
     examples:
-      - sentence: 이것 30우로 <f>어치만</f> 살 수 있어요?
+      - sentence: 그 가게에서 책 20,000<f>원어치를</f> 샀어요.
         type: simple
-        translated: Can I have 30 euros worth of this?
+        translated: I bought 20,000 won worth of books at that store.
         audio_url:
-      - sentence: 잃어버린 휴대폰는 수억 원 <f>어치이다</f>.
+      - sentence: 내가 시장에서 산 사과는 1,000<f>원어치예요</f>.
         type: simple
-        translated: The lost phones cost hundreds of millions of won.
+        translated: The apples I bought at the market are worth 1,000 won.
         audio_url:
 metadata:
   type: composite

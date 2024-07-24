@@ -5,7 +5,7 @@ definitions:
     english_alternatives:
     meaning: Something of such a number or amount
     examples:
-      - sentence: 이 신발로 <f>6사이즈짜리</f> 있나요?
+      - sentence: 이 신발로 6<f>사이즈짜리</f> 있나요?
         type: simple
         translated: Do you have these shoes in size 6?
         audio_url: https://r2.kimchi-reader.app/grammar/이_신발로_6사이즈짜리_있나요__2024-07-24.mp3

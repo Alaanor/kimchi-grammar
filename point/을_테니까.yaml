@@ -13,10 +13,10 @@ definitions:
         type: simple
         translated: Since you will wake up early, don't be late and prepare well.
         audio_url: https://r2.kimchi-reader.app/grammar/일찍_일어날_테니까_늦지_말고_잘_준비하세요__2024-07-24.mp3
-      - sentence: <f>바빌 테니까</f> 오늘은 점심을 밖에서 먹자.
+      - sentence: <f>바쁠 테니까</f> 오늘은 점심을 밖에서 먹자.
         type: simple
         translated: Since we're busy, let's eat lunch outside today.
-        audio_url: https://r2.kimchi-reader.app/grammar/바빌_테니까_오늘은_점심을_밖에서_먹자__2024-07-24.mp3
+        audio_url: https://r2.kimchi-reader.app/grammar/바쁠_테니까_오늘은_점심을_밖에서_먹자__2024-07-24.mp3
 metadata:
   type: composite
 details: |-

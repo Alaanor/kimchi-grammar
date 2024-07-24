@@ -9,9 +9,9 @@ definitions:
         type: simple
         translated: I bought 20,000 won worth of books at that store.
         audio_url:
-      - sentence: 내가 시장에서 산 사과는 1,000<f>원어치예요</f>.
+      - sentence: 그의 경험은 매우 <f>값어치</f> 있는 것이었다.
         type: simple
-        translated: The apples I bought at the market are worth 1,000 won.
+        translated: His experience was very valuable.
         audio_url:
 metadata:
   type: composite

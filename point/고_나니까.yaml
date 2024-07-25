@@ -8,11 +8,11 @@ definitions:
       - sentence: 요리를 <f>하고 나니까</f> 주방이 매우 더러워졌어요.
         type: simple
         translated: After cooking, the kitchen became very dirty.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/요리를_하고_나니까_주방이_매우_더러워졌어요__2024-07-25.mp3
       - sentence: 오랫동안 무언가를 <f>하고 나니</f> 팔이 조금 아프네요.
         type: simple
         translated: After doing something for a long time, my arms hurt a bit.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/오랫동안_무언가를_하고_나니_팔이_조금_아프네요__2024-07-25.mp3
 metadata:
   type: composite
 details: |-

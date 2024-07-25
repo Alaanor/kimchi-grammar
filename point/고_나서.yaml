@@ -8,11 +8,11 @@ definitions:
       - sentence: 저는 밥을 <f>먹고 나서</f> 숙제를 할 거예요.
         type: simple
         translated: I will do my homework after eating.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/저는_밥을_먹고_나서_숙제를_할_거예요__2024-07-25.mp3
       - sentence: 저는 저녁을 <f>먹고 나서</f> 텔레비전을 봐요.
         type: simple
         translated: I watch TV after eating dinner.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/저는_저녁을_먹고_나서_텔레비전을_봐요__2024-07-25.mp3
 metadata:
   type: composite
 details: |-

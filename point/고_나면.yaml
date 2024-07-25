@@ -8,11 +8,11 @@ definitions:
       - sentence: 일을 다 <f>마치고 나면</f> 집에 갈 거예요.
         type: simple
         translated: I will go home after finishing work.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/일을_다_마치고_나면_집에_갈_거예요__2024-07-25.mp3
       - sentence: 운동을 <f>하고 나면</f> 샤워를 합니다.
         type: simple
         translated: After exercising, I take a shower.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/운동을_하고_나면_샤워를_합니다__2024-07-25.mp3
 metadata:
   type: composite
 details: |-

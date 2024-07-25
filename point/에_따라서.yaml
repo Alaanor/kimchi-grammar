@@ -8,18 +8,18 @@ definitions:
       - sentence: <f>날씨에 따라서</f> 우산을 가져가요.
         type: simple
         translated: Bring an umbrella depending on the weather.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/날씨에_따라서_우산을_가져가요__2024-07-25.mp3
       - sentence: <f>가격에 따라서</f> 사람들의 선택이 달라져요.
         type: simple
         translated: People's choices vary depending on the price.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/가격에_따라서_사람들의_선택이_달라져요__2024-07-25.mp3
       - sentence: <f>날씨에 따라</f> 옷을 고르는 것이 달라요.
         type: simple
         translated: The choice of clothes varies depending on the weather.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/날씨에_따라_옷을_고르는_것이_달라요__2024-07-25.mp3
 metadata:
   type: composite
 details: |-
-  # Usage {#usage
+  # Usage {#usage}
 
-  Often followed by :dict[다르다].
+  The pattern :grammar[에_따라서] is commonly followed by :dict[다르다] at the end of the sentence, as demonstrated in the examples above.

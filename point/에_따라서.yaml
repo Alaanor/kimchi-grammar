@@ -1,0 +1,25 @@
+name: 에 따라(서)
+definitions:
+  - slug: depending-on
+    name: Depending on
+    english_alternatives: Depending on
+    meaning: Used to say depending on something.
+    examples:
+      - sentence: <f>날씨에 따라서</f> 우산을 가져가요.
+        type: simple
+        translated: Bring an umbrella depending on the weather.
+        audio_url:
+      - sentence: <f>가격에 따라서</f> 사람들의 선택이 달라져요.
+        type: simple
+        translated: People's choices vary depending on the price.
+        audio_url:
+      - sentence: <f>날씨에 따라</f> 옷을 고르는 것이 달라요.
+        type: simple
+        translated: The choice of clothes varies depending on the weather.
+        audio_url:
+metadata:
+  type: composite
+details: |-
+  # Usage {#usage
+
+  Often followed by :dict[다르다].

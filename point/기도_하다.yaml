@@ -1,0 +1,18 @@
+name: 기도 하다
+definitions:
+  - slug: Sometimes-it-happens
+    name: Sometimes it happens
+    english_alternatives: Sometimes
+    meaning: Used to say sometimes the action happens.
+    examples:
+      - sentence: 저는 주말에는 맛있는 음식을 만들어 <f>먹기도 해요</f>.
+        type: simple
+        translated: Sometimes on weekends, I cook and eat delicious food.
+        audio_url:
+      - sentence: 저는 주말에 영화를 <f>보기도 해요</f>.
+        type: simple
+        translated: I sometimes watch movies on weekends.
+        audio_url:
+metadata:
+  type: composite
+details: |-

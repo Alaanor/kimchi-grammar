@@ -1,0 +1,21 @@
+name: 고 나면
+definitions:
+  - slug: sequence-of-actions
+    name: Sequence of actions with condition
+    english_alternatives: After, and then, and so
+    meaning: Indicates that an action or event happens after another action or event, but with a conditional relationship.
+    examples:
+      - sentence: 일을 다 <f>마치고 나면</f> 집에 갈 거예요.
+        type: simple
+        translated: I will go home after finishing work.
+        audio_url:
+      - sentence: 운동을 <f>하고 나면</f> 샤워를 합니다.
+        type: simple
+        translated: After exercising, I take a shower.
+        audio_url:
+metadata:
+  type: composite
+details: |-
+  # Usage {#usage}
+
+  There are similar forms available which slightly change the meaning such as, :grammar[고_나서], :grammar[고_나니까].

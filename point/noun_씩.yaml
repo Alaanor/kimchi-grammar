@@ -1,0 +1,22 @@
+name: 씩
+definitions:
+  - slug: equally-distributed
+    name: Equally distributed
+    english_alternatives: every, each, per, a
+    meaning: It shows that something is being done or distributed equally among people or things.
+    examples:
+      - sentence: 학생들에게 책을 한 <f>권씩</f> 나눠주세요.
+        type: simple
+        translated: Please distribute one book to each student.
+        audio_url:
+      - sentence: 저희 가족은 매주 일요일마다 한 <f>번씩</f> 영화를 보러 가요.
+        type: simple
+        translated: My family goes to watch a movie once every Sunday.
+        audio_url:
+      - sentence: 과일 가게에서 사과를 다섯 <f>개씩</f> 샀어요.
+        type: simple
+        translated: I bought apples at the fruit store, five each.
+        audio_url:
+metadata:
+  type: noun
+details: |-

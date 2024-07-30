@@ -8,11 +8,11 @@ definitions:
       - sentence: 이 영화가 정말 <f>볼 만해요</f>.
         type: simple
         translated: This movie is really worth watching.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/이_영화가_정말_볼_만해요__2024-07-30.mp3
       - sentence: 한국어는 <f>공부할 만해요</f>.
         type: simple
         translated: Korean is worth studying.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/한국어는_공부할_만해요__2024-07-30.mp3
 metadata:
   type: composite
 details: |-

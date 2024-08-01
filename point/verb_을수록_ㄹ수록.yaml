@@ -1,0 +1,22 @@
+name: (으)ㄹ수록
+definitions:
+  - slug: the-more
+    name: The More
+    english_alternatives:
+    meaning: The more you do something, the more another thing happens.
+    examples:
+      - sentence: 빨리 <f>걸을수록</f> 더 피곤해요.
+        type: simple
+        translated: The faster you walk, the more tired you get.
+        audio_url: 
+      - sentence: 자주 <f>만날수록</f> 친해져요.
+        type: simple
+        translated: The more often we meet, the closer we become.
+        audio_url: 
+      - sentence: 일찍 <f>잘수록</f> 건강해요.
+        type: simple
+        translated: The earlier you sleep, the healthier you are.
+        audio_url: 
+metadata:
+  type: verb
+details: |-

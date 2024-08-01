@@ -1,0 +1,22 @@
+name: (으)ㄹ 정도로
+definitions:
+  - slug: extent-of-an-action
+    name: Extent of an action
+    english_alternatives: to the extent
+    meaning: Expresses degree of an action
+    examples:
+      - sentence: 너무 <f>피곤할 정도로</f> 많이 일했어요.
+        type: simple
+        translated: I worked so much that I am extremely tired.
+        audio_url: 
+      - sentence: 웃다가 <f>울 정도로</f> 재미있었어요.
+        type: simple
+        translated: It was so funny that I laughed until I cried.
+        audio_url: 
+metadata:
+  type: verb
+details: |-
+  # Alternate form {#alternate-form}
+
+  It can also be used in the form of <f>-(으)ㄹ 정도이다</f>
+  

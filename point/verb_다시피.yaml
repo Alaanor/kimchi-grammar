@@ -1,0 +1,22 @@
+name: 다시피
+definitions:
+  - slug: confirmation
+    name: Confirmation
+    english_alternatives: as you know, see, hear, feel
+    meaning: Used to express the confirmation of a fact that the listener is already aware of.
+    examples:
+      - sentence: <f>보다시피</f> 날씨가 좋아요.
+        type: simple
+        translated: As you can see, the weather is nice.
+        audio_url: 
+      - sentence: <f>들으시다시피</f> 음악이 아주 좋아요.
+        type: simple
+        translated: As you can hear, the music is very good.
+        audio_url: 
+metadata:
+  type: verb
+details: |-
+   # Usage {#usage}
+
+   Often it is combined with verbs expressing feeling or perceiving such as :dict[알다], :dict[보다], :dict[듣다], :dict[느끼다], etc.
+   

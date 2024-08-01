@@ -1,0 +1,27 @@
+name: (으)므로
+definitions:
+  - slug: cause-or-reason
+    name: Cause or reason
+    english_alternatives: Because, since
+    meaning: Shows the reason for something
+    examples:
+      - sentence: 이 프로젝트는 <f>중요하므로</f> 모두가 참여해야 합니다.
+        type: simple
+        translated: Since this project is important, everyone must participate.
+        audio_url: 
+      - sentence: 시간이 <f>부족하므로</f> 회의를 빨리 시작하겠습니다.
+        type: simple
+        translated: Since time is limited, we will start the meeting promptly.
+        audio_url: 
+      - sentence: 회의 시간이 <f>정해졌으므로</f> 모두 제시간에 도착해야 합니다.
+        type: simple
+        translated: Because the meeting time is set, everyone must arrive on time.
+        audio_url:         
+metadata:
+  type: verb
+details: |-
+  # Usage {#usage}
+
+  It is mainly used in writings and formal situations such as speeches and presentations. 
+
+  It can be replaced by these other grammar forms :grammar[verb_으니까_니까], :grammar[떄문에] or :grammar[verb_아서_어서_해서].

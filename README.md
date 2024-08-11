@@ -61,9 +61,96 @@ The markdown used by kimchi has been extended with some custom directives, html,
 ## Contributions
 
 Contributions are highly welcomed, feel free to open an issue, talking about it
-on [Kimchi Reader's discord](https://discord.gg/aEm5eDRpeZ) and/or open a pull request.
-Contributions should be introducing small, focused changes that address specific aspects without including unrelated
-modifications.
+on [Kimchi Reader's discord](https://discord.gg/aEm5eDRpeZ) and/or open a pull request. Contributions should be
+introducing small, focused changes that address specific aspects without including unrelated modifications.
+
+### How to contribute
+
+Normally contributing on a github repository requires knowledge of git. There are tons of tutorials on the internet
+and/or alternatively you can always ask for helps on our discord server. The general workflow is the follow:
+
+1. Create a fork of Kimchi Grammar
+2. Make a new branch from `main`
+3. Apply the change you want to make (eg. create a new grammar point or edit an existing one - this is where you most of your time)
+4. Commit the change
+5. Open a pull request
+
+> [!TIP]
+> All these steps can be done directly on the GitHub website without installing anything.
+
+## Guidelines & Nomenclature
+
+### Schema for a Grammar point
+
+```yaml
+point: [ Hangul form of grammar, appears in pop-up dict ]
+definitions:
+  - slug: [ Appears at the end of url in browser ]
+    name: [ Summarizes grammar in pop-up dict ]
+    english_alternatives: [ english phrases with similar meaning ]
+    meaning: [ Describes grammar in one or two sentences ]
+    examples:
+      - type: simple
+        sentence: [ Korean example sentence ]
+        translated: [ English translation of korean sentence ]
+        audio_url: [ generated audio reading, leave it blank ]
+metadata:
+  type: [ noun, verb, or composite ]
+details: |-
+  [Use markdown syntax to explain more details about the grammar]
+```
+
+As for the yaml filename itself you can take inspiration from the neighboring files.
+
+A note on the `type` field. `noun` and `verb` are used when the related grammar only attach to a certain kind of word.
+`composite` is for grammar points that appear on a pack of words. (Eg. `ㄹ 수 있다` is something that get attached to 3
+words)
+
+### Guideline naming grammar points
+
+> [!TIP]
+> Guidelines are not strict rules, but rather suggestions to help maintain consistency and clarity across the content.
+
+Where applicable, the field `name` appears in the popup dictionary next to the grammar point. Keep the name short, and
+refer to the examples for tips on naming. If you're not sure which of the two naming styles should be used, pick
+whichever one seems simple and makes sense.
+
+_When to use Active Descriptive Voice_
+
+- Conveying a specific emotion or intent:
+    - "Expresses Surprise" (for -네)
+
+- When describing the functionality or purpose of a grammar point:
+    - "Expresses Possibility" (for -을 수 있다)
+
+- Reflecting the speakers attitude or perspective:
+    - "Conveys Politeness" (for -습니다/습니다)
+
+_What to Avoid_
+
+- Present progressive: "Indicating concern", "Expressing Contrast"
+- Non-present tense: "Showed Intent", "Will demonstrate Emphasis"
+- Imperative (command): "Express Surprise", "Clarify Reason"
+- Passive voice: "Politeness Conveyed"
+
+_When to Use Labels Instead of Active Voice_
+
+- Neutral descriptions of the sequence or structure of a sentence without an emotional or intentional nuance.
+    - "Cause and Effect" (for -기 때문에)
+    - "Simultaneous Actions" (for -면서)
+
+- When the grammar point fits a generic "grammatical" purpose or category.
+    - "Condition" (for -면)
+    - "Comparison" (for -보다)
+
+- Indicating tense or aspect
+    - "Past" (for -았/었)
+    - "Progressive" or "Ongoing" (for -고 있다)
+
+_What to Avoid_
+
+- Technical or linguistic terms: "Progressive **Aspect**", "Subordinating clauses".
+- Terms should be understood without linguistic knowledge beyond basic grammar concepts i.e. "verb", "tense".
 
 ## License
 

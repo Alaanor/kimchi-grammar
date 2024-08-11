@@ -8,15 +8,15 @@ definitions:
       - type: simple
         sentence: <f>민수네</f> 가게는 항상 손님이 많아요.
         translated: Minsu's store always has many customers.
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/민수네_가게는_항상_손님이_많아요__2024-08-12.mp3
       - sentence: <f>수지네</f> 가족은 여행을 갔어요.
         type: simple
         translated: Suji's family went on a trip.
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/수지네_가족은_여행을_갔어요__2024-08-12.mp3
       - sentence: <f>친구네</f> 집에서 파티를 열었어요.
         type: simple
         translated: We had a party at my friend's house.
-        audio_url:         
+        audio_url: https://r2.kimchi-reader.app/grammar/친구네_집에서_파티를_열었어요__2024-08-12.mp3
 metadata:
   type: noun
 details: |-

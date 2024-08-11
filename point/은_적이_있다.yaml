@@ -8,11 +8,11 @@ definitions:
       - sentence: 어릴 때 병원에 <f>입원한 적이 있어요</f>.
         type: simple
         translated: I was hospitalized when I was a child.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/어릴_때_병원에_입원한_적이_있어요__2024-08-12.mp3
       - sentence: 한국말을 몰라서 <f>실수한 적이 있어요</f>.
         type: simple
         translated: I've made a mistake because of my poor Korean.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/한국말을_몰라서_실수한_적이_있어요__2024-08-12.mp3
   - slug: have-not-done
     name: Have not done
     english_alternatives: Have done
@@ -21,11 +21,11 @@ definitions:
       - sentence: 회사에 <f>지각한 적이 없어요</f>.
         type: simple
         translated: I have never been late to work.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/회사에_지각한_적이_없어요__2024-08-12.mp3
       - sentence: 어릴 때 병원에 <f>입원한 적이 없어요</f>.
         type: simple
         translated: I have never been hospitalised when I was a child.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/어릴_때_병원에_입원한_적이_없어요__2024-08-12.mp3
 metadata:
   type: composite
 details: |-
@@ -34,9 +34,9 @@ details: |-
   There are two alternate forms. The first form is a different way of saying <f>(으)ㄴ 적이 있다/없다</f> and the second form is adding :grammar[verb_아보다_어보다_해보다] giving it the feeling of 'have tried/have not tried'.
 
   <f>(으)ㄴ 일이 있다/없다</f>
-  ::example[한국말을 몰라서 <f>실수한 일이 있어요</f>. | I've made a mistake because of my poor Korean. | ]
-  ::example[회사에 <f>지각한 일이 없어요</f>. | I have never been late to work. | ]
+  ::example[한국말을 몰라서 <f>실수한 일이 있어요</f>. | I've made a mistake because of my poor Korean. | https://r2.kimchi-reader.app/grammar/한국말을_몰라서_실수한_일이_있어요__2024-08-12.mp3]
+  ::example[회사에 <f>지각한 일이 없어요</f>. | I have never been late to work. | https://r2.kimchi-reader.app/grammar/회사에_지각한_일이_없어요__2024-08-12.mp3]
 
   <f>아/어 분 적이 있다/없다</f>
-  ::example[한국 음식을 <f>먹어 본 적이 없어요</f>. | I have never tried Korean food. | ]
-  ::example[이탈리아에 <f>가 본 적이 있어요</f>? | Have you ever been to Italy? | ]
+  ::example[한국 음식을 <f>먹어 본 적이 없어요</f>. | I have never tried Korean food. | https://r2.kimchi-reader.app/grammar/한국_음식을_먹어_본_적이_없어요__2024-08-12.mp3]
+  ::example[이탈리아에 <f>가 본 적이 있어요</f>? | Have you ever been to Italy? | https://r2.kimchi-reader.app/grammar/이탈리아에_가_본_적이_있어요__2024-08-12.mp3]

@@ -8,11 +8,11 @@ definitions:
       - sentence: 너무 <f>피곤할 정도로</f> 많이 일했어요.
         type: simple
         translated: I worked so much that I am extremely tired.
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/너무_피곤할_정도로_많이_일했어요__2024-08-12.mp3
       - sentence: 웃다가 <f>울 정도로</f> 재미있었어요.
         type: simple
         translated: It was so funny that I laughed until I cried.
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/웃다가_울_정도로_재미있었어요__2024-08-12.mp3
 metadata:
   type: composite
 details: |-

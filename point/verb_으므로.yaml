@@ -8,15 +8,15 @@ definitions:
       - sentence: 이 프로젝트는 <f>중요하므로</f> 모두가 참여해야 합니다.
         type: simple
         translated: Since this project is important, everyone must participate.
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/이_프로젝트는_중요하므로_모두가_참여해야_합니다__2024-08-12.mp3
       - sentence: 시간이 <f>부족하므로</f> 회의를 빨리 시작하겠습니다.
         type: simple
         translated: Since time is limited, we will start the meeting promptly.
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/시간이_부족하므로_회의를_빨리_시작하겠습니다__2024-08-12.mp3
       - sentence: 회의 시간이 <f>정해졌으므로</f> 모두 제시간에 도착해야 합니다.
         type: simple
         translated: Because the meeting time is set, everyone must arrive on time.
-        audio_url:         
+        audio_url: https://r2.kimchi-reader.app/grammar/회의_시간이_정해졌으므로_모두_제시간에_도착해야_합니다__2024-08-12.mp3
 metadata:
   type: verb
 details: |-

@@ -8,15 +8,15 @@ definitions:
       - sentence: 빨리 <f>걸을수록</f> 더 피곤해요.
         type: simple
         translated: The faster you walk, the more tired you get.
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/빨리_걸을수록_더_피곤해요__2024-08-12.mp3
       - sentence: 자주 <f>만날수록</f> 친해져요.
         type: simple
         translated: The more often we meet, the closer we become.
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/자주_만날수록_친해져요__2024-08-12.mp3
       - sentence: 일찍 <f>잘수록</f> 건강해요.
         type: simple
         translated: The earlier you sleep, the healthier you are.
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/일찍_잘수록_건강해요__2024-08-12.mp3
 metadata:
   type: verb
 details: |-

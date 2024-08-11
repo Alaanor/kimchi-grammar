@@ -8,11 +8,11 @@ definitions:
       - sentence: <f>보다시피</f> 날씨가 좋아요.
         type: simple
         translated: As you can see, the weather is nice.
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/보다시피_날씨가_좋아요__2024-08-12.mp3
       - sentence: <f>들으시다시피</f> 음악이 아주 좋아요.
         type: simple
         translated: As you can hear, the music is very good.
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/들으시다시피_음악이_아주_좋아요__2024-08-12.mp3
 metadata:
   type: verb
 details: |-

@@ -71,7 +71,8 @@ and/or alternatively you can always ask for helps on our discord server. The gen
 
 1. Create a fork of Kimchi Grammar
 2. Make a new branch from `main`
-3. Apply the change you want to make (eg. create a new grammar point or edit an existing one - this is where you most of your time)
+3. Apply the change you want to make (eg. create a new grammar point or edit an existing one - this is where you spend
+   most of your time)
 4. Commit the change
 5. Open a pull request
 
@@ -106,7 +107,7 @@ A note on the `type` field. `noun` and `verb` are used when the related grammar 
 `composite` is for grammar points that appear on a pack of words. (Eg. `ㄹ 수 있다` is something that get attached to 3
 words)
 
-### Guideline naming grammar points
+### Guideline for naming grammar points
 
 > [!TIP]
 > Guidelines are not strict rules, but rather suggestions to help maintain consistency and clarity across the content.
@@ -115,7 +116,7 @@ Where applicable, the field `name` appears in the popup dictionary next to the g
 refer to the examples for tips on naming. If you're not sure which of the two naming styles should be used, pick
 whichever one seems simple and makes sense.
 
-_When to use Active Descriptive Voice_
+**When to use Active Descriptive Voice**
 
 - Conveying a specific emotion or intent:
     - "Expresses Surprise" (for -네)
@@ -126,14 +127,14 @@ _When to use Active Descriptive Voice_
 - Reflecting the speakers attitude or perspective:
     - "Conveys Politeness" (for -습니다/습니다)
 
-_What to Avoid_
+**What to Avoid**
 
 - Present progressive: "Indicating concern", "Expressing Contrast"
 - Non-present tense: "Showed Intent", "Will demonstrate Emphasis"
 - Imperative (command): "Express Surprise", "Clarify Reason"
 - Passive voice: "Politeness Conveyed"
 
-_When to Use Labels Instead of Active Voice_
+**When to Use Labels Instead of Active Voice**
 
 - Neutral descriptions of the sequence or structure of a sentence without an emotional or intentional nuance.
     - "Cause and Effect" (for -기 때문에)
@@ -147,7 +148,7 @@ _When to Use Labels Instead of Active Voice_
     - "Past" (for -았/었)
     - "Progressive" or "Ongoing" (for -고 있다)
 
-_What to Avoid_
+**What to Avoid**
 
 - Technical or linguistic terms: "Progressive **Aspect**", "Subordinating clauses".
 - Terms should be understood without linguistic knowledge beyond basic grammar concepts i.e. "verb", "tense".

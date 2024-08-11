@@ -1,0 +1,22 @@
+name: 네
+definitions:
+  - slug: collective
+    name: Collective
+    english_alternatives: 
+    meaning: Shows which group a person is part of
+    examples:
+      - type: simple
+        sentence: <f>민수네</f> 가게는 항상 손님이 많아요.
+        translated: Minsu's store always has many customers.
+        audio_url: 
+      - sentence: <f>수지네</f> 가족은 여행을 갔어요.
+        type: simple
+        translated: Suji's family went on a trip.
+        audio_url: 
+      - sentence: <f>친구네</f> 집에서 파티를 열었어요.
+        type: simple
+        translated: We had a party at my friend's house.
+        audio_url:         
+metadata:
+  type: noun
+details: |-

@@ -14,7 +14,7 @@ definitions:
         translated: It was so funny that I laughed until I cried.
         audio_url: 
 metadata:
-  type: verb
+  type: composite
 details: |-
   # Alternate form {#alternate-form}
 

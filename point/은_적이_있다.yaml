@@ -13,10 +13,10 @@ definitions:
         type: simple
         translated: I've made a mistake because of my poor Korean.
         audio_url:
-  - slug: have--not-done
+  - slug: have-not-done
     name: Have not done
     english_alternatives: Have done
-    meaning: Indicates you not having a certain experience i nthe past
+    meaning: Indicates you not having a certain experience in the past
     examples:
       - sentence: 회사에 <f>지각한 적이 없어요</f>.
         type: simple
@@ -24,7 +24,7 @@ definitions:
         audio_url:
       - sentence: 어릴 때 병원에 <f>입원한 적이 없어요</f>.
         type: simple
-        translated: I have never been hostpitalized when I was a child.
+        translated: I have never been hospitalised when I was a child.
         audio_url:
 metadata:
   type: composite
@@ -37,6 +37,6 @@ details: |-
   ::example[한국말을 몰라서 <f>실수한 일이 있어요</f>. | I've made a mistake because of my poor Korean. | ]
   ::example[회사에 <f>지각한 일이 없어요</f>. | I have never been late to work. | ]
 
-  <f>아/어 분 적이 없다/없다</f>
+  <f>아/어 분 적이 있다/없다</f>
   ::example[한국 음식을 <f>먹어 본 적이 없어요</f>. | I have never tried Korean food. | ]
   ::example[이탈리아에 <f>가 본 적이 있어요</f>? | Have you ever been to Italy? | ]

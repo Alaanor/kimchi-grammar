@@ -1,0 +1,16 @@
+name: Lint
+
+on: [push, pull_request] # yamllint disable-line rule:truthy
+
+jobs:
+  yamllint:
+    name: Lint yaml
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Lint root yaml
+        uses: ibiqlik/action-yamllint@v3
+        with:
+          config_file: .yamllint
+          target_directory: .

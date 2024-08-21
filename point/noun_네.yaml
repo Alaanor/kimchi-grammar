@@ -2,7 +2,7 @@ name: 네
 definitions:
   - slug: collective
     name: Collective
-    english_alternatives: 
+    english_alternatives:
     meaning: Shows which group a person is part of
     examples:
       - type: simple

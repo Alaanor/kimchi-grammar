@@ -18,4 +18,4 @@ inheritance:
   - parent: "verb_았던_었던_했던"
     children: ["verb_았_었_했", "verb_던"]
   - parent: "verb_기는_긴"
-    children: [ "verb_기", "noun_은_는" ]
+    children: ["verb_기", "noun_은_는"]

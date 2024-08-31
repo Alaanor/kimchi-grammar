@@ -8,11 +8,11 @@ definitions:
       - sentence: 오늘 저녁에 피자를 <f>먹을까 해요</f>.
         type: simple
         translated: I'm thinking about eating pizza tonight.
-        audio_url: 
+        audio_url:
       - sentence: 이번 방학에는 한국 여행을 <f>할까 해요</f>.
         type: simple
         translated: I'm thinking of taking a trip to Korera this vacation
-        audio_url: 
+        audio_url:
 metadata:
   type: composite
 details: |-

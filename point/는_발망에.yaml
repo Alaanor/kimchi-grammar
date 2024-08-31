@@ -1,0 +1,18 @@
+name: 는 바람에
+definitions:
+  - slug: unintended-consequence
+    name: Unintended Consequence
+    english_alternatives: As a result of, Due to
+    meaning: Used to indicate that something happened as an unintended consequence or result of a particular action or situation, often with a negative or unexpected outcome.
+    examples:
+      - sentence: 비가 <f>오는 바람에</f> 소풍을 취소했어요.
+        type: simple
+        translated: Because of the rain, we canceled the picnic.
+        audio_url:
+      - sentence: 전기가 <f>나가는 바람에</f> TV를 못 봤어요.
+        type: simple
+        translated: I couldn't watch TV because the power went out.
+        audio_url:
+metadata:
+  type: composite
+details: |-

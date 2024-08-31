@@ -8,11 +8,11 @@ definitions:
       - sentence: 기차를 <f>타려던 참에</f> 그를 만났다.
         type: simple
         translated: As I was just about to get on the train, I met him.
-        audio_url: 
+        audio_url:
       - sentence: 저녁을 <f>먹으려던 참인데</f> 같이 갈래요?
         type: simple
         translated: I am about to have dinner, want to join me?
-        audio_url: 
+        audio_url:
 metadata:
   type: composite
 details: |-

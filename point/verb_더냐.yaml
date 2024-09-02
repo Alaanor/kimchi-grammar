@@ -1,0 +1,18 @@
+name: 더냐
+definitions:
+  - slug: asking-about-a-personal-experience
+    name: Asking about a personal experience
+    english_alternatives: Was it ...?, Did they ...?
+    meaning: Used to ask about what the listener personally saw or heard in the past.
+    examples:
+      - sentence: 일본에 도착하니까 눈이 오<f>더냐</f>?
+        type: simple
+        translated: Was it snowing when you arrived in Japan?
+        audio_url:
+      - sentence: 누가 그런 말을 하라고 하<f>더냐</f>?
+        type: simple
+        translated: Who told you do say that?
+        audio_url:
+metadata:
+  type: verb
+details: |-

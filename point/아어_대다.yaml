@@ -1,0 +1,18 @@
+name: 아/어 대다
+definitions:
+  - slug: excessive-action
+    name: Excessive Action Form
+    english_alternatives: To keep doing something excessively
+    meaning: This expression is used to show that something is done too much and keeps happening.
+    examples:
+      - sentence: 동생이 계속 <f>울어 대서</f> 머리가 아파요.
+        type: simple
+        translated: My younger sibling kept crying too much, so I have a headache.
+        audio_url:
+      - sentence: 고양이가 밤에 <f>울어 대서</f> 잠을 못 잤어요.
+        type: simple
+        translated: The cat kept crying at night, so I couldn't sleep.
+        audio_url:
+metadata:
+  type: composite
+details: |-

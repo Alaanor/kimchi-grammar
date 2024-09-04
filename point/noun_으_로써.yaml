@@ -1,0 +1,18 @@
+name: (으)로써
+definitions:
+  - slug: means-or-method
+    name: Means or Method
+    english_alternatives: By means of, Through
+    meaning: This form shows how something happens or is done using a certain method or way.
+    examples:
+      - sentence: 고기를 <f>식칼로써</f> 토막을 내요.
+        type: simple
+        translated: Cut the meat into pieces with a knife.
+        audio_url:
+      - sentence: 학생들이 <f>토론으로써</f> 문제를 해결했어요.
+        type: simple
+        translated: The students solved the problem through discussion.
+        audio_url:
+metadata:
+  type: noun
+details: |-

@@ -8,11 +8,11 @@ definitions:
       - sentence: 동생이 계속 <f>울어 대서</f> 머리가 아파요.
         type: simple
         translated: My younger sibling kept crying too much, so I have a headache.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/동생이_계속_울어_대서_머리가_아파요__2024-09-04.mp3
       - sentence: 고양이가 밤에 <f>울어 대서</f> 잠을 못 잤어요.
         type: simple
         translated: The cat kept crying at night, so I couldn't sleep.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/고양이가_밤에_울어_대서_잠을_못_잤어요__2024-09-04.mp3
 metadata:
   type: composite
 details: |-

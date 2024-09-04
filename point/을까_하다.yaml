@@ -8,11 +8,11 @@ definitions:
       - sentence: 오늘 저녁에 피자를 <f>먹을까 해요</f>.
         type: simple
         translated: I'm thinking about eating pizza tonight.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/오늘_저녁에_피자를_먹을까_해요__2024-09-04.mp3
       - sentence: 이번 방학에는 한국 여행을 <f>할까 해요</f>.
         type: simple
         translated: I'm thinking of taking a trip to Korera this vacation
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/이번_방학에는_한국_여행을_할까_해요__2024-09-04.mp3
 metadata:
   type: composite
 details: |-

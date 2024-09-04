@@ -1,6 +1,6 @@
 name: 끼리
 definitions:
-  - slug: grouo-together
+  - slug: group-together
     name: Group Together
     english_alternatives: among, between, with
     meaning: Used to indicate that actions or interactions are done among members of the same group or category.
@@ -8,15 +8,15 @@ definitions:
       - sentence: <f>친구들끼리</f> 영화를 봤어요.
         type: simple
         translated: The friends watched a movie together.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/친구들끼리_영화를_봤어요__2024-09-04.mp3
       - sentence: <f>아이들끼리</f> 놀이터에서 놀아요.
         type: simple
         translated: The kids are playing together at the playground.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/아이들끼리_놀이터에서_놀아요__2024-09-04.mp3
       - sentence: <f>학생들끼리</f> 의견을 나눠요.
         type: simple
         translated: The students are sharing opinions among themselves.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/학생들끼리_의견을_나눠요__2024-09-04.mp3
 metadata:
   type: noun
 details: |-

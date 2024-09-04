@@ -8,11 +8,11 @@ definitions:
       - sentence: 일본에 도착하니까 눈이 오<f>더냐</f>?
         type: simple
         translated: Was it snowing when you arrived in Japan?
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/일본에_도착하니까_눈이_오더냐__2024-09-04.mp3
       - sentence: 누가 그런 말을 하라고 하<f>더냐</f>?
         type: simple
         translated: Who told you do say that?
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/누가_그런_말을_하라고_하더냐__2024-09-04.mp3
 metadata:
   type: verb
 details: |-

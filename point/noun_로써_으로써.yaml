@@ -8,11 +8,11 @@ definitions:
       - sentence: 고기를 <f>식칼로써</f> 토막을 내요.
         type: simple
         translated: Cut the meat into pieces with a knife.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/고기를_식칼로써_토막을_내요__2024-09-04.mp3
       - sentence: 학생들이 <f>토론으로써</f> 문제를 해결했어요.
         type: simple
         translated: The students solved the problem through discussion.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/학생들이_토론으로써_문제를_해결했어요__2024-09-04.mp3
 metadata:
   type: noun
 details: |-

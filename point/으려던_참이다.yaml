@@ -1,0 +1,18 @@
+name: (으)려던 참이다
+definitions:
+  - slug: be-just-about-to
+    name: Be just about to
+    english_alternatives: Be just about to
+    meaning: The speaker is just about to do something very soon.
+    examples:
+      - sentence: 기차를 <f>타려던 참에</f> 그를 만났다.
+        type: simple
+        translated: As I was just about to get on the train, I met him.
+        audio_url:
+      - sentence: 저녁을 <f>먹으려던 참인데</f> 같이 갈래요?
+        type: simple
+        translated: I am about to have dinner, want to join me?
+        audio_url:
+metadata:
+  type: composite
+details: |-

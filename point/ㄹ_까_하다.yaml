@@ -1,0 +1,25 @@
+name: (으)ㄹ까 하다
+definitions:
+  - slug: be-thinking-of
+    name: Be thinking of
+    english_alternatives: Be thinking of
+    meaning: The speaker is not sure about their plan or intention, and it might change.
+    examples:
+      - sentence: 오늘 저녁에 피자를 <f>먹을까 해요</f>.
+        type: simple
+        translated: I'm thinking about eating pizza tonight.
+        audio_url:
+      - sentence: 이번 방학에는 한국 여행을 <f>할까 해요</f>.
+        type: simple
+        translated: I'm thinking of taking a trip to Korera this vacation
+        audio_url:
+metadata:
+  type: composite
+details: |-
+  # Usage {#usage}
+
+  This expression can't be used with interrogative, imperative, proposition and future tense sentences.
+
+  # Negative forms {#negative-forms}
+
+  The negative form of this expression is <f>안 V-(으)ㄹ까 하다</f> or  <f>-지 말까 하다</f>

@@ -2,7 +2,7 @@ name: 기 일쑤이다
 definitions:
   - slug: often-happens-in-a-negative-way
     name: Often Happens in a Negative Way
-    english_alternatives: 
+    english_alternatives:
     meaning: Used to show that something happens often, usually in a bad way.
     examples:
       - sentence: 친구가 약속을 <f>잊기 일쑤예요</f>.
@@ -19,4 +19,3 @@ details: |-
   # Alternate form {#alternate-form}
 
   There are a other variety of this forms which are <f>-기가 일쑤이다</f>, <f>-기 일쑤다</f> and <f>-기가 일쑤다</f>
-  

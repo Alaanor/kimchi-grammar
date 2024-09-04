@@ -1,0 +1,18 @@
+name: ㄹ/을 리가 없다
+definitions:
+  - slug: impossible-reasoning
+    name: Impossible Reasoning
+    english_alternatives: There is no way, It is impossible that
+    meaning: Indicates the speaker's disbelief or doubt
+    examples:
+      - sentence: 친구가 <f>늦을 리가 없어요</f>.
+        type: simple
+        translated: There's no way my friend would be late.
+        audio_url:
+      - sentence: 이 음식을 <f>안 좋아할 리가 없어요</f>.
+        type: simple
+        translated: There's no way you won't like this food.
+        audio_url:
+metadata:
+  type: composite
+details: |-

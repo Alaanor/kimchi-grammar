@@ -1,0 +1,22 @@
+name: V-아/어야지
+definitions:
+  - slug: strong-intention
+    name: Strong Intention
+    english_alternatives: Must do
+    meaning: Express speaker’s strong intention for oneself or a strong suggestion to someone else.
+    examples:
+      - sentence: 영화가 너무 재미있다고 했어. 나도 <f>봐야지</f>.
+        type: simple
+        translated: I heard the movie is very interesting. I must go see it.
+        audio_url: https://r2.kimchi-reader.app/grammar/영화가_너무_재미있다고_했어_나도_봐야지__2024-09-05.mp3
+      - sentence: 패스트푸드만 먹지 말고 채소도 <f>먹어야지</f>.
+        type: simple
+        translated: Don't just eat fast food, you've got to eat some vegtables too.
+        audio_url: https://r2.kimchi-reader.app/grammar/패스트푸드만_먹지_말고_채소도_먹어야지__2024-09-05.mp3
+      - sentence: 대통령이 연설를 하시니까 꼭 <f>가야지요</f>.
+        type: simple
+        translated: The president is giving a speech so we've got to go see it.
+        audio_url: https://r2.kimchi-reader.app/grammar/대통령이_연설를_하시니까_꼭_가야지요__2024-09-05.mp3
+metadata:
+  type: verb
+details: |-

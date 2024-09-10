@@ -1,0 +1,21 @@
+name: 길래
+definitions:
+  - slug: reason-or-cause
+    name: Reason or cause
+    english_alternatives: Since, because, As a result of...
+    meaning: Used to express the reason or cause for the speaker's action.
+    examples:
+      - sentence: 날씨가 <f>따뜻하길래</f> 산책을 했어요.
+        type: simple
+        translated: Since the weather was warm, I went for a walk.
+        audio_url:
+      - sentence: 사람들이 너무 <f>많길래</f> 다른 곳에 갔어요.
+        type: simple
+        translated: Because there were too many people, I went to a different place.
+        audio_url:
+metadata:
+  type: verb
+details: |-
+  # Usage {#usage}
+
+  Commonly used in speaking, and can be replaced by :grammar[때문에]

@@ -1,0 +1,21 @@
+name: 곤 하다
+definitions:
+  - slug: habit
+    name: Habit
+    english_alternatives: Often, used to
+    meaning: Indicate a habitual action of the present or past.
+    examples:
+      - sentence: 사무실에서 퇴근하고 <f>운동하곤 해요</f>.
+        type: simple
+        translated: I use to work out after work at the office.
+        audio_url:
+      - sentence: 밤에 잠이 안 오면 음악을 듣곤 해요.
+        type: simple
+        translated: When I can't sleep at night, I often listen to music
+        audio_url:
+metadata:
+  type: composite
+details: |-
+  # Usage {#usage}
+
+  Often used together with words like :dict[곧잘], :dict[자주], :dict[가끔]

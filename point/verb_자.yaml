@@ -13,9 +13,35 @@ definitions:
         type: simple
         translated: Let's have a drink after work.
         audio_url: https://r2.kimchi-reader.app/grammar/회사_끝나면_술_한_잔_하자__2024-04-13.mp3
+
+  - slug: simultaneous-action
+    name: Simultaneous Action
+    english_alternatives: as, when, while
+    meaning: Indicates that the second action occurs **as** or **when** the first action is happening.
+    examples:
+      - sentence: 창문을 열<f>자</f> 바람이 들어왔다.
+        type: simple
+        translated: As I opened the window, the wind came in.
+        audio_url: 
+      - sentence: 의자에 앉<f>자</f> 잠들었다.
+        type: simple
+        translated: I fell asleep as I sat down.
+        audio_url: 
+      - sentence: 차에서 연기가 나<f>자</f> 운전사는 차에서 뛰쳐나왔다.
+        type: simple
+        translated: The driver rushed out of the car as smoke started coming out of it.
+        audio_url: 
+
 metadata:
   type: verb
-details: |-
-  # Formal language {#formal}
 
-  :grammar[verb_자]{suggestion} is a bit informal, the more formal version of this expression would be :grammar[verb_읍시다_ㅂ시다]{suggestion}.
+details: |-
+  # Suggestion {#suggestion}
+
+  :grammar[verb_자]{suggestion} is used to make informal suggestions to do something together. The more formal version of this expression is :grammar[verb_읍시다_ㅂ시다]{suggestion}.
+
+  # Simultaneous Action {#simultaneous-action}
+
+  :grammar[verb_자]{simultaneous-action} indicates that the second action happens **as** or **when** the first action is occurring. Unlike :grammar[verb_자마자]{as-soon-as}, which emphasizes that the second action happens **immediately after** the first, **-자** in this usage conveys that the two actions are closely connected in time, often overlapping.
+
+  **Note:** This usage of **-자** is more common in written or formal contexts and is less frequently used in spoken Korean. In conversational Korean, :grammar[verb_으니까_니까]{reason-or-cause} or :grammar[verb_아서_어서_해서]{reason-or-clause} might be used instead.

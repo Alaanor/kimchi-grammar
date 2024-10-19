@@ -1,0 +1,57 @@
+name: (으)ㅁ
+definitions:
+  - slug: concept-noun
+    name: Concept Noun
+    english_alternatives: the act of, the state of
+    meaning: Turns verbs or adjectives into abstract nouns representing a concept or idea.
+    examples:
+      - sentence: 죽<f>음</f>이 두렵다.
+        type: simple
+        translated: Death is frightening.
+        audio_url: 
+      - sentence: 믿<f>음</f>은 중요한 가치이다.
+        type: simple
+        translated: Faith is an important value.
+        audio_url: 
+      - sentence: 잠이 부족하면 건강에 해로<f>움</f>이 생긴다.
+        type: simple
+        translated: Lack of sleep causes harm to health.
+        audio_url: 
+  - slug: nominalization
+    name: Nominalization
+    english_alternatives: -ing, the act of
+    meaning: Turns verbs or adjectives into nouns, often used in formal writing to state facts or make lists.
+    examples:
+      - sentence: 공부하<f>ㅁ</f>이 즐겁다.
+        type: simple
+        translated: Studying is enjoyable.
+        audio_url: 
+      - sentence: 참석하지 못했<f>음</f>을 알려드립니다.
+        type: simple
+        translated: I inform you that I couldn't attend.
+        audio_url: 
+      - sentence: 문제를 해결했<f>음</f>을 보고합니다.
+        type: simple
+        translated: I report that the problem has been solved.
+        audio_url: 
+  - slug: formal-ending
+    name: Formal Sentence Ending
+    english_alternatives: (indicates statement)
+    meaning: Used at the end of sentences in formal writing to state facts or conclusions.
+    examples:
+      - sentence: 이상으로 보고를 마치겠<f>음</f>.
+        type: simple
+        translated: I will conclude the report here.
+        audio_url: 
+      - sentence: 모든 준비가 완료되었<f>음</f>.
+        type: simple
+        translated: All preparations have been completed.
+        audio_url: 
+metadata:
+  type: verb
+details: |-
+  # Usage {#usage}
+  
+  - Commonly used in **formal writing**, such as books, reports, notices, and official documents.
+  - Often used to **state facts** or **summarize information**.
+  - Can function as a sentence ending in formal contexts to state facts or conclusions.

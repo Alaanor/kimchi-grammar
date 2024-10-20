@@ -1,0 +1,44 @@
+name: (이)자
+definitions:
+  - slug: dual-roles
+    name: Indicating Dual Roles
+    english_alternatives: both... and..., as well as
+    meaning: Used to indicate that someone or something is both A and B simultaneously.
+    examples:
+      - sentence: 그는 나의 선생님<f>이자</f> 친구이다.
+        type: simple
+        translated: He is both my teacher and friend.
+        audio_url: 
+      - sentence: 그녀는 배우<f>이자</f> 가수이다.
+        type: simple
+        translated: She is both an actress and a singer.
+        audio_url: 
+      - sentence: 이 책은 교과서<f>이자</f> 참고서입니다.
+        type: simple
+        translated: This book is both a textbook and a reference book.
+        audio_url: 
+      - sentence: 슬기님은 프로그래머<f>이자</f> 여성입니다.
+        type: simple
+        translated: Seulgi is a programmar as well as a woman.
+        audio_url: 
+      - sentence: 이곳은 관광지<f>이자</f> 역사적인 장소입니다.
+        type: simple
+        translated: This place is both a tourist spot and a historical site.
+        audio_url: 
+metadata:
+  type: noun
+details: |-
+  # Usage {#usage}
+
+ - When the word ends with a consonant, add <f>이자</f> after the word.
+    - Example: 학생 → 학생<f>이자</f>
+  
+  - When the word ends with a vowel, add <f>자</f> after the word.
+    - Example: 배우 → 배우<f>자</f>
+
+
+  **Notes:**
+
+  - Commonly used in both spoken and written Korean.
+  - **N(이)자** Connects two nouns to indicate dual roles or characteristics.
+  - Emphasizes that both **Noun1** + **Noun2** are equally important.

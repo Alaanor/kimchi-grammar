@@ -3,7 +3,7 @@ definitions:
   - slug: strong-determination
     name: Strong Determination
     english_alternatives: will definitely, won't stop until
-    meaning: Expresses the speaker's strong will or determination to do something.
+    meaning: Expresses the speaker''s strong will or determination to do something or complete an action.
     examples:
       - sentence: 이번 프로젝트를 성공시키<f>고 말겠습니다</f>.
         type: simple
@@ -20,6 +20,3 @@ definitions:
 metadata:
   type: verb
 details: |-
-  # Usage {#strong-determination}
-
-  **V-고 말겠다** is used to express strong determination or resolve to complete an action.

@@ -3,7 +3,7 @@ definitions:
   - slug: dual-roles
     name: Indicating Dual Roles
     english_alternatives: both... and..., as well as
-    meaning: Used to indicate that someone or something is both A and B simultaneously.
+    meaning: Indicate that someone or something is both A and B simultaneously.
     examples:
       - sentence: 그는 나의 선생님<f>이자</f> 친구이다.
         type: simple
@@ -25,12 +25,29 @@ definitions:
         type: simple
         translated: This place is both a tourist spot and a historical site.
         audio_url: 
+  - slug: first-and-last
+    name: First and Last
+    english_alternatives: the first and the last
+    meaning: Emphasize that someone or something is both the first and the last
+    examples:
+      - sentence: 그 사람은 우리 나라의 처음<f>이자</f> 마지막 공주였어요.
+        type: simple
+        translated: That person was our country''s first and last princess.
+        audio_url: 
+      - sentence: 이 경기는 그의 처음<f>이자</f> 마지막 출전이었다.
+        type: simple
+        translated: This match was his first and last appearance.
+        audio_url: 
+      - sentence: 이것은 제 처음<f>이자</f> 마지막 기회예요.
+        type: simple
+        translated: This is my first and last chance.
+        audio_url: 
 metadata:
   type: noun
 details: |-
   # Usage {#usage}
 
- - When the word ends with a consonant, add <f>이자</f> after the word.
+  - When the word ends with a consonant, add <f>이자</f> after the word.
     - Example: 학생 → 학생<f>이자</f>
   
   - When the word ends with a vowel, add <f>자</f> after the word.

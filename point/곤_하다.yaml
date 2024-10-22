@@ -9,7 +9,7 @@ definitions:
         type: simple
         translated: I use to work out after work at the office.
         audio_url:
-      - sentence: 밤에 잠이 안 오면 음악을 듣곤 해요.
+      - sentence: 밤에 잠이 안 오면 음악을 <f>듣곤 해요</f>.
         type: simple
         translated: When I can't sleep at night, I often listen to music
         audio_url:

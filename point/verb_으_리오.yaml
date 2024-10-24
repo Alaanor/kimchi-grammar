@@ -17,6 +17,9 @@ definitions:
         sentence: 우리가 어찌 포기하였<f>으리오</f>.
         translated: How could we have given up?
         audio_url:
+      - type: simple
+        sentence: 그가 성공하겠<f>으리오</f>?.
+        translated: Could he possibly succeed?
 metadata:
   type: verb
 details: |-

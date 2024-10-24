@@ -38,7 +38,7 @@ definitions:
         type: simple
         translated: What are you looking for?
         audio_url: 
-      - sentence: 오늘 기분이 어떠<f>소</f>?
+      - sentence: 오늘 기분이 어떻<f>소</f>?
         type: simple
         translated: How are you feeling today?
         audio_url: 

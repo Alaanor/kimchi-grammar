@@ -84,7 +84,7 @@ definitions:
         type: simple
         translated: Let's take a walk.
         audio_url: 
-  - slug: haoche-honorific    
+  - slug: haoche-honorific
     name: Haoche Honorific
     english_alternatives: semi-formal polite ending with honorific
     meaning: Semi-formal polite sentence ending in the 하오체 speech level with honorific.

@@ -1,0 +1,22 @@
+name: 고 말겠다
+definitions:
+  - slug: strong-determination
+    name: Strong Determination
+    english_alternatives: will definitely, won't stop until
+    meaning: Expresses the speaker''s strong will or determination to do something or complete an action.
+    examples:
+      - sentence: 이번 프로젝트를 성공시키<f>고 말겠습니다</f>.
+        type: simple
+        translated: I will definitely make this project a success.
+        audio_url:
+      - sentence: 반드시 진실을 밝히<f>고 말겠어요</f>.
+        type: simple
+        translated: I will uncover the truth no matter what.
+        audio_url:
+      - sentence: 목표를 이루<f>고 말겠다</f>.
+        type: simple
+        translated: I will achieve my goal.
+        audio_url:
+metadata:
+  type: verb
+details: |-

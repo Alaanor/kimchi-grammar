@@ -1,0 +1,27 @@
+name: 거늘
+definitions:
+  - slug: reason-or-cause
+    name: Reason or Cause
+    english_alternatives: considering that, since, even though
+    meaning: Used to express a reason or cause, often implying a contrast or rhetorical question.
+    examples:
+      - sentence: 그는 열심히 노력했<f>거늘</f> 왜 실패했을까?
+        type: simple
+        translated: Considering that he worked hard, why did he fail?
+        audio_url: 
+      - sentence: 봄이 되었<f>거늘</f> 날씨가 아직도 춥다.
+        type: simple
+        translated: Even though it's spring, the weather is still cold.
+        audio_url: 
+      - sentence: 경고를 받았<f>거늘</f> 또 같은 실수를 하다니.
+        type: simple
+        translated: Considering that you were warned, you made the same mistake again.
+        audio_url: 
+metadata:
+  type: verb
+details: |-
+  # Usage {#usage}
+
+  - **V-거늘** is primarily used in literary, formal, or poetic contexts and is considered archaic in modern spoken Korean, so the examples should be treated as references rather than common usages in modern conversation.
+  - It often sets up a contrast between the expected outcome and the actual situation.
+  - Commonly used in proverbs or traditional expressions.

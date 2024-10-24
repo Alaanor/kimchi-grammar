@@ -33,3 +33,6 @@ relation:
   - concern:
       - { id: "noun_이야", slug: "copula" }
       - { id: "noun_이다", slug: "copula" }
+  - concern:
+      - { id: "verb_자", slug: "simultaneous-action" }
+      - { id: "verb_자마자", slug: "as-soon-as" }

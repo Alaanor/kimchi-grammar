@@ -1,0 +1,39 @@
+name: (으)로서
+definitions:
+  - slug: role-capacity
+    name: Role or Capacity
+    english_alternatives: as, in the capacity of
+    meaning: Indicates the role, capacity, or status of someone or something in relation to an action or state.
+    examples:
+      - sentence: 학생<f>으로서</f> 책임을 다해야 합니다.
+        type: simple
+        translated: You must fulfill your responsibilities **as a student**.
+        audio_url: 
+      - sentence: 부모<f>로서</f> 최선을 다하고 있습니다.
+        type: simple
+        translated: I am doing my best **as a parent**.
+        audio_url: 
+      - sentence: 대표<f>로서</f> 회의에 참석했습니다.
+        type: simple
+        translated: He attended the meeting **as a representative**.
+        audio_url: 
+      - sentence: 비서<f>로서</f> 저는 정확한 정보를 제공합니다.
+        type: simple
+        translated: **As a secretary**, I provide accurate information.
+        audio_url: 
+      - sentence: 친구<f>로서</f> 너를 도와주고 싶어.
+        type: simple
+        translated: I want to help you **as a friend**.
+        audio_url: 
+      - sentence: 동료<f>로서</f> 조언을 해줄게.
+        type: simple
+        translated: I'll give you advice **as a colleague**.
+        audio_url: 
+metadata:
+  type: noun
+details: |-
+  # Role or Capacity {#role-capacity}
+
+  **N-(으)로서** is a particle used to indicate the role, capacity, or status of someone or something in relation to an action or state. It is translated as **"as"** or **"in the capacity of"**.
+  
+  **Note:** Do not confuse **N-(으)로서** with :grammar[noun_로써_으로써]{means-or-method}, which indicates means or method.

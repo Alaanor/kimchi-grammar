@@ -1,0 +1,32 @@
+name: 고 말다
+definitions:
+  - slug: unintentional-result
+    name: Unintentional or Inevitable Result
+    english_alternatives: ended up, finally did
+    meaning: Expresses that an action happened unintentionally, unexpectedly, or inevitably.
+    examples:
+      - sentence: 그만 화를 내<f>고 말았어요</f>.
+        type: simple
+        translated: I ended up losing my temper.
+        audio_url:
+      - sentence: 친구의 비밀을 말하<f>고 말았습니다</f>.
+        type: simple
+        translated: I ended up telling my friend's secret.
+        audio_url:
+      - sentence: 다이어트 중인데 케이크를 먹<f>고 말았어</f>.
+        type: simple
+        translated: I was on a diet, but I ended up eating cake.
+        audio_url:
+metadata:
+  type: verb
+details: |-
+  # Unintentional or Inevitable Result {#unintentional-result}
+
+  **V-고 말다** is used to express that something happened:
+
+  - **Unintentionally or Unexpectedly:** The action was not planned or desired.
+  - **Inevitably:** Despite efforts to prevent it, the action occurred.
+  - **With Regret or Frustration:** Often conveys the speaker's disappointment.
+  
+
+  **Note:** When used in the future tense, :grammar[verb_고_말겠다]{strong-determination} shows the speaker's strong will or determination.

@@ -25,19 +25,19 @@ definitions:
       - sentence: 지금 어디에 <f>계세요</f>?
         type: simple
         translated: Where are you now?
-        audio_url: 
+        audio_url:
       - sentence: 무슨 일을 <f>하세요</f>?
         type: simple
         translated: What do you do?
-        audio_url: 
+        audio_url:
       - sentence: 시간이 <f>있으세요</f>?
         type: simple
         translated: Do you have time?
-        audio_url: 
+        audio_url:
       - sentence: 어떤 음악을 <f>좋아하세요</f>?
         type: simple
         translated: What kind of music do you like?
-        audio_url: 
+        audio_url:
   - slug: polite-statement
     name: Polite Statement
     english_alternatives: you do, you are
@@ -46,19 +46,19 @@ definitions:
       - sentence: 선생님은 한국어를 <f>가르치세요</f>.
         type: simple
         translated: The teacher teaches Korean.
-        audio_url: 
+        audio_url:
       - sentence: 부모님은 서울에 <f>계세요</f>.
         type: simple
         translated: My parents are in Seoul.
-        audio_url: 
+        audio_url:
       - sentence: 생일이 <f>세요</f>.
         type: simple
         translated: It's your birthday.
-        audio_url: 
+        audio_url:
       - sentence: 할머니께서 편찮으<f>세요</f>.
         type: simple
         translated: My grandmother is ill.
-        audio_url: 
+        audio_url:
 metadata:
   type: verb
 details: |-

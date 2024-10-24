@@ -2,7 +2,7 @@ name: -(으)리오
 definitions:
   - slug: expressing-impossibility
     name: Expressing Impossibility
-    english_alternatives: how could..., who would...
+    english_alternatives: how could, who would
     meaning: Emphasize that something is impossible or unlikely by asking a rhetorical question.
     examples:
       - type: simple

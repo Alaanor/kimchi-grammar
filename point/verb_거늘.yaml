@@ -8,20 +8,20 @@ definitions:
       - sentence: 그는 열심히 노력했<f>거늘</f> 왜 실패했을까?
         type: simple
         translated: Considering that he worked hard, why did he fail?
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/그는_열심히_노력했거늘_왜_실패했을까__2024-10-24.mp3
       - sentence: 봄이 되었<f>거늘</f> 날씨가 아직도 춥다.
         type: simple
         translated: Even though it's spring, the weather is still cold.
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/봄이_되었거늘_날씨가_아직도_춥다__2024-10-24.mp3
       - sentence: 경고를 받았<f>거늘</f> 또 같은 실수를 하다니.
         type: simple
         translated: Considering that you were warned, you made the same mistake again.
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/경고를_받았거늘_또_같은_실수를_하다니__2024-10-24.mp3
 metadata:
   type: verb
 details: |-
   # Usage {#usage}
 
-  - **V-거늘** is primarily used in literary, formal, or poetic contexts and is considered archaic in modern spoken Korean, so the examples should be treated as references rather than common usages in modern conversation.
+  - :grammar[verb_거늘] is primarily used in literary, formal, or poetic contexts and is considered archaic in modern spoken Korean, so the examples should be treated as references rather than common usages in modern conversation.
   - It often sets up a contrast between the expected outcome and the actual situation.
   - Commonly used in proverbs or traditional expressions.

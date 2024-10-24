@@ -8,27 +8,27 @@ definitions:
       - sentence: 학생<f>으로서</f> 책임을 다해야 합니다.
         type: simple
         translated: You must fulfill your responsibilities **as a student**.
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/학생으로서_책임을_다해야_합니다__2024-10-24.mp3
       - sentence: 부모<f>로서</f> 최선을 다하고 있습니다.
         type: simple
         translated: I am doing my best **as a parent**.
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/부모로서_최선을_다하고_있습니다__2024-10-24.mp3
       - sentence: 대표<f>로서</f> 회의에 참석했습니다.
         type: simple
         translated: He attended the meeting **as a representative**.
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/대표로서_회의에_참석했습니다__2024-10-24.mp3
       - sentence: 비서<f>로서</f> 저는 정확한 정보를 제공합니다.
         type: simple
         translated: **As a secretary**, I provide accurate information.
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/비서로서_저는_정확한_정보를_제공합니다__2024-10-24.mp3
       - sentence: 친구<f>로서</f> 너를 도와주고 싶어.
         type: simple
         translated: I want to help you **as a friend**.
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/친구로서_너를_도와주고_싶어__2024-10-24.mp3
       - sentence: 동료<f>로서</f> 조언을 해줄게.
         type: simple
         translated: I'll give you advice **as a colleague**.
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/동료로서_조언을_해줄게__2024-10-24.mp3
 metadata:
   type: noun
 details: |-

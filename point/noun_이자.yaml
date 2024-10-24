@@ -8,23 +8,23 @@ definitions:
       - sentence: 그는 나의 선생님<f>이자</f> 친구이다.
         type: simple
         translated: He is both my teacher and friend.
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/그는_나의_선생님이자_친구이다__2024-10-24.mp3
       - sentence: 그녀는 배우<f>이자</f> 가수이다.
         type: simple
         translated: She is both an actress and a singer.
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/그녀는_배우이자_가수이다__2024-10-24.mp3
       - sentence: 이 책은 교과서<f>이자</f> 참고서입니다.
         type: simple
         translated: This book is both a textbook and a reference book.
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/이_책은_교과서이자_참고서입니다__2024-10-24.mp3
       - sentence: 슬기님은 프로그래머<f>이자</f> 여성입니다.
         type: simple
         translated: Seulgi is a programmar as well as a woman.
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/슬기님은_프로그래머이자_여성입니다__2024-10-24.mp3
       - sentence: 이곳은 관광지<f>이자</f> 역사적인 장소입니다.
         type: simple
         translated: This place is both a tourist spot and a historical site.
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/이곳은_관광지이자_역사적인_장소입니다__2024-10-24.mp3
   - slug: first-and-last
     name: First and Last
     english_alternatives: the first and the last
@@ -33,29 +33,20 @@ definitions:
       - sentence: 그 사람은 우리 나라의 처음<f>이자</f> 마지막 공주였어요.
         type: simple
         translated: That person was our country''s first and last princess.
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/그_사람은_우리_나라의_처음이자_마지막_공주였어요__2024-10-24.mp3
       - sentence: 이 경기는 그의 처음<f>이자</f> 마지막 출전이었다.
         type: simple
         translated: This match was his first and last appearance.
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/이_경기는_그의_처음이자_마지막_출전이었다__2024-10-24.mp3
       - sentence: 이것은 제 처음<f>이자</f> 마지막 기회예요.
         type: simple
         translated: This is my first and last chance.
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/이것은_제_처음이자_마지막_기회예요__2024-10-24.mp3
 metadata:
   type: noun
 details: |-
   # Usage {#usage}
 
-  - When the word ends with a consonant, add <f>이자</f> after the word.
-    - Example: 학생 → 학생<f>이자</f>
-  
-  - When the word ends with a vowel, add <f>자</f> after the word.
-    - Example: 배우 → 배우<f>자</f>
-
-
-  **Notes:**
-
   - Commonly used in both spoken and written Korean.
-  - **N(이)자** Connects two nouns to indicate dual roles or characteristics.
+  - :grammar[noun_이자] Connects two nouns to indicate dual roles or characteristics.
   - Emphasizes that both **Noun1** + **Noun2** are equally important.

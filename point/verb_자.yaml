@@ -13,7 +13,6 @@ definitions:
         type: simple
         translated: Let's have a drink after work.
         audio_url: https://r2.kimchi-reader.app/grammar/회사_끝나면_술_한_잔_하자__2024-04-13.mp3
-
   - slug: simultaneous-action
     name: Simultaneous Action
     english_alternatives: as, when, while
@@ -22,19 +21,17 @@ definitions:
       - sentence: 창문을 열<f>자</f> 바람이 들어왔다.
         type: simple
         translated: As I opened the window, the wind came in.
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/창문을_열자_바람이_들어왔다__2024-10-24.mp3
       - sentence: 의자에 앉<f>자</f> 잠들었다.
         type: simple
         translated: I fell asleep as I sat down.
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/의자에_앉자_잠들었다__2024-10-24.mp3
       - sentence: 차에서 연기가 나<f>자</f> 운전사는 차에서 뛰쳐나왔다.
         type: simple
         translated: The driver rushed out of the car as smoke started coming out of it.
-        audio_url: 
-
+        audio_url: https://r2.kimchi-reader.app/grammar/차에서_연기가_나자_운전사는_차에서_뛰쳐나왔다__2024-10-24.mp3
 metadata:
   type: verb
-
 details: |-
   # Suggestion {#suggestion}
 
@@ -44,4 +41,4 @@ details: |-
 
   :grammar[verb_자]{simultaneous-action} indicates that the second action happens **as** or **when** the first action is occurring. Unlike :grammar[verb_자마자]{as-soon-as}, which emphasizes that the second action happens **immediately after** the first, **V-자** in this usage conveys that the two actions are closely connected in time, often overlapping.
 
-  **Note:** This usage of **V-자** is more common in written or formal contexts and is less frequently used in spoken Korean. In conversational Korean, :grammar[verb_으니까_니까]{reason-or-cause} or :grammar[verb_아서_어서_해서]{reason-or-cause} might be used instead.
+  **Note:** This usage of :grammar[verb_자] is more common in written or formal contexts and is less frequently used in spoken Korean. In conversational Korean, :grammar[verb_으니까_니까]{reason-or-cause} or :grammar[verb_아서_어서_해서]{reason-or-cause} might be used instead.

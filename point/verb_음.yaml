@@ -8,32 +8,32 @@ definitions:
       - sentence: 죽<f>음</f>이 두렵다.
         type: simple
         translated: Death is frightening.
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/죽음이_두렵다__2024-10-24.mp3
       - sentence: 믿<f>음</f>은 중요한 가치이다.
         type: simple
         translated: Faith is an important value.
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/믿음은_중요한_가치이다__2024-10-24.mp3
       - sentence: 잠이 부족하면 건강에 해로<f>움</f>이 생긴다.
         type: simple
         translated: Lack of sleep causes harm to health.
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/잠이_부족하면_건강에_해로움이_생긴다__2024-10-24.mp3
   - slug: nominalization
     name: Nominalization
     english_alternatives: -ing, the act of
     meaning: Turns verbs or adjectives into nouns, often used in formal writing to state facts or make lists.
     examples:
-      - sentence: 공부하<f>ㅁ</f>이 즐겁다.
+      - sentence: 공부<f>함</f>이 즐겁다.
         type: simple
         translated: Studying is enjoyable.
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/공부함이_즐겁다__2024-10-24.mp3
       - sentence: 참석하지 못했<f>음</f>을 알려드립니다.
         type: simple
         translated: I inform you that I couldn't attend.
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/참석하지_못했음을_알려드립니다__2024-10-24.mp3
       - sentence: 문제를 해결했<f>음</f>을 보고합니다.
         type: simple
         translated: I report that the problem has been solved.
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/문제를_해결했음을_보고합니다__2024-10-24.mp3
   - slug: formal-ending
     name: Formal Sentence Ending
     english_alternatives: (indicates statement)
@@ -42,11 +42,11 @@ definitions:
       - sentence: 이상으로 보고를 마치겠<f>음</f>.
         type: simple
         translated: I will conclude the report here.
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/이상으로_보고를_마치겠음__2024-10-24.mp3
       - sentence: 모든 준비가 완료되었<f>음</f>.
         type: simple
         translated: All preparations have been completed.
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/모든_준비가_완료되었음__2024-10-24.mp3
 metadata:
   type: verb
 details: |-

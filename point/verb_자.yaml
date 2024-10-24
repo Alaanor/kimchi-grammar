@@ -33,11 +33,9 @@ definitions:
 metadata:
   type: verb
 details: |-
-  # Suggestion {#suggestion}
+  # Usage {#usage}
 
   :grammar[verb_자]{suggestion} is used to make informal suggestions to do something together. The more formal version of this expression is :grammar[verb_읍시다_ㅂ시다]{suggestion}.
-
-  # Simultaneous Action {#simultaneous-action}
 
   :grammar[verb_자]{simultaneous-action} indicates that the second action happens **as** or **when** the first action is occurring. Unlike :grammar[verb_자마자]{as-soon-as}, which emphasizes that the second action happens **immediately after** the first, **V-자** in this usage conveys that the two actions are closely connected in time, often overlapping.
 

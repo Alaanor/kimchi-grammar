@@ -5,7 +5,7 @@ definitions:
     english_alternatives: semi-formal polite declarative ending
     meaning: Used to explain the present action, state, or fact politely in the 하오체 speech level.
     examples:
-      - sentence: 날씨가 참 좋<f>오</f>.
+      - sentence: 날씨가 참 좋<f>소</f>.
         type: simple
         translated: The weather is really nice.
         audio_url: 
@@ -38,7 +38,7 @@ definitions:
         type: simple
         translated: What are you looking for?
         audio_url: 
-      - sentence: 오늘 기분이 어떠<f>오</f>?
+      - sentence: 오늘 기분이 어떠<f>소</f>?
         type: simple
         translated: How are you feeling today?
         audio_url: 
@@ -51,7 +51,7 @@ definitions:
         type: simple
         translated: Please come this way.
         audio_url: 
-      - sentence: 문을 닫으<f>소</f>.
+      - sentence: 문을 닫으<f>오</f>.
         type: simple
         translated: Please close the door.
         audio_url: 
@@ -101,7 +101,7 @@ definitions:
         type: simple
         translated: Please live long.
         audio_url: 
-      - sentence: 조심하시<f>소</f>.
+      - sentence: 조심하시<f>오</f>.
         type: simple
         translated: Please be careful.
         audio_url: 

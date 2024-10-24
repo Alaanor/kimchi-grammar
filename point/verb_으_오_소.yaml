@@ -65,7 +65,7 @@ definitions:
         audio_url: 
   - slug: haoche-suggestion
     name: Haoche Suggestion
-    english_alternatives: semi-formal polite suggestion ending, let's
+    english_alternatives: let's
     meaning: Used to suggest or propose something with the listener, an intention of doing a certain action together in the 하오체 speech level.
     examples:
       - sentence: 함께 식사하<f>오</f>.
@@ -83,6 +83,28 @@ definitions:
       - sentence: 산책을 하<f>오</f>.
         type: simple
         translated: Let's take a walk.
+        audio_url: 
+        - slug: haoche-honorific
+    slug: Haoche-honorific    
+    name: Haoche Honorific
+    english_alternatives: semi-formal polite ending with honorific
+    meaning: Semi-formal polite sentence ending in the 하오체 speech level with honorific.
+    examples:
+      - sentence: 건강하시<f>오</f>.
+        type: simple
+        translated: Please stay healthy.
+        audio_url: 
+      - sentence: 행복하시<f>오</f>.
+        type: simple
+        translated: Please be happy.
+        audio_url: 
+      - sentence: 오래 사시<f>오</f>.
+        type: simple
+        translated: Please live long.
+        audio_url: 
+      - sentence: 조심하시<f>소</f>.
+        type: simple
+        translated: Please be careful.
         audio_url: 
 metadata:
   type: verb

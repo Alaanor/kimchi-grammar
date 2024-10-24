@@ -8,11 +8,11 @@ definitions:
       - sentence: 사무실에서 퇴근하고 <f>운동하곤 해요</f>.
         type: simple
         translated: I use to work out after work at the office.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/사무실에서_퇴근하고_운동하곤_해요__2024-10-24.mp3
       - sentence: 밤에 잠이 안 오면 음악을 <f>듣곤 해요</f>.
         type: simple
         translated: When I can't sleep at night, I often listen to music
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/밤에_잠이_안_오면_음악을_듣곤_해요__2024-10-24.mp3
 metadata:
   type: composite
 details: |-

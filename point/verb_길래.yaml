@@ -8,11 +8,11 @@ definitions:
       - sentence: 날씨가 <f>따뜻하길래</f> 산책을 했어요.
         type: simple
         translated: Since the weather was warm, I went for a walk.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/날씨가_따뜻하길래_산책을_했어요__2024-10-24.mp3
       - sentence: 사람들이 너무 <f>많길래</f> 다른 곳에 갔어요.
         type: simple
         translated: Because there were too many people, I went to a different place.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/사람들이_너무_많길래_다른_곳에_갔어요__2024-10-24.mp3
 metadata:
   type: verb
 details: |-

@@ -1,0 +1,43 @@
+name: -(으)리라
+definitions:
+  - slug: expressing-will
+    name: Expressing Will
+    english_alternatives: I will, I am determined to
+    meaning: Expresses the speaker's resolve or intention to do something.
+    examples:
+      - type: simple
+        sentence: 반드시 성공하<f>리라</f>.
+        translated: I will definitely succeed.
+        audio_url:
+      - type: simple
+        sentence: 끝까지 노력하<f>리라</f>.
+        translated: I am determined to try until the end.
+        audio_url:
+      - type: simple
+        sentence: 이번에는 반드시 성공하<f>리라</f>.
+        translated: This time, I will surely succeed.
+        audio_url:
+  - slug: strong-prediction
+    name: Strong Prediction
+    english_alternatives: will, shall
+    meaning: Make a strong guess or prediction about future events.
+    examples:
+      - type: simple
+        sentence: 곧 여름이 오<f>리라</f>.
+        translated: Summer shall come soon.
+        audio_url:
+      - type: simple
+        sentence: 곧 해가 떠오르<f>리라</f>.
+        translated: The sun will rise soon.
+        audio_url:
+      - type: simple
+        sentence: 그녀가 성공하겠<f>으리라</f>.
+        translated: She will probably succeed.
+        audio_url:
+      - type: simple
+        sentence: 진실이 밝혀지<f>리라</f>.
+        translated: The truth will come out.
+        audio_url:
+metadata:
+  type: verb
+details: |-

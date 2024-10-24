@@ -1,0 +1,25 @@
+name: 다시피 하다
+definitions:
+  - slug: almost
+    name: Almost
+    english_alternatives: Almost, practically, nearly.
+    meaning: Used to describe a situation where something is almost or practically the same or close to another action, but isn't exactly the same.
+    examples:
+      - sentence: 그 남자는 매일 집에서 <f>살다시피 해요</f>.
+        type: simple
+        translated: He practically lives at home every day.
+        audio_url:
+      - sentence: 비가 너무 많이 와서 물에 <f>잠기다시피 했어요</f>.
+        type: simple
+        translated: May I sit here?
+        audio_url:
+      - sentence: 그 여자는 삼겹살을 주식으로 <f>하다시피 해요</f>.
+        type: simple
+        translated: Do you mind if I open the window?
+        audio_url:
+metadata:
+  type: composite
+details: |-
+  # Comparison {#compare}
+
+  grammar:[다시피_하다] and grammar:[ㄹ_뻔하다] can have the same English meaning, but they are different. grammar:[다시피_하다] is that something happened and is almost similar to another action, whereas grammar:[ㄹ_뻔하다] just means something almost happened, but it did not.

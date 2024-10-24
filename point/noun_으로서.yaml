@@ -19,7 +19,7 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/대표로서_회의에_참석했습니다__2024-10-24.mp3
       - sentence: 비서<f>로서</f> 저는 정확한 정보를 제공합니다.
         type: simple
-        translated: **As a secretary**, I provide accurate information.
+        translated: "**As a secretary**, I provide accurate information."
         audio_url: https://r2.kimchi-reader.app/grammar/비서로서_저는_정확한_정보를_제공합니다__2024-10-24.mp3
       - sentence: 친구<f>로서</f> 너를 도와주고 싶어.
         type: simple

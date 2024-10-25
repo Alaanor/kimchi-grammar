@@ -51,7 +51,7 @@ definitions:
         type: simple
         translated: My parents are in Seoul.
         audio_url:
-      - sentence: 생일이 <f>세요</f>.
+      - sentence: 생일이<f>세요</f>.
         type: simple
         translated: It's your birthday.
         audio_url:

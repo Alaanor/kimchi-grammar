@@ -1,4 +1,4 @@
-name: (이)거니와
+name: (이)거니(와)
 definitions:
   - slug: not-only-but-also
     name: As Well As, Not Only ... But Also
@@ -20,6 +20,27 @@ definitions:
       - type: simple
         sentence: 그녀는 학생<f>이거니와</f> 작가입니다.
         translated: She is not only a student, but also a writer.
+        audio_url:
+  - slug: past-acknowledgment
+    name: Past acknowledgement
+    english_alternatives: indeed, yes, that is true
+    meaning: Used to affirm or emphasize a past event or truth before stressing the following statement.
+    examples:
+      - type: simple
+        sentence: 내가 잘못했<f>거니</f> 후회가 남았어요.
+        translated: Yes, I was wrong, and I have regrets about it.
+        audio_url: 
+      - type: simple
+        sentence: 그녀가 바빴<f>거니</f> 더 이상 기다리지 않았어요.
+        translated: Yes, she was busy, so I didn’t wait any longer.
+  - slug: repetition-alternation
+    name: Repetition or Alternation
+    english_alternatives:
+    meaning: Indicate repetitive or alternating actions.
+    examples:
+      - type: simple
+        sentence: 사람들이 모임에 오<f>거니</f> 가<f>거니</f> 합니다.
+        translated: People come and go to the gathering.
         audio_url:
 metadata:
   type: composite

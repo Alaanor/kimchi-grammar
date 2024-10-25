@@ -14,7 +14,7 @@ relation:
       - { id: "verb_아주다_어주다_해주다", slug: "favor-request" }
   - concern:
       - { id: "verb_으십시오_십시오", slug: "politely-asking" }
-      - { id: "verb_세요_으세요", slug: "politely-asking" }
+      - { id: "verb_세요_으세요", slug: "polite-command" }
   - concern:
       - { id: "verb_거나", slug: "choice" }
       - { id: "noun_이나_나", slug: "choice" }

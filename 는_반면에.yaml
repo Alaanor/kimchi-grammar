@@ -1,0 +1,22 @@
+name: 는 반면에
+definitions:
+  - slug: expressing-contrast
+    name: Expressing Contrast
+    english_alternatives: whereas, on the other hand
+    meaning: Used to show that two clauses are contrasting or opposite to each other.
+    examples:
+      - type: simple
+        sentence: 이 보고서는 이해하기 쉬<f>운 반면에</f> 다른 보고서들은 복잡합니다.
+        translated: This report is easy to understand, whereas other reports are complex.
+        audio_url:
+      - type: simple
+        sentence: 서울의 날씨는 추<f>운 반면에</f> 남쪽 지방은 따뜻합니다.
+        translated: Seoul's weather is cold, whereas the southern regions are warm.
+        audio_url:
+      - type: simple
+        sentence: 이 도시는 밤에는 조용<f>한 반면에</f> 낮에는 매우 붐벼요.
+        translated: This city is quiet at night, whereas it's very crowded during the day.
+        audio_url:
+metadata:
+  type: composite
+details: |-

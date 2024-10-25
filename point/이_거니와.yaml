@@ -1,4 +1,4 @@
-name: (이)거니(와)
+name: (이)거니
 definitions:
   - slug: not-only-but-also
     name: As Well As, Not Only ... But Also
@@ -44,5 +44,5 @@ definitions:
         translated: People come and go to the gathering.
         audio_url:
 metadata:
-  type: composite
+  type: verb
 details: |-

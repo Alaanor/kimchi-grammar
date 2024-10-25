@@ -1,0 +1,25 @@
+name: (으)리오
+definitions:
+  - slug: expressing-impossibility
+    name: Expressing Impossibility
+    english_alternatives: how could, who would
+    meaning: Emphasize that something is impossible or unlikely by asking a rhetorical question.
+    examples:
+      - type: simple
+        sentence: 내 어찌 고향을 잊<f>으리오</f>.
+        translated: How could I forget my home?
+        audio_url:
+      - type: simple
+        sentence: 그 누가 당신을 싫어하<f>리오</f>.
+        translated: Who would hate you?
+        audio_url:
+      - type: simple
+        sentence: 우리가 어찌 포기하였<f>으리오</f>.
+        translated: How could we have given up?
+        audio_url:
+      - type: simple
+        sentence: 그가 성공하겠<f>으리오</f>?
+        translated: Could he possibly succeed?
+metadata:
+  type: verb
+details: |-

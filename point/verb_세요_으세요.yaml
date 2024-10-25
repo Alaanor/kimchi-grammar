@@ -1,7 +1,7 @@
 name: (으)세요
 definitions:
-  - slug: politely-asking
-    name: Politely asking
+  - slug: polite-command
+    name: Polite Command
     english_alternatives: please do
     meaning: A polite imperative form used to give instructions or make requests.
     examples:
@@ -17,6 +17,48 @@ definitions:
         type: simple
         translated: Please be careful.
         audio_url: https://r2.kimchi-reader.app/grammar/조심하세요__2024-04-13.mp3
+  - slug: polite-question
+    name: Polite Question
+    english_alternatives: do you, are you
+    meaning: Politely ask about someone's action or state.
+    examples:
+      - sentence: 지금 어디에 <f>계세요</f>?
+        type: simple
+        translated: Where are you now?
+        audio_url:
+      - sentence: 무슨 일을 <f>하세요</f>?
+        type: simple
+        translated: What do you do?
+        audio_url:
+      - sentence: 시간이 <f>있으세요</f>?
+        type: simple
+        translated: Do you have time?
+        audio_url:
+      - sentence: 어떤 음악을 <f>좋아하세요</f>?
+        type: simple
+        translated: What kind of music do you like?
+        audio_url:
+  - slug: polite-statement
+    name: Polite Statement
+    english_alternatives: you do, you are
+    meaning: Used to politely state someone's action or state.
+    examples:
+      - sentence: 선생님은 한국어를 <f>가르치세요</f>.
+        type: simple
+        translated: The teacher teaches Korean.
+        audio_url:
+      - sentence: 부모님은 서울에 <f>계세요</f>.
+        type: simple
+        translated: My parents are in Seoul.
+        audio_url:
+      - sentence: 생일이<f>세요</f>.
+        type: simple
+        translated: It's your birthday.
+        audio_url:
+      - sentence: 할머니께서 편찮으<f>세요</f>.
+        type: simple
+        translated: My grandmother is ill.
+        audio_url:
 metadata:
   type: verb
 details: |-

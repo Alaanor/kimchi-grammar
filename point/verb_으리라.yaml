@@ -8,15 +8,15 @@ definitions:
       - type: simple
         sentence: 반드시 성공하<f>리라</f>.
         translated: I will definitely succeed.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/반드시_성공하리라__2024-10-25.mp3
       - type: simple
         sentence: 끝까지 노력하<f>리라</f>.
         translated: I am determined to try until the end.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/끝까지_노력하리라__2024-10-25.mp3
       - type: simple
         sentence: 이번에는 반드시 성공하<f>리라</f>.
         translated: This time, I will surely succeed.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/이번에는_반드시_성공하리라__2024-10-25.mp3
   - slug: strong-prediction
     name: Strong Prediction
     english_alternatives: will, shall
@@ -25,19 +25,19 @@ definitions:
       - type: simple
         sentence: 곧 여름이 오<f>리라</f>.
         translated: Summer shall come soon.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/곧_여름이_오리라__2024-10-25.mp3
       - type: simple
         sentence: 곧 해가 떠오르<f>리라</f>.
         translated: The sun will rise soon.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/곧_해가_떠오르리라__2024-10-25.mp3
       - type: simple
         sentence: 그녀가 성공하겠<f>으리라</f>.
         translated: She will probably succeed.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/그녀가_성공하겠으리라__2024-10-25.mp3
       - type: simple
         sentence: 진실이 밝혀지<f>리라</f>.
         translated: The truth will come out.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/진실이_밝혀지리라__2024-10-25.mp3
 metadata:
   type: verb
 details: |-

@@ -8,15 +8,15 @@ definitions:
       - type: simple
         sentence: 이 보고서는 이해하기 쉬<f>운 반면에</f> 다른 보고서들은 복잡합니다.
         translated: This report is easy to understand, whereas other reports are complex.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/이_보고서는_이해하기_쉬운_반면에_다른_보고서들은_복잡합니다__2024-10-25.mp3
       - type: simple
         sentence: 서울의 날씨는 추<f>운 반면에</f> 남쪽 지방은 따뜻합니다.
         translated: Seoul's weather is cold, whereas the southern regions are warm.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/서울의_날씨는_추운_반면에_남쪽_지방은_따뜻합니다__2024-10-25.mp3
       - type: simple
         sentence: 이 도시는 밤에는 조용<f>한 반면에</f> 낮에는 매우 붐벼요.
         translated: This city is quiet at night, whereas it's very crowded during the day.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/이_도시는_밤에는_조용한_반면에_낮에는_매우_붐벼요__2024-10-25.mp3
 metadata:
   type: composite
 details: |-

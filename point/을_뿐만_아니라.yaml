@@ -8,15 +8,15 @@ definitions:
       - type: simple
         sentence: 정원에 점핑스파이더가 많<f>을 뿐만 아니라</f> 애완동물로도 키워요.
         translated: Not only do I have a lot of jumping spiders in my yard, I also have one as a pet.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/정원에_점핑스파이더가_많을_뿐만_아니라_애완동물로도_키워요__2024-10-25.mp3
       - type: simple
         sentence: 내 여자친구는 예<f>쁠 뿐만 아니라</f> 똑똑해요.
         translated: My girlfriend is not only beautiful, but also smart.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/내_여자친구는_예쁠_뿐만_아니라_똑똑해요__2024-10-25.mp3
       - type: simple
         sentence: 그는 음악을 잘 연주<f>할 뿐만 아니라</f> 노래도 잘 불러요.
         translated: He not only plays music well, but also sings well.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/그는_음악을_잘_연주할_뿐만_아니라_노래도_잘_불러요__2024-10-25.mp3
 metadata:
   type: composite
 details: |-

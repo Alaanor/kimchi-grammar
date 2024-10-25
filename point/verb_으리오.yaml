@@ -8,18 +8,19 @@ definitions:
       - type: simple
         sentence: 내 어찌 고향을 잊<f>으리오</f>.
         translated: How could I forget my home?
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/내_어찌_고향을_잊으리오__2024-10-25.mp3
       - type: simple
         sentence: 그 누가 당신을 싫어하<f>리오</f>.
         translated: Who would hate you?
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/그_누가_당신을_싫어하리오__2024-10-25.mp3
       - type: simple
         sentence: 우리가 어찌 포기하였<f>으리오</f>.
         translated: How could we have given up?
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/우리가_어찌_포기하였으리오__2024-10-25.mp3
       - type: simple
         sentence: 그가 성공하겠<f>으리오</f>?
         translated: Could he possibly succeed?
+        audio_url: https://r2.kimchi-reader.app/grammar/그가_성공하겠으리오__2024-10-25.mp3
 metadata:
   type: verb
 details: |-

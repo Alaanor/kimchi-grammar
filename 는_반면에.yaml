@@ -1,4 +1,4 @@
-name: -는 반면에
+name: 는 반면에
 definitions:
   - slug: expressing-contrast
     name: Expressing Contrast
@@ -18,5 +18,5 @@ definitions:
         translated: This city is quiet at night, whereas it's very crowded during the day.
         audio_url:
 metadata:
-  type: verb
+  type: composite
 details: |-

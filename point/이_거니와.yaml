@@ -1,0 +1,26 @@
+name: (이)거니와
+definitions:
+  - slug: not-only-but-also
+    name: As Well As, Not Only ... But Also
+    english_alternatives: not only .... but also, as well as
+    meaning: Not only the first clause is true, but the second clause is also true.
+    examples:
+      - type: simple
+        sentence: 그는 친절하<f>거니와</f> 지혜로워요.
+        translated: He is not only kind but also wise.
+        audio_url:
+      - type: simple
+        sentence: 날씨가 춥<f>거니와</f> 바람도 많이 불어요.
+        translated: The weather is not only cold but also very windy.
+        audio_url:
+      - type: simple
+        sentence: 이 음식은 맛있<f>거니와</f> 가격도 저렴해요.
+        translated: This food is not only delicious but also affordable.
+        audio_url:
+      - type: simple
+        sentence: 그녀는 학생<f>이거니와</f> 작가입니다.
+        translated: She is not only a student, but also a writer.
+        audio_url:
+metadata:
+  type: composite
+details: |-

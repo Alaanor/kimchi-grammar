@@ -1,0 +1,118 @@
+name: (으)오 / 소
+definitions:
+  - slug: 하오체-present-tense
+    name: 하오체 Present Tense
+    english_alternatives: semi-formal polite declarative ending
+    meaning: Used to explain the present action, state, or fact politely in the 하오체 speech level.
+    examples:
+      - sentence: 날씨가 참 좋<f>소</f>.
+        type: simple
+        translated: The weather is really nice.
+        audio_url:
+      - sentence: 그것을 믿지 않<f>소</f>.
+        type: simple
+        translated: I do not believe that.
+        audio_url:
+      - sentence: 우리는 산에 가<f>오</f>.
+        type: simple
+        translated: We are going to the mountain.
+        audio_url:
+      - sentence: 시간이 많지 않<f>소</f>.
+        type: simple
+        translated: There is not much time.
+        audio_url:
+  - slug: 하오체-polite-question
+    name: 하오체 Polite Question
+    english_alternatives: semi-formal polite interrogative ending
+    meaning: Used when the speaker asks the listener politely in the 하오체 speech level.
+    examples:
+      - sentence: 어디로 가<f>오</f>?
+        type: simple
+        translated: Where are you going?
+        audio_url:
+      - sentence: 무슨 일이 있<f>소</f>?
+        type: simple
+        translated: Is something the matter?
+        audio_url:
+      - sentence: 무엇을 찾<f>소</f>?
+        type: simple
+        translated: What are you looking for?
+        audio_url:
+      - sentence: 오늘 기분이 어떻<f>소</f>?
+        type: simple
+        translated: How are you feeling today?
+        audio_url:
+  - slug: 하오체-command
+    name: 하오체 Command
+    english_alternatives: semi-formal polite command ending
+    meaning: Semi-formal polite command sentence ending in the 하오체 speech level.
+    examples:
+      - sentence: 이쪽으로 오시<f>오</f>.
+        type: simple
+        translated: Please come this way.
+        audio_url:
+      - sentence: 문을 닫으<f>오</f>.
+        type: simple
+        translated: Please close the door.
+        audio_url:
+      - sentence: 조용히 하시<f>오</f>.
+        type: simple
+        translated: Please be quiet.
+        audio_url:
+      - sentence: 책을 읽으<f>오</f>.
+        type: simple
+        translated: Please read the book.
+        audio_url:
+  - slug: 하오체-suggestion
+    name: 하오체 Suggestion
+    english_alternatives: let's
+    meaning: Used to suggest or propose something with the listener, an intention of doing a certain action together in the 하오체 speech level.
+    examples:
+      - sentence: 함께 식사하<f>오</f>.
+        type: simple
+        translated: Let's have a meal together.
+        audio_url:
+      - sentence: 같이 먹으<f>오</f>.
+        type: simple
+        translated: Let's eat together.
+        audio_url:
+      - sentence: 이 일을 같이 하<f>오</f>.
+        type: simple
+        translated: Let's do this work together.
+        audio_url:
+      - sentence: 산책을 하<f>오</f>.
+        type: simple
+        translated: Let's take a walk.
+        audio_url:
+  - slug: 하오체-honorific
+    name: 하오체 Honorific
+    english_alternatives: semi-formal polite ending with honorific
+    meaning: Semi-formal polite sentence ending in the 하오체 speech level with honorific.
+    examples:
+      - sentence: 건강하시<f>오</f>.
+        type: simple
+        translated: Please stay healthy.
+        audio_url:
+      - sentence: 행복하시<f>오</f>.
+        type: simple
+        translated: Please be happy.
+        audio_url:
+      - sentence: 오래 사시<f>오</f>.
+        type: simple
+        translated: Please live long.
+        audio_url:
+      - sentence: 조심하시<f>오</f>.
+        type: simple
+        translated: Please be careful.
+        audio_url:
+metadata:
+  type: verb
+details: |-
+# What is 하오체? (#what-is-하오체?)
+
+<f>하오체</f> is honorific speech used in archaic Korean; used to respectfully address someone without lowering oneself, however, it is considered archaic in modern Korean
+and it is rare to encounter it in everyday speech.
+
+You will encounter <f>하오체</f> in period dramas, traditional literature or in North - Korea; where it is still in use today.
+
+<f>하오체</f> has been replaced by <f>해요체</f> in modern times. :source[https://en.wikipedia.org/wiki/Korean_speech_levels]

@@ -29,10 +29,11 @@ definitions:
       - type: simple
         sentence: 내가 잘못했<f>거니</f> 후회가 남았어요.
         translated: Yes, I was wrong, and I have regrets about it.
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 그녀가 바빴<f>거니</f> 더 이상 기다리지 않았어요.
         translated: Yes, she was busy, so I didn’t wait any longer.
+        audio_url:
   - slug: repetition-alternation
     name: Repetition or Alternation
     english_alternatives:

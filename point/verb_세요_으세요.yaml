@@ -25,19 +25,19 @@ definitions:
       - sentence: 지금 어디에 <f>계세요</f>?
         type: simple
         translated: Where are you now?
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/지금_어디에_계세요__2024-10-25.mp3
       - sentence: 무슨 일을 <f>하세요</f>?
         type: simple
         translated: What do you do?
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/무슨_일을_하세요__2024-10-25.mp3
       - sentence: 시간이 <f>있으세요</f>?
         type: simple
         translated: Do you have time?
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/시간이_있으세요__2024-10-25.mp3
       - sentence: 어떤 음악을 <f>좋아하세요</f>?
         type: simple
         translated: What kind of music do you like?
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/어떤_음악을_좋아하세요__2024-10-25.mp3
   - slug: polite-statement
     name: Polite Statement
     english_alternatives: you do, you are
@@ -46,19 +46,19 @@ definitions:
       - sentence: 선생님은 한국어를 <f>가르치세요</f>.
         type: simple
         translated: The teacher teaches Korean.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/선생님은_한국어를_가르치세요__2024-10-25.mp3
       - sentence: 부모님은 서울에 <f>계세요</f>.
         type: simple
         translated: My parents are in Seoul.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/부모님은_서울에_계세요__2024-10-25.mp3
       - sentence: 생일이<f>세요</f>.
         type: simple
         translated: It's your birthday.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/생일이세요__2024-10-25.mp3
       - sentence: 할머니께서 편찮으<f>세요</f>.
         type: simple
         translated: My grandmother is ill.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/할머니께서_편찮으세요__2024-10-25.mp3
 metadata:
   type: verb
 details: |-

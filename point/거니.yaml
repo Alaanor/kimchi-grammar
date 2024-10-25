@@ -8,19 +8,19 @@ definitions:
       - type: simple
         sentence: 그는 친절하<f>거니와</f> 지혜로워요.
         translated: He is not only kind but also wise.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/그는_친절하거니와_지혜로워요__2024-10-25.mp3
       - type: simple
         sentence: 날씨가 춥<f>거니와</f> 바람도 많이 불어요.
         translated: The weather is not only cold but also very windy.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/날씨가_춥거니와_바람도_많이_불어요__2024-10-25.mp3
       - type: simple
         sentence: 이 음식은 맛있<f>거니와</f> 가격도 저렴해요.
         translated: This food is not only delicious but also affordable.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/이_음식은_맛있거니와_가격도_저렴해요__2024-10-25.mp3
       - type: simple
         sentence: 그녀는 학생<f>이거니와</f> 작가입니다.
         translated: She is not only a student, but also a writer.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/그녀는_학생이거니와_작가입니다__2024-10-25.mp3
   - slug: past-acknowledgment
     name: Past acknowledgement
     english_alternatives: indeed, yes, that is true
@@ -29,11 +29,11 @@ definitions:
       - type: simple
         sentence: 내가 잘못했<f>거니</f> 후회가 남았어요.
         translated: Yes, I was wrong, and I have regrets about it.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/내가_잘못했거니_후회가_남았어요__2024-10-25.mp3
       - type: simple
         sentence: 그녀가 바빴<f>거니</f> 더 이상 기다리지 않았어요.
         translated: Yes, she was busy, so I didn’t wait any longer.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/그녀가_바빴거니_더_이상_기다리지_않았어요__2024-10-25.mp3
   - slug: repetition-alternation
     name: Repetition or Alternation
     english_alternatives:
@@ -42,7 +42,7 @@ definitions:
       - type: simple
         sentence: 사람들이 모임에 오<f>거니</f> 가<f>거니</f> 합니다.
         translated: People come and go to the gathering.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/사람들이_모임에_오거니_가거니_합니다__2024-10-25.mp3
 metadata:
   type: verb
 details: |-

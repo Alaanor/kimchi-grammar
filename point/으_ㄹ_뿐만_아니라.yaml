@@ -1,0 +1,22 @@
+name: (으)ㄹ 뿐만 아니라
+definitions:
+  - slug: not-only-but-also
+    name: Not Only ... But Also
+    english_alternatives: not only..., but also..., as well as
+    meaning: Shows that one does A and also does B
+    examples:
+      - type: simple
+        sentence: 정원에 점핑스파이더가 많<f>을 뿐만 아니라</f> 애완동물로도 키워요.
+        translated: Not only do I have a lot of jumping spiders in my yard, I also have one as a pet.
+        audio_url:
+      - type: simple
+        sentence: 내 여자친구는 예<f>쁠 뿐만 아니라</f> 똑똑해요.
+        translated: My girlfriend is not only beautiful, but also smart.
+        audio_url:
+      - type: simple
+        sentence: 그는 음악을 잘 연주<f>할 뿐만 아니라</f> 노래도 잘 불러요.
+        translated: He not only plays music well, but also sings well.
+        audio_url:
+metadata:
+  type: composite
+details: |-

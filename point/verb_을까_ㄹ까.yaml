@@ -30,6 +30,23 @@ definitions:
         type: simple
         translated: The air is bad. Shall I close the window?
         audio_url: https://r2.kimchi-reader.app/grammar/공기가_나쁜데_창문을_닫을까요__2024-04-13.mp3
+  - slug: wondering
+    name: Wondering
+    english_alternatives: I wonder, should I?
+    meaning: Wondering to oneself, considering a possbility or action.
+    examples:
+      - sentence: 이게 <f>맛있을까</f>?
+        type: simple
+        translated: I wonder if this will taste good?
+        audio_url:
+      - sentence: 오늘 시장에 <f>갈까</f>?
+        type: simple
+        translated: Should I go to the market today?
+        audio_url:
+      - sentence: 그래서... 음... <f>뭐랄까</f>? 아니야, 상관없어.
+        type: simple
+        translated: So then... hmm... what am I trying to say (how should I put it)? Nevermind, it doesn't matter.
+        audio_url:
 metadata:
   type: verb
 details: |-

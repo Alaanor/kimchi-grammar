@@ -1,0 +1,30 @@
+name: (으)나 마나
+definitions:
+  - slug: no-use
+    name: No Use
+    english_alternatives: it's no use, there's no point in, don't bother
+    meaning: Express that doing something will not change the result; it's pointless to do it.
+    examples:
+      - type: simple
+        sentence: 지금 가<f>나 마나</f> 그녀는 없을 거예요.
+        translated: Even if you go now, she won't be there.
+        audio_url:
+      - type: simple
+        sentence: 그 영화는 보<f>나 마나</f> 재미없을 거야.
+        translated: There's no point in watching that movie; it'll be boring.
+        audio_url:
+      - type: simple
+        sentence: 그 책은 읽<f>으나 마나</f> 시간 낭비예요.
+        translated: There's no point in reading that book; it's a waste of time.
+        audio_url:
+      - type: simple
+        sentence: 시험 공부를 하<f>나 마나</f> 결과는 똑같을 거야.
+        translated: Whether you study for the exam or not, the result will be the same.
+        audio_url:
+      - type: simple
+        sentence: 그 사람을 만나<f>나 마나</f> 시간 낭비예요.
+        translated: Meeting that person is a waste of time.
+        audio_url:
+metadata:
+  type: verb
+details: |-

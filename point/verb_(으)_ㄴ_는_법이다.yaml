@@ -14,7 +14,7 @@ definitions:
         translated: Affordable, high-quality products are bound to sell well.
         audio_url:
       - type: simple
-        sentence: 기대가 클수록 실망도 <f>큰 법이/f>죠.
+        sentence: 기대가 클수록 실망도 <f>큰 법이</f>죠.
         translated: The more you get your hopes up, the more you'll be disappointed.
         audio_url:
       - type: simple

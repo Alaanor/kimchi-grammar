@@ -1,0 +1,35 @@
+name: 아/어 드리다
+definitions:
+  - slug: favor
+    name: Doing a favor
+    english_alternatives: for
+    meaning: Does an action for someone else's benefit, expressing respect to the person receiving the favor.
+    examples:
+      - type: simple
+        sentence: 제가 가방을 들<f>어 드리겠습니다</f>.
+        translated: I will carry your bag for you.
+        audio_url:
+      - type: simple
+        sentence: 어머님께 전화를 <f>해 드릴게요</f>.
+        translated: I will make a phone call for Mother.
+        audio_url:
+      - type: simple
+        sentence: 차 한 잔 따<f>라 드려요</f>.
+        translated: I am pouring you a cup of tea.
+        audio_url:
+      - type: simple
+        sentence: 제가 사진을 찍<f>어 드렸어요</f>.
+        translated: I took a picture for you.
+        audio_url:
+      - type: simple
+        sentence: 할아버지께 신문을 읽<f>어 드리고 있어요</f>.
+        translated: I am reading the newspaper to Grandfather.
+        audio_url:
+metadata:
+  type: verb
+details: |-
+  #Usage {usage}
+
+  This is the honorific form of <f>아/어 주다</f>
+
+  For more on <f>아/어 주다</f>, see :grammar[verb_아주다_어주다_해주다].

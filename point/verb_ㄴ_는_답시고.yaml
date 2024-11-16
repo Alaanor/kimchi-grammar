@@ -1,0 +1,26 @@
+name: (ㄴ/는)답시고
+definitions:
+  - slug: attempting-but-failing
+    name: Attempting but Failing
+    english_alternatives: claiming to, trying to
+    meaning: Expresses that someone attempts to do something, but ends up causing a bad result.
+    examples:
+      - sentence: 동생이 휴대폰을 고친<f>답시고</f> 만지다가 망가뜨렸어.
+        type: simple
+        translated: My brother tried to fix the phone but ended up breaking it.
+        audio_url:
+      - sentence: 아기가 엄마를 도와준<f>답시고</f> 설거지를 하다가 주방을 엉망으로 만들었다.
+        type: simple
+        translated: The baby tried to help mom with the dishes but made a mess in the kitchen.
+        audio_url:
+      - sentence: 친구가 공부한<f>답시고</f> 도서관에 갔지만 잠만 잤다.
+        type: simple
+        translated: My friend claimed to study at the library but just slept.
+        audio_url:
+      - sentence: 그녀가 웃긴 이야기 한<f>답시고</f> 했는데 아무도 안 웃었다.
+        type: simple
+        translated: She tried to tell a funny story but no one laughed.
+        audio_url:
+metadata:
+  type: verb
+details: |-

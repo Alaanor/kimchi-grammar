@@ -1,0 +1,40 @@
+name: (ㄴ/는)단/(이)란 말
+definitions:
+  - slug: Asking-for-confirmation
+    name: Asking-for-confirmation
+    english_alternatives: Are you saying that...?
+    meaning: Used to confirm what the other person said.
+    examples:
+      - sentence: 날씨가 춥고 스키를 가겠<f>단 말이에요?</f>
+        type: simple
+        translated: Are you saying you're going skiing even though it's cold?
+        audio_url:
+      - sentence: 네가 어제 늦게 잤<f>단 말이에요?</f>
+        type: simple
+        translated: Are you saying you stayed up late yesterday?
+        audio_url:
+      - sentence: 너는 지금 나한테 화났<f>단 말이에요?</f>
+        type: simple
+        translated: Are you saying you're angry with me right now?
+        audio_url:
+  - slug: Emphasizing
+    name: Emphasizing
+    english_alternatives: I said
+    meaning: Used to emphasize what the speaker said.
+    examples:
+      - sentence: 다시 해보<f>란 말이야</f>
+        type: simple
+        translated: I said try again!
+        audio_url:
+      - sentence: 숙제하<f>란 말이야</f>
+        type: simple
+        translated: I said do your homework!
+        audio_url:
+      - sentence: 조용히 하<f>란 말이야</f>
+        type: simple
+        translated: I said be quiet!
+        audio_url:
+metadata:
+  type: composite
+details: |-
+  This is an abbreviation of <f>다[고]</f> and <f>(이)라[고]</f>, and it is used colloquially.

@@ -1,0 +1,26 @@
+name: (이)랍시고
+definitions:
+  - slug: pretending-to-be
+    name: Pretending to Be
+    english_alternatives: claiming to be, acting like
+    meaning: Expresses that someone is pretending or acting as if something is something, often with a mocking or critical tone.
+    examples:
+      - sentence: 그는 의사<f>랍시고</f> 조언을 했지만 도움이 되지 않았다.
+        type: simple
+        translated: He pretended to be a doctor and gave advice, but it wasn't helpful.
+        audio_url:
+      - sentence: 친구<f>랍시고</f> 나를 속였다.
+        type: simple
+        translated: He claimed to be a friend but deceived me.
+        audio_url:
+      - sentence: 전문가<f>랍시고</f> 설명했지만 틀렸다.
+        type: simple
+        translated: He pretended to be an expert and explained, but he was wrong.
+        audio_url:
+      - sentence: 아이가 선물<f>이랍시고</f> 막대사탕을 줬어요.
+        type: simple
+        translated: The child, pretending it was a gift, gave me a lollipop.
+        audio_url:
+metadata:
+  type: noun
+details: |-

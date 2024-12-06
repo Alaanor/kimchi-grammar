@@ -1,0 +1,30 @@
+name: 는 길에
+definitions:
+  - slug: while-on-my-way
+    name: While On My Way
+    english_alternatives: While on the way
+    meaning: Expresses that while en route to or from a place, another action takes place.
+    examples:
+      - type: simple
+        sentence: 집에 가<f>는 길에</f> 빵을 샀어요.
+        translated: I bought bread on my way home.
+        audio_url:
+      - type: simple
+        sentence: 시장에 들러<f>는 길에</f> 커피를 샀어요.
+        translated: On my way to the market, I bought some coffee.
+        audio_url:
+      - type: simple
+        sentence: 친구를 만나러 나가<f>는 길에</f> 책을 반납할 거예요.
+        translated: On my way out to meet a friend, I will return the book.
+        audio_url:
+      - type: simple
+        sentence: 회사에서 나오<f>는 길에</f> 꽃집에 들렀어요.
+        translated: On my way out from the office, I stopped by the flower shop.
+        audio_url:
+      - type: simple
+        sentence: 도서관에 가<f>는 길에</f> 편의점에 들를까요?
+        translated: Shall we stop by the convenience store on the way to the library?
+        audio_url:
+metadata:
+  type: verb
+details: |-

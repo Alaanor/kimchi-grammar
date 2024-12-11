@@ -1,7 +1,7 @@
 name: 아/어지다
 definitions:
-  - slug: passive-form
-    name: Passive form
+  - slug: change-in-state
+    name: Change in state
     english_alternatives: become, turn into
     meaning: Express a change in state over time. Can only be used with descriptive verbs.
     examples:

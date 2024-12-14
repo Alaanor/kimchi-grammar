@@ -6,39 +6,39 @@ definitions:
     meaning: Expresses that something is practically the same as something else.
     examples:
       - type: simple
-        sentence: 이번 촬영은 꽤 잘된 <f>셈이에요</f>.
+        sentence: 이번 촬영은 꽤 잘<f>된 셈이에요</f>.
         translated: It is as though I did well on this shoot.
         audio_url:
       - type: simple
-        sentence: 그동안 열심히 준비했으니 거의 합격한 <f>셈이죠</f>.
+        sentence: 그동안 열심히 준비했으니 거의 합격<f>한 셈이죠</f>.
         translated: Since I prepared hard, it is as though I passed the audition.
         audio_url:
       - type: simple
-        sentence: 이 정도면 절반은 성공한 <f>셈이에요</f>.
+        sentence: 이 정도면 절반은 성공<f>한 셈이에요</f>.
         translated: At this level, it is practically half a success in the industry.
         audio_url:
       - type: simple
-        sentence: 모델들이 많아 보여도 사실상 없는 <f>셈이에요</f>.
+        sentence: 모델들이 많아 보여도 사실상 없<f>는 셈이에요</f>.
         translated: Even though it looks like there are many models, it is as though there are none.
         audio_url:
       - type: simple
-        sentence: 오늘 학교에서 발표를 성공적으로 마친 <f>셈이었어요</f>.
+        sentence: 오늘 학교에서 발표를 성공적으로 마<f>친 셈이었어요</f>.
         translated: It was as though we successfully finished the presentation at school today.
         audio_url:
       - type: simple
-        sentence: 친구들과 파리 여행을 즐긴 <f>셈이었어요</f>.
+        sentence: 친구들과 파리 여행을 즐<f>긴 셈이었어요</f>.
         translated: It was practically as though we enjoyed the trip to Paris with friends.
         audio_url:
       - type: simple
-        sentence: 우리가 박물관에서 본 것은 역사를 체험한 <f>셈이에요</f>.
+        sentence: 우리가 박물관에서 본 것은 역사를 체험<f>한 셈이에요</f>.
         translated: What we saw at the museum was practically experiencing history.
         audio_url:
       - type: simple
-        sentence: 이 과제는 거의 다 한 <f>셈일 거예요</f>.
+        sentence: 이 과제는 거의 다 <f>한 셈일 거예요</f>.
         translated: This assignment is practically done.
         audio_url:
       - type: simple
-        sentence: 이번 시험 결과를 보면 다음 학기에 합격한 <f>셈일지도 몰라요</f>.
+        sentence: 이번 시험 결과를 보면 다음 학기에 합격<f>한 셈일지도 몰라요</f>.
         translated: Judging by this test result, it might be as though I passed for next semester.
         audio_url:
   - slug: calculated-as

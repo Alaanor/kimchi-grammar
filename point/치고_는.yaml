@@ -3,7 +3,7 @@ definitions:
   - slug: exception
     name: Exception
     english_alternatives: considering that, for a (type of person/thing), given that
-    meaning: Used with nouns to show that something is unusual or noteworthy for that category.
+    meaning: Used to show that something is unusual or noteworthy
     examples:
       - type: simple
         sentence: 그는 학생<f>치고는</f> 김치를 정말 잘 담가요.

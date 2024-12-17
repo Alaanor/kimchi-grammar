@@ -37,4 +37,9 @@ definitions:
 metadata:
   type: composite
 details: |-
-  This is an abbreviation of <f>다[고]</f> and <f>(이)라[고]</f>, and it is used colloquially.
+  The first part of this pattern is an abbreviation of :grammar[verb_는다는_ㄴ다는_다는_라는], see table below:
+
+  | short            | extended      | full               |
+  |------------------|---------------|--------------------|
+  | <f>(ㄴ/는)단</f> | <f>는다는</f> | <f>는다고 하는</f> |
+  | <f>(이)란</f>    | <f>는라는</f> | <f>이라고 하는</f> |

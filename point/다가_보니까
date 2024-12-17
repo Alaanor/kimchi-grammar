@@ -6,14 +6,13 @@ definitions:
     meaning: indicates a sudden realization or conclusion while doing an action 
     examples:
       - type: simple
-        sentence:  책을 읽<f>다가 보니<f> 시간이 훌쩍 지나갔어요. 
+        sentence:  책을 읽<f>다가 보니</f> 시간이 훌쩍 지나갔어요. 
         translated: While reading the book, I realized time had flown by.
         audio_url:  generated audio reading, leave it blank 
       - type: simple
-       sentence: 일을 하<f>다가 보니까<f> 실력이 늘었어요.
-       translated: while i was working i noticed that my skills improved
-       audio_url:  generated audio reading, leave it blank 
+        sentence: 일을 하<f>다가 보니까</f> 실력이 늘었어요.
+        translated: while i was working i noticed that my skills improved
+        audio_url:  generated audio reading, leave it blank 
 metadata:
   type:  composite
 details: |-
-builds upon :grammar[verb_다가]

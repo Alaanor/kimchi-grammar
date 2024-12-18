@@ -5,18 +5,18 @@ definitions:
     english_alternatives: Are you saying that...?
     meaning: Used to confirm what the other person said.
     examples:
-      - sentence: 날씨가 춥고 스키를 가겠<f>단 말이에요?</f>
+      - sentence: 날씨가 춥고 스키를 가겠<f>단 말이에요</f>?
         type: simple
         translated: Are you saying you're going skiing even though it's cold?
-        audio_url:
-      - sentence: 네가 어제 늦게 잤<f>단 말이에요?</f>
+        audio_url: https://r2.kimchi-reader.app/grammar/날씨가_춥고_스키를_가겠단_말이에요__2024-12-18.mp3
+      - sentence: 네가 어제 늦게 잤<f>단 말이에요</f>?
         type: simple
         translated: Are you saying you stayed up late yesterday?
-        audio_url:
-      - sentence: 너는 지금 나한테 화났<f>단 말이에요?</f>
+        audio_url: https://r2.kimchi-reader.app/grammar/네가_어제_늦게_잤단_말이에요__2024-12-18.mp3
+      - sentence: 너는 지금 나한테 화났<f>단 말이에요</f>?
         type: simple
         translated: Are you saying you're angry with me right now?
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/너는_지금_나한테_화났단_말이에요__2024-12-18.mp3
   - slug: Emphasizing
     name: Emphasizing
     english_alternatives: I said
@@ -25,15 +25,15 @@ definitions:
       - sentence: 다시 해보<f>란 말이야</f>
         type: simple
         translated: I said try again!
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/다시_해보란_말이야_2024-12-18.mp3
       - sentence: 숙제하<f>란 말이야</f>
         type: simple
         translated: I said do your homework!
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/숙제하란_말이야_2024-12-18.mp3
       - sentence: 조용히 하<f>란 말이야</f>
         type: simple
         translated: I said be quiet!
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/조용히_하란_말이야_2024-12-18.mp3
 metadata:
   type: composite
 details: |-

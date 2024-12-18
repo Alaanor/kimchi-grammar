@@ -38,15 +38,15 @@ definitions:
       - sentence: 이게 <f>맛있을까</f>?
         type: simple
         translated: I wonder if this will taste good?
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/이게_맛있을까__2024-12-18.mp3
       - sentence: 오늘 시장에 <f>갈까</f>?
         type: simple
         translated: Should I go to the market today?
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/오늘_시장에_갈까__2024-12-18.mp3
       - sentence: 그래서... 음... <f>뭐랄까</f>? 아니야, 상관없어.
         type: simple
         translated: So then... hmm... what am I trying to say (how should I put it)? Nevermind, it doesn't matter.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/그래서_음_뭐랄까_아니야,_상관없어__2024-12-18.mp3
 metadata:
   type: verb
 details: |-

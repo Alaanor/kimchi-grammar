@@ -19,3 +19,7 @@ inheritance:
     children: ["verb_았_었_했", "verb_던"]
   - parent: "verb_기는_긴"
     children: ["verb_기", "noun_은_는"]
+  - parent: "단_말"
+    children: ["verb_는다는_ㄴ다는_다는_라는"]
+  - parent: "다가_보니까"
+    children: ["verb_다가", "verb_으니까_니까"]

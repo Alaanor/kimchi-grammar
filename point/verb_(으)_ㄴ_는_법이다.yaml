@@ -6,7 +6,7 @@ definitions:
     meaning: Indicates that a certain situation or outcome is expected, natural, or bound to happen.
     examples:
       - type: simple
-        sentence: 기대가 크면 실망도 <f>큰 법이.</f>지.
+        sentence: 기대가 크면 실망도 <f>큰 법이지</f>.
         translated: If you have high expectations, disappointment is inevitable.
         audio_url:
       - type: simple
@@ -14,7 +14,7 @@ definitions:
         translated: Affordable, high-quality products are bound to sell well.
         audio_url:
       - type: simple
-        sentence: 기대가 클수록 실망도 <f>큰 법이</f>죠.
+        sentence: 기대가 클수록 실망도 <f>큰 법이죠</f>.
         translated: The more you get your hopes up, the more you'll be disappointed.
         audio_url:
       - type: simple
@@ -26,5 +26,5 @@ definitions:
         translated: Over time, everything is bound to change.
         audio_url:
 metadata:
-  type: verb
+  type: composite
 details: |-

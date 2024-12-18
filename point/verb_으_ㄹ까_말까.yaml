@@ -26,5 +26,5 @@ definitions:
         translated: I'm hesitating about whether to call my friend or not.
         audio_url:
 metadata:
-  type: verb
+  type: composite
 details: |-

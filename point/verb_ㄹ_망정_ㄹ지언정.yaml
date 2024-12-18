@@ -3,7 +3,7 @@ definitions:
   - slug: even-though
     name: Even Though
     english_alternatives: even though, although, despite
-    meaning: Aacknowledge or assume the truth of the first part and emphasize a contrasting fact in the second.
+    meaning: Acknowledge or assume the truth of the first part and emphasize a contrasting fact in the second.
     examples:
       - type: simple
         sentence: 그는 나를 돕지는 못할<f>망정</f> 방해는 하지 말아야지요.
@@ -14,7 +14,7 @@ definitions:
         translated: Even if my friend can't understand, I hope they don't criticize.
         audio_url:
       - type: simple
-        sentence: 오늘이 삶의 끝<f>일지언정 후회 없는 하루를 보내도록 하겠다
+        sentence: 오늘이 삶의 끝<f>일지언정</f> 후회 없는 하루를 보내도록 하겠다
         translated: Even if today were the end of my life, I would live it without regrets.
         audio_url:
       - type: simple

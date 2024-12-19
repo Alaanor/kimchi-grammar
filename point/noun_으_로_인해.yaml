@@ -1,8 +1,8 @@
-name: (으)로 인해
+name: (으)로 인하다
 definitions:
   - slug: due-to
     name: Due To
-    english_alternatives: due to, because of,
+    english_alternatives: due to, because of
     meaning: Indicates the cause or reason for a certain situation or event.
     examples:
       - type: simple
@@ -22,5 +22,5 @@ definitions:
         translated: The work was delayed because of computer problems.
         audio_url:
 metadata:
-  type: noun
+  type: composite
 details: |-

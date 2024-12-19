@@ -26,5 +26,5 @@ definitions:
         translated: Meeting that person is a waste of time.
         audio_url:
 metadata:
-  type: verb
+  type: composite
 details: |-

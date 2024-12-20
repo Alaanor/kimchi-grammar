@@ -1,0 +1,30 @@
+name: 치고
+definitions:
+  - slug: exception
+    name: Exception
+    english_alternatives: considering that, given that
+    meaning: Used to show that something is unusual or noteworthy
+    examples:
+      - type: simple
+        sentence: 그는 학생<f>치고는</f> 김치를 정말 잘 담가요.
+        translated: For a student, he makes kimchi remarkably well.
+        audio_url: https://r2.kimchi-reader.app/grammar/그는_학생치고는_김치를_정말_잘_담가요__2024-12-20.mp3
+      - type: simple
+        sentence: 이 가게는 동네 식당<f>치고는</f> 인테리어가 굉장히 세련됐네요.
+        translated: For a neighborhood eatery, this place’s interior is remarkably stylish.
+        audio_url: https://r2.kimchi-reader.app/grammar/이_가게는_동네_식당치고는_인테리어가_굉장히_세련됐네요__2024-12-20.mp3
+      - type: simple
+        sentence: 이 옷은 디자이너<f>치고는</f> 꽤 평범한 편이에요.
+        translated: For a designer piece, this outfit is quite plain.
+        audio_url: https://r2.kimchi-reader.app/grammar/이_옷은_디자이너치고는_꽤_평범한_편이에요__2024-12-20.mp3
+      - type: simple
+        sentence: 그 박사님은 물리학자<f>치고는</f> 감성이 풍부하시네요.
+        translated: For a physicist, she is surprisingly emotional.
+        audio_url: https://r2.kimchi-reader.app/grammar/그_박사님은_물리학자치고는_감성이_풍부하시네요__2024-12-20.mp3
+      - type: simple
+        sentence: 이 샐러드는 건강식<f>치고는</f> 꽤 달콤하네요.
+        translated: For a health food, this salad is surprisingly sweet.
+        audio_url: https://r2.kimchi-reader.app/grammar/이_샐러드는_건강식치고는_꽤_달콤하네요__2024-12-20.mp3
+metadata:
+  type: noun
+details: |-

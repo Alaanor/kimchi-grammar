@@ -1,0 +1,34 @@
+name: 다고/라고 치다
+definitions:
+  - slug: assumption-hypothesis
+    name: Assumption or Hypothesis
+    english_alternatives: assuming that, suppose that, let’s say
+    meaning: To assume or consider a hypothetical scenario as if it were true.
+    examples:
+      - type: simple
+        sentence: 모든 학생이 숙제를 마쳤<f>다고 치고</f> 발표를 시작합시다.
+        translated: Let’s start the presentation assuming all the students finished their homework.
+        audio_url: https://r2.kimchi-reader.app/grammar/모든_학생이_숙제를_마쳤다고_치고_발표를_시작합시다__2024-12-20.mp3
+      - type: simple
+        sentence: 그가 이 작품을 이해했<f>다고 치고</f> 설명을 생략할게요.
+        translated: Assuming he understands this piece, I'll skip the explanation.
+        audio_url: https://r2.kimchi-reader.app/grammar/그가_이_작품을_이해했다고_치고_설명을_생략할게요__2024-12-20.mp3
+      - type: simple
+        sentence: 내일 아침에 운동한<f>다고 치고</f> 일찍 잠자리에 드세요.
+        translated: Let’s assume you’ll work out tomorrow morning, so go to bed early.
+        audio_url: https://r2.kimchi-reader.app/grammar/내일_아침에_운동한다고_치고_일찍_잠자리에_드세요__2024-12-20.mp3
+      - type: simple
+        sentence: 코드가 이미 최적화되었<f>다고 치고</f> 테스트를 진행해 봅시다.
+        translated: Let’s proceed with testing, assuming the code is already optimized.
+        audio_url: https://r2.kimchi-reader.app/grammar/코드가_이미_최적화되었다고_치고_테스트를_진행해_봅시다__2024-12-20.mp3
+      - type: simple
+        sentence: 그 식단이 효과적이<f>라고 치고</f> 한 달 더 유지해볼까요?
+        translated: Assuming that diet is effective, shall we continue it for another month?
+        audio_url: https://r2.kimchi-reader.app/grammar/그_식단이_효과적이라고_치고_한_달_더_유지해볼까요__2024-12-20.mp3
+      - type: simple
+        sentence: 그가 전문가<f>라고 치고</f> 그의 조언을 들어보겠습니다.
+        translated: Let’s assume he’s an expert and listen to his advice.
+        audio_url: https://r2.kimchi-reader.app/grammar/그가_전문가라고_치고_그의_조언을_들어보겠습니다__2024-12-20.mp3
+metadata:
+  type: composite
+details: |-

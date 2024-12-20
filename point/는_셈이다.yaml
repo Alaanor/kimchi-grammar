@@ -8,39 +8,39 @@ definitions:
       - type: simple
         sentence: 이번 촬영은 꽤 잘<f>된 셈이에요</f>.
         translated: It is as though I did well on this shoot.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/이번_촬영은_꽤_잘된_셈이에요__2024-12-20.mp3
       - type: simple
         sentence: 그동안 열심히 준비했으니 거의 합격<f>한 셈이죠</f>.
         translated: Since I prepared hard, it is as though I passed the audition.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/그동안_열심히_준비했으니_거의_합격한_셈이죠__2024-12-20.mp3
       - type: simple
         sentence: 이 정도면 절반은 성공<f>한 셈이에요</f>.
         translated: At this level, it is practically half a success in the industry.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/이_정도면_절반은_성공한_셈이에요__2024-12-20.mp3
       - type: simple
         sentence: 모델들이 많아 보여도 사실상 없<f>는 셈이에요</f>.
         translated: Even though it looks like there are many models, it is as though there are none.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/모델들이_많아_보여도_사실상_없는_셈이에요__2024-12-20.mp3
       - type: simple
         sentence: 오늘 학교에서 발표를 성공적으로 마<f>친 셈이었어요</f>.
         translated: It was as though we successfully finished the presentation at school today.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/오늘_학교에서_발표를_성공적으로_마친_셈이었어요__2024-12-20.mp3
       - type: simple
         sentence: 친구들과 파리 여행을 즐<f>긴 셈이었어요</f>.
         translated: It was practically as though we enjoyed the trip to Paris with friends.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/친구들과_파리_여행을_즐긴_셈이었어요__2024-12-20.mp3
       - type: simple
         sentence: 우리가 박물관에서 본 것은 역사를 체험<f>한 셈이에요</f>.
         translated: What we saw at the museum was practically experiencing history.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/우리가_박물관에서_본_것은_역사를_체험한_셈이에요__2024-12-20.mp3
       - type: simple
         sentence: 이 과제는 거의 다 <f>한 셈일</f> 거예요.
         translated: This assignment is practically done.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/이_과제는_거의_다_한_셈일_거예요__2024-12-20.mp3
       - type: simple
         sentence: 이번 시험 결과를 보면 다음 학기에 합격<f>한 셈일지도</f> 몰라요.
         translated: Judging by this test result, it might be as though I passed for next semester.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/이번_시험_결과를_보면_다음_학기에_합격한_셈일지도_몰라요__2024-12-20.mp3
   - slug: calculated-as
     name: Calculated As
     english_alternatives: Can be calculated as, can be interpreted as
@@ -49,19 +49,19 @@ definitions:
       - type: simple
         sentence: 이 식당의 가격을 생각하면 정말 <f>싼 셈이에요</f>.
         translated: Considering the prices of this restaurant, it is really cheap.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/이_식당의_가격을_생각하면_정말_싼_셈이에요__2024-12-20.mp3
       - type: simple
         sentence: 이 일을 10년 동안 했으니 이제 전문가<f>인 셈이에요</f>.
         translated: Having done this work for 10 years, I am practically an expert.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/이_일을_10년_동안_했으니_이제_전문가인_셈이에요__2024-12-20.mp3
       - type: simple
         sentence: 하루에 5시간씩 공부하면 한 달에 150시간을 공부<f>한 셈이에요</f>.
         translated: If you study 5 hours a day, that amounts to studying 150 hours a month.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/하루에_5시간씩_공부하면_한_달에_150시간을_공부한_셈이에요__2024-12-20.mp3
       - type: simple
         sentence: 일주일에 다섯 번 밖에서 식사하면 거의 매일 외식하<f>는 셈이에요</f>.
         translated: If you eat out five times a week, it's practically as though you eat out every day.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/일주일에_다섯_번_밖에서_식사하면_거의_매일_외식하는_셈이에요__2024-12-20.mp3
 metadata:
   type: composite
 details: |-

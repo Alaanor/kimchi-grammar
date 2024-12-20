@@ -8,35 +8,35 @@ definitions:
       - type: simple
         sentence: 제가 집에 가<f>는 길</f>이에요.
         translated: I am on my way home.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/제가_집에_가는_길이에요__2024-12-20.mp3
       - type: simple
         sentence: 지금 회사에서 나오<f>는 길</f>이에요.
         translated: I am on my way out of the office.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/지금_회사에서_나오는_길이에요__2024-12-20.mp3
       - type: simple
         sentence: 산을 올라가<f>는 길</f>이에요.
         translated: I am on my way up the mountain.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/산을_올라가는_길이에요__2024-12-20.mp3
       - type: simple
         sentence: 지금 병원에 들어가<f>는 길</f>이에요.
         translated: I’m currently on my way into the hospital.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/지금_병원에_들어가는_길이에요__2024-12-20.mp3
       - type: simple
         sentence: 어제는 산을 내려가<f>는 길</f>이었어요.
         translated: Yesterday, I was on my way down the mountain.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/어제는_산을_내려가는_길이었어요__2024-12-20.mp3
       - type: simple
         sentence: 목사님이 지금 교회에 오시<f>는 길</f>이라고 했어요.
         translated: The reverend said he is on the way to the church now.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/목사님이_지금_교회에_오시는_길이라고_했어요__2024-12-20.mp3
       - type: simple
         sentence: 색연필을 사러 가<f>는 길</f>인데 혹시 필요한 것이 있어요?
         translated: I’m heading out to buy some colored pencils, by chance do you need anything?
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/색연필을_사러_가는_길인데_혹시_필요한_것이_있어요__2024-12-20.mp3
       - type: simple
         sentence: 제가 지금 집에 가<f>는 길</f>이라서 20분 후에 또 전화하면 안 돼요?
         translated: I am on my way home right now, so can you call me back in 20 minutes?
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/제가_지금_집에_가는_길이라서_20분_후에_또_전화하면_안_돼요__2024-12-20.mp3
 metadata:
   type: composite
 details: |-

@@ -8,19 +8,19 @@ definitions:
       - sentence: 그는 의사<f>랍시고</f> 조언을 했지만 도움이 되지 않았다.
         type: simple
         translated: He pretended to be a doctor and gave advice, but it wasn't helpful.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/그는_의사랍시고_조언을_했지만_도움이_되지_않았다__2024-12-20.mp3
       - sentence: 친구<f>랍시고</f> 나를 속였다.
         type: simple
         translated: He claimed to be a friend but deceived me.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/친구랍시고_나를_속였다__2024-12-20.mp3
       - sentence: 전문가<f>랍시고</f> 설명했지만 틀렸다.
         type: simple
         translated: He pretended to be an expert and explained, but he was wrong.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/전문가랍시고_설명했지만_틀렸다__2024-12-20.mp3
       - sentence: 아이가 선물<f>이랍시고</f> 막대사탕을 줬어요.
         type: simple
         translated: The child, pretending it was a gift, gave me a lollipop.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/아이가_선물이랍시고_막대사탕을_줬어요__2024-12-20.mp3
 metadata:
   type: noun
 details: |-

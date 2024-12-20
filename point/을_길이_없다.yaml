@@ -8,23 +8,23 @@ definitions:
       - type: simple
         sentence: 그 사실을 확인<f>할 길이 없다</f>.
         translated: There is no way of verifying that fact.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/그_사실을_확인할_길이_없다__2024-12-20.mp3
       - type: simple
         sentence: 죽은 그 사람이 누구인지 <f>알 길이 없어요</f>.
         translated: There is no way of knowing who that dead person is.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/죽은_그_사람이_누구인지_알_길이_없어요__2024-12-20.mp3
       - type: simple
         sentence: 이 문제를 해결<f>할 길이 없어요</f>.
         translated: There is no way to solve this problem.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/이_문제를_해결할_길이_없어요__2024-12-20.mp3
       - type: simple
         sentence: 진실을 밝<f>힐 길이 없다</f>.
         translated: There is no way to uncover the truth.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/진실을_밝힐_길이_없다__2024-12-20.mp3
       - type: simple
         sentence: 우리가 언제 그 일을 끝낼지 <f>알 길이 없어요</f>.
         translated: There is no way of knowing when we will finish that work.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/우리가_언제_그_일을_끝낼지_알_길이_없어요__2024-12-20.mp3
 metadata:
   type: composite
 details: |-

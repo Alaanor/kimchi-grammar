@@ -8,23 +8,23 @@ definitions:
       - type: simple
         sentence: 집에 가<f>는 길에</f> 빵을 샀어요.
         translated: I bought bread on my way home.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/집에_가는_길에_빵을_샀어요__2024-12-20.mp3
       - type: simple
         sentence: 시장에 들르<f>는 길에</f> 커피를 샀어요.
         translated: On my way to the market, I bought some coffee.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/시장에_들르는_길에_커피를_샀어요__2024-12-20.mp3
       - type: simple
         sentence: 친구를 만나러 나가<f>는 길에</f> 책을 반납할 거예요.
         translated: On my way out to meet a friend, I will return the book.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/친구를_만나러_나가는_길에_책을_반납할_거예요__2024-12-20.mp3
       - type: simple
         sentence: 회사에서 나오<f>는 길에</f> 꽃집에 들렀어요.
         translated: On my way out from the office, I stopped by the flower shop.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/회사에서_나오는_길에_꽃집에_들렀어요__2024-12-20.mp3
       - type: simple
         sentence: 도서관에 가<f>는 길에</f> 편의점에 들를까요?
         translated: Shall we stop by the convenience store on the way to the library?
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/도서관에_가는_길에_편의점에_들를까요__2024-12-20.mp3
 metadata:
   type: composite
 details: |-

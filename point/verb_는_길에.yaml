@@ -10,7 +10,7 @@ definitions:
         translated: I bought bread on my way home.
         audio_url:
       - type: simple
-        sentence: 시장에 들러<f>는 길에</f> 커피를 샀어요.
+        sentence: 시장에 들르<f>는 길에</f> 커피를 샀어요.
         translated: On my way to the market, I bought some coffee.
         audio_url:
       - type: simple

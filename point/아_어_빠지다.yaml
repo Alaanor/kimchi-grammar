@@ -1,0 +1,62 @@
+name: 아/어 빠지다
+definitions:
+  - slug: fall-into
+    name: Fall Into
+    english_alternatives: completely immersed, deeply absorbed
+    meaning: Indicate becoming completely absorbed or immersed in the action or state.
+    examples:
+      - type: simple
+        sentence: 그 그림이 너무 아름다워서 바라<f>봐 빠져버렸어요</f>.
+        translated: The painting was so beautiful that I became completely absorbed in looking at it.
+        audio_url:
+      - type: simple
+        sentence: 소설이 너무 흥미로워서 밤새 읽<f>어 빠졌어요</f>.
+        translated: The novel was so fascinating that I stayed up all night, completely absorbed in reading it.
+        audio_url:
+      - type: simple
+        sentence: 그는 최근 도예를 빚<f>어 빠져서</f> 하루 종일 흙을 다루고 있어요.
+        translated: He’s recently become so immersed in pottery that he spends the entire day working with clay.
+        audio_url:
+      - type: simple
+        sentence: 게임을 <f>해 빠져</f> 시간 가는 줄 몰랐어요.
+        translated: I got so absorbed in playing the game that I completely lost track of time.
+        audio_url:
+      - type: simple
+        sentence: 그녀는 요가를 연습<f>해 빠져서</f> 매일 열심히 운동하고 있어요.
+        translated: She’s so deeply involved in practicing yoga that she works out diligently every day.
+        audio_url:
+      - type: simple
+        sentence: 그녀는 메이크업 튜토리얼을 <f>봐 빠져서</f> 매일 새로운 화장법을 시도해요.
+        translated: She’s become so absorbed in makeup tutorials that she tries a new style every day.
+        audio_url:
+      - type: simple
+        sentence: 로맨스 소설을 읽<f>어 빠져서</f> 휴대폰을 볼 시간도 없어요.
+        translated: She’s so engrossed in reading romance novels that she doesn’t even have time to check her phone.
+        audio_url:
+      - type: simple
+        sentence: 유럽 디저트 레시피를 만들<f>어 빠져보니</f> 이제 매주 새로운 케이크를 구워요.
+        translated: After becoming completely absorbed in making European dessert recipes, she now bakes a new cake every week.
+        audio_url:
+      - type: simple
+        sentence: 그녀는 방탄소년단 영상을 <f>봐 빠져</f> 하루 종일 유튜브를 시청하고 있어요.
+        translated: She’s so into watching BTS videos that she spends the whole day on YouTube.
+        audio_url:
+      - type: simple
+        sentence: 새로운 스킨케어 제품 정보를 찾<f>아 빠져</f> 밤늦게까지 인터넷을 뒤지고 있어요.
+        translated: Having gotten completely immersed in looking up new skincare products, she stays up late browsing the internet.
+        audio_url:
+      - type: simple
+        sentence: 최신 패션 트렌드를 연구<f>해 빠져</f> 옷장 정리에 많은 시간을 쓰고 있어요.
+        translated: She’s become so absorbed in studying the latest fashion trends that she spends a lot of time reorganizing her wardrobe.
+        audio_url:
+      - type: simple
+        sentence: 인테리어 블로그를 보고 꾸<f>며 빠져</f> 집 안 분위기를 완전히 바꾸고 싶어 해요.
+        translated: After getting deeply absorbed in interior design blogs, she wants to completely change her home’s atmosphere.
+        audio_url:
+      - type: simple
+        sentence: 한복 디자인에 관심을 갖고 자료를 찾<f>아 빠져</f> 전통문화를 더 깊이 이해하게 되었어요.
+        translated: Becoming interested in hanbok design and getting absorbed in researching it, she gained a deeper understanding of traditional culture.
+        audio_url:
+metadata:
+  type: composite
+details: |-

@@ -26,7 +26,7 @@ definitions:
         translated: Yesterday, I was on my way down the mountain.
         audio_url:
       - type: simple
-        sentence: 목사님이 지금 교회에 오시는 <f>길</f>이라고 했어요.
+        sentence: 목사님이 지금 교회에 오시<f>는 길</f>이라고 했어요.
         translated: The reverend said he is on the way to the church now.
         audio_url:
       - type: simple
@@ -38,5 +38,5 @@ definitions:
         translated: I am on my way home right now, so can you call me back in 20 minutes?
         audio_url:
 metadata:
-  type: verb
+  type: composite
 details: |-

@@ -26,5 +26,5 @@ definitions:
         translated: There is no way of knowing when we will finish that work.
         audio_url:
 metadata:
-  type: verb
+  type: composite
 details: |-

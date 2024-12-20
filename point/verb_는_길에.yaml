@@ -26,5 +26,5 @@ definitions:
         translated: Shall we stop by the convenience store on the way to the library?
         audio_url:
 metadata:
-  type: verb
+  type: composite
 details: |-

@@ -11,11 +11,11 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/그_남자는_매일_집에서_살다시피_해요__2024-10-24.mp3
       - sentence: 비가 너무 많이 와서 물에 <f>잠기다시피 했어요</f>.
         type: simple
-        translated: May I sit here?
+        translated: It rained so much that it was practically flooded.
         audio_url: https://r2.kimchi-reader.app/grammar/비가_너무_많이_와서_물에_잠기다시피_했어요__2024-10-24.mp3
       - sentence: 그 여자는 삼겹살을 주식으로 <f>하다시피 해요</f>.
         type: simple
-        translated: Do you mind if I open the window?
+        translated: She practically lives on pork belly as her staple food.
         audio_url: https://r2.kimchi-reader.app/grammar/그_여자는_삼겹살을_주식으로_하다시피_해요__2024-10-24.mp3
 metadata:
   type: composite

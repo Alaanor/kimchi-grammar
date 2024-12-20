@@ -1,0 +1,30 @@
+name: 아/어서인지
+definitions:
+  - slug: perhaps-because
+    name: Perhaps Because
+    english_alternatives: perhaps because, maybe due to
+    meaning: Suggest a possible reason or cause for a situation, with a hint of uncertainty.
+    examples:
+      - type: simple
+        sentence: 열심히 공부<f>해서인지</f> 학교에서 좋은 성적을 받고 있어요.
+        translated: Perhaps because I'm studying hard, I'm getting good grades at school.
+        audio_url: https://r2.kimchi-reader.app/grammar/열심히_공부해서인지_학교에서_좋은_성적을_받고_있어요__2024-12-19.mp3
+      - type: simple
+        sentence: 산책하러 공원에 자주 가<f>서인지</f> 기분이 좋아요.
+        translated: Perhaps because I go to the park often for walks, I feel good.
+        audio_url: https://r2.kimchi-reader.app/grammar/산책하러_공원에_자주_가서인지_기분이_좋아요__2024-12-19.mp3
+      - type: simple
+        sentence: 음식을 급하게 먹<f>어서인지</f> 소화가 잘 안 돼요.
+        translated: Perhaps because I ate quickly, I'm having trouble digesting.
+        audio_url: https://r2.kimchi-reader.app/grammar/음식을_급하게_먹어서인지_소화가_잘_안_돼요__2024-12-19.mp3
+      - type: simple
+        sentence: 그 영화가 재미있<f>어서인지</f> 사람들이 많이 봤어요.
+        translated: Maybe because the movie is interesting, many people watched it.
+        audio_url: https://r2.kimchi-reader.app/grammar/그_영화가_재미있어서인지_사람들이_많이_봤어요__2024-12-19.mp3
+      - type: simple
+        sentence: 잠을 충분히 못 잤<f>어서인지</f> 피곤해요.
+        translated: Perhaps because I didn't sleep enough, I'm tired.
+        audio_url: https://r2.kimchi-reader.app/grammar/잠을_충분히_못_잤어서인지_피곤해요__2024-12-19.mp3
+metadata:
+  type: verb
+details: |-

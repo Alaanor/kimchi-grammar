@@ -1,0 +1,38 @@
+name: (ㄴ/는)답시고
+definitions:
+  - slug: attempting-but-failing
+    name: Attempting but Failing
+    english_alternatives: trying to..., but...
+    meaning: Expresses that someone attempts to do something, but ends up causing a bad result.
+    examples:
+      - sentence: 동생이 휴대폰을 고친<f>답시고</f> 만지다가 망가뜨렸어.
+        type: simple
+        translated: My brother tried to fix the phone but ended up breaking it.
+        audio_url: https://r2.kimchi-reader.app/grammar/동생이_휴대폰을_고친답시고_만지다가_망가뜨렸어__2024-12-19.mp3
+      - sentence: 아기가 엄마를 도와준<f>답시고</f> 설거지를 하다가 주방을 엉망으로 만들었다.
+        type: simple
+        translated: The baby tried to help mom with the dishes but made a mess in the kitchen.
+        audio_url: https://r2.kimchi-reader.app/grammar/아기가_엄마를_도와준답시고_설거지를_하다가_주방을_엉망으로_만들었다__2024-12-19.mp3
+      - sentence: 친구가 공부한<f>답시고</f> 도서관에 갔지만 잠만 잤다.
+        type: simple
+        translated: My friend claimed to study at the library but just slept.
+        audio_url: https://r2.kimchi-reader.app/grammar/친구가_공부한답시고_도서관에_갔지만_잠만_잤다__2024-12-19.mp3
+      - sentence: 그녀가 웃긴 이야기 한<f>답시고</f> 했는데 아무도 안 웃었다.
+        type: simple
+        translated: She tried to tell a funny story but no one laughed.
+        audio_url: https://r2.kimchi-reader.app/grammar/그녀가_웃긴_이야기_한답시고_했는데_아무도_안_웃었다__2024-12-19.mp3
+metadata:
+  type: verb
+details: |-
+  # Usage {#usage}
+
+  ## Action Verbs {#action-verbs}
+  - Indicates that someone tried to perform an action with good intentions, but ended up causing a negative result.
+  - Expresses disappointment or sarcasm about the action.
+
+  ## Descriptive Verbs {#descriptive-verbs}
+  - When used with adjectives, it can imply that someone thought or claimed something to be a certain way, but it wasn't.
+
+  ## First-Person Usage {#first-person-usage}
+  - When used in the first person, it expresses self-deprecation.
+  - Speaker may downplay their own efforts or admit to causing an unintended negative outcome.

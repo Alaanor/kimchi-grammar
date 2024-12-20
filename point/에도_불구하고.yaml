@@ -1,0 +1,29 @@
+name: 에도 불구하고
+definitions:
+  - slug: despite-in-spite-of
+    name: Despite
+    english_alternatives: despite, in spite of
+    meaning: Expresses that something occurs despite a certain situation or condition.
+    examples:
+      - sentence: 비<f>에도 불구하고</f> 그는 출근했다.
+        type: simple
+        translated: Despite the rain, he went to work.
+        audio_url: https://r2.kimchi-reader.app/grammar/비에도_불구하고_그는_출근했다__2024-12-19.mp3
+      - sentence: 피곤함<f>에도 불구하고</f> 공부를 계속했다.
+        type: simple
+        translated: Despite being tired, he continued studying.
+        audio_url: https://r2.kimchi-reader.app/grammar/피곤함에도_불구하고_공부를_계속했다__2024-12-19.mp3
+      - sentence: 어려움<f>에도 불구하고</f> 포기하지 않았다.
+        type: simple
+        translated: Despite the difficulties, she did not give up.
+        audio_url: https://r2.kimchi-reader.app/grammar/어려움에도_불구하고_포기하지_않았다__2024-12-19.mp3
+      - sentence: 실패<f>에도 불구하고</f> 다시 시도했다.
+        type: simple
+        translated: In spite of failure, she tried again.
+        audio_url: https://r2.kimchi-reader.app/grammar/실패에도_불구하고_다시_시도했다__2024-12-19.mp3
+metadata:
+  type: composite
+details: |-
+  # Usage {#usage}
+
+  This form is used in formal contexts to express that an action occurs despite certain conditions. It is often used in formal writing, essays, and official speeches.

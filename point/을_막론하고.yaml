@@ -1,0 +1,30 @@
+name: 을/를 막론하고
+definitions:
+  - slug: regardless-of
+    name: Regardless of
+    english_alternatives: regardless of, no matter (who/what/when)
+    meaning: Indicates that the noun is not considered in making a judgment or decision; regardless of noun
+    examples:
+      - type: simple
+        sentence: 성별<f>을 막론하고</f> 지원할 수 있습니다.
+        translated: You can apply regardless of gender.
+        audio_url: https://r2.kimchi-reader.app/grammar/성별을_막론하고_지원할_수_있습니다__2024-12-18.mp3
+      - type: simple
+        sentence: 날씨<f>를 막론하고</f> 행사는 예정대로 진행됩니다.
+        translated: The event will proceed as scheduled regardless of the weather.
+        audio_url: https://r2.kimchi-reader.app/grammar/날씨를_막론하고_행사는_예정대로_진행됩니다__2024-12-18.mp3
+      - type: simple
+        sentence: 국적<f>을 막론하고</f> 모두 환영합니다.
+        translated: Everyone is welcome regardless of nationality.
+        audio_url: https://r2.kimchi-reader.app/grammar/국적을_막론하고_모두_환영합니다__2024-12-18.mp3
+      - type: simple
+        sentence: 계절<f>을 막론하고</f> 이곳은 아름답습니다.
+        translated: This place is beautiful regardless of the season.
+        audio_url: https://r2.kimchi-reader.app/grammar/계절을_막론하고_이곳은_아름답습니다__2024-12-18.mp3
+      - type: simple
+        sentence: 경험<f>을 막론하고</f> 누구나 참여할 수 있어요.
+        translated: Anyone can participate regardless of experience.
+        audio_url: https://r2.kimchi-reader.app/grammar/경험을_막론하고_누구나_참여할_수_있어요__2024-12-18.mp3
+metadata:
+  type: composite
+details: |-

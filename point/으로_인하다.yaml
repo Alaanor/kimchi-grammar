@@ -1,0 +1,26 @@
+name: (으)로 인하다
+definitions:
+  - slug: due-to
+    name: Due To
+    english_alternatives: due to, because of
+    meaning: Indicates the cause or reason for a certain situation or event.
+    examples:
+      - type: simple
+        sentence: 비<f>로 인해</f> 경기가 취소되었습니다.
+        translated: The game was canceled due to rain.
+        audio_url: https://r2.kimchi-reader.app/grammar/비로_인해_경기가_취소되었습니다__2024-12-19.mp3
+      - type: simple
+        sentence: 사고<f>로 인해</f> 길이 막혔어요.
+        translated: The road was blocked because of an accident.
+        audio_url: https://r2.kimchi-reader.app/grammar/사고로_인해_길이_막혔어요__2024-12-19.mp3
+      - type: simple
+        sentence: 지진<f>으로 인해</f> 많은 사람들이 피해를 입었습니다.
+        translated: Many people were affected as a result of the earthquake.
+        audio_url: https://r2.kimchi-reader.app/grammar/지진으로_인해_많은_사람들이_피해를_입었습니다__2024-12-19.mp3
+      - type: simple
+        sentence: 컴퓨터 문제<f>로 인해</f> 작업이 지연되었습니다.
+        translated: The work was delayed because of computer problems.
+        audio_url: https://r2.kimchi-reader.app/grammar/컴퓨터_문제로_인해_작업이_지연되었습니다__2024-12-19.mp3
+metadata:
+  type: composite
+details: |-

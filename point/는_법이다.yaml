@@ -1,0 +1,30 @@
+name: (으)ㄴ/는 법이다
+definitions:
+  - slug: expressing-inevitability
+    name: Expressing Inevitability
+    english_alternatives: it is natural that, it's inevitable that
+    meaning: Indicates that a certain situation or outcome is expected, natural, or bound to happen.
+    examples:
+      - type: simple
+        sentence: 기대가 크면 실망도 <f>큰 법이지</f>.
+        translated: If you have high expectations, disappointment is inevitable.
+        audio_url: https://r2.kimchi-reader.app/grammar/기대가_크면_실망도_큰_법이지__2024-12-18.mp3
+      - type: simple
+        sentence: 싸고 품질이 좋은 물건은 잘 팔리<f>는 법이다</f>.
+        translated: Affordable, high-quality products are bound to sell well.
+        audio_url: https://r2.kimchi-reader.app/grammar/싸고_품질이_좋은_물건은_잘_팔리는_법이다__2024-12-18.mp3
+      - type: simple
+        sentence: 기대가 클수록 실망도 <f>큰 법이죠</f>.
+        translated: The more you get your hopes up, the more you'll be disappointed.
+        audio_url: https://r2.kimchi-reader.app/grammar/기대가_클수록_실망도_큰_법이죠__2024-12-18.mp3
+      - type: simple
+        sentence: 노력하지 않으면 실패하<f>는 법이다</f>.
+        translated: If you don't make an effort, failure is natural.
+        audio_url: https://r2.kimchi-reader.app/grammar/노력하지_않으면_실패하는_법이다__2024-12-18.mp3
+      - type: simple
+        sentence: 시간이 지나면 모든 것이 변하<f>는 법이다</f>.
+        translated: Over time, everything is bound to change.
+        audio_url: https://r2.kimchi-reader.app/grammar/시간이_지나면_모든_것이_변하는_법이다__2024-12-18.mp3
+metadata:
+  type: composite
+details: |-

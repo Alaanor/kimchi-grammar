@@ -1,0 +1,26 @@
+name: (으)ㄹ망정 / (으)ㄹ지언정
+definitions:
+  - slug: even-though
+    name: Even Though
+    english_alternatives: even though, although, despite
+    meaning: Acknowledge or assume the truth of the first part and emphasize a contrasting fact in the second.
+    examples:
+      - type: simple
+        sentence: 그는 나를 돕지는 못할<f>망정</f> 방해는 하지 말아야지요.
+        translated: Even though he can't help me, he shouldn't hinder me.
+        audio_url: https://r2.kimchi-reader.app/grammar/그는_나를_돕지는_못할망정_방해는_하지_말아야지요__2024-12-18.mp3
+      - type: simple
+        sentence: 친구가 이해는 못해줄<f>망정</f> 비난은 하지 않았으면 좋겠어요.
+        translated: Even if my friend can't understand, I hope they don't criticize.
+        audio_url: https://r2.kimchi-reader.app/grammar/친구가_이해는_못해줄망정_비난은_하지_않았으면_좋겠어요__2024-12-18.mp3
+      - type: simple
+        sentence: 오늘이 삶의 끝<f>일지언정</f> 후회 없는 하루를 보내도록 하겠다
+        translated: Even if today were the end of my life, I would live it without regrets.
+        audio_url: https://r2.kimchi-reader.app/grammar/오늘이_삶의_끝일지언정_후회_없는_하루를_보내도록_하겠다_2024-12-18.mp3
+      - type: simple
+        sentence: 그는 지키지는 못할<f>지언정</f> 약속은 함부로 하지 않아요.
+        translated: Even if he can't keep it, he doesn't make promises lightly.
+        audio_url: https://r2.kimchi-reader.app/grammar/그는_지키지는_못할지언정_약속은_함부로_하지_않아요__2024-12-18.mp3
+metadata:
+  type: verb
+details: |-

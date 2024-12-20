@@ -40,3 +40,6 @@ relation:
       - { id: "는_길이다", slug: "on-my-way" }
       - { id: "는_길에", slug: "while-on-my-way" }
       - { id: "을_길이_없다", slug: "no-way-of" }
+  - concern:
+      - { id: "verb_는답시고", slug: "attempting-but-failing" }
+      - { id: "noun_이랍시고", slug: "pretending-to-be" }

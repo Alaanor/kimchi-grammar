@@ -1,0 +1,30 @@
+name: (으)나 마나
+definitions:
+  - slug: no-use
+    name: No Use
+    english_alternatives: it's no use, there's no point in, don't bother
+    meaning: Express that doing something will not change the result; it's pointless to do it.
+    examples:
+      - type: simple
+        sentence: 지금 가<f>나 마나</f> 그녀는 없을 거예요.
+        translated: Even if you go now, she won't be there.
+        audio_url: https://r2.kimchi-reader.app/grammar/지금_가나_마나_그녀는_없을_거예요__2024-12-19.mp3
+      - type: simple
+        sentence: 그 영화는 보<f>나 마나</f> 재미없을 거야.
+        translated: There's no point in watching that movie; it'll be boring.
+        audio_url: https://r2.kimchi-reader.app/grammar/그_영화는_보나_마나_재미없을_거야__2024-12-19.mp3
+      - type: simple
+        sentence: 그 책은 읽<f>으나 마나</f> 시간 낭비예요.
+        translated: There's no point in reading that book; it's a waste of time.
+        audio_url: https://r2.kimchi-reader.app/grammar/그_책은_읽으나_마나_시간_낭비예요__2024-12-19.mp3
+      - type: simple
+        sentence: 시험 공부를 하<f>나 마나</f> 결과는 똑같을 거야.
+        translated: Whether you study for the exam or not, the result will be the same.
+        audio_url: https://r2.kimchi-reader.app/grammar/시험_공부를_하나_마나_결과는_똑같을_거야__2024-12-19.mp3
+      - type: simple
+        sentence: 그 사람을 만나<f>나 마나</f> 시간 낭비예요.
+        translated: Meeting that person is a waste of time.
+        audio_url: https://r2.kimchi-reader.app/grammar/그_사람을_만나나_마나_시간_낭비예요__2024-12-19.mp3
+metadata:
+  type: composite
+details: |-

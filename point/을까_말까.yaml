@@ -1,0 +1,30 @@
+name: (으)ㄹ까 말까
+definitions:
+  - slug: whether-to-do-or-not
+    name: Considering Whether to Do or Not
+    english_alternatives: should I,.. or not, whether to,.. or not
+    meaning: Express hesitation or indecision about doing something.
+    examples:
+      - type: simple
+        sentence: 오늘 학교에 <f>갈까 말까</f> 생각 중이에요.
+        translated: I'm thinking about whether to go to school today or not.
+        audio_url: https://r2.kimchi-reader.app/grammar/오늘_학교에_갈까_말까_생각_중이에요__2024-12-18.mp3
+      - type: simple
+        sentence: 배가 안 고파서 점심을 먹<f>을까 말까</f> 해요.
+        translated: I'm wondering whether to eat lunch since I'm not hungry.
+        audio_url: https://r2.kimchi-reader.app/grammar/배가_안_고파서_점심을_먹을까_말까_해요__2024-12-18.mp3
+      - type: simple
+        sentence: 나는 차를 살<f>까 말까</f> 장난스럽게 생각하고 있어요.
+        translated: I'm playfully considering whether to buy a car or not.
+        audio_url: https://r2.kimchi-reader.app/grammar/나는_차를_살까_말까_장난스럽게_생각하고_있어요__2024-12-18.mp3
+      - type: simple
+        sentence: 새로운 취미를 시작<f>할까 말까</f> 고민하고 있어요.
+        translated: I'm debating whether to start a new hobby or not.
+        audio_url: https://r2.kimchi-reader.app/grammar/새로운_취미를_시작할까_말까_고민하고_있어요__2024-12-18.mp3
+      - type: simple
+        sentence: 친구에게 전화할<f>까 말까</f> 망설이고 있어요.
+        translated: I'm hesitating about whether to call my friend or not.
+        audio_url: https://r2.kimchi-reader.app/grammar/친구에게_전화할까_말까_망설이고_있어요__2024-12-18.mp3
+metadata:
+  type: composite
+details: |-

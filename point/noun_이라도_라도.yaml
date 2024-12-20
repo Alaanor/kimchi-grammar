@@ -8,9 +8,11 @@ definitions:
       - sentence: 과자<f>라도</f> 먹을래요?
         type: simple
         translated: Do you want some snack <f>at least</f>?
+        audio_url: https://r2.kimchi-reader.app/grammar/과자라도_먹을래요__2024-12-19.mp3
       - sentence: 배가 고파서 라면<f>이라도</f> 먹어야 될 거예요.
         type: simple
         translated: I'm so hungry, I should <f>at least</f> eat ramen.
+        audio_url: https://r2.kimchi-reader.app/grammar/배가_고파서_라면이라도_먹어야_될_거예요__2024-12-19.mp3
 metadata:
   type: noun
 details: |-

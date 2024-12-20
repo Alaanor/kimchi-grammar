@@ -1,0 +1,50 @@
+name: 으나
+definitions:
+  - slug: although-but
+    name: Although But
+    english_alternatives: although, though, but, even though
+    meaning: Expressing contrast or an unexpected outcome.
+    examples:
+      - type: simple
+        sentence: 이 음식은 건강에 좋<f>으나</f> 맛이 조금 밍밍해요.
+        translated: This food is healthy, but it's a bit bland.
+        audio_url: https://r2.kimchi-reader.app/grammar/이_음식은_건강에_좋으나_맛이_조금_밍밍해요__2024-12-19.mp3
+      - type: simple
+        sentence: 새로운 게임은 흥미롭<f>으나</f> 버그가 많아서 플레이하기 어렵네요.
+        translated: The new game is interesting, but it has so many bugs that it’s hard to play.
+        audio_url: https://r2.kimchi-reader.app/grammar/새로운_게임은_흥미롭으나_버그가_많아서_플레이하기_어렵네요__2024-12-19.mp3
+      - type: simple
+        sentence: 이 옷은 세련되<f>나</f> 가격이 너무 비싸요.
+        translated: This outfit is stylish, but it’s too expensive.
+        audio_url: https://r2.kimchi-reader.app/grammar/이_옷은_세련되나_가격이_너무_비싸요__2024-12-19.mp3
+      - type: simple
+        sentence: 그 박사님은 매우 뛰어나시<f>나</f> 가끔 기본적인 예의를 잊어요.
+        translated: The doctor is a genius, but sometimes forgets basic manners.
+        audio_url: https://r2.kimchi-reader.app/grammar/그_박사님은_매우_뛰어나시나_가끔_기본적인_예의를_잊어요__2024-12-19.mp3
+      - type: simple
+        sentence: 코드를 간결하게 짰<f>으나</f> 여전히 에러가 발생해요.
+        translated: I wrote the code concisely, but errors still occur.
+        audio_url: https://r2.kimchi-reader.app/grammar/코드를_간결하게_짰으나_여전히_에러가_발생해요__2024-12-19.mp3
+      - type: simple
+        sentence: 숙제를 열심히 했<f>으나</f> 선생님께 칭찬받지 못했어요.
+        translated: I worked hard on my homework, but I didn’t receive any praise from the teacher.
+        audio_url: https://r2.kimchi-reader.app/grammar/숙제를_열심히_했으나_선생님께_칭찬받지_못했어요__2024-12-19.mp3
+      - type: simple
+        sentence: 전시된 작품은 다양하<f>나</f> 생각보다 관람객이 적었어요.
+        translated: There were a variety of works on display, but there were fewer visitors than I expected.
+        audio_url: https://r2.kimchi-reader.app/grammar/전시된_작품은_다양하나_생각보다_관람객이_적었어요__2024-12-19.mp3
+      - type: simple
+        sentence: 매일 운동하<f>나</f> 체중이 줄지 않네요.
+        translated: I exercise every day, but my weight isn’t going down.
+        audio_url: https://r2.kimchi-reader.app/grammar/매일_운동하나_체중이_줄지_않네요__2024-12-19.mp3
+      - type: simple
+        sentence: 이 김치는 전통적이<f>나</f> 너무 매워서 먹기 힘들어요.
+        translated: This kimchi is traditional, but it’s too spicy to eat.
+        audio_url: https://r2.kimchi-reader.app/grammar/이_김치는_전통적이나_너무_매워서_먹기_힘들어요__2024-12-19.mp3
+      - type: simple
+        sentence: 그 정치인은 유명하<f>나</f> 실질적인 변화를 이끌지 못해요.
+        translated: The politician is famous, but fails to bring about real change.
+        audio_url: https://r2.kimchi-reader.app/grammar/그_정치인은_유명하나_실질적인_변화를_이끌지_못해요__2024-12-19.mp3
+metadata:
+  type: verb
+details: |-

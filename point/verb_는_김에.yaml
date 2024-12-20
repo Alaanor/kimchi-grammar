@@ -1,0 +1,50 @@
+name: 는 김에
+definitions:
+  - slug: while-at-it
+    name: While At It
+    english_alternatives: while at it, since you're already doing it, on the occasion
+    meaning: Expresses doing another action while doing something else, taking advantage of the situation.
+    examples:
+      - type: simple
+        sentence: 시장에 가<f>는 김에</f> 새로운 옷을 구경했어요.
+        translated: Since I was going to the market anyway, I also browsed some new clothes.
+        audio_url:
+      - type: simple
+        sentence: 모델 촬영을 준비하<f>는 김에</f> 메이크업도 연습했어요.
+        translated: While preparing for the modeling shoot, I also practiced my makeup.
+        audio_url:
+      - type: simple
+        sentence: 서울에 오<f>는 김에</f> 전시회에 들렀어요.
+        translated: Since I came to Seoul anyway, I stopped by an exhibition.
+        audio_url:
+      - type: simple
+        sentence: 청소하<f>는 김에</f> 오래된 책도 정리했어요.
+        translated: While I was cleaning, I also sorted out some old books.
+        audio_url:
+      - type: simple
+        sentence: 학교에 가<f>는 김에</f> 도서관에서 책을 빌렸어요.
+        translated: Since I was going to school anyway, I borrowed some books from the library.
+        audio_url:
+      - type: simple
+        sentence: 해변에 가<f>는 김에</f> 사진을 많이 찍었어요.
+        translated: Since I went to the beach anyway, I took a lot of photos.
+        audio_url:
+      - type: simple
+        sentence: 자동차를 닦<f>는 김에</f> 내부 청소도 했어요.
+        translated: Since I was washing the car anyway, I also cleaned the interior.
+        audio_url:
+      - type: simple
+        sentence: 시험 공부하<f>는 김에</f> 노트도 정리했어요.
+        translated: Since I was studying for the exam anyway, I also organized my notes.
+        audio_url:
+      - type: simple
+        sentence: 게임하<f>는 김에</f> 새로운 캐릭터를 만들어 봤어요.
+        translated: Since I was already playing games, I tried creating a new character.
+        audio_url:
+      - type: simple
+        sentence: 여행 준비하<f>는 김에</f> 비행기 표도 확인했어요.
+        translated: Since I was preparing for the trip anyway, I also checked the flight tickets.
+        audio_url:
+metadata:
+  type: composite
+details: |-

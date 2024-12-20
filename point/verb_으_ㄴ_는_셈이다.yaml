@@ -34,11 +34,11 @@ definitions:
         translated: What we saw at the museum was practically experiencing history.
         audio_url:
       - type: simple
-        sentence: 이 과제는 거의 다 <f>한 셈일 거예요</f>.
+        sentence: 이 과제는 거의 다 <f>한 셈일</f> 거예요.
         translated: This assignment is practically done.
         audio_url:
       - type: simple
-        sentence: 이번 시험 결과를 보면 다음 학기에 합격<f>한 셈일지도 몰라요</f>.
+        sentence: 이번 시험 결과를 보면 다음 학기에 합격<f>한 셈일지도</f> 몰라요.
         translated: Judging by this test result, it might be as though I passed for next semester.
         audio_url:
   - slug: calculated-as
@@ -63,5 +63,5 @@ definitions:
         translated: If you eat out five times a week, it's practically as though you eat out every day.
         audio_url:
 metadata:
-  type: verb
+  type: composite
 details: |-

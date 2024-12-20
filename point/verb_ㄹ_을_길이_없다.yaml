@@ -1,0 +1,30 @@
+name: ㄹ/을 길이 없다
+definitions:
+  - slug: no-way-of
+    name: No Way Of
+    english_alternatives: no way to, no way of doing
+    meaning: There is no possible way or method to do something
+    examples:
+      - type: simple
+        sentence: 그 사실을 확인<f>할 길이 없다</f>.
+        translated: There is no way of verifying that fact.
+        audio_url:
+      - type: simple
+        sentence: 죽은 그 사람이 누구인지 <f>알 길이 없어요</f>.
+        translated: There is no way of knowing who that dead person is.
+        audio_url:
+      - type: simple
+        sentence: 이 문제를 해결<f>할 길이 없어요</f>.
+        translated: There is no way to solve this problem.
+        audio_url:
+      - type: simple
+        sentence: 진실을 밝<f>힐 길이 없다</f>.
+        translated: There is no way to uncover the truth.
+        audio_url:
+      - type: simple
+        sentence: 우리가 언제 그 일을 끝낼지 <f>알 길이 없어요</f>.
+        translated: There is no way of knowing when we will finish that work.
+        audio_url:
+metadata:
+  type: composite
+details: |-

@@ -1,5 +1,5 @@
 points:
-  - grammar_id: verb_아있다_어있다_해있다
+  - grammar_id: 아어_있다
     definition_slug: continuing-state
     details: |-
       Expresses the continuing state of a completed action.

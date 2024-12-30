@@ -1,0 +1,23 @@
+name: 게 하다
+definitions:
+  - slug: To-influence-someone
+    name: To influence someone
+    english_alternatives: made, caused, influenced, let
+    meaning: Used to express that the speaker caused, influenced or let someone do something
+    examples:
+      - sentence: 선생님은 학생들이 열심히 공부하<f>게 했어요.</f>
+        type: simple
+        translated: The teacher made the students study hard.
+        audio_url: 
+      - sentence: 부모님이 제가 더 건강하게 살<f>게 하셨어요.</f>
+        type: simple
+        translated: My parents made me live more healthily.
+        audio_url:
+        - sentence: 저는 아이가  방을 청소하<f>게 했어요</f>
+        type: simple
+        translated: I made my child clean his room.
+        audio_url:   
+metadata:
+  type: composite
+details: |-
+

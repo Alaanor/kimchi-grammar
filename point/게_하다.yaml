@@ -13,7 +13,7 @@ definitions:
         type: simple
         translated: My parents made me live more healthily.
         audio_url:
-        - sentence: 저는 아이가  방을 청소하<f>게 했어요</f>
+      - sentence: 저는 아이가  방을 청소하<f>게 했어요.</f>
         type: simple
         translated: I made my child clean his room.
         audio_url:   

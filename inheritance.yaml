@@ -23,3 +23,5 @@ inheritance:
     children: ["verb_는다는_ㄴ다는_다는_라는"]
   - parent: "다가_보니까"
     children: ["verb_다가", "verb_으니까_니까"]
+  - parent: "(으)려고_하다"
+    children: ["verb_으려고_려고"]

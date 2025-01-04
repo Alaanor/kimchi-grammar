@@ -8,7 +8,7 @@ definitions:
     examples:
       - sentence: 드라마를 보<f>려고</f> 한국어를 배우고 있어요.
         type: simple
-        translated: I'm learning korean in order to watch dramas.
+        translated: I'm learning Korean in order to watch dramas.
         audio_url: 
       - sentence: 할아버지는 낚싯대를 거두<f>려고</f> 일어났다.
         type: simple

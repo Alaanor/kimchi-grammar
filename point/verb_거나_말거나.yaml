@@ -1,0 +1,26 @@
+name: 거나 말거나
+definitions:
+  - slug: whether-or-not
+    name: Whether Or Not
+    english_alternatives: whether or not, regardless of
+    meaning: Conveys a strong decision that something will happen regardless of the situation.
+    examples:
+      - type: simple
+        sentence: 그녀가 이번 연구를 끝내<f>거나 말거나</f> 이미 많은 여성들한테 롤 모델이 되고 있어요.
+        translated: Whether she finishes the research or not, she’s already a role model for many women.
+        audio_url:
+      - type: simple
+        sentence: 새 영화를 보러 가<f>건 말건</f> 책 읽는 게 아이디어 얻는 데 더 좋대.
+        translated: Whether she goes to watch the new movie or not, she says reading is better for getting ideas.
+        audio_url:
+      - type: simple
+        sentence: 새로운 취미를 찾<f>건 말건</f> 일단 지금까지 하던 걸 계속할 거예요.
+        translated: Whether she finds a new hobby or not, she’s going to keep doing what she’s been doing.
+        audio_url:
+      - type: simple
+        sentence: 다이어트를 하<f>건 말건</f> 어쨌든 살은 이미 빠졌어요.
+        translated: Whether she goes on a diet or not, she’s already lost weight anyway.
+        audio_url:
+metadata:
+  type: verb
+details: |-

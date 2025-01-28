@@ -43,3 +43,6 @@ relation:
   - concern:
       - { id: "verb_는답시고", slug: "attempting-but-failing" }
       - { id: "noun_이랍시고", slug: "pretending-to-be" }
+  - concern:
+      - { id: "verb_건_말건", slug: "whether-or-not" }
+      - { id: "verb_거나_말거나", slug: "whether-or-not" }

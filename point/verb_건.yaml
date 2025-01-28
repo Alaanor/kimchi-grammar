@@ -1,7 +1,7 @@
 name: 건
 definitions:
-  - slug: casual-or
-    name: Casual Or
+  - slug: casual-choice
+    name: Casual Choice
     english_alternatives: or, whether
     meaning: Used in everyday conversations to offer choices in a casual way.
     examples:

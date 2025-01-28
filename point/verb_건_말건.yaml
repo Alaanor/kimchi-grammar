@@ -1,0 +1,30 @@
+name: 건 말건  
+definitions:  
+  - slug: whether-or-not  
+    name: Whether Or Not 
+    english_alternatives: whether or not, regardless of  
+    meaning: Conveys a strong decision that something will happen regardless of the situation in a casual way.
+    examples:  
+      - type: simple  
+        sentence: 비가 오<f>건 말건</f> 산책은 할 거예요.  
+        translated: Whether it rains or not, I’ll go out for a walk.  
+        audio_url:
+      - type: simple  
+        sentence: 사람들이 이해하<f>건 말건</f> 제 생각은 바꾸지 않을 거예요.  
+        translated: Whether people understand or not, I won’t change my opinion.  
+        audio_url:
+      - type: simple  
+        sentence: 시험 결과가 좋<f>건 말건</f> 최선을 다한 걸로 만족해요.  
+        translated: Whether the exam results are good or not, I’m satisfied I did my best.  
+        audio_url:
+      - type: simple  
+        sentence: 친구가 오<f>건 말건</f> 파티 음식은 준비해 놓을게요.
+        translated: Whether my friend comes or not, I’ll prepare the party food.
+        audio_url:  
+      - type: simple  
+        sentence: 어머니가 허락하<f>건 말건</f> 여행 계획은 진행할 거예요.  
+        translated: Whether my mom approves or not, I’ll proceed with the travel plans.  
+        audio_url:
+metadata:  
+  type: verb  
+details: |-  

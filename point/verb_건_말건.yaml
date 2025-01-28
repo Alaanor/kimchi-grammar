@@ -20,11 +20,11 @@ definitions:
       - type: simple  
         sentence: 친구가 오<f>건 말건</f> 파티 음식은 준비해 놓을게요.
         translated: Whether my friend comes or not, I’ll prepare the party food.
-        audio_url:  
+        audio_url:
       - type: simple  
         sentence: 어머니가 허락하<f>건 말건</f> 여행 계획은 진행할 거예요.  
         translated: Whether my mom approves or not, I’ll proceed with the travel plans.  
         audio_url:
-metadata:  
+metadata:
   type: verb  
 details: |-  

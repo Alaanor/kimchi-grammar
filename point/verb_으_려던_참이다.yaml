@@ -1,0 +1,34 @@
+name: (으)려던 참이다
+definitions:
+  - slug: about-to-do-something
+    name: About to Do Something
+    english_alternatives: Was about to, was just going to
+    meaning: Expresses that the speaker was on the verge of doing something; often just before another event occurred.
+    examples:
+      - type: simple
+        sentence: 나는 막 드라큘라를 <f>읽으려던 참이었는데</f> 대신 문법 페이지를 만들게 됐어요.
+        translated: I was about to read Dracula, but I made a grammar page instead
+        audio_url:
+      - type: simple
+        sentence: 막 문을 열<f>려던 참이었는데</f> 초인종이 울렸어요.
+        translated: I was just about to open the door when the doorbell rang.
+        audio_url:
+      - type: simple
+        sentence: 나는 막 책을 읽<f>으려던 참이었는데</f> 갑자기 전원이 꺼졌어요.
+        translated: I was just about to read a book when suddenly the power went out.
+        audio_url:
+      - type: simple
+        sentence: 친구가 도착하자마자 선물을 주<f>려던 참이었어요</f>.
+        translated: I was just about to give my friend a gift as soon as they arrived.
+        audio_url:
+      - type: simple
+        sentence: 식사를 시작<f>하려던 참이었는데</f> 전화가 왔어요.
+        translated: I was just about to start eating when the phone rang.
+        audio_url:
+      - type: simple
+        sentence: 회의를 시작<f>하려던 참이었는데</f> 중요한 메시지를 받았어요.
+        translated: I was just about to begin the meeting when I received an important message.
+        audio_url:
+metadata:
+  type: verb
+details: |-

@@ -7,7 +7,7 @@ definitions:
     examples:
       - type: simple
         sentence: 나는 막 드라큘라를 <f>읽으려던 참이었는데</f> 대신 문법 페이지를 만들게 됐어요.
-        translated: I was about to read Dracula, but I made a grammar page instead
+        translated: I was about to read Dracula, but I made a grammar page instead.
         audio_url:
       - type: simple
         sentence: 막 문을 열<f>려던 참이었는데</f> 초인종이 울렸어요.

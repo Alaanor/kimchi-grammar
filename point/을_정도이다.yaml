@@ -1,0 +1,26 @@
+name: 을 정도이다
+definitions:
+  - slug: to-the-extent-that
+    name: To the Extent That
+    english_alternatives: To the extent that, so ... that, to the point that
+    meaning: Expresses the degree or extent of a state or action, showing that something is so [adjective/verb] that a certain result follows.
+    examples:
+      - type: simple
+        sentence: 그는 너무 피곤해서 쓰러<f>질 정도예요</f>.
+        translated: He is so tired that he could collapse.
+        audio_url:
+      - type: simple
+        sentence: 그 영화는 너무 감동적이어서 눈물이 계속 흘렀<f>을 정도였어요</f>.
+        translated: The movie was so moving that tears kept flowing.
+        audio_url:
+      - type: simple
+        sentence: 이 음식은 너무 맛있어서 매일 먹고 싶<f>을 정도예요</f>.
+        translated: This food is so delicious that I want to eat it every day.
+        audio_url:
+      - type: simple
+        sentence: 밖이 너무 추워서 아무것도 할 수 없<f>을 정도였어요</f>.
+        translated: It was so cold outside that I couldn't do anything.
+        audio_url:
+metadata:
+  type: verb
+details: |-

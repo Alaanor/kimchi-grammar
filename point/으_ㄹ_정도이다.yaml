@@ -1,4 +1,4 @@
-name: 을 정도이다
+name: (으)ㄹ 정도이다
 definitions:
   - slug: to-the-extent-that
     name: To the Extent That
@@ -24,3 +24,6 @@ definitions:
 metadata:
   type: verb
 details: |-
+  # Alternate form {#alternate-form}
+
+  It can also be used in the form of: :grammar[을_정도로].

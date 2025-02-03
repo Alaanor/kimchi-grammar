@@ -45,4 +45,4 @@ relation:
       - { id: "noun_이랍시고", slug: "pretending-to-be" }
   - concern:
       - { id: "을_정도로", slug: "extent-of-an-action }
-      - { id: "verb_을_정도이다", slug: "to-the-extent-that }
+      - { id: "verb_으_ㄹ_정도이다", slug: "to-the-extent-that }

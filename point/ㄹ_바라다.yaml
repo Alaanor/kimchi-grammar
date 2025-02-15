@@ -1,4 +1,4 @@
-name: (으)ㄹ 바라다
+name: 을/를 바라다
 definitions:
   - slug: hope
     name: Hope
@@ -22,7 +22,10 @@ metadata:
 details: |-
   # Usage with verbs {#usage-with-verbs}
 
-  When used with action or descriptive verbs it's often used in the form <f>-기 바라다</f>.
+  The structure starts with a :grammar[noun_을_를]{object} which can sometimes be
+  omitted if implied. This is why you may see the phrase <f>"-기(를) 바라다"</f> in
+  grammar books. Since :grammar[ㄹ_바라다]{hope} requires a noun as its object,
+  verbs must first be nominalized using :grammar[verb_기]{verb-to-noun}.
 
   # Pronunciation {#pronunciation}
 

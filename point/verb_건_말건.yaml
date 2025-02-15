@@ -26,5 +26,5 @@ definitions:
         translated: Whether my mom approves or not, I’ll proceed with the travel plans.
         audio_url:
 metadata:
-  type: verb
+  type: composite
 details: |-

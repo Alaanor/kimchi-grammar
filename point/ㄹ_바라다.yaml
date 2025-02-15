@@ -8,15 +8,15 @@ definitions:
       - sentence: 여러분의 성공을 기원하며 행복한 미래를 <f>가지시길 바랍니다</f>.
         type: simple
         translated: I hope for your success and wish you a happy future.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/여러분의_성공을_기원하며_행복한_미래를_가지시길_바랍니다__2025-02-15.mp3
       - sentence: 모두가 안전하게 <f>돌아오시길 바랍니다</f>.
         type: simple
         translated: I hope everyone returns safely.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/모두가_안전하게_돌아오시길_바랍니다__2025-02-15.mp3
       - sentence: 모두의 <f>행복을 바랍니다</f>.
         type: simple
         translated: I hope for everyone's happiness.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/모두의_행복을_바랍니다__2025-02-15.mp3
 metadata:
   type: composite
 details: |-
@@ -29,4 +29,5 @@ details: |-
 
   # Pronunciation {#pronunciation}
 
-  Often pronounced as 바래요 instead of 바라요. While the latter is the correct form you might see 바래요 used more often in speech and written Korean.
+  Often pronounced as 바래요 instead of 바라요. While the latter is the correct
+  form you might see 바래요 used more often in speech and written Korean.

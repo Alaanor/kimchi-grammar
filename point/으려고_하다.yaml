@@ -3,8 +3,7 @@ definitions:
   - slug: intending-to
     name: Intending to
     english_alternatives: going to, planning to
-    meaning: Express an intention, desire or purpose to do something.
-      The speaker expresses one's intention to do the act mentioned in the preceding statement.
+    meaning: Express an intention, desire or purpose to do something. The speaker expresses one's intention to do the act mentioned in the preceding statement.
     examples:
       - sentence: 염색을 하<f>려고 하는데</f> 요즘 무슨 색이 유행이에요?
         type: simple
@@ -13,11 +12,11 @@ definitions:
       - sentence: 날씨가 좋아서 공원에 가<f>려고 해요</f>.
         type: simple
         translated: I'm going to the park because the weather is nice.
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/날씨가_좋아서_공원에_가려고_해요__2025-02-15.mp3
       - sentence: 일월에 운동을 시작하<f>려고 하는</f> 사람들이 많아요.
         type: simple
         translated: There are many people who intend to start exercising in January.
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/일월에_운동을_시작하려고_하는_사람들이_많아요__2025-02-15.mp3
 metadata:
   type: composite
 details: |-

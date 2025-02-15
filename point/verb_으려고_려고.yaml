@@ -3,13 +3,12 @@ definitions:
   - slug: intention
     name: Intention
     english_alternatives: in order to, so that
-    meaning: Express an intention, desire or purpose to do something.
-      The speaker will do what is stated in the second clause for the purpose of the first clause.
+    meaning: Express an intention, desire or purpose to do something. The speaker will do what is stated in the second clause for the purpose of the first clause.
     examples:
       - sentence: 드라마를 보<f>려고</f> 한국어를 배우고 있어요.
         type: simple
         translated: I'm learning Korean in order to watch dramas.
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/드라마를_보려고_한국어를_배우고_있어요__2025-02-15.mp3
       - sentence: 할아버지는 낚싯대를 거두<f>려고</f> 일어났다.
         type: simple
         translated: Grandfather got up to pick up the fishing rod.
@@ -20,4 +19,4 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/누나가_유학을_가려고_학교를_알아보는_중이에요__2024-04-13.mp3
 metadata:
   type: verb
-details: |-
+details: ""

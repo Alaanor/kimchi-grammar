@@ -22,5 +22,5 @@ definitions:
         translated: Whether she goes on a diet or not, she’s already lost weight anyway.
         audio_url:
 metadata:
-  type: verb
+  type: composite
 details: |-

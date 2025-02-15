@@ -23,10 +23,10 @@ metadata:
 details: |-
   # Usage {#usage}
 
-  Unlike :grammar[verb_으려고_려고], (으)려고 하다 completes the sentence clause.
+  Unlike :grammar[verb_으려고_려고], :grammar[으려고_하다] completes the sentence clause.
 
   # Shortened form {#shortened}
 
-  When (으)려고 하다 modifies a noun and becomes (으)려고 하는, it is often shortened to <f>려는</f>.
+  When :grammar[으려고_하다] modifies a noun and becomes <f>(으)려고 하는</f>, it is often shortened to <f>려는</f>.
 
   ::example[한국어를 배우<f>려는</f> 학생들이 많아요. | There are many students that intend to learn Korean. |

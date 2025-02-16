@@ -20,3 +20,17 @@ definitions:
 metadata:
   type: composite
 details: |-
+  # Shortened form {#shortened}
+
+  With <f>하다</f> verbs, <f>하지 말다</f> can be shortened to <f>치 말다</f>. Specifically after voiced support consononts such as <f>ㄴ</f>; <f>ㅇ</f>; <f>ㅁ</f>; <f>ㄹ</f>.
+
+  |Type|Full form|Shortened form|
+  |---|---|---|
+  |1| <f>피곤하지 말다</f> | <f>피곤치 말다</f> |
+  |1| <f>확실하지 말다</f> | <f>확실치 말다</f> |
+  |1| <f>금하지 말다</f> | <f>금치 말다</f> |
+  |2| <f>공부하지 말다</f> | -- |
+  |2| <f>익숙하지 말다</f> | -- |
+  |2| <f>섭섭하지 말다</f> | -- |
+
+  This shortened form also applies to other negated grammar such as :grammar[지_않다] and :grammar[지_못하다].

@@ -50,3 +50,18 @@ details: |-
 
   ::example[날씨가 <f>춥지만 않아요</f>. | The weather isn't cold, but it's not warm either. | https://r2.kimchi-reader.app/grammar/날씨가_춥지만_않아요__2024-07-11.mp3]
   It's possible to add the :grammar[noun_은_는] to -<f>지만 않다</f> to form -<f>지만은 않다</f>.
+
+  # Shortened form {#shortened}
+
+  With <f>하다</f> verbs, <f>하지 않다</f> can be shortened to <f>치 않다</f>. Specifically after voiced support consononts such as <f>ㄴ</f>; <f>ㅇ</f>; <f>ㅁ</f>; <f>ㄹ</f>.
+
+  |Type|Full form|Shortened form|
+  |---|---|---|
+  |1| <f>피곤하지 않다</f> | <f>피곤치 않다</f> |
+  |1| <f>확실하지 않다</f> | <f>확실치 않다</f> |
+  |1| <f>금하지 않다</f> | <f>금치 않다</f> |
+  |2| <f>공부하지 않다</f> | -- |
+  |2| <f>익숙하지 않다</f> | -- |
+  |2| <f>섭섭하지 않다</f> | -- |
+
+  This shortened form also applies to other negated grammar such as :grammar[지_못하다] and :grammar[지_말다].

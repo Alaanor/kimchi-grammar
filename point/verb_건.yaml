@@ -6,7 +6,7 @@ definitions:
     meaning: Used in everyday conversations to offer choices in a casual way.
     examples:
       - type: simple
-        sentence: 커피 마실래? 차<f>건</f> 다른 음료 마시고 싶어?
+        sentence: 커피 마실래? 커피<f>건</f> 차<f>건</f> 다른 음료 마시고 싶은 거 있어?
         translated: Do you want a coffee? Or would you like tea or something else?
         audio_url:
       - type: simple

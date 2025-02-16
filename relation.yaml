@@ -44,5 +44,8 @@ relation:
       - { id: "verb_는답시고", slug: "attempting-but-failing" }
       - { id: "noun_이랍시고", slug: "pretending-to-be" }
   - concern:
+      - { id: "건_말건", slug: "whether-or-not" }
+      - { id: "거나_말거나", slug: "whether-or-not" }
+  - concern:
       - { id: "verb_건", slug: "casual-choice" }
       - { id: "verb_거나", slug: "choice" }

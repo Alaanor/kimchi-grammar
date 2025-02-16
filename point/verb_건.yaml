@@ -8,23 +8,23 @@ definitions:
       - type: simple
         sentence: 커피 마실래? 커피<f>건</f> 차<f>건</f> 다른 음료 마시고 싶은 거 있어?
         translated: Do you want a coffee? Or would you like tea or something else?
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/커피_마실래_커피건_차건_다른_음료_마시고_싶은_거_있어__2025-02-16.mp3
       - type: simple
         sentence: 주말에 영화 보러 가<f>건</f> 집에서 쉴 거야.
         translated: This weekend, I'll either go see a movie or just rest at home.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/주말에_영화_보러_가건_집에서_쉴_거야__2025-02-16.mp3
       - type: simple
         sentence: 매운 음식 좋아해? 짜<f>건</f> 단 건 어때?
         translated: Do you like spicy food? How about salty or sweet?
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/매운_음식_좋아해_짜건_단_건_어때__2025-02-16.mp3
       - type: simple
         sentence: 직접 만나<f>건</f> 전화로 얘기하건 편한 방법으로 하자.
         translated: Whether you're meeting in person or talking on the phone, do it in a way that's comfortable for you.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/직접_만나건_전화로_얘기하건_편한_방법으로_하자__2025-02-16.mp3
       - type: simple
         sentence: 친구들을 만나<f>건</f> 혼자 있건 오늘은 기분 좋게 지낼 거야.
         translated: Whether I'm with friends or alone, I'll be in a good mood today.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/친구들을_만나건_혼자_있건_오늘은_기분_좋게_지낼_거야__2025-02-16.mp3
 metadata:
   type: verb
 details: |-

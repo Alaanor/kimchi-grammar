@@ -8,19 +8,19 @@ definitions:
       - type: simple
         sentence: 그녀가 이번 연구를 끝내<f>거나 말거나</f> 이미 많은 여성들한테 롤 모델이 되고 있어요.
         translated: Whether she finishes the research or not, she’s already a role model for many women.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/그녀가_이번_연구를_끝내거나_말거나_이미_많은_여성들한테_롤_모델이_되고_있어요__2025-02-16.mp3
       - type: simple
         sentence: 새로운 영화를 보러 가<f>거나 말거나</f> 책 읽는 게 아이디어 얻는 데 더 좋대요
         translated: Whether she goes to watch the new movie or not, she says reading is better for getting ideas.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/새로운_영화를_보러_가거나_말거나_책_읽는_게_아이디어_얻는_데_더_좋대요_2025-02-16.mp3
       - type: simple
         sentence: 새로운 취미를 찾<f>거나 말거나</f> 일단 지금까지 하던 걸 계속할 거예요.
         translated: Whether she finds a new hobby or not, she’s going to keep doing what she’s been doing.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/새로운_취미를_찾거나_말거나_일단_지금까지_하던_걸_계속할_거예요__2025-02-16.mp3
       - type: simple
         sentence: 다이어트를 하<f>거나 말거나</f> 어쨌든 살은 이미 빠졌어요.
         translated: Whether she goes on a diet or not, she’s already lost weight anyway.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/다이어트를_하거나_말거나_어쨌든_살은_이미_빠졌어요__2025-02-16.mp3
 metadata:
   type: composite
 details: |-

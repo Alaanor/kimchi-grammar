@@ -8,23 +8,23 @@ definitions:
       - type: simple
         sentence: 비가 오<f>건 말건</f> 산책은 할 거예요.
         translated: Whether it rains or not, I’ll go out for a walk.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/비가_오건_말건_산책은_할_거예요__2025-02-16.mp3
       - type: simple
         sentence: 사람들이 이해하<f>건 말건</f> 제 생각은 바꾸지 않을 거예요.
         translated: Whether people understand or not, I won’t change my opinion.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/사람들이_이해하건_말건_제_생각은_바꾸지_않을_거예요__2025-02-16.mp3
       - type: simple
         sentence: 시험 결과가 좋<f>건 말건</f> 최선을 다한 걸로 만족해요.
         translated: Whether the exam results are good or not, I’m satisfied I did my best.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/시험_결과가_좋건_말건_최선을_다한_걸로_만족해요__2025-02-16.mp3
       - type: simple
         sentence: 친구가 오<f>건 말건</f> 파티 음식은 준비해 놓을게요.
         translated: Whether my friend comes or not, I’ll prepare the party food.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/친구가_오건_말건_파티_음식은_준비해_놓을게요__2025-02-16.mp3
       - type: simple
         sentence: 어머니가 허락하<f>건 말건</f> 여행 계획은 진행할 거예요.
         translated: Whether my mom approves or not, I’ll proceed with the travel plans.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/어머니가_허락하건_말건_여행_계획은_진행할_거예요__2025-02-16.mp3
 metadata:
   type: composite
 details: |-

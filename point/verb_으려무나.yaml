@@ -8,31 +8,31 @@ definitions:
       - type: simple
         sentence: 밥 먹<f>으렴</f>.
         translated: Please eat.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/밥_먹으렴__2025-02-16.mp3
       - type: simple
         sentence: 일찍 자<f>렴</f>.
         translated: Go to bed early.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/일찍_자렴__2025-02-16.mp3
       - type: simple
         sentence: 조금만 더 기다리<f>렴</f>.
         translated: Please wait a little longer.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/조금만_더_기다리렴__2025-02-16.mp3
       - type: simple
         sentence: 천천히 걸<f>으렴</f> 급할 필요 없어.
         translated: Walk slowly; there's no need to rush.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/천천히_걸으렴_급할_필요_없어__2025-02-16.mp3
       - type: simple
         sentence: 운동하<f>려무나</f> 몸이 건강해질 거야.
         translated: Let's exercise; you'll become healthier.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/운동하려무나_몸이_건강해질_거야__2025-02-16.mp3
       - type: simple
         sentence: 빨리 준비하<f>려무나</f> 시간이 없어.
         translated: Hurry up and get ready, there's no time.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/빨리_준비하려무나_시간이_없어__2025-02-16.mp3
       - type: simple
         sentence: 조용히 앉<f>으려무나</f> 수업이 곧 시작될 거야.
         translated: Sit quietly, the class will begin soon.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/조용히_앉으려무나_수업이_곧_시작될_거야__2025-02-16.mp3
 metadata:
   type: verb
 details: |-

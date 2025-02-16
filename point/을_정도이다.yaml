@@ -8,22 +8,22 @@ definitions:
       - type: simple
         sentence: 그는 너무 피곤해서 쓰러<f>질 정도예요</f>.
         translated: He is so tired that he could collapse.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/그는_너무_피곤해서_쓰러질_정도예요__2025-02-16.mp3
       - type: simple
         sentence: 그 영화는 너무 감동적이어서 눈물이 계속 흘렀<f>을 정도였어요</f>.
         translated: The movie was so moving that tears kept flowing.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/그_영화는_너무_감동적이어서_눈물이_계속_흘렀을_정도였어요__2025-02-16.mp3
       - type: simple
         sentence: 이 음식은 너무 맛있어서 매일 먹고 싶<f>을 정도예요</f>.
         translated: This food is so delicious that I want to eat it every day.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/이_음식은_너무_맛있어서_매일_먹고_싶을_정도예요__2025-02-16.mp3
       - type: simple
         sentence: 밖이 너무 추워서 아무것도 할 수 없<f>을 정도였어요</f>.
         translated: It was so cold outside that I couldn't do anything.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/밖이_너무_추워서_아무것도_할_수_없을_정도였어요__2025-02-16.mp3
 metadata:
   type: composite
 details: |-
   # Alternate form {#alternate-form}
 
-  It can also be used in the form of: :grammar[을_정도로].
+  It can also be used in the form of: :grammar[을_정도로].

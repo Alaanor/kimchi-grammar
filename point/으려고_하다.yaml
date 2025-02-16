@@ -1,0 +1,31 @@
+name: (으)려고 하다
+definitions:
+  - slug: intending-to
+    name: Intending to
+    english_alternatives: going to, planning to
+    meaning: Express an intention, desire or purpose to do something. The speaker expresses one's intention to do the act mentioned in the preceding statement.
+    examples:
+      - sentence: 염색을 하<f>려고 하는데</f> 요즘 무슨 색이 유행이에요?
+        type: simple
+        translated: I'm planning to dye my hair, what color is popular these days?
+        audio_url: https://r2.kimchi-reader.app/grammar/염색을_하려고_하는데_요즘_무슨_색이_유행이에요__2024-04-13.mp3
+      - sentence: 날씨가 좋아서 공원에 가<f>려고 해요</f>.
+        type: simple
+        translated: I'm going to the park because the weather is nice.
+        audio_url: https://r2.kimchi-reader.app/grammar/날씨가_좋아서_공원에_가려고_해요__2025-02-15.mp3
+      - sentence: 일월에 운동을 시작하<f>려고 하는</f> 사람들이 많아요.
+        type: simple
+        translated: There are many people who intend to start exercising in January.
+        audio_url: https://r2.kimchi-reader.app/grammar/일월에_운동을_시작하려고_하는_사람들이_많아요__2025-02-15.mp3
+metadata:
+  type: composite
+details: |-
+  # Usage {#usage}
+
+  Unlike :grammar[verb_으려고_려고], :grammar[으려고_하다] completes the sentence clause.
+
+  # Shortened form {#shortened}
+
+  When :grammar[으려고_하다] modifies a noun and becomes <f>(으)려고 하는</f>, it is often shortened to <f>려는</f>.
+
+  ::example[한국어를 배우<f>려는</f> 학생들이 많아요. | There are many students that intend to learn Korean. | https://r2.kimchi-reader.app/grammar/한국어를_배우려는_학생들이_많아요__2025-02-15.mp3]

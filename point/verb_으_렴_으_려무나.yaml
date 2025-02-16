@@ -1,0 +1,38 @@
+name: (으)렴 / (으)려무나
+definitions:
+  - slug: friendly-command
+    name: Friendly Command
+    english_alternatives: Please, go ahead and...
+    meaning: Used to give a soft command or suggestion among those who are younger.
+    examples:
+      - type: simple
+        sentence: 밥 먹<f>으렴</f>.
+        translated: Please eat.
+        audio_url:
+      - type: simple
+        sentence: 일찍 자<f>렴</f>.
+        translated: Go to bed early.
+        audio_url:
+      - type: simple
+        sentence: 조금만 더 기다리<f>렴</f>.
+        translated: Please wait a little longer.
+        audio_url:
+      - type: simple
+        sentence: 천천히 걸<f>으렴</f> 급할 필요 없어.
+        translated: Walk slowly; there's no need to rush.
+        audio_url:
+      - type: simple
+        sentence: 운동하<f>려무나</f> 몸이 건강해질 거야.
+        translated: Let's exercise; you'll become healthier.
+        audio_url:
+      - type: simple
+        sentence: 빨리 준비하<f>려무나</f> 시간이 없어.
+        translated: Hurry up and get ready, there's no time.
+        audio_url:
+      - type: simple
+        sentence: 조용히 앉<f>으려무나</f> 수업이 곧 시작될 거야.
+        translated: Sit quietly, the class will begin soon.
+        audio_url:
+metadata:
+  type: verb
+details: |-

@@ -1,0 +1,30 @@
+name: (스)ㅂ니다만
+definitions:
+  - slug: polite-contrast
+    name: Polite Contrast
+    english_alternatives: but, however, although (formal)
+    meaning: Politely present contrasting information after stating a fact.
+    examples:
+      - type: simple
+        sentence: 이 연구는 중요한 의미가 있<f>습니다만</f> 아직 한계점이 많이 존재합니다.
+        translated: This research has significant meaning, but there are still many limitations.
+        audio_url: https://r2.kimchi-reader.app/grammar/이_연구는_중요한_의미가_있습니다만_아직_한계점이_많이_존재합니다__2025-02-15.mp3
+      - type: simple
+        sentence: 정부 발표 내용은 분명<f>합니다만</f> 일부 시민단체에서 반발하고 있습니다.
+        translated: The government's announcement is clear, however some civic groups are protesting against it.
+        audio_url: https://r2.kimchi-reader.app/grammar/정부_발표_내용은_분명합니다만_일부_시민단체에서_반발하고_있습니다__2025-02-15.mp3
+      - type: simple
+        sentence: 지금까지 훌륭한 결과를 내었<f>습니다만</f> 앞으로 더 많은 데이터가 필요할 것 같습니다.
+        translated: We've achieved excellent results so far, but I believe we'll need more data moving forward.
+        audio_url: https://r2.kimchi-reader.app/grammar/지금까지_훌륭한_결과를_내었습니다만_앞으로_더_많은_데이터가_필요할_것_같습니다__2025-02-15.mp3
+      - type: simple
+        sentence: 작년 실적은 향상되었<f>습니다만</f> 여전히 예산 문제가 해결되지 않았습니다.
+        translated: Last year's performance improved, however the budget issue still remains unresolved.
+        audio_url: https://r2.kimchi-reader.app/grammar/작년_실적은_향상되었습니다만_여전히_예산_문제가_해결되지_않았습니다__2025-02-15.mp3
+      - type: simple
+        sentence: 교수님의 이론은 타당<f>합니다만</f> 실제 적용 사례를 더 살펴볼 필요가 있을 것 같습니다.
+        translated: Professor, your theory is valid, but I think we need to examine more real-world application cases.
+        audio_url: https://r2.kimchi-reader.app/grammar/교수님의_이론은_타당합니다만_실제_적용_사례를_더_살펴볼_필요가_있을_것_같습니다__2025-02-15.mp3
+metadata:
+  type: verb
+details: ""

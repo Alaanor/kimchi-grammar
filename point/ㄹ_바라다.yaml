@@ -1,0 +1,33 @@
+name: 을/를 바라다
+definitions:
+  - slug: hope
+    name: Hope
+    english_alternatives: to hope, to wish
+    meaning: Used to express the speaker's hope or wish for something to happen.
+    examples:
+      - sentence: 여러분의 성공을 기원하며 행복한 미래를 <f>가지시길 바랍니다</f>.
+        type: simple
+        translated: I hope for your success and wish you a happy future.
+        audio_url: https://r2.kimchi-reader.app/grammar/여러분의_성공을_기원하며_행복한_미래를_가지시길_바랍니다__2025-02-15.mp3
+      - sentence: 모두가 안전하게 <f>돌아오시길 바랍니다</f>.
+        type: simple
+        translated: I hope everyone returns safely.
+        audio_url: https://r2.kimchi-reader.app/grammar/모두가_안전하게_돌아오시길_바랍니다__2025-02-15.mp3
+      - sentence: 모두의 <f>행복을 바랍니다</f>.
+        type: simple
+        translated: I hope for everyone's happiness.
+        audio_url: https://r2.kimchi-reader.app/grammar/모두의_행복을_바랍니다__2025-02-15.mp3
+metadata:
+  type: composite
+details: |-
+  # Usage with verbs {#usage-with-verbs}
+
+  The structure starts with a :grammar[noun_을_를]{object} which can sometimes be
+  omitted if implied. This is why you may see the phrase <f>"-기(를) 바라다"</f> in
+  grammar books. Since :grammar[ㄹ_바라다]{hope} requires a noun as its object,
+  verbs must first be nominalized using :grammar[verb_기]{verb-to-noun}.
+
+  # Pronunciation {#pronunciation}
+
+  Often pronounced as 바래요 instead of 바라요. While the latter is the correct
+  form you might see 바래요 used more often in speech and written Korean.

@@ -46,3 +46,9 @@ relation:
   - concern:
       - { id: "을_정도로", slug: "extent-of-an-action }
       - { id: "을_정도이다", slug: "to-the-extent-that }
+  - concern:
+      - { id: "건_말건", slug: "whether-or-not" }
+      - { id: "거나_말거나", slug: "whether-or-not" }
+  - concern:
+      - { id: "verb_건", slug: "casual-choice" }
+      - { id: "verb_거나", slug: "choice" }

@@ -22,7 +22,7 @@ definitions:
         translated: It was so cold outside that I couldn't do anything.
         audio_url:
 metadata:
-  type: verb
+  type: composite
 details: |-
   # Alternate form {#alternate-form}
 

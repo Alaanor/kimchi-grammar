@@ -4,6 +4,7 @@ definitions:
     name: Recalling Experience
     english_alternatives: witnessed, realization, recall, indicating experience
     meaning: Express and convey in the present a fact directly experienced or witnessed in the past.
+    examples:
       - type: simple
         sentence: 그날은 다들 신이 나<f>더라</f>.
         translated: As I remember, everyone was excited that day.

@@ -52,3 +52,6 @@ relation:
   - concern:
       - { id: "verb_건", slug: "casual-choice" }
       - { id: "verb_거나", slug: "choice" }
+  - concern:
+      - { id: "아어_달다", slug: "request" }
+      - { id: "아어_달라고", slug: "quote-favor-request" }

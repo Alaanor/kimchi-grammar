@@ -25,3 +25,11 @@ inheritance:
     children: ["verb_다가", "verb_으니까_니까"]
   - parent: "으려고_하다"
     children: ["verb_으려고_려고"]
+  - parent: "verb_더라고"
+    children: ["verb_더", "verb_라고"]
+  - parent: "verb_더냐"
+    children: ["verb_더", "verb_냐"]
+  - parent: "verb_더니"
+    children: ["verb_더", "verb_으니_니"]
+  - parent: "verb_더라면"
+    children: ["verb_더", "verb_라고", "verb_면_으면"]

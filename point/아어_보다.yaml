@@ -14,7 +14,7 @@ definitions:
         translated: Shall I try reading it once?
         audio_url: https://r2.kimchi-reader.app/grammar/제가_한번_읽어볼까요__2024-03-20.mp3
 metadata:
-  type: verb
+  type: composite
 details: |-
   # Spacing {#spacing}
 

@@ -18,7 +18,7 @@ definitions:
         translated: I put the key in the drawer.
         audio_url: https://r2.kimchi-reader.app/grammar/열쇠를_서랍에_넣어놓았어__2024-03-21.mp3
 metadata:
-  type: verb
+  type: composite
 details: |-
   # Spacing {#spacing}
 

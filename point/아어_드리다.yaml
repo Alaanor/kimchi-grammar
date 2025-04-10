@@ -14,7 +14,7 @@ definitions:
         translated: Sir, if you like this product, I will wrap it as a new product for you.
         audio_url: https://r2.kimchi-reader.app/grammar/고객님,_이_상품이_마음에_드시면_새_상품으로_포장해_드릴게요__2024-03-28.mp3
 metadata:
-  type: verb
+  type: composite
 details: |-
   # Spacing {#spacing}
 

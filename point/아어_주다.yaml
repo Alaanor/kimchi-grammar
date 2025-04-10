@@ -14,7 +14,7 @@ definitions:
         translated: Please don't give up yet! I will explain it slowly!
         audio_url: https://r2.kimchi-reader.app/grammar/여러분_벌써_포기하지_말아주세요_제가_천천히_설명해_보겠습니다__2024-03-21.mp3
 metadata:
-  type: verb
+  type: composite
 details: |-
   # Spacing {#spacing}
 

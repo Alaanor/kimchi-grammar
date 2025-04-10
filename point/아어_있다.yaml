@@ -14,7 +14,7 @@ definitions:
         translated: People are standing in line at the bus stop.
         audio_url: https://r2.kimchi-reader.app/grammar/버스_정류장에는_사람들이_줄을_서_있어요__2024-03-24.mp3
 metadata:
-  type: verb
+  type: composite
 details: |-
   # Spacing {#spacing}
 

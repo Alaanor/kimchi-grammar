@@ -14,7 +14,7 @@ definitions:
         translated: I quit smoking for my health.
         audio_url: https://r2.kimchi-reader.app/grammar/건강을_위하여_담배를_끊어_버렸어요__2024-03-22.mp3
 metadata:
-  type: verb
+  type: composite
 details: |-
   # Spacing {#spacing}
 

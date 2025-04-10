@@ -1,0 +1,21 @@
+name: 아/어 달다
+definitions:
+  - slug: request
+    name: Request
+    english_alternatives:
+    meaning: Asking for the act previously mentioned to be carried out.
+    examples:
+      - sentence: 친구가 갑자기 큰돈을 빌려 달라는데 어떻게 해야 할지 모르겠어.
+        type: simple
+        translated: My friend suddenly asked me to lend him a lot of money, and I don't know what to do.
+        audio_url:
+      - sentence: 아이는 잘못했다며 한 번만 용서해 달라고 아버지께 빌고 있었다.
+        type: simple
+        translated: The child was begging his father to forgive him just once, saying he was wrong.
+        audio_url:
+metadata:
+  type: verb
+details: |-
+  # Usage {#usage}
+  
+  In practice this form is very often used with a quoting form.

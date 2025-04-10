@@ -8,14 +8,14 @@ definitions:
       - sentence: 친구가 갑자기 큰돈을 빌려 <f>달라는데</f> 어떻게 해야 할지 모르겠어.
         type: simple
         translated: My friend suddenly asked me to lend him a lot of money, and I don't know what to do.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/친구가_갑자기_큰돈을_빌려_달라는데_어떻게_해야_할지_모르겠어__2025-04-10.mp3
       - sentence: 아이는 잘못했다며 한 번만 용서해 <f>달라고</f> 아버지께 빌고 있었다.
         type: simple
         translated: The child was begging his father to forgive him just once, saying he was wrong.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/아이는_잘못했다며_한_번만_용서해_달라고_아버지께_빌고_있었다__2025-04-10.mp3
 metadata:
   type: verb
 details: |-
   # Usage {#usage}
-  
+
   In practice this form is very often used with a quoting form.

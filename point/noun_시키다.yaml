@@ -1,4 +1,4 @@
-name: 시키다다
+name: 시키다
 definitions:
   - slug: order
     name: Order
@@ -27,5 +27,5 @@ metadata:
 details: |-
 # Usage {#usage}
 
-  - Can be attached to nouns to make a compound verb, as well as stand as a verb on its own.
+  - Can be attached to nouns to make a compound verb, as well be a verb on its own.
   - Stronger and more forceful than :grammar[게_하다].

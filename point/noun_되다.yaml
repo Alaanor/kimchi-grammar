@@ -3,7 +3,7 @@ definitions:
   - slug: to-become
     name: To become
     english_alternatives: passive, to be possible, to work, to go well, to be allowed
-    meaning: Indicates causation or making someone do something.
+    meaning: Indicates passive form, things working out, or becoming something. 
     examples:
       - sentence: 제가 야구 팀에 <f>선택됐어요</f>!
         type: simple

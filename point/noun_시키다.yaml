@@ -8,24 +8,23 @@ definitions:
       - sentence: 사장님이 직원들에게 일을 <f>시켰어요</f>.
         type: simple
         translated: The boss made the employees work.
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/사장님이_직원들에게_일을_시켰어요__2025-04-17.mp3
       - sentence: 오늘 동생한테 거실을 <f>청소시켰다</f>.
         type: simple
         translated: Today I made my younger sibling clean the living room.
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/오늘_동생한테_거실을_청소시켰다__2025-04-17.mp3
       - sentence: 아빠가 컴퓨터 끄고 억지로 <f>공부시켰다</f>.
         type: simple
         translated: Dad turned off the computer and forced me to study.
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/아빠가_컴퓨터_끄고_억지로_공부시켰다__2025-04-17.mp3
       - sentence: 너무 배고파서 피자를 <f>시켰어요</f>.
         type: simple
         translated: I was so hungry so I ordered pizza.
-        audio_url: 
-        
+        audio_url: https://r2.kimchi-reader.app/grammar/너무_배고파서_피자를_시켰어요__2025-04-17.mp3
 metadata:
   type: noun
 details: |-
-# Usage {#usage}
+  # Usage {#usage}
 
   - Can be attached to nouns to make a compound verb, as well be a verb on its own.
   - Stronger and more forceful than :grammar[게_하다].

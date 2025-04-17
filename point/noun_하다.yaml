@@ -1,0 +1,46 @@
+name: 하다
+definitions:
+  - slug: to-do
+    name: To do
+    english_alternatives: to perform, to carry out, to make
+    meaning: Turns nouns into action verbs, turns nouns into descriptive verbs, to perform actions, to do something. 
+    examples:
+      - sentence: 저는 매일 아침 요가를 <f>해요</f>.
+        type: simple
+        translated: I do yoga every morning.
+        audio_url: 
+      - sentence: 그 회사가 이벤트를 <f>스폰서했어요</f>.
+        type: simple
+        translated: That company sponsored the event.
+        audio_url: 
+      - sentence: 이 문제를 어떻게 <f>해결할</f> 거예요?
+        type: simple
+        translated: How will you solve this problem?
+        audio_url: 
+      - sentence: 이 여행이 <f>특별할</f> 거예요.
+        type: simple
+        translated: This trip will be special.
+        audio_url: 
+      - sentence: 그 가수는 <f>유명해요</f>.
+        type: simple
+        translated: That singer is famous.
+        audio_url: 
+      - sentence:  회의를 오후 3시에 <f>하기로</f> 했어요.
+        type: simple
+        translated:  We decided to do the meeting at 3 PM.
+        audio_url: 
+      - sentence: 그 일은 제가 <f>할</f> 게요.
+        type: simple
+        translated: I'll do that task.
+        audio_url: 
+        
+metadata:
+  type: noun
+details: |-
+# Usage {#usage}
+
+  - Can be attached to nouns to make a compound verb, as well as stand as a verb on its own.
+  - Since 하다 uses :grammar[noun_을_를] on its own and when an action compound verb. However when used as a compound descriptive verb, it uses :grammar[noun_이_가].
+  - Used as the active form of :grammar[noun_되다].
+  - Used in various grammar forms such as :grammar[verb_게_하다].
+

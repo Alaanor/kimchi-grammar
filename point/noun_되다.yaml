@@ -1,0 +1,42 @@
+name: 되다
+definitions:
+  - slug: to-become
+    name: To become
+    english_alternatives: passive, to be possible, to work, to go well, to be allowed
+    meaning: Indicates causation or making someone do something.
+    examples:
+      - sentence: 제가 야구 팀에 <f>선택됐어요</f>!
+        type: simple
+        translated: I was selected for the baseball team!
+        audio_url: 
+      - sentence: 문법 실수가 <f>수정됐어요</f>.
+        type: simple
+        translated: My grammar mistakes were corrected.
+        audio_url: 
+      - sentence: 새 정책이 국회에서 <f>발의됐어요</f>.
+        type: simple
+        translated: A new policy was proposed in the National Assembly.
+        audio_url: 
+      - sentence: 걱정하지 마, 잘 <f>될</f> 거야.
+        type: simple
+        translated: Don't worry. It will work out.
+        audio_url: 
+      - sentence: 애벌레는 나비가 <f>됩니다</f>.
+        type: simple
+        translated: Caterpillars become butterflies.
+        audio_url: 
+      - sentence: 여기서 사진을 찍어도 <f>돼요</f>?
+        type: simple
+        translated: Is is allowed to take pictures here?
+        audio_url: 
+        
+metadata:
+  type: noun
+details: |-
+# Usage {#usage}
+
+  - Can be attached to nouns to make a compound verb, as well as stand as a verb on its own.
+  - Since 되다 is a passive verb, it uses :grammar[noun_이_가].
+  - Similar to :grammar[verb_아지_어지_해지] but more often used as the passive form of :grammar[noun_하다].
+  - Often used in grammar forms such as :grammar[verb_아도_어도_여도].
+

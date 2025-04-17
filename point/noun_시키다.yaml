@@ -1,0 +1,31 @@
+name: 시키다
+definitions:
+  - slug: order
+    name: Order
+    english_alternatives: make, cause, let, force
+    meaning: Indicates causation or making someone do something.
+    examples:
+      - sentence: 사장님이 직원들에게 일을 <f>시켰어요</f>.
+        type: simple
+        translated: The boss made the employees work.
+        audio_url: 
+      - sentence: 오늘 동생한테 거실을 <f>청소시켰다</f>.
+        type: simple
+        translated: Today I made my younger sibling clean the living room.
+        audio_url: 
+      - sentence: 아빠가 컴퓨터 끄고 억지로 <f>공부시켰다</f>.
+        type: simple
+        translated: Dad turned off the computer and forced me to study.
+        audio_url: 
+      - sentence: 너무 배고파서 피자를 <f>시켰어요</f>.
+        type: simple
+        translated: I was so hungry so I ordered pizza.
+        audio_url: 
+        
+metadata:
+  type: noun
+details: |-
+# Usage {#usage}
+
+  - Can be attached to nouns to make a compound verb, as well be a verb on its own.
+  - Stronger and more forceful than :grammar[게_하다].

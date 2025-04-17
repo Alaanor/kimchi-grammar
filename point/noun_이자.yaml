@@ -32,7 +32,7 @@ definitions:
     examples:
       - sentence: 그 사람은 우리 나라의 처음<f>이자</f> 마지막 공주였어요.
         type: simple
-        translated: That person was our country''s first and last princess.
+        translated: That person was our country's first and last princess.
         audio_url: https://r2.kimchi-reader.app/grammar/그_사람은_우리_나라의_처음이자_마지막_공주였어요__2024-10-24.mp3
       - sentence: 이 경기는 그의 처음<f>이자</f> 마지막 출전이었다.
         type: simple

@@ -1,0 +1,28 @@
+name: 건대
+definitions:
+  - slug: heres-what-I-think
+    name: Here's What I Think
+    english_alternatives: Here's my take, based on, judging by (meaning depends on the word it is paired with)
+    meaning: Expresses that the clause that comes after is something that the speaker has heard, seen, or wishes or believes. Commonly added to verbs like "장담하다," "짐작하다," "보다," "바라다."
+    examples:
+      - sentence: 맹세코 말하<f>건대</f> 나는 하지 않았어.
+        type: simple
+        translated: I swear to you, I didn't do it.
+        audio_url: 
+      - sentence: 장담하<f>건대</f> 그 친구가 분명히 시험을 잘 볼 것이다.
+        type: simple
+        translated: I can assure you that he/she will do well on the test.
+        audio_url: 
+      - sentence: 지금까지 받은 보고를 종합적으로 판단해 보<f>건대</f> 부검 할 필요는 없을 것 같습니다.
+        type: simple
+        translated: Based on a comprehensive look at the reports I've received up until now, there should be no need to perform an autopsy. 
+        audio_url: 
+      - sentence: 억양으로 미루어보<f>건대</f> 외국인이다.
+        type: simple
+        translated: Judging by his/her intonation, he/she is foreign.
+        audio_url: 
+
+metadata:
+  type: verb
+details: |-
+  # Usage {#usage}

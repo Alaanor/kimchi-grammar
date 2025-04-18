@@ -17,9 +17,9 @@ definitions:
         type: simple
         translated: Based on a comprehensive look at the reports I've received up until now, there should be no need to perform an autopsy. 
         audio_url: 
-      - sentence: 배를 누르고 있는 손의 위치로 추측하<f>건대</f> 아무래도 남자가 위가 아픈 듯했다.
+      - sentence: 억양으로 미루어보건대 외국인이다.
         type: simple
-        translated: Judging from the position of the hand pressed against his stomach, the man seemed to be experiencing gut pain.
+        translated: Judging by his/her intonation, he/she is foreign.
         audio_url: 
 
 metadata:

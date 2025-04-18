@@ -1,7 +1,7 @@
 name: 경
 definitions:
   - slug: around-time
-    name: Around [time] or [time period]
+    name: Around time or period
     english_alternatives: -ish, -or so, about
     meaning: Follows time words like '시,' '분,' '월,' '반,' to express that an event or action occurred around that time.
     examples:
@@ -13,7 +13,7 @@ definitions:
         type: simple
         translated: Minsu headed for the train station at 1 or so.
         audio_url: 
-      - sentence: 시현에 따르면 어젯밤 <f>8시경부터</f> 친구와 해변에서 불꽃놀이를 했다고 한다.
+      - sentence: 시현에 따르면 어젯밤 8<f>시경</f>부터 친구와 해변에서 불꽃놀이를 했다고 한다.
         type: simple
         translated: According to Sihyeon, she was setting off fireworks with her friend on the beach starting last night at about 8.
         audio_url: 

@@ -1,0 +1,24 @@
+name: 건대
+definitions:
+  - slug: here-are-my-thoughts
+    name: Here Are My Thoughts
+    english_alternatives: Based on, judging by
+    meaning: Expresses that the clause that comes after is something that the speaker has heard, seen, or wishes or believes. Added to nouns like "생각," "짐작" and "추측."
+    examples:
+      - sentence: 생각<f>건대</f> 인생은 꿈에 지나지 않다.
+        type: simple
+        translated: I think that life is nothing more than a dream.
+        audio_url: 
+      - sentence: 추측<f>건대</f> 이 실험실에서 탈출하려면 초록문을 열어야 해.
+        type: simple
+        translated: I predict that we will have to open the green door to escape from this facility.
+        audio_url: 
+      - sentence: 말투로 짐작<f>건대</f> 지금 아내와 사이가 별로 안 좋은 것 같다.
+        type: simple
+        translated: I gather from his words that his relationship with his wife is not currently at its best.
+        audio_url: 
+
+metadata:
+  type: noun
+details: |-
+  # Usage {#usage}

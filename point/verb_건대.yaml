@@ -1,0 +1,38 @@
+name: 건대
+definitions:
+  - slug: heres-what-I-think
+    name: Here's What I Think
+    english_alternatives: Here's my take, based on, judging by (meaning depends on the word it is paired with)
+    meaning: Expresses that the clause that comes after is something that the speaker has heard, seen, or wishes or believes. Commonly added to verbs like "장담하다," "짐작하다," "보다," "바라다."
+    examples:
+      - sentence: 맹세코 말하<f>건대</f> 나는 하지 않았어.
+        type: simple
+        translated: I swear to you, I didn't do it.
+        audio_url: https://r2.kimchi-reader.app/grammar/맹세코_말하건대_나는_하지_않았어__2025-04-18.mp3
+      - sentence: 장담하<f>건대</f> 그 친구가 분명히 시험을 잘 볼 것이다.
+        type: simple
+        translated: I can assure you that he/she will do well on the test.
+        audio_url: https://r2.kimchi-reader.app/grammar/장담하건대_그_친구가_분명히_시험을_잘_볼_것이다__2025-04-18.mp3
+      - sentence: 지금까지 받은 보고를 종합적으로 판단해 보<f>건대</f> 부검 할 필요는 없을 것 같습니다.
+        type: simple
+        translated: Based on a comprehensive look at the reports I've received up until now, there should be no need to perform an autopsy.
+        audio_url: https://r2.kimchi-reader.app/grammar/지금까지_받은_보고를_종합적으로_판단해_보건대_부검_할_필요는_없을_것_같습니다__2025-04-18.mp3
+      - sentence: 억양으로 미루어보<f>건대</f> 외국인이다.
+        type: simple
+        translated: Judging by his/her intonation, he/she is foreign.
+        audio_url: https://r2.kimchi-reader.app/grammar/억양으로_미루어보건대_외국인이다__2025-04-18.mp3
+      - sentence: 생각<f>건대</f> 인생은 꿈에 지나지 않다.
+        type: simple
+        translated: I think that life is nothing more than a dream.
+        audio_url: https://r2.kimchi-reader.app/grammar/생각건대_인생은_꿈에_지나지_않다__2025-04-18.mp3
+      - sentence: 추측<f>건대</f> 이 실험실에서 탈출하려면 초록문을 열어야 해.
+        type: simple
+        translated: I predict that we will have to open the green door to escape from this facility.
+        audio_url: https://r2.kimchi-reader.app/grammar/추측건대_이_실험실에서_탈출하려면_초록문을_열어야_해__2025-04-18.mp3
+      - sentence: 말투로 짐작<f>건대</f> 지금 아내와 사이가 별로 안 좋은 것 같다.
+        type: simple
+        translated: I gather from his words that his relationship with his wife is not currently at its best.
+        audio_url: https://r2.kimchi-reader.app/grammar/말투로_짐작건대_지금_아내와_사이가_별로_안_좋은_것_같다__2025-04-18.mp3
+metadata:
+  type: verb
+details: ""

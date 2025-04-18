@@ -17,7 +17,7 @@ definitions:
         type: simple
         translated: Based on a comprehensive look at the reports I've received up until now, there should be no need to perform an autopsy. 
         audio_url: 
-      - sentence: 억양으로 미루어보건대 외국인이다.
+      - sentence: 억양으로 미루어보<f>건대</f> 외국인이다.
         type: simple
         translated: Judging by his/her intonation, he/she is foreign.
         audio_url: 

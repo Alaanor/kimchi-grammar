@@ -1,7 +1,7 @@
 name: 을/를 위해(서)
 definitions:
-  - slug: before-a-certain-time
-    name: Before a certain time
+  - slug: purpose
+    name: Purpose
     english_alternatives: For the sake of, in order to
     meaning: Used when doing something to achieve a goal or for a specific purpose.
     examples:

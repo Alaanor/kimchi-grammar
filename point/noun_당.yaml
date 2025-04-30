@@ -1,0 +1,22 @@
+name: 당
+definitions:
+  - slug: for-each
+    name: For each
+    english_alternatives: each, per
+    meaning: Typically follows measure words, creating a ratio between a measure word and a value. Similar to 마다.  
+    examples:
+      - sentence: 핫도그 하나당 5천원이래. 
+        type: simple
+        translated: The hot dogs are 5,000won each. 
+        audio_url: 
+      - sentence: 그 드라마는 회당 시청률이 80%를 넘을 정도로 아주 핫했어요. 
+        type: simple
+        translated: That drama was so popular that its viewership rate per episode was over 80%.
+        audio_url: 
+      - sentence: 할인주차권의 유효시간 종료 이후에는 10분당 1,000원의 할증요금이 부과됩니다
+        type: simple
+        translated: Once the parking voucher expires, an additional charge of 1,000won will be imposed per 10 minutes. 
+        audio_url: 
+metadata:
+  type: noun
+details: ""

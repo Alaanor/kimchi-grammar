@@ -1,0 +1,26 @@
+name: 째
+definitions:
+  - slug: the-nth
+    name: The nth 
+    english_alternatives: on my nth, for/in [time expression]
+    meaning: Follows nouns, including time nouns and counters, to express that a noun is the nth occurrence of something.
+    examples:
+      - sentence: 세 번째 노크 후에 문이 열렸다.
+        type: simple
+        translated: The door opened after the third knock.
+        audio_url: 
+      - sentence: 지금 30분째 손님 하나 없어요. 
+        type: simple
+        translated: There hasn't been a single customer for 30 minutes.
+        audio_url: 
+      - sentence: 병원에 근무한 지 6년째 되던 해에 연인이 생겼다.
+        type: simple
+        translated: In her 6th year working at the hospital, she got into a relationship.
+        audio_url:
+      - sentence: 고등학교 때부터 이 공포증을 이겨낼 여러 가지 시도를 해봤어. 상담 선생님도 두 명째야. 
+        type: simple
+        translated: Since high school, I've tried many times to overcome this fear. I'm on my second counselor, too. 
+        audio_url: 
+metadata:
+  type: noun
+details: ""

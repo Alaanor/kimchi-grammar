@@ -21,12 +21,21 @@ definitions:
         type: simple
         translated: Where are you going to send this package?
         audio_url: https://r2.kimchi-reader.app/grammar/이_소포를_어디로_보내실_건가요__2024-04-13.mp3
+  - slug: pondering
+    name: Pondering
+    english_alternatives: I wonder, Assuming
+    meaning: Expresses the speaker's speculation, curiosity or assumption about something.
+    examples:
+      - sentence: 그 아이는 자라면 언젠가 범인이 되<f>나</f>?
+        type: simple
+        translated: When that kid grows up, I wonder if they'll become a criminal someday.
+        audio_url:
+      - sentence: 내가 좋은 사람인가? 정말 이게 옳은 길이<f>나</f>?
+        type: simple
+        translated: Am I a good person? Is this really the right path?
+        audio_url: 
 metadata:
   type: verb
 details: |-
-  |Tense|Form|
-  |---|---|
-  |Present (descriptive verb)|<f>-(으)ㄴ가(요)</f>|
-  |Present (action verb)|<f>-나(요)</f>|
-  |Past (all)|<f>-(았/었)나(요)</f>|
-  |Future (all)|<f>-(으)ㄹ 건가(요)</f>|
+	# Usage {usage}
+	- When pondering with 나(요), it takes a more literary or poetic tone. Often for internal monologue or narration.

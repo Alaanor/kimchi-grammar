@@ -37,5 +37,13 @@ definitions:
 metadata:
   type: verb
 details: |-
-	# Usage {#usage}
+	
+  |Tense|Form|
+  |---|---|
+  |Present (descriptive verb)|<f>-(으)ㄴ가(요)</f>|
+  |Present (action verb)|<f>-나(요)</f>|
+  |Past (all)|<f>-(았/었)나(요)</f>|
+  |Future (all)|<f>-(으)ㄹ 건가(요)</f>|
+
+# Usage {#usage}
  - When pondering with 나(요), it takes a more literary or poetic tone. Often for internal monologue or narration.

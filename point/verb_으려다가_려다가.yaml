@@ -1,0 +1,22 @@
+name: (으)려다가
+definitions:
+  - slug: interrupted-intention
+    name: Interrupted intention
+    english_alternatives: wanted/meant/tried to do x, but then... 
+    meaning: Contraction of -(으)려고 하다가. Express that the speaker intended or tried to do something, but "interrupted" the intention or attempt by doing something else, leaving the original intention unfulfilled.
+    examples:
+      - sentence: 그 영화를 DVD 대여점에서 빌려 보<f>려다가</f> 텔레비전에서 오늘 방영한다는 것을 알고는 그만두었다.
+        type: simple
+        translated: I intended to rent that movie from a DVD store, but decided not to when I learned that it will be broadcast tonight on TV.
+        audio_url: 
+      - sentence: 문을 노크하<f>려다가</f> 손을 멈췄다.
+        type: simple
+        translated: I thought about knocking on the door, but stopped myself.
+        audio_url: 
+      - sentence: 몇 년 전 우리 어머니는 병원에서 다른 입원환자를 죽이<f>려다가</f> 붙잡혔어.
+        type: simple
+        translated: A few years ago, my mother tried to kill another patient at the hospital but was caught.
+        audio_url: 
+metadata:
+  type: verb
+details: ""

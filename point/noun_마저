@@ -1,0 +1,27 @@
+name: 마저(도)
+definitions:
+  - slug: even-this-too
+    name: Even this too
+    english_alternatives: On top of that, also to that extent, even the last possible option
+    meaning: Emphasizes that the additionally included listed item is least expected. 
+    examples:
+      - sentence: <f>가족마저</f> 나를 믿지 않았다.
+        type: simple
+        translated: Even my family doesn't believe me.
+        audio_url: 
+      - sentence: <f>희망마저도</f> 사라졌어요.
+        type: simple
+        translated: Even hope has disappeared.
+        audio_url: 
+      - sentence:  집에 너무 늦게 오니까, <f>강아지마저</f> 잠들어 있었어요.
+        type: simple
+        translated: Because I came home very late, even the dog was asleep.
+        audio_url: 
+metadata:
+  type: noun
+details: |- 
+	# Usage {#usage}
+	- Often to an extreme extent and/or leading to an undesirable outcome.
+	
+	# Emphasis {#emphasis}
+	- Adding 도 makes the meaning more emphatic.

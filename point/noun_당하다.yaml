@@ -1,0 +1,30 @@
+name: 당하다 
+definitions:
+  - slug: experience-consequence
+    name: Experience Consequence
+    english_alternatives: to be subjected to (something)
+    meaning: To be the -- often helpless -- subject of an action, performed by someone else, that has a negative consequence for the subject. 
+    examples:
+      - sentence: 좋아하는 여자한테 고백했다가 거절당했다. 
+        type: simple
+        translated: I asked out the girl I liked and got rejected.
+        audio_url:
+      - sentence: 조금 바보 취급당하는 것 같아서 기분이 좋지는 않았다. 
+        type: simple
+        translated: It felt like I was being treated as though I were stupid, so I didn't feel good. 
+        audio_url:
+      - sentence: 악플 많이 달면, 차단당할 수도 있어요. 
+        type: simple
+        translated: If you leave a lot of hate comments, you may get blocked.
+        audio_url: 
+      - sentence: 자연사는 절대 아니었을 거예요. 저는 언니가 살해당했다고 믿습니다.
+        type: simple
+        translated: She absolutely did not die of natural causes. I believe she was murdered. 
+        audio_url: 
+      - sentence: 학교에서 담배를 파는 게 들켜서 퇴학당했어요. 
+        type: simple
+        translated: I got expelled after getting caught selling cigarettes at school.
+        audio_url: 
+metadata:
+  type: noun
+details: ""

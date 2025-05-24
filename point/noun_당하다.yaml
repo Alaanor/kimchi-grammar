@@ -1,30 +1,30 @@
-name: 당하다 
+name: 당하다
 definitions:
   - slug: experience-consequence
     name: Experience Consequence
     english_alternatives: to be subjected to (something)
-    meaning: To be the -- often helpless -- subject of an action, performed by someone else, that has a negative consequence for the subject. 
+    meaning: To be the -- often helpless -- subject of an action, performed by someone else, that has a negative consequence for the subject.
     examples:
-      - sentence: 좋아하는 여자한테 고백했다가 거절당했다. 
+      - sentence: 좋아하는 여자한테 고백했다가 <f>거절당했다</f>.
         type: simple
         translated: I asked out the girl I liked and got rejected.
-        audio_url:
-      - sentence: 조금 바보 취급당하는 것 같아서 기분이 좋지는 않았다. 
+        audio_url: https://r2.kimchi-reader.app/grammar/좋아하는_여자한테_고백했다가_거절당했다__2025-05-24.mp3
+      - sentence: 조금 바보 <f>취급당하는</f> 것 같아서 기분이 좋지는 않았다.
         type: simple
-        translated: It felt like I was being treated as though I were stupid, so I didn't feel good. 
-        audio_url:
-      - sentence: 악플 많이 달면, 차단당할 수도 있어요. 
+        translated: It felt like I was being treated as though I were stupid, so I didn't feel good.
+        audio_url: https://r2.kimchi-reader.app/grammar/조금_바보_취급당하는_것_같아서_기분이_좋지는_않았다__2025-05-24.mp3
+      - sentence: 악플 많이 달면, <f>차단당할</f> 수도 있어요.
         type: simple
         translated: If you leave a lot of hate comments, you may get blocked.
-        audio_url: 
-      - sentence: 자연사는 절대 아니었을 거예요. 저는 언니가 살해당했다고 믿습니다.
+        audio_url: https://r2.kimchi-reader.app/grammar/악플_많이_달면,_차단당할_수도_있어요__2025-05-24.mp3
+      - sentence: 자연사는 절대 아니었을 거예요. 저는 언니가 <f>살해당했다고</f> 믿습니다.
         type: simple
-        translated: She absolutely did not die of natural causes. I believe she was murdered. 
-        audio_url: 
-      - sentence: 학교에서 담배를 파는 게 들켜서 퇴학당했어요. 
+        translated: She absolutely did not die of natural causes. I believe she was murdered.
+        audio_url: https://r2.kimchi-reader.app/grammar/자연사는_절대_아니었을_거예요_저는_언니가_살해당했다고_믿습니다__2025-05-24.mp3
+      - sentence: 학교에서 담배를 파는 게 들켜서 <f>퇴학당했어요</f>.
         type: simple
         translated: I got expelled after getting caught selling cigarettes at school.
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/학교에서_담배를_파는_게_들켜서_퇴학당했어요__2025-05-24.mp3
 metadata:
   type: noun
 details: ""

@@ -3,20 +3,20 @@ definitions:
   - slug: for-each
     name: For each
     english_alternatives: each, per
-    meaning: Typically follows measure words, creating a ratio between a measure word and a value. Similar to 마다.  
+    meaning: Typically follows measure words, creating a ratio between a measure word and a value. Similar to 마다.
     examples:
-      - sentence: 핫도그 하나당 5천원이래. 
+      - sentence: 핫도그 하나<f>당</f> 5천원이래.
         type: simple
-        translated: The hot dogs are 5,000won each. 
-        audio_url: 
-      - sentence: 그 드라마는 회당 시청률이 80%를 넘을 정도로 아주 핫했어요. 
+        translated: The hot dogs are 5,000won each.
+        audio_url: https://r2.kimchi-reader.app/grammar/핫도그_하나당_5천원이래__2025-05-24.mp3
+      - sentence: 그 드라마는 회<f>당</f> 시청률이 80%를 넘을 정도로 아주 핫했어요.
         type: simple
         translated: That drama was so popular that its viewership rate per episode was over 80%.
-        audio_url: 
-      - sentence: 할인주차권의 유효시간 종료 이후에는 10분당 1,000원의 할증요금이 부과됩니다
+        audio_url: https://r2.kimchi-reader.app/grammar/그_드라마는_회당_시청률이_80%를_넘을_정도로_아주_핫했어요__2025-05-24.mp3
+      - sentence: 할인주차권의 유효시간 종료 이후에는 10분<f>당</f> 1,000원의 할증요금이 부과됩니다
         type: simple
-        translated: Once the parking voucher expires, an additional charge of 1,000won will be imposed per 10 minutes. 
-        audio_url: 
+        translated: Once the parking voucher expires, an additional charge of 1,000won will be imposed per 10 minutes.
+        audio_url: https://r2.kimchi-reader.app/grammar/할인주차권의_유효시간_종료_이후에는_10분당_1,000원의_할증요금이_부과됩니다_2025-05-24.mp3
 metadata:
   type: noun
 details: ""

@@ -3,24 +3,24 @@ definitions:
   - slug: no-use
     name: No Use
     english_alternatives: even if, regardless, if
-    meaning: Indicates that even if the first clause is true, it is no use or ineffective. The second clause is negative and often expresses a reason that the first clause is in vain. 
+    meaning: Indicates that even if the first clause is true, it is no use or ineffective. The second clause is negative and often expresses a reason that the first clause is in vain.
     examples:
-      - sentence: 권력이나 돈이 많<f>아봤자</f> 다 부질없더라고요. 
+      - sentence: 권력이나 돈이 많<f>아봤자</f> 다 부질없더라고요.
         type: simple
-        translated: I've found that <f>even</f> if you have a lot of money or influence, it's futile. 
-        audio_url: 
-      - sentence: 울지 마. 울<f>어봤자</f> 해결되는 거 하나도 없어. 
+        translated: I've found that <f>even</f> if you have a lot of money or influence, it's futile.
+        audio_url: https://r2.kimchi-reader.app/grammar/권력이나_돈이_많아봤자_다_부질없더라고요__2025-05-24.mp3
+      - sentence: 울지 마. 울<f>어봤자</f> 해결되는 거 하나도 없어.
         type: simple
         translated: Don't cry. Crying doesn't fix anything <f>(regardless)</f>.
-        audio_url: 
-      - sentence: 지금 바로 헬스 끊<f>어봤자</f> 당분간 꾸준히 다닐 시간 없을 것 같아. 
+        audio_url: https://r2.kimchi-reader.app/grammar/울지_마_울어봤자_해결되는_거_하나도_없어__2025-05-24.mp3
+      - sentence: 지금 바로 헬스 끊<f>어봤자</f> 당분간 꾸준히 다닐 시간 없을 것 같아.
         type: simple
-        translated: <f>Even if</f> I sign up for a gym membership right now, I won't have the time to properly work out for the time being. 
-        audio_url: 
-      - sentence: 이런 불편한 회식자리에 오래 남아봤자 신경질만 낼 거야. 
+        translated: <f>Even if</f> I sign up for a gym membership right now, I won't have the time to properly work out for the time being.
+        audio_url: https://r2.kimchi-reader.app/grammar/지금_바로_헬스_끊어봤자_당분간_꾸준히_다닐_시간_없을_것_같아__2025-05-24.mp3
+      - sentence: 이런 불편한 회식자리에 오래 남<f>아봤자</f> 신경질만 낼 거야.
         type: simple
         translated: <f>If</f> I stay longer at this uncomfortable hweshik, I'll just lose my temper.
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/이런_불편한_회식자리에_오래_남아봤자_신경질만_낼_거야__2025-05-24.mp3
 metadata:
   type: verb
-details: |-
+details: ""

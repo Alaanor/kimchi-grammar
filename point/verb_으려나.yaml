@@ -8,24 +8,23 @@ definitions:
       - sentence: 비가 <f>올려나?</f>?
         type: simple
         translated: I wonder if it will rain.
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/비가_올려나__2025-05-24.mp3
       - sentence: 오늘도 지각을 <f>하려나</f>?
         type: simple
         translated: I wonder if they'll be late?
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/오늘도_지각을_하려나__2025-05-24.mp3
       - sentence: 언제 내 집에서 나갈 수 <f>있을려나</f>?
         type: simple
         translated: I wonder when they'll leave my house?
-        audio_url: 
-      - sentence: 내일은 날씨가 <f>좋으려나<f/>?
+        audio_url: https://r2.kimchi-reader.app/grammar/언제_내_집에서_나갈_수_있을려나__2025-05-24.mp3
+      - sentence: 내일은 날씨가 <f>좋으려나</f>?
         type: simple
         translated: I wonder if the weather will be good tomorrow?
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/내일은_날씨가_좋으려나__2025-05-24.mp3
 metadata:
   type: verb
-details: |- 
-	# Usage {#usage}
-	- Sometimes used with 으/ㄹ/을 and other times used with just 려라.
-	- Conveys a literary or introspective tone.
-	- This grammar point is made up of :grammar[verb_으려고_려고] and :grammar[verb_은가_가_나].
-	 
+details: |-
+  # Usage {#usage}
+  - Sometimes used with 으/ㄹ/을 and other times used with just 려라.
+  - Conveys a literary or introspective tone.
+  - This grammar point is made up of :grammar[verb_으려고_려고] and :grammar[verb_은가_가_나].

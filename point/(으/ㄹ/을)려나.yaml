@@ -1,0 +1,33 @@
+name: (으/ㄹ/을)려나
+definitions:
+  - slug: wondering
+    name: Wondering
+    english_alternatives: I wonder if, Could it be
+    meaning: Expresses curiosity, speculation or doubt to oneself about a future situation or outcome.
+    examples:
+      - sentence: 비가 <f>올려나?</f>?
+        type: simple
+        translated: I wonder if it will rain.
+        audio_url: 
+      - sentence: 오늘도 지각을 <f>하려나</f>?
+        type: simple
+        translated: I wonder if they'll be late?
+        audio_url: 
+      - sentence: 언제 내 집에서 나갈 수 <f>있을려나</f>?
+        type: simple
+        translated: I wonder when they'll leave my house?
+        audio_url: 
+      - sentence: 내일은 날씨가 <f>좋으려나<f/>?
+        type: simple
+        translated: I wonder if the weather will be good tomorrow?
+        audio_url: 
+metadata:
+  type: verb
+details: |- 
+	# Usage {#usage}
+	- Sometimes used with 으/ㄹ/을 and other times used with just 려라.
+	- Conveys a literary or introspective tone.
+	
+	# Shorthand {#shorthand}
+	- This grammar point is made up of :grammar[verb_으려고_려고] and :grammar[verb_은가_가_나].
+	 

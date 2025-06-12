@@ -17,4 +17,6 @@ definitions:
         type: simple
         translated: Let’s run as hard as we can today.
         audio_url:
+metadata:
+  type: noun
 details: |-

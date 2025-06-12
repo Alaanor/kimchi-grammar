@@ -5,16 +5,16 @@ definitions:
     english_alternatives: to one's heart's content, as much as one likes
     meaning: to that capacity’s fullest extent.
     examples:
-      - type: simple
-        sentence: 주말에는 마음<f>껏</f> 쉬고 싶어요.
+      - sentence: 주말에는 마음<f>껏</f> 쉬고 싶어요.
+        type: simple
         translated: I want to rest to my heart's content on the weekend.
         audio_url:
-      - type: simple
-        sentence: 시험이 끝났으니 이제 마음<f>껏</f> 놀 수 있어요.
+      - sentence: 시험이 끝났으니 이제 마음<f>껏</f> 놀 수 있어요.
+        type: simple
         translated: Now that the exam is over, I can finally play as much as I want.
         audio_url:
-      - type: simple
-        sentence: 오늘은 힘<f>껏</f> 달려 봐요.
+      - sentence: 오늘은 힘<f>껏</f> 달려 봐요.
+        type: simple
         translated: Let’s run as hard as we can today.
         audio_url:
 details: |-

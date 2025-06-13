@@ -1,0 +1,34 @@
+name: 에다가
+definitions:
+  - slug: onto-into
+    name: Onto / Into
+    english_alternatives: onto, into, on, in
+    meaning: Shows where something is put or added.
+    examples:
+      - type: simple
+        sentence: 테이블<f>에다가</f> 노트북을 놨어요.
+        translated: I put the laptop on the table.
+        audio_url:
+      - type: simple
+        sentence: 그릇<f>에다가</f> 밥을 담았어요.
+        translated: I put rice into the bowl.
+        audio_url:
+      - type: simple
+        sentence: 박스<f>에다가</f> 책을 넣으세요.
+        translated: Put the books into the box.
+        audio_url:
+      - type: simple
+        sentence: 종이<f>에다가</f> 이름을 쓰세요.
+        translated: Write your name on the paper.
+        audio_url:
+      - type: simple
+        sentence: 냉장고<f>에다가</f> 두유를 넣었어요.
+        translated: I put soy milk in the fridge.
+        audio_url:
+      - type: simple
+        sentence: 펜을 어디<f>다가</f> 두었어요?
+        translated: Where did you put the pen?
+        audio_url:
+metadata:
+  type: noun
+details: |-

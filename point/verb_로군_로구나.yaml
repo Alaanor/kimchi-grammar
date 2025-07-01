@@ -1,0 +1,23 @@
+name: 로군(요)/로구나
+definitions:
+  - slug: new-information-strong-reaction
+    name: New information, strong reaction
+    english_alternatives:
+    meaning: Express surprise after learning something new. Only used with '이다' and '아니다' (sometimes in combination with '-으시'), and is stronger than 군(요)/구나 in these special cases.
+    examples:
+      - sentence: 그 남자 <f>말이로군요</f>.
+        type: simple
+        translated: Ah, you're talking about that man. (That's who you're talking about)
+        audio_url: 
+      - sentence: 그래서 기분이 안 좋은 <f>거로구나</f>.
+        type: simple
+        translated: I see -- so that's why you're not in a good mood. 
+        audio_url: 
+      - sentence: 그건 그냥 마음이 변했기 때문... 아니, 그게 <f>아니로군요</f>.
+        type: simple
+        translated: That's simply because she changed her mind... no, wait, that's not it.
+        audio_url: 
+metadata:
+  type: verb
+details: |-
+

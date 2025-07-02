@@ -3,20 +3,20 @@ definitions:
   - slug: commanding-old-fashioned
     name: Old Fashioned Command
     english_alternatives:
-    meaning: Used to give commands. Old-fashioned compared to -아라/어라/해라. 
+    meaning: Used to give commands. Old-fashioned compared to -아라/어라/해라.
     examples:
       - sentence: 빨리 <f>먹거라</f>.
         type: simple
         translated: Eat quickly.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/빨리_먹거라__2025-07-02.mp3
       - sentence: 천천히 놀다 <f>가거라</f>.
         type: simple
         translated: Take your time hanging out before you go.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/천천히_놀다_가거라__2025-07-02.mp3
       - sentence: 지금 당장 교실로 <f>가거라</f>. 선생님이 기다리신다.
         type: simple
         translated: Go to your classroom immediately. Your teacher is waiting.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/지금_당장_교실로_가거라_선생님이_기다리신다__2025-07-02.mp3
 metadata:
   type: verb
 details: |-

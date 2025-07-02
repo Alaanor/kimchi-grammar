@@ -31,4 +31,7 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/펜을_어디다가_두었어요__2025-07-02.mp3
 metadata:
   type: noun
-details: ""
+details: |-
+  # A few notes {#notes}
+  - Not to be confused with :grammar[verb_다가].
+  - The <f>에</f> part can be omitted sometimes (e.g. :dict[여기]{여기다가}) :source[https://x.com/urimal365/status/158785701352189952]

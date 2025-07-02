@@ -8,15 +8,15 @@ definitions:
       - sentence: 주말에는 마음<f>껏</f> 쉬고 싶어요.
         type: simple
         translated: I want to rest to my heart's content on the weekend.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/주말에는_마음껏_쉬고_싶어요__2025-07-02.mp3
       - sentence: 시험이 끝났으니 이제 마음<f>껏</f> 놀 수 있어요.
         type: simple
         translated: Now that the exam is over, I can finally play as much as I want.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/시험이_끝났으니_이제_마음껏_놀_수_있어요__2025-07-02.mp3
       - sentence: 오늘은 힘<f>껏</f> 달려 봐요.
         type: simple
         translated: Let’s run as hard as we can today.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/오늘은_힘껏_달려_봐요__2025-07-02.mp3
 metadata:
   type: noun
-details: |-
+details: ""

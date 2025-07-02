@@ -8,27 +8,27 @@ definitions:
       - type: simple
         sentence: 테이블<f>에다가</f> 노트북을 놨어요.
         translated: I put the laptop on the table.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/테이블에다가_노트북을_놨어요__2025-07-02.mp3
       - type: simple
         sentence: 그릇<f>에다가</f> 밥을 담았어요.
         translated: I put rice into the bowl.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/그릇에다가_밥을_담았어요__2025-07-02.mp3
       - type: simple
         sentence: 박스<f>에다가</f> 책을 넣으세요.
         translated: Put the books into the box.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/박스에다가_책을_넣으세요__2025-07-02.mp3
       - type: simple
         sentence: 종이<f>에다가</f> 이름을 쓰세요.
         translated: Write your name on the paper.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/종이에다가_이름을_쓰세요__2025-07-02.mp3
       - type: simple
         sentence: 냉장고<f>에다가</f> 두유를 넣었어요.
         translated: I put soy milk in the fridge.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/냉장고에다가_두유를_넣었어요__2025-07-02.mp3
       - type: simple
         sentence: 펜을 어디<f>다가</f> 두었어요?
         translated: Where did you put the pen?
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/펜을_어디다가_두었어요__2025-07-02.mp3
 metadata:
   type: noun
-details: |-
+details: ""

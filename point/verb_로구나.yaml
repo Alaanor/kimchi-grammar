@@ -8,16 +8,15 @@ definitions:
       - sentence: 그 남자 <f>말이로군요</f>.
         type: simple
         translated: Ah, you're talking about that man. (That's who you're talking about)
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/그_남자_말이로군요__2025-07-02.mp3
       - sentence: 그래서 기분이 안 좋은 <f>거로구나</f>.
         type: simple
-        translated: I see -- so that's why you're not in a good mood. 
-        audio_url: 
+        translated: I see -- so that's why you're not in a good mood.
+        audio_url: https://r2.kimchi-reader.app/grammar/그래서_기분이_안_좋은_거로구나__2025-07-02.mp3
       - sentence: 그건 그냥 마음이 변했기 때문... 아니, 그게 <f>아니로군요</f>.
         type: simple
         translated: That's simply because she changed her mind... no, wait, that's not it.
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/그건_그냥_마음이_변했기_때문_아니,_그게_아니로군요__2025-07-02.mp3
 metadata:
   type: verb
-details: |-
-
+details: ""

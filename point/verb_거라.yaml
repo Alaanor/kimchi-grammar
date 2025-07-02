@@ -1,0 +1,25 @@
+name: 거라
+definitions:
+  - slug: commanding-old-fashioned
+    name: Old Fashioned Command
+    english_alternatives:
+    meaning: Used to give commands. Old-fashioned compared to -아라/어라/해라. 
+    examples:
+      - sentence: 빨리 <f>먹거라</f>.
+        type: simple
+        translated: Eat quickly.
+        audio_url:
+      - sentence: 천천히 놀다 <f>가거라</f>.
+        type: simple
+        translated: Take your time hanging out before you go.
+        audio_url:
+      - sentence: 지금 당장 교실로 <f>가거라</f>. 선생님이 기다리신다.
+        type: simple
+        translated: Go to your classroom immediately. Your teacher is waiting.
+        audio_url:
+metadata:
+  type: verb
+details: |-
+  # Negative forms {#negative-forms}
+
+  Commanding someone to not do something uses the negative form <f>지 말거라</f>

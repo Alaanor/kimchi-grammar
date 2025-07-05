@@ -1,0 +1,22 @@
+name: 부로
+definitions:
+  - slug: starting-from
+    name: Noun's starting point
+    english_alternatives: from, since
+    meaning: Indicate the starting point of an action, time or place.
+    examples:
+      - sentence: 7월 1일<f>부로</f> 새로운 규정이 시행됩니다.
+        type: simple
+        translated: The new regulation takes effect as of July 1.
+        audio_url:
+      - sentence: 그녀는 지난주 금요일<f>부로</f> 회사를 떠났어요.
+        type: simple
+        translated: She left the company as of last Friday.
+        audio_url:
+      - sentence: 이 약속은 내일<f>부로</f> 효력이 발생합니다.
+        type: simple
+        translated: This agreement becomes effective as of tomorrow.
+        audio_url:
+metadata:
+  type: noun
+  details: |-

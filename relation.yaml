@@ -57,4 +57,4 @@ relation:
       - { id: "아어_달라고", slug: "quote-favor-request" }
   - concern:
       - { id: "noun_부터", slug: "starting-point" }
-      - { id: "noun_부로", slug: "starting-from }
+      - { id: "noun_부로", slug: "starting-from" }

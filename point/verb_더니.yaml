@@ -13,6 +13,23 @@ definitions:
         type: simple
         translated: You've been looking at houses lately. Did you find a good one?
         audio_url: https://r2.kimchi-reader.app/grammar/요즘_부동산에_집_보러_다니더니_좋은_집을_찾았어요__2024-04-13.mp3
+  - slug: and-then
+    name: And then
+    english_alternatives: and
+    meaning: Used to narrate a sequence of events directly witnessed by the speaker. The subject of both clauses must be the same.
+    examples:
+      - sentence: 미나는 부엌에 <f>가더니</f> 5분 만에 라면을 만들어 냈다. 
+        type: simple
+        translated: Mina went to the kitchen and made ramen in just 5 minutes.
+        audio_url: 
+      - sentence: 이야기 중이던 맥스가 우리의 대화를 가만히 듣고 서 있는 앨리스를 흘긋 <f>쳐다보더니</f> 입을 닫았다. 
+        type: simple
+        translated: Max, who had been telling a story, glanced at Alice, who was listening quietly to our conversation, and then closed his mouth.
+        audio_url: 
+      - sentence: 눈시울이 점점 <f>붉어지더니</f> 제이콥이 결국 참지 못하고 펑펑 울기 시작했다. 
+        type: simple
+        translated: Jacob's eyes grew red until he couldn't hold it in anymore and started to sob. 
+        audio_url: 
 metadata:
   type: verb
 details: |-

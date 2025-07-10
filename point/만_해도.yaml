@@ -1,0 +1,30 @@
+name: 만 해도
+definitions:
+  - slug: as-recently-as
+    name: As recently as
+    english_alternatives: Just (time expression) ago, up until
+    meaning: When following an expression of time (-전, -까지, 때...), expresses that as recently as some point in the past, something was different or not the case. 
+    examples:
+      - sentence: 10년 <f>전만 해도</f>, 우리 나라가 이렇게 양극화되지는 않았다. 
+        type: simple
+        translated: Even just 10 years ago, our country was not this polarized.
+        audio_url:
+      - sentence: <f>어제까지만 해도<f> 나는 그 사람이 사건에 관여했을 거라고는 생각도 못했어. 
+        type: simple
+        translated: Just yesterday, I hadn't even once thought that he could have been involved in this case. 
+        audio_url:
+      - sentence: 도서관에 들어올 <f>때까지만 해도</f> 공부할 의욕이 차고 넘쳐났는데 교과서 펴고 보니까 집중이 안 되더라고요. 
+        type: simple
+        translated: Right up until I entered the library, I was full of motivation to study, but once I opened the textbook, I couldn't focus at all. 
+        audio_url:
+      - sentence: <f>그때만 해도</f> 한국어를 잘 못했었어. 
+        type: simple
+        translated: I couldn't speak Korean back then. (As recently as that point, I couldn't speak Korean)
+        audio_url:
+      - sentence: 누구도 그를 한 달 <f>전까지만 해도</f> 노숙자라고 상상하지 못했을 것이다.
+        type: simple
+        translated: No one would have been able to imagine that he had been homeless as recently as a month ago.
+        audio_url:
+metadata:
+  type: composite
+details: |-

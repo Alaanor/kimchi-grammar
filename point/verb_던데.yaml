@@ -3,21 +3,34 @@ definitions:
   - slug: surprise
     name: Surprise
     english_alternatives:
-    meaning: Used to express surprise or disbelief toward a past event or particular situation.
-      Expecting an answer from the listener. Can also be used to make contradiction.
+    meaning: Used to express surprise or disbelief toward a past event or particular situation based on something that the speaker saw or experienced.
+      Expecting an answer from the listener. Can also be used to make a contradiction.
     examples:
       - sentence: 그 사람은 축구도 제법 잘하<f>던데요</f>.
         type: simple
-        translated: That person was quite good at soccer.
+        translated: (I saw that) That person was quite good at soccer.
         audio_url: https://r2.kimchi-reader.app/grammar/그_사람은_축구도_제법_잘하던데요__2024-04-13.mp3
       - sentence: 제가 오늘 학교에 왔을 때 교실에 아무도 없<f>던데요</f>.
         type: simple
-        translated: When I came to school today, there was no one in the classroom.
+        translated: When I came to school today, (I saw that) there was no one in the classroom.
         audio_url: https://r2.kimchi-reader.app/grammar/제가_오늘_학교에_왔을_때_교실에_아무도_없던데요__2024-04-13.mp3
       - sentence: 그곳에는 맛있는 음식들이 많<f>던데요</f>.
         type: simple
         translated: There were many delicious foods there.
         audio_url: https://r2.kimchi-reader.app/grammar/그곳에는_맛있는_음식들이_많던데요__2024-04-13.mp3
+  - slug: relating-experience
+    name: Relating experience
+    english_alternatives:
+    meaning: Similar to ㄴ/는데, but with the added nuance that the speaker has seen or experienced the fact or situation described in that clause. When a '다' is added in front (-다던데), it is used to convey that the speaker has heard from someone that something is the case.
+    examples:
+      - sentence: 너 요즘 이상한 사람들이랑 어울리던데 괜찮아? 
+        type: simple
+        translated: I've noticed you've been hanging out with some strange people recently. Are you okay?
+        audio_url:
+      - sentence: 한국 음식이 맵다던데 사실인가요? 
+        type: simple
+        translated: I've heard / people say that Korean food is spicy -- is that true?
+        audio_url:
 metadata:
   type: verb
 details: |-

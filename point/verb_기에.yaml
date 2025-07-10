@@ -1,0 +1,18 @@
+name: 기에
+definitions:
+  - slug: reason-or-cause-written
+    name: Reason or cause (written)
+    english_alternatives: Since, because, As a result of...
+    meaning: Used to express the reason or cause for the speaker's action. Note that '-길래' is the conversational, spoken version of -기에.
+    examples:
+      - sentence: 날씨가 <f>따뜻하기에</f> 산책을 했다.
+        type: simple
+        translated: Since the weather was warm, I went for a walk.
+        audio_url:
+      - sentence: 사람들이 너무 <f>많기에</f> 다른 곳에 갔다.
+        type: simple
+        translated: Because there were too many people, I went to a different place.
+        audio_url:
+metadata:
+  type: verb
+details: |-

@@ -13,6 +13,40 @@ definitions:
         type: simple
         translated: Because there were too many people, I went to a different place.
         audio_url:
+  - slug: conditions-for
+    name: Conditions for
+    english_alternatives: for, to, too X to Y, not enough X to Y
+    meaning: The preceding clause expresses an often hypothetical situation, and the subsequent clause expresses a judgment related to the situation. Depending on whether the judgment is positive or negative, conditions for the situation can be either great or lacking. Often used with 는.
+    examples:
+      - sentence: 바다 <f>가기에는</f> 날씨가 딱 좋아요. 
+        type: simple
+        translated: The weather is just right for going to the beach.
+        audio_url:
+      - sentence: 케이크 <f>먹기엔</f> 너무 배불러. 
+        type: simple
+        translated: I'm too full to eat cake.
+        audio_url:
+      - sentence: 그 게임 <f>하기엔</f> 인원이 부족해. 8인부터잖아. 
+        type: simple
+        translated: We don't have enough people to play that game. It's for 8 or more players.
+        audio_url:
+  - slug: point-of-view
+    name: Point of view
+    english_alternatives: think, feel
+    meaning: Used with verbs like 보다, 느끼다, and 생각하다 at the start of a sentence to express one's point of view, or to ask another's point of view. Often used with 는. 
+    examples:
+      - sentence: 너가 <f>보기엔</f> 어때? 
+        type: simple
+        translated: What do you think about it?
+        audio_url: 
+      - sentence: 제가 <f>보기에는</f> 아주 능력 있는 분이에요. 
+        type: simple
+        translated: I think she's very capable.
+        audio_url: 
+      - sentence: 제가 <f>느끼기에는</f> 그 책은 초등학생이 읽기에는 적절하지 않아요. 
+        type: simple
+        translated: I feel that that book is not appropriate for elementary schoolers to read.
+        audio_url:
 metadata:
   type: verb
 details: |-

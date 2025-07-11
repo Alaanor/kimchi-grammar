@@ -1,0 +1,30 @@
+name: 만 해도
+definitions:
+  - slug: as-recently-as
+    name: As recently as
+    english_alternatives: Just (time expression) ago, up until
+    meaning: When following an expression of time (-전, -까지, 때...), expresses that as recently as some point in the past, something was different or not the case.
+    examples:
+      - sentence: 10년 <f>전만 해도</f>, 우리 나라가 이렇게 양극화되지는 않았다.
+        type: simple
+        translated: Even just 10 years ago, our country was not this polarized.
+        audio_url: https://r2.kimchi-reader.app/grammar/10년_전만_해도,_우리_나라가_이렇게_양극화되지는_않았다__2025-07-11.mp3
+      - sentence: <f>어제까지만 해도<f> 나는 그 사람이 사건에 관여했을 거라고는 생각도 못했어.
+        type: simple
+        translated: Just yesterday, I hadn't even once thought that he could have been involved in this case.
+        audio_url: https://r2.kimchi-reader.app/grammar/어제까지만_해도_나는_그_사람이_사건에_관여했을_거라고는_생각도_못했어__2025-07-11.mp3
+      - sentence: 도서관에 들어올 <f>때까지만 해도</f> 공부할 의욕이 차고 넘쳐났는데 교과서 펴고 보니까 집중이 안 되더라고요.
+        type: simple
+        translated: Right up until I entered the library, I was full of motivation to study, but once I opened the textbook, I couldn't focus at all.
+        audio_url: https://r2.kimchi-reader.app/grammar/도서관에_들어올_때까지만_해도_공부할_의욕이_차고_넘쳐났는데_교과서_펴고_보니까_집중이_안_되더라고요__2025-07-11.mp3
+      - sentence: <f>그때만 해도</f> 한국어를 잘 못했었어.
+        type: simple
+        translated: I couldn't speak Korean back then. (As recently as that point, I couldn't speak Korean)
+        audio_url: https://r2.kimchi-reader.app/grammar/그때만_해도_한국어를_잘_못했었어__2025-07-11.mp3
+      - sentence: 누구도 그를 한 달 <f>전까지만 해도</f> 노숙자라고 상상하지 못했을 것이다.
+        type: simple
+        translated: No one would have been able to imagine that he had been homeless as recently as a month ago.
+        audio_url: https://r2.kimchi-reader.app/grammar/누구도_그를_한_달_전까지만_해도_노숙자라고_상상하지_못했을_것이다__2025-07-11.mp3
+metadata:
+  type: composite
+details: ""

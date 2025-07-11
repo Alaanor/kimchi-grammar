@@ -5,22 +5,22 @@ definitions:
     english_alternatives: even if
     meaning: Expresses that even if the conditions of the preceding clause are true, the result will not be as expected. Can be used along with -겠어(요) as a rhetorical question.
     examples:
-      - sentence: 돈을 많이 <f>번들</f> 저금하기만 하고 안 쓰면 아무 소용이 없지 않나요? 
+      - sentence: 돈을 많이 <f>번들</f> 저금하기만 하고 안 쓰면 아무 소용이 없지 않나요?
         type: simple
         translated: Even if you make a lot of money, if you only save it and never use it, isn't it worthless?
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/돈을_많이_번들_저금하기만_하고_안_쓰면_아무_소용이_없지_않나요__2025-07-11.mp3
       - sentence: 그 목격자가 경찰에 사실대로 말한다면, 용의자가 아무리 <f>부인한들</f> 형사는 믿어주지 않을 것이다.
         type: simple
         translated: If that witness tells the police the truth, then no matter how much the suspect denies it, the detectives won't believe him.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/그_목격자가_경찰에_사실대로_말한다면,_용의자가_아무리_부인한들_형사는_믿어주지_않을_것이다__2025-07-11.mp3
       - sentence: 사전이 아무리 가까이 있다 <f>한들</f> 그것을 찾아보지 않으면 사전 속의 지식은 남의 머릿속에 든 지식일 뿐이다.
         type: simple
         translated: No matter how close a dictionary may be, if you don't use it, the knowledge inside that dictionary is merely knowledge in someone else's head.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/사전이_아무리_가까이_있다_한들_그것을_찾아보지_않으면_사전_속의_지식은_남의_머릿속에_든_지식일_뿐이다__2025-07-11.mp3
       - sentence: 집이 <f>좁은들</f> 우리가 살 수 없겠어?
         type: simple
         translated: Can we not live in a small house? (of course we're able to live in a small house)
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/집이_좁은들_우리가_살_수_없겠어__2025-07-11.mp3
 metadata:
   type: verb
-details: |-
+details: ""

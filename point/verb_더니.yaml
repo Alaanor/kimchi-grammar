@@ -18,18 +18,18 @@ definitions:
     english_alternatives: and
     meaning: Used to narrate a sequence of events directly witnessed by the speaker. The subject of both clauses must be the same.
     examples:
-      - sentence: 미나는 부엌에 <f>가더니</f> 5분 만에 라면을 만들어 냈다. 
+      - sentence: 미나는 부엌에 <f>가더니</f> 5분 만에 라면을 만들어 냈다.
         type: simple
         translated: Mina went to the kitchen and made ramen in just 5 minutes.
-        audio_url: 
-      - sentence: 이야기 중이던 맥스가 우리의 대화를 가만히 듣고 서 있는 앨리스를 흘긋 <f>쳐다보더니</f> 입을 닫았다. 
+        audio_url: https://r2.kimchi-reader.app/grammar/미나는_부엌에_가더니_5분_만에_라면을_만들어_냈다__2025-07-11.mp3
+      - sentence: 이야기 중이던 맥스가 우리의 대화를 가만히 듣고 서 있는 앨리스를 흘긋 <f>쳐다보더니</f> 입을 닫았다.
         type: simple
         translated: Max, who had been telling a story, glanced at Alice, who was listening quietly to our conversation, and then closed his mouth.
-        audio_url: 
-      - sentence: 눈시울이 점점 <f>붉어지더니</f> 제이콥이 결국 참지 못하고 펑펑 울기 시작했다. 
+        audio_url: https://r2.kimchi-reader.app/grammar/이야기_중이던_맥스가_우리의_대화를_가만히_듣고_서_있는_앨리스를_흘긋_쳐다보더니_입을_닫았다__2025-07-11.mp3
+      - sentence: 눈시울이 점점 <f>붉어지더니</f> 제이콥이 결국 참지 못하고 펑펑 울기 시작했다.
         type: simple
-        translated: Jacob's eyes grew red until he couldn't hold it in anymore and started to sob. 
-        audio_url: 
+        translated: Jacob's eyes grew red until he couldn't hold it in anymore and started to sob.
+        audio_url: https://r2.kimchi-reader.app/grammar/눈시울이_점점_붉어지더니_제이콥이_결국_참지_못하고_펑펑_울기_시작했다__2025-07-11.mp3
 metadata:
   type: verb
 details: |-

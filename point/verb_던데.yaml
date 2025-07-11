@@ -3,8 +3,7 @@ definitions:
   - slug: surprise
     name: Surprise
     english_alternatives:
-    meaning: Used to express surprise or disbelief toward a past event or particular situation based on something that the speaker saw or experienced.
-      Expecting an answer from the listener. Can also be used to make a contradiction.
+    meaning: Used to express surprise or disbelief toward a past event or particular situation based on something that the speaker saw or experienced. Expecting an answer from the listener. Can also be used to make a contradiction.
     examples:
       - sentence: 그 사람은 축구도 제법 잘하<f>던데요</f>.
         type: simple
@@ -23,14 +22,14 @@ definitions:
     english_alternatives:
     meaning: Similar to ㄴ/는데, but with the added nuance that the speaker has seen or experienced the fact or situation described in that clause. When a '다' is added in front (-다던데), it is used to convey that the speaker has heard from someone that something is the case.
     examples:
-      - sentence: 너 요즘 이상한 사람들이랑 어울리던데 괜찮아? 
+      - sentence: 너 요즘 이상한 사람들이랑 어울리던데 괜찮아?
         type: simple
         translated: I've noticed you've been hanging out with some strange people recently. Are you okay?
-        audio_url:
-      - sentence: 한국 음식이 맵다던데 사실인가요? 
+        audio_url: https://r2.kimchi-reader.app/grammar/너_요즘_이상한_사람들이랑_어울리던데_괜찮아__2025-07-11.mp3
+      - sentence: 한국 음식이 맵다던데 사실인가요?
         type: simple
         translated: I've heard / people say that Korean food is spicy -- is that true?
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/한국_음식이_맵다던데_사실인가요__2025-07-11.mp3
 metadata:
   type: verb
-details: |-
+details: ""

@@ -16,7 +16,7 @@ definitions:
   - slug: and-then
     name: And then
     english_alternatives: and
-    meaning: Used to narrate a sequence of events directly observed by the speaker. The subjects of both clauses are usually but not always the same. There is often a nuance that the first clause becomes the cause of the second clause.
+    meaning: Used to narrate a sequence of events directly observed by the speaker. The subjects of both clauses are usually but not always the same, and the speaker cannot be the subject. There is often a nuance that the first clause becomes the cause of the second clause.
     examples:
       - sentence: 미나는 부엌에 <f>가더니</f> 5분 만에 라면을 만들어 냈다.
         type: simple

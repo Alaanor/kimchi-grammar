@@ -13,11 +13,11 @@ definitions:
         type: simple
         translated: This product is really popular among young people these days.
         audio_url: https://r2.kimchi-reader.app/grammar/이_제품이_요즘_청소년들에게_정말_인기가_많더라고요__2024-04-13.mp3
-      - sentence: 민주가 축구 되게 잘하더라. 
+      - sentence: 민주가 축구 되게 <f>잘하더라</f>. 
         type: simple
         translated: Minjoo is seriously good at soccer. 
         audio_url:
-      - sentence: 한국에 처음 왔을 때 외국인이 별로 없더라고요. 
+      - sentence: 한국에 처음 왔을 때 외국인이 별로 <f>없더라고요</f>. 
         type: simple
         translated: There weren't many foreigners in Korea when I first came. 
         audio_url:
@@ -26,15 +26,15 @@ definitions:
     english_alternatives: who/where/when was it again?
     meaning: Used in casual speech to wonder to oneself while recalling a past event, or to ask the listener about a shared past experience. 뭐더라 / 뭐였더라 can be filler words.
     examples:
-      - sentence: 우리가 처음으로 언제 만났더라? 
+      - sentence: 우리가 처음으로 언제 <f>만났더라</f>? 
         type: simple
         translated: When did we first meet again?
         audio_url:
-      - sentence: 그 가수 이름 뭐더라?
+      - sentence: 그 가수 이름 <f>뭐더라</f>?
         type: simple
         translated: What's that singer's name again?
         audio_url:
-      - sentence: 내가 어제 어디 갔더라? 
+      - sentence: 내가 어제 어디 <f>갔더라</f>? 
         type: simple
         translated: Hmm, where did I go yesterday?
         audio_url:

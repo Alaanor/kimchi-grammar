@@ -1,0 +1,35 @@
+name: 던가
+definitions:
+  - slug: asking-about-the-past
+    name: Asking about the past
+    english_alternatives:
+    meaning: Used exclusively in 하게체 to ask the listener about a past event. 하게체 is a register of speech that slightly lowers the listener and is falling out of fashion as of recently. It sounds extremely awkward when used by younger people.
+    examples:
+      - sentence: 그 식당이 <f>맛있던가</f>? 
+        type: simple
+        translated: Was that restaurant good?
+        audio_url:
+      - sentence: 뭐라고 <f>하던가</f>? 
+        type: simple
+        translated: What did she say?
+        audio_url:
+  - slug: asking-oneself-about-the-past
+    name: Asking oneself about the past
+    english_alternatives:
+    meaning: Used to wonder to oneself about something in the past or to make a guess about a past event. 
+    examples:
+      - sentence: 내가 <f>그랬던가</f>? 
+        type: simple
+        translated: Did I say that? 
+        audio_url:
+      - sentence: 둘이 그렇게 <f>친했던가</f>? 
+        type: simple
+        translated: Were they really that close? 
+        audio_url:
+      - sentence: 혹시 내가 기분을 안 좋게 <f>했던가</f> 해서 걱정했지. 
+        type: simple
+        translated: I was worried that maybe I had hurt your feelings. 
+        audio_url:
+metadata:
+  type: verb
+details: |-

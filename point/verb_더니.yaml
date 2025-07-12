@@ -22,7 +22,7 @@ definitions:
         type: simple
         translated: Mina went to the kitchen and made ramen in just 5 minutes.
         audio_url: https://r2.kimchi-reader.app/grammar/미나는_부엌에_가더니_5분_만에_라면을_만들어_냈다__2025-07-11.mp3
-      - sentence: 구름이 끼더니 눈이 왔다. 
+      - sentence: 구름이 <f>끼더니</f> 눈이 왔다. 
         type: simple
         translated: It was cloudy and then it snowed. 
         audio_url:

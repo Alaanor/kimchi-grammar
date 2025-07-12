@@ -1,0 +1,22 @@
+name: 더러
+definitions:
+  - slug: target-person
+    name: Target person
+    english_alternatives:
+    meaning: Follows a pronoun or title to define a person as the recipient or target of an action. Commonly used with expressions related to speech or conversation.
+    examples:
+      - sentence: 그것은 <f>형더러</f> 물어봐. 
+        type: simple
+        translated: Ask my brother about that. 
+        audio_url:
+      - sentence: 누가 <f>너더러</f> 냄새 난대? 
+        type: simple
+        translated: Who said you smell bad?
+        audio_url:
+      - sentence: <f>너더러</f> 무조건 견디라는 말은 아니야. 
+        type: simple
+        translated: I'm not telling you to just put up with everything. 
+        audio_url:
+metadata:
+  type: noun
+details: |-

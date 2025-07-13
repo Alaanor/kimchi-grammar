@@ -9,10 +9,10 @@ definitions:
         type: simple
         translated: Smoking indoors is not allowed.
         audio_url: https://r2.kimchi-reader.app/grammar/실내에서_담배를_피우면_안_돼요__2024-05-15.mp3
-      - sentence: 욵전 중에 전화하<f>면 안 돼요</f>.
+      - sentence: 운전 중에 전화하<f>면 안 돼요</f>.
         type: simple
         translated: Using the phone while driving is not allowed.
-        audio_url: https://r2.kimchi-reader.app/grammar/욵전_중에_전화하면_안_돼요__2024-05-15.mp3
+        audio_url: https://r2.kimchi-reader.app/grammar/운전_중에_전화하면_안_돼요__2025-07-11.mp3
       - sentence: 지금 길을 건너<f>면 안 돼요</f>.
         type: simple
         translated: You may not cross the street now.

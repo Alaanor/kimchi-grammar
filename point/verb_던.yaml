@@ -1,14 +1,35 @@
 name: 던
 definitions:
-  - slug: past-experience
-    name: Past experience
+  - slug: past-habitual-experience
+    name: Past habitual experience
     english_alternatives:
-    meaning: Used to share or ask about a past experience.
+    meaning: Used to share or ask about a past experience. The past experience must have been habitual and not a one-time occurrence.
     examples:
-      - sentence: 어렸을 때 성격이 너무 소심했<f>던</f> 탓에 친구를 사귀지 못했어요.
+      - sentence: 어릴 때 엄마가 해주시던 밥이 정말 맛있었어.
         type: simple
-        translated: I couldn't make friends because I was too timid when I was young.
-        audio_url: https://r2.kimchi-reader.app/grammar/어렸을_때_성격이_너무_소심했던_탓에_친구를_사귀지_못했어요__2024-04-13.mp3
+        translated: The food my mom would make for me when I was little was really delicious.
+        audio_url: https://r2.kimchi-reader.app/grammar/어릴_때_엄마가_해주시던_밥이_정말_맛있었어__2025-07-11.mp3
+      - sentence: 신입 사원일 때 자주 입던 옷인데 지금도 가끔 입어.
+        type: simple
+        translated: I wore this outfit a lot when I was new to the company, and I still wear it occasionally now.
+        audio_url: https://r2.kimchi-reader.app/grammar/신입_사원일_때_자주_입던_옷인데_지금도_가끔_입어__2025-07-11.mp3
+  - slug: past-interrupted-action
+    name: Past interrupted action
+    english_alternatives: had been -ing
+    meaning:
+    examples:
+      - sentence: 내가 먹던 라면을 동생이 훔쳐먹었다.
+        type: simple
+        translated: My little brother stole and ate the ramen I had been eating.
+        audio_url: https://r2.kimchi-reader.app/grammar/내가_먹던_라면을_동생이_훔쳐먹었다__2025-07-11.mp3
+      - sentence: 하던 일 해.
+        type: simple
+        translated: Go back to what you had been doing.
+        audio_url: https://r2.kimchi-reader.app/grammar/하던_일_해__2025-07-11.mp3
+      - sentence: 전화가 울렸을 때 읽던 책을 접고 받았다.
+        type: simple
+        translated: When the phone rang, I closed the book I had been reading and picked up the call.
+        audio_url: https://r2.kimchi-reader.app/grammar/전화가_울렸을_때_읽던_책을_접고_받았다__2025-07-11.mp3
   - slug: past-action
     name: Past action
     english_alternatives:
@@ -20,4 +41,4 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/'김'이라는_성은_신라에_살고_있던_귀족들의_성씨였어요__2024-04-13.mp3
 metadata:
   type: verb
-details: |-
+details: ""

@@ -13,7 +13,7 @@ definitions:
         type: simple
         translated: She left the company as of last Friday.
         audio_url:
-      - sentence: 이 약속은 내일<f>부</f>로효력이 발생합니다.
+      - sentence: 이 약속은 내일<f>부</f>로 효력이 발생합니다.
         type: simple
         translated: This agreement becomes effective as of tomorrow.
         audio_url:

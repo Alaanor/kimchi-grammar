@@ -5,14 +5,14 @@ definitions:
     english_alternatives: but
     meaning: Used when the speaker wants to refer to a change compared to the past that they have directly seen or experienced. The speaker themself cannot be the subject.
     examples:
-      - sentence: 아침에는 하늘에 구름 한 점 없는 게 하루 종일 맑을 것 <f>같더니</f>, 금방 비가 쏟아지네. 
+      - sentence: 아침에는 하늘에 구름 한 점 없는 게 하루 종일 맑을 것 <f>같더니</f>, 금방 비가 쏟아지네.
         type: simple
         translated: In the morning, there wasn't a single cloud in the sky, so it looked like it would be clear all day, but not long after it started to pour.
-        audio_url:
-      - sentence: 어릴 때 편식을 <f>하더니</f> 이제 나도 못 먹는 것까지 잘 먹는구나. 
+        audio_url: https://r2.kimchi-reader.app/grammar/아침에는_하늘에_구름_한_점_없는_게_하루_종일_맑을_것_같더니,_금방_비가_쏟아지네__2025-07-19.mp3
+      - sentence: 어릴 때 편식을 <f>하더니</f> 이제 나도 못 먹는 것까지 잘 먹는구나.
         type: simple
         translated: You were so picky when you were little, but now you even eat things that I don't eat.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/어릴_때_편식을_하더니_이제_나도_못_먹는_것까지_잘_먹는구나__2025-07-19.mp3
   - slug: and-then
     name: And then
     english_alternatives: and
@@ -22,10 +22,10 @@ definitions:
         type: simple
         translated: Mina went to the kitchen and made ramen in just 5 minutes.
         audio_url: https://r2.kimchi-reader.app/grammar/미나는_부엌에_가더니_5분_만에_라면을_만들어_냈다__2025-07-11.mp3
-      - sentence: 구름이 <f>끼더니</f> 눈이 왔다. 
+      - sentence: 구름이 <f>끼더니</f> 눈이 왔다.
         type: simple
-        translated: It was cloudy and then it snowed. 
-        audio_url:
+        translated: It was cloudy and then it snowed.
+        audio_url: https://r2.kimchi-reader.app/grammar/구름이_끼더니_눈이_왔다__2025-07-19.mp3
       - sentence: 이야기 중이던 맥스가 우리의 대화를 가만히 듣고 서 있는 앨리스를 흘긋 <f>쳐다보더니</f> 입을 닫았다.
         type: simple
         translated: Max, who had been telling a story, glanced at Alice, who was listening quietly to our conversation, and then closed his mouth.
@@ -37,13 +37,12 @@ definitions:
   - slug: related-to-past-event
     name: Related to past event
     english_alternatives:
-    meaning: Used to express the existence of an additional event or truth related to something in the past. 
+    meaning: Used to express the existence of an additional event or truth related to something in the past.
     examples:
       - sentence: 요즘 부동산에 집 보러 <f>다니더니</f> 좋은 집을 찾았어요?
         type: simple
         translated: You've been looking at houses lately. Did you find a good one?
         audio_url: https://r2.kimchi-reader.app/grammar/요즘_부동산에_집_보러_다니더니_좋은_집을_찾았어요__2024-04-13.mp3
-
 metadata:
   type: verb
 details: |-

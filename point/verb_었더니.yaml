@@ -5,19 +5,18 @@ definitions:
     english_alternatives: and, so
     meaning: Used to narrate a sequence of events observed by the speaker. There is often a nuance that the first clause becomes the cause of the second clause. The subjects of both clauses must be different. Note that the speaker's past self and present self can be considered different subjects, and so first-person narration is possible.
     examples:
-      - sentence: 어제 오랜만에 하체를 <f>했더니</f> 다리가 너무 아파. 
+      - sentence: 어제 오랜만에 하체를 <f>했더니</f> 다리가 너무 아파.
         type: simple
         translated: Yesterday I did leg day for the first time in a while, so now my legs really hurt.
-        audio_url:
-      - sentence: 언니가 동생에게 너 괜찮냐고 <f>물어봤더니</f> 눈물이 펑펑 나왔어. 
+        audio_url: https://r2.kimchi-reader.app/grammar/어제_오랜만에_하체를_했더니_다리가_너무_아파__2025-07-19.mp3
+      - sentence: 언니가 동생에게 너 괜찮냐고 <f>물어봤더니</f> 눈물이 펑펑 나왔어.
         type: simple
-        translated: My big sister asked my little sister if she was okay, and then my little sister burst into tears. 
-        audio_url:
+        translated: My big sister asked my little sister if she was okay, and then my little sister burst into tears.
+        audio_url: https://r2.kimchi-reader.app/grammar/언니가_동생에게_너_괜찮냐고_물어봤더니_눈물이_펑펑_나왔어__2025-07-19.mp3
       - sentence: 부모님한테 다음에 차로 태워달라고 했어. <f>그랬더니</f> 알겠다고 하셨어!
         type: simple
         translated: I asked my parents if they could drive me next time. And they said they would!
-        audio_url:
-
+        audio_url: https://r2.kimchi-reader.app/grammar/부모님한테_다음에_차로_태워달라고_했어_그랬더니_알겠다고_하셨어__2025-07-19.mp3
 metadata:
   type: verb
-details: |-
+details: ""

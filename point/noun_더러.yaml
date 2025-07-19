@@ -5,18 +5,18 @@ definitions:
     english_alternatives:
     meaning: Follows a pronoun or title to define a person as the recipient or target of an action. Commonly used with expressions related to speech or conversation.
     examples:
-      - sentence: 그것은 <f>형더러</f> 물어봐. 
+      - sentence: 그것은 <f>형더러</f> 물어봐.
         type: simple
-        translated: Ask my brother about that. 
-        audio_url:
-      - sentence: 누가 <f>너더러</f> 냄새 난대? 
+        translated: Ask my brother about that.
+        audio_url: https://r2.kimchi-reader.app/grammar/그것은_형더러_물어봐__2025-07-19.mp3
+      - sentence: 누가 <f>너더러</f> 냄새 난대?
         type: simple
         translated: Who said you smell bad?
-        audio_url:
-      - sentence: <f>너더러</f> 무조건 견디라는 말은 아니야. 
+        audio_url: https://r2.kimchi-reader.app/grammar/누가_너더러_냄새_난대__2025-07-19.mp3
+      - sentence: <f>너더러</f> 무조건 견디라는 말은 아니야.
         type: simple
-        translated: I'm not telling you to just put up with everything. 
-        audio_url:
+        translated: I'm not telling you to just put up with everything.
+        audio_url: https://r2.kimchi-reader.app/grammar/너더러_무조건_견디라는_말은_아니야__2025-07-19.mp3
 metadata:
   type: noun
-details: |-
+details: ""

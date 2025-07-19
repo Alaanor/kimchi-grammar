@@ -17,10 +17,10 @@ definitions:
         type: simple
         translated: Since we'll be busy, let's eat out for lunch today.
         audio_url: https://r2.kimchi-reader.app/grammar/바쁠_테니까_오늘은_점심을_밖에서_먹자__2024-07-24.mp3
-      - sentence: 요리는 내가 <f>할 테니</f> 청소기 좀 돌려. 
+      - sentence: 요리는 내가 <f>할 테니</f> 청소기 좀 돌려.
         type: simple
         translated: I'm going to make the food, so you vacuum.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/요리는_내가_할_테니_청소기_좀_돌려__2025-07-19.mp3
 metadata:
   type: composite
 details: |-

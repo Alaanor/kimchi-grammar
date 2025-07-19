@@ -5,31 +5,31 @@ definitions:
     english_alternatives:
     meaning: Used exclusively in 하게체 to ask the listener about a past event. 하게체 is a register of speech that slightly lowers the listener and is falling out of fashion as of recently. It sounds extremely awkward when used by younger people.
     examples:
-      - sentence: 그 식당이 <f>맛있던가</f>? 
+      - sentence: 그 식당이 <f>맛있던가</f>?
         type: simple
         translated: Was that restaurant good?
-        audio_url:
-      - sentence: 뭐라고 <f>하던가</f>? 
+        audio_url: https://r2.kimchi-reader.app/grammar/그_식당이_맛있던가__2025-07-19.mp3
+      - sentence: 뭐라고 <f>하던가</f>?
         type: simple
         translated: What did she say?
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/뭐라고_하던가__2025-07-19.mp3
   - slug: asking-oneself-about-the-past
     name: Asking oneself about the past
     english_alternatives:
-    meaning: Used to wonder to oneself about something in the past or to make a guess about a past event. 
+    meaning: Used to wonder to oneself about something in the past or to make a guess about a past event.
     examples:
-      - sentence: 내가 <f>그랬던가</f>? 
+      - sentence: 내가 <f>그랬던가</f>?
         type: simple
-        translated: Did I say that? 
-        audio_url:
-      - sentence: 둘이 그렇게 <f>친했던가</f>? 
+        translated: Did I say that?
+        audio_url: https://r2.kimchi-reader.app/grammar/내가_그랬던가__2025-07-19.mp3
+      - sentence: 둘이 그렇게 <f>친했던가</f>?
         type: simple
-        translated: Were they really that close? 
-        audio_url:
-      - sentence: 혹시 내가 기분을 안 좋게 <f>했던가</f> 해서 걱정했지. 
+        translated: Were they really that close?
+        audio_url: https://r2.kimchi-reader.app/grammar/둘이_그렇게_친했던가__2025-07-19.mp3
+      - sentence: 혹시 내가 기분을 안 좋게 <f>했던가</f> 해서 걱정했지.
         type: simple
-        translated: I was worried that maybe I had hurt your feelings. 
-        audio_url:
+        translated: I was worried that maybe I had hurt your feelings.
+        audio_url: https://r2.kimchi-reader.app/grammar/혹시_내가_기분을_안_좋게_했던가_해서_걱정했지__2025-07-19.mp3
 metadata:
   type: verb
-details: |-
+details: ""

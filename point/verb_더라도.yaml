@@ -3,20 +3,20 @@ definitions:
   - slug: strong-inevitable-outcome
     name: Strong Inevitable Outcome
     english_alternatives: even if
-    meaning: Indicates that the second clause will happens regardless of the described state or action of the first clause. Stronger in meaning than 아/어도. Often used to speculate or theorize. 
+    meaning: Indicates that the second clause will happens regardless of the described state or action of the first clause. Stronger in meaning than 아/어도. Often used to speculate or theorize.
     examples:
-      - sentence: 식당에 일찍 가서 줄 서 <f>있더라도</f> 웨이팅이 오래 걸릴 수도 있어요. 
+      - sentence: 식당에 일찍 가서 줄 서 <f>있더라도</f> 웨이팅이 오래 걸릴 수도 있어요.
         type: simple
         translated: Even if we go to the restaurant early and stand in line, it might take a while to get in.
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/식당에_일찍_가서_줄_서_있더라도_웨이팅이_오래_걸릴_수도_있어요__2025-07-19.mp3
       - sentence: 라면은 매일 <f>먹더라도</f> 질리지 않을 것 같아요.
         type: simple
         translated: I don't think I'll get tired of eating ramen even if I eat it every day.
-        audio_url:
-      - sentence: 헤어진 상대를 훨씬 더 멋있는 모습으로 마주치게 되면 상대방을 후회하게 만들 수 있고, 후회까지는 <f>아니더라도</f> 조금의 씁쓸함을 안겨줄 수 있습니다. 
+        audio_url: https://r2.kimchi-reader.app/grammar/라면은_매일_먹더라도_질리지_않을_것_같아요__2025-07-19.mp3
+      - sentence: 헤어진 상대를 훨씬 더 멋있는 모습으로 마주치게 되면 상대방을 후회하게 만들 수 있고, 후회까지는 <f>아니더라도</f> 조금의 씁쓸함을 안겨줄 수 있습니다.
         type: simple
-        translated: If you run into an ex and you're looking much better than before, you can make them regret the breakup, or even if it doesn't go as far as regret, you can make them feel a little bitter. 
-        audio_url:
+        translated: If you run into an ex and you're looking much better than before, you can make them regret the breakup, or even if it doesn't go as far as regret, you can make them feel a little bitter.
+        audio_url: https://r2.kimchi-reader.app/grammar/헤어진_상대를_훨씬_더_멋있는_모습으로_마주치게_되면_상대방을_후회하게_만들_수_있고,_후회까지는_아니더라도_조금의_씁쓸함을_안겨줄_수_있습니다__2025-07-19.mp3
 metadata:
   type: verb
-details: |-
+details: ""

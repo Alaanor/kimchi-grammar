@@ -55,3 +55,6 @@ relation:
   - concern:
       - { id: "아어_달다", slug: "request" }
       - { id: "아어_달라고", slug: "quote-favor-request" }
+  - concern:
+      - { id: "noun_부터", slug: "starting-point" }
+      - { id: "noun_부", slug: "starting-from" }

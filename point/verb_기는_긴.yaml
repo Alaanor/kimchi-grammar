@@ -11,19 +11,27 @@ definitions:
         type: simple
         translated: I'm not that good. There are many people who are better than me.
         audio_url: https://r2.kimchi-reader.app/grammar/잘하기는요_저보다_잘하는_사람이_많아요__2024-04-13.mp3
-  - slug: contrast
-    name: Contrast
+  - slug: partial-acknowledgment 
+    name: Partial Acknowledgment
     english_alternatives:
-    meaning: Used to contrast the current situation with a different situation.
-      The speaker acknowledge the first clause but want to express a difference stance or view.
-      Only the 기는 form is valid in this case.
+    meaning: In the form 기는/긴 하다, the speaker acknowledges that something is true or is indeed the case. It is often followed by -지만 or -는데/ㄴ데 grammar to form a partial acknowledgment with an objection.
     examples:
+      - sentence: 니 말대로 이 라면이 맛이 좀 없<f>긴<f> 하네. 
+        type: simple
+        translated: Like you said, this ramen really is kind of bad. 
+        audio_url: 
       - sentence: 우리 아이가 시끄럽게 하<f>기는</f> 해도 말썽을 부리지는 않아. 그러니까 걱정하지 마.
         type: simple
         translated: Even though my child can be noisy, they don't cause trouble. So don't worry.
         audio_url: https://r2.kimchi-reader.app/grammar/우리_아이가_시끄럽게_하기는_해도_말썽을_부리지는_않아_그러니까_걱정하지_마__2024-04-13.mp3
+      - sentence: 한국어를 5년 전부터 공부해왔어요. 아직까진 잘 못하<f>긴</f> 하지만요. 
+        type: simple
+        translated: I've studied Korean for 5 years. Although I must admit I'm still not very good. 
+        audio_url: 
 metadata:
   type: verb
 details: |-
   # Shortened form {#shortened}
   Instead of the full version :grammar[verb_기는_긴]{gentle-refutation} can be shortened to <f>긴(요)</f>.
+  # Other uses of 긴 
+  긴 can also be used in reduplicative expressions such as -긴 -구나 (좋긴 좋구나) or -긴 -ㄴ가/나 보다 (힘들긴 힘든가 보다). The former adds emphasis to a -구나 expression, and the latter adds emphasis to a -ㄴ가/나 보다 expression, with the added nuance that the speaker has experienced or noticed several things that have confirmed their impression of a situation being a certain way.

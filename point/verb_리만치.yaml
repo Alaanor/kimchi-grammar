@@ -1,0 +1,18 @@
+name: 리만치
+definitions:
+  - slug: so-much-so-that
+    name: So Much So That
+    english_alternatives:
+    meaning: Very similar to -ㄹ 정도로 or -ㄹ 만큼 (but less common), it expresses the extent of a verb or adjective.
+    examples:
+      - sentence: 우연치고는 너무 이상하<f>리만치</f> 자꾸 엮이는 것 같아요. 
+        type: simple
+        translated: We keep running into each other -- it's too strange to be just a coincidence. 
+        audio_url: 
+      - sentence: 선뜩하<f>리만치</f> 깔끔한 공중제비로, 아이돌이 무대 왼 구석에서 튀어나왔다. 
+        type: simple
+        translated: The idol burst out from the left corner of the stage with a shockingly/chillingly clean acrobatic move. 
+        audio_url: 
+metadata:
+  type: verb
+details: |-

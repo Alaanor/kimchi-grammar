@@ -3,7 +3,7 @@ definitions:
   - slug: or-theoretical
     name: Theoretical Or
     english_alternatives: whether, or something
-    meaning: -라든가 is a contraction of '-라고 하든가' and is used to list various descriptions that can be selected. (ㄴ)다든가 and the past tense, -았/었/였다든가, which are contractions of (ㄴ)다고 하든가, follow verbs or adjectives to list various propositions that can be selected. These descriptions or propositions all refer to theoretical actions or situations, which is the distinction between this grammar and -든가.  
+    meaning: -라든가 is used to list various descriptions that can be selected. (ㄴ)다든가 follows verbs or adjectives to list various propositions that can be selected. These descriptions or propositions are mainly theoretical, which is the distinction between this grammar and -든가.  
     examples:
       - sentence: 집에 누군가 찾아오지는 않았습니까? 아니면 전화가 걸려왔<f>다든가</f>... 
         type: simple
@@ -24,3 +24,5 @@ definitions:
 metadata:
   type: verb
 details: |-
+# Origin {#origin}
+  -라든가 is a contraction of '-라고 하든가' and (ㄴ)다든가 a contraction of '-(ㄴ)다고 하든가'. 

@@ -1,0 +1,22 @@
+name: 간
+definitions:
+  - slug: duration
+    name: Duration
+    english_alternatives: for, during
+    meaning: Follows expressions of time (초, 분, 시간, 며칠, 년 etc), indicating that an action continued throughout a period. 
+    examples:
+      - sentence: 묻지마 방화가 일어나는 바람에 지하철 운행이 30분간 중단되었다. 
+        type: simple
+        translated: Due to an unprovoked arson, the subway did not run for 30 minutes. 
+        audio_url: 
+      - sentence: 그 정치가는 2009년부터 9년간 중학교 교사로 일했거든요. 
+        type: simple
+        translated: That politician actually worked as a middle school teacher for 9 years, starting in 2009. 
+        audio_url: 
+      - sentence: 여자친구랑 헤어지고 나서 며칠간 술에 취해 펑펑 울었어요. 
+        type: simple
+        translated: After my girlfriend broke up with me, I spent several days drunk and crying. 
+        audio_url: 
+metadata:
+  type: noun
+details: ""

@@ -9,7 +9,7 @@ definitions:
         type: simple
         translated: Oh, [what you just said] wasn't meant to be heard? Then maybe you should whisper it. Or squish yourselves into a corner before prattling on. 
         audio_url: 
-      - sentence: 밥이 없으니 점심으로 라면을 끓이든가 빵을 먹든가 해. 
+      - sentence: 밥이 없으니 점심으로 라면을 끓이<f>든가</f> 빵을 먹<f>든가/f> 해. 
         type: simple
         translated: There's no rice, so boil ramen or eat bread for lunch. 
         audio_url: 

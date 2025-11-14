@@ -1,0 +1,32 @@
+name: 는커녕
+definitions:
+  - slug: not-even
+    name: Not even
+    english_alternatives: much less, not only
+    meaning: Used typically in negative sentences in the form 'A는커녕 B' (A and B are verbs, with A nominalized ending in -기) to indicate that not only did a negative event A happen (or a positive event A did not happen), but that an even more negative event B happened (or a less positive event B did not happen either). 
+    It can either directly follow nouns or take the form "noun은/는 커녕." Sometimes the latter is written without a space as well.
+    examples:
+      - sentence: 유경은 대학교<f>커녕</f> 초등학교도 다니지 못했다.
+        type: simple
+        translated: Yugyeong wasn't able to attend elementary school, much less college. 
+        audio_url: 
+      - sentence: 그 시절 운동<f>은 커녕</f> 하루의 절반은 누워 있었다. 
+        type: simple
+        translated: Back then, not only did I not exercise, I spent half of each day lying down. 
+        audio_url: 
+      - sentence: 1999년에 지구 멸망<f>은커녕</f> 멀쩡하게 잘 돌아가고 있었다. 
+        type: simple
+        translated: Not only did the world not end in 1999, everything was going just fine. 
+        audio_url: 
+      - sentence: 시험을 망친 진우에게는 위로의 말을 해주기<f>는커녕</f> 오히려 차갑게 대했다. 
+        type: simple
+        translated: Not only did I not comfort Jinwoo after he failed his test, I treated him coldly. 
+        audio_url: 
+      - sentence: 가해자가 피해자를 불러내 돈을 돌려주지 않으면 죽여 버리겠다며 식칼로 협박을 했는데, 피해자가 겁을 내기<f>는커녕</f> 바보 취급하듯 비웃었어요. 
+        type: simple
+        translated: The perpetrator met the victim and said he would kill her if she didn't return his money, threatening her with a kitchen knife, but the victim mocked him without showing any sign of fear. 
+        audio_url: 
+metadata:
+  type: verb
+details: |-
+  

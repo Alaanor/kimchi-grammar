@@ -1,0 +1,22 @@
+name: -지 그렇다 
+definitions:
+  - slug: gentle-suggestion
+    name: gentle-suggestion
+    english_alternatives: how about, can we
+    meaning: Used as -지 그래, -지 그래요, -지 그러세요 depending on the level of speech to suggest that the listener do something. -지 그래 and -지 그래요 are less direct / more gentle compared to other kinds of suggestions in 반말 and 존댓말 respectively, but -지 그러세요 is probably on the more direct side and should not be used to those above you.
+    examples:
+      - sentence: 그 단어를 모르면 사전에 찾아보<f>지 그래요</f>?
+        type: simple
+        translated: If you don't know that word, how about you look it up?
+        audio_url: 
+      - sentence: 식당 구석에 저 의자 좀 치우<f>지 그래요</f>? 너무 낡아서 눈에 거슬려요. 
+        type: simple
+        translated: Can you please put that chair in the corner of the restaurant away? It's so old, I don't like seeing it. 
+        audio_url: 
+      - sentence: 이제 출발 좀 하<f>지 그래</f>?
+        type: simple
+        translated: Can we get going now?
+        audio_url: 
+metadata:
+  type: verb
+details: |-

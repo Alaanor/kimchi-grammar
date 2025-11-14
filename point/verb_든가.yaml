@@ -1,0 +1,22 @@
+name: 든가
+definitions:
+  - slug: or-suggestion
+    name: Or Suggestion
+    english_alternatives: 
+    meaning: Similar to 든지. Expresses that either one of the two stated actions or situations is acceptable. If there is only one stated action, it can be a suggestion that the listener do the stated action "or something" and is often motivated by anger or passive-aggression. Is sometimes written as "-던가" although this is not standard spelling.
+    examples:
+      - sentence: 아, 들으라고 한 소리는 아니구나? 그럼 말소리를 좀 작게 소곤대면서 하<f>든가</f>. 아니면 어디 구석에 찌그러져서 지껄이<f>든가</f>. 
+        type: simple
+        translated: Oh, [what you just said] wasn't meant to be heard? Then maybe you should whisper it. Or squish yourselves into a corner before prattling on. 
+        audio_url: 
+      - sentence: 밥이 없으니 점심으로 라면을 끓이든가 빵을 먹든가 해. 
+        type: simple
+        translated: There's no rice, so boil ramen or eat bread for lunch. 
+        audio_url: 
+      - sentence: 가: 빨리 원하는 거나 사. 좀 이따 친구랑 약속 있는데... 빨리 끝내자. 나: 그럼 그냥 가<f>든가</f>! 
+        type: simple
+        translated: A: Just hurry up and buy whatever you want. I have plans with a friend in a bit... let's finish up quickly. B: Then just go!
+        audio_url: 
+metadata:
+  type: verb
+details: |-

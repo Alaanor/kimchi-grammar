@@ -3,8 +3,7 @@ definitions:
   - slug: not-even
     name: Not even
     english_alternatives: much less, not only
-    meaning: Used typically in negative sentences in the form 'A는커녕 B' (A and B are verbs, with A nominalized ending in -기) to indicate that not only did a negative event A happen (or a positive event A did not happen), but that an even more negative event B happened (or a less positive event B did not happen either). 
-    It can either directly follow nouns or take the form "noun은/는 커녕." Sometimes the latter is written without a space as well.
+    meaning: Used typically in negative sentences in the form 'A는커녕 B', meaning that not only did a negative event A happen (or a positive event A did not happen), but that an even more negative event B happened (or a less positive event B did not happen either). 
     examples:
       - sentence: 유경은 대학교<f>커녕</f> 초등학교도 다니지 못했다.
         type: simple

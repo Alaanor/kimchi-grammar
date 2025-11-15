@@ -6,7 +6,7 @@ definitions:
     meaning: A result, criterion or standard in the following action is expected and necessary for the first clause to be realized. 
     Like -게, but with more emphasis. 
     examples:
-      - sentence: 아무도 눈치를 채지 못하게끔 조심스럽게 과자를 훔쳐먹었다. 
+      - sentence: 아무도 눈치를 채지 못하<f>게끔</f> 조심스럽게 과자를 훔쳐먹었다. 
         type: simple
         translated: I ate the snacks steathily such that no one would notice. 
         audio_url: 

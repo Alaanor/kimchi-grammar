@@ -10,7 +10,7 @@ definitions:
         type: simple
         translated: I ate the snacks steathily such that no one would notice. 
         audio_url: 
-      - sentence: '떡밥'이란 알려지지 않았던 사실이나 반전 등을 작품에서 직접적으로 드러내기 전 그 사실을 조금이나마 유추할 수 있게끔 미리 작품속에 숨겨놓은 내용을 비유적으로 이르는 말이다. 
+      - sentence: '떡밥'이란 알려지지 않았던 사실이나 반전 등을 작품에서 직접적으로 드러내기 전 그 사실을 조금이나마 유추할 수 있<f>게끔</f> 미리 작품속에 숨겨놓은 내용을 비유적으로 이르는 말이다. 
         type: simple
         translated: '떡밥' is a figurative expression for the phenomenon in which a plot twist or new information is hinted at before it is directly revealed, so that readers have the chance to guess.
         audio_url: 

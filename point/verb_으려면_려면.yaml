@@ -3,8 +3,8 @@ definitions:
   - slug: assume-intention
     name: Assume intention
     english_alternatives: if you want to
-    meaning: Shortened form of (으)려고 하면. Used when the speaker assume that one want to achieve something
-      and give the condition and requirement to achieve it.
+    meaning: Shortened form of (으)려고 하면. Used when the speaker assumes that one wishes to achieve something
+      and gives the conditions and requirements to achieve it.
     examples:
       - sentence: 덜렁대는 버릇을 고치<f>려면</f> 어떻게 해야 할까요?
         type: simple

@@ -1,0 +1,28 @@
+name: (ㄴ)다든가, (이)라든가 
+definitions: 
+  - slug: or-theoretical
+    name: Theoretical Or
+    english_alternatives: whether, or something
+    meaning: -라든가 is used to list various descriptions that can be selected. (ㄴ)다든가 follows verbs or adjectives to list various propositions that can be selected. These descriptions or propositions are mainly theoretical, which is the distinction between this grammar and -든가.  
+    examples:
+      - sentence: 집에 누군가 찾아오지는 않았습니까? 아니면 전화가 걸려왔<f>다든가</f>... 
+        type: simple
+        translated: Did no one come by the house? Or make a call or something... 
+        audio_url: 
+      - sentence: 요즘 미나에게 고민거리 같은 건 없었니? 성적<f>이라든가</f>, 가족 문제<f>라든가</f>. 남자친구와 싸웠<f>다든가</f> 하는 거 말이야. 
+        type: simple
+        translated: Was Mina worried about anything recently? Like grades, family problems, or something like fighting with her boyfriend. 
+        audio_url: 
+      - sentence: 이 답장을 보내기 위해 저는 말도 안 되는 계획을 실행할 예정이고, 그 결과로 유치장에 갇힌<f>다든가</f> 연구원직을 박탈당한<f>다든가</f> 하는 상당한 징계를 받게 되겠죠. 
+        type: simple
+        translated: I plan to enact a ridiculous plan to send this response, and I'm sure I'll face a sizable punishment, whether it be being thrown in jail or having my research position revoked. 
+        audio_url: 
+      - sentence: 그 여자 좀 별로였거든. 얼굴이 이상했<f>다든가</f> 성격이 괴팍했<f>다든가</f> 그런 건 아닌데, 느낌이 영 별로야. 
+        type: simple
+        translated: I don't like her. It's not like her face looked strange or her personality was weird, but the vibes are just not good. 
+        audio_url: 
+metadata:
+  type: verb
+details: |-
+# Origin {#origin}
+  -라든가 is a contraction of '-라고 하든가' and (ㄴ)다든가 a contraction of '-(ㄴ)다고 하든가'. 

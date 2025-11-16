@@ -1,0 +1,23 @@
+name: 겠거니
+definitions:
+  - slug: i-figured
+    name: I figured
+    english_alternatives: supposition
+    meaning: Expresses an assumption or supposition of the speaker about a particular situation. 
+    examples:
+      - sentence: 다른 조원들이 지정된 일을 하<f>겠거니</f> 하고 컴퓨터 껐는데 다음 날에 등교했더니 아무것도 안 했더라고요. 
+        type: simple
+        translated: I figured my other project members would do their assigned work and turned my computer off, but when I came to school the next day I found they hadn't done anything. 
+        audio_url: 
+      - sentence: 첫번째 책이 좋아서 두번째 책도 좋<f>겠거니</f> 하고 샀는데, 읽어보니까 별로더라고요. 
+        type: simple
+        translated: Since the first book was good, I bought the second book thinking it would definitely be great, but turns out it was mid.
+        audio_url: 
+      - sentence: 과민한 탓이<f>겠거니</f> 했는데 다시 생각해보니까 진짜 미행이 맞았던 것 같아요. 
+        type: simple
+        translated: I thought I was just being overly sensitive, but thinking back on it, I think there really was someone following me. 
+        audio_url: 
+metadata:
+  type: verb
+details: |-
+  Followed by 하다, 싶다 or similar verbs.

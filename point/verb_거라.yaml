@@ -3,7 +3,7 @@ definitions:
   - slug: commanding-old-fashioned
     name: Old Fashioned Command
     english_alternatives:
-    meaning: Used to give commands. Old-fashioned compared to -아라/어라/해라. NOTE: -너라 has the same meaning, but is used exclusively with -오다 verbs. 
+    meaning: "Used to give commands. Old-fashioned compared to -아라/어라/해라. NOTE: -너라 has the same meaning, but is used exclusively with -오다 verbs."
     examples:
       - sentence: 빨리 <f>먹거라</f>.
         type: simple

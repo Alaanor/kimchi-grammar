@@ -13,9 +13,9 @@ definitions:
         type: simple
         translated: There's no rice, so boil ramen or eat bread for lunch. 
         audio_url: 
-      - sentence: 가: 빨리 원하는 거나 사. 좀 이따 친구랑 약속 있는데... 빨리 끝내자. 나: 그럼 그냥 가<f>든가</f>! 
+      - sentence: "가: 빨리 원하는 거나 사. 좀 이따 친구랑 약속 있는데... 빨리 끝내자. 나: 그럼 그냥 가<f>든가</f>!"
         type: simple
-        translated: A: Just hurry up and buy whatever you want. I have plans with a friend in a bit... let's finish up quickly. B: Then just go!
+        translated: "A: Just hurry up and buy whatever you want. I have plans with a friend in a bit... let's finish up quickly. B: Then just go!"
         audio_url: 
 metadata:
   type: verb

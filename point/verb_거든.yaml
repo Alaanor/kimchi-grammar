@@ -21,7 +21,7 @@ definitions:
   - slug: conditional
     name: Conditional
     english_alternatives: if actually true, then
-    meaning: Express that if the preceding statement is turn out to be true, then the following statement can happen.
+    meaning: Express that if the preceding statement turns out to be true, then the following statement can happen.
     examples:
       - sentence: 바쁘<f>거든</f> 먼저 가십시오.
         type: simple

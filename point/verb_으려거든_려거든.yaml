@@ -1,0 +1,15 @@
+name: (으)려거든
+definitions:
+  - slug: conditional-intention
+    name: Conditional Intention
+    english_alternatives: if you intend to
+    meaning: Very similar to -(으)려면, but less common. Expresses that if the listener intends to take an action, then they should act according to the second clause (the part that comes after the (으)려거든)
+    examples:
+      - sentence: 건강한 치아를 유지하<f>려거든</f> 하루에 두번 이 닦아야 해요. 
+        type: simple
+        translated: If you want to maintain your dental health, you have to brush your teeth twice a day.
+        audio_url: 
+      - sentence: 여러 나라의 요리를 배우<f>려거든</f> 요리학원에 등록해보세요. 
+        type: simple
+        translated: If you want to learn how to cook food from a lot of different countries, try enrolling in a cooking hakwon. 
+        audio_url: 

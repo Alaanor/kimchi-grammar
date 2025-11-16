@@ -1,0 +1,27 @@
+name: (ㄴ/는)다거나, (이)라거나
+definitions:
+  - slug: or-something
+    name: Or Something
+    english_alternatives: or, for instance
+    meaning: Used to indirectly reference something when listing options. 
+    examples:
+      - type: simple
+        sentence: 다솜은 친구랑 통화<f>한다거나</f> 좋아하는 웹툰을 정주행<f>한다거나</f> 하는 것으로 스트레스를 푼다. 
+        translated: Dasom relieves stress by doing things like calling a friend or binging a favorite webtoon.
+        audio_url:
+      - type: simple
+        sentence: 수민이가 자꾸 나한테 장난을 치거나 바보<f>라거나</f> 해서 진짜 못 참겠다.
+        translated: Sumin keeps playing jokes on me or calling me stupid and I really can't stand it.
+        audio_url:
+      - type: simple
+        sentence: 그 돌을 신으로 모<f>신다거나</f> 뭐 그런 거였습니까? 
+        translated: Were they worshipping that stone as a god or something?
+        audio_url:
+      - type: simple
+        sentence: 감각이 둔하<f>다거나</f> 마수 사냥 경험이 부족하다면 충분히 혼란스러울 수 있는 상황이었지만 유노는 어느 쪽에도 해당하지 않았다.
+        translated: It could have been a disorienting situation for someone with dull senses or lacking in monster hunting experience, but neither was true for Yuno.
+        audio_url:
+metadata:
+  type: verb
+details: |-
+  These are contractions of (ㄴ/는)다고 하거나 and (이)라고 하거나.

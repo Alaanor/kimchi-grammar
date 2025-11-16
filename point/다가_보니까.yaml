@@ -3,7 +3,7 @@ definitions:
   - slug: realization
     name: Realization
     english_alternatives:
-    meaning: Indicates a sudden realization or conclusion while doing an action
+    meaning: Indicates a sudden realization or conclusion after doing an action continuously for quite some time.
     examples:
       - type: simple
         sentence: 책을 읽<f>다가 보니</f> 시간이 훌쩍 지나갔어요.
@@ -11,8 +11,12 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/책을_읽다가_보니_시간이_훌쩍_지나갔어요__2024-12-18.mp3
       - type: simple
         sentence: 일을 하<f>다가 보니까</f> 실력이 늘었어요.
-        translated: While i was working i noticed that my skills improved.
+        translated: After working for a long time, I noticed that my skills had improved.
         audio_url: https://r2.kimchi-reader.app/grammar/일을_하다가_보니까_실력이_늘었어요__2024-12-18.mp3
+      - type: simple
+        sentence: 한국어를 매일매일 계속 하<f>다 보니까</f> 발음이 알아서 늘더라고요.
+        translated: I noticed that my pronunciation improved on its own when I kept consistently using Korean every single day.
+        audio_url:
 metadata:
   type: composite
 details: |-

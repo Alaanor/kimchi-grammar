@@ -1,0 +1,36 @@
+name: (으)랴
+definitions:
+  - slug: busy-with
+    name: Busy With
+    english_alternatives: between A and B
+    meaning: Used to enumerate several actions that the speaker is trying hard to complete and the negative effect on the speaker, such as being tired or busy.
+    examples:
+      - sentence: 음식 만들<f>랴</f> 집안 청소하<f>랴</f> 쉴 틈이 없다. 
+        type: simple
+        translated: Between preparing food and cleaning the house, I can't get a second of rest.
+        audio_url:
+      - sentence: 어학당에서 공부하<f>랴</f> 회사에 다니<f>랴</f> 눈 코 뜰 새 없어요. 
+        type: simple
+        translated: I'm busy as a bee between studying at language school and working at my job.
+        audio_url:
+  - slug: rhetorical-question
+    name: Rhetorical Question
+    english_alternatives:
+    meaning: Used in informal language to forcefully and ironically support or refute an idea. Very similar to the rhetorical use of -겠어(요).
+    examples:
+      - sentence: 웃는 낯에 침 뱉으랴.
+        type: simple
+        translated: Would you spit on a smiling face? (You can't treat someone badly who treats you well)
+        audio_url:
+      - sentence: 돈을 누가 마다하랴.
+        type: simple
+        translated: Who would turn down money?
+        audio_url:
+      - sentence: 공든 탑이 무너지랴.
+        type: simple
+        translated: Would a carefully-built tower collapse? (If you put all of your effort into what you do, the result cannot possibly be bad)
+        audio_url:
+metadata:
+  type: verb
+details: |-
+  The 'rhetorical question' usage is common with proverbs, such as in the first and third example sentences.

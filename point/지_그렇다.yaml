@@ -1,4 +1,4 @@
-name: 지 그렇다 
+name: 지 그렇다
 definitions:
   - slug: gentle-suggestion
     name: gentle-suggestion
@@ -8,15 +8,15 @@ definitions:
       - sentence: 그 단어를 모르면 사전에 찾아보<f>지 그래요</f>?
         type: simple
         translated: If you don't know that word, how about you look it up?
-        audio_url: 
-      - sentence: 식당 구석에 저 의자 좀 치우<f>지 그래요</f>? 너무 낡아서 눈에 거슬려요. 
+        audio_url: https://r2.kimchi-reader.app/grammar/그_단어를_모르면_사전에_찾아보지_그래요__2025-11-16.mp3
+      - sentence: 식당 구석에 저 의자 좀 치우<f>지 그래요</f>? 너무 낡아서 눈에 거슬려요.
         type: simple
-        translated: Can you please put that chair in the corner of the restaurant away? It's so old, I don't like seeing it. 
-        audio_url: 
+        translated: Can you please put that chair in the corner of the restaurant away? It's so old, I don't like seeing it.
+        audio_url: https://r2.kimchi-reader.app/grammar/식당_구석에_저_의자_좀_치우지_그래요_너무_낡아서_눈에_거슬려요__2025-11-16.mp3
       - sentence: 이제 출발 좀 하<f>지 그래</f>?
         type: simple
         translated: Can we get going now?
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/이제_출발_좀_하지_그래__2025-11-16.mp3
 metadata:
   type: composite
-details: |-
+details: ""

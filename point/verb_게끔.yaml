@@ -5,14 +5,14 @@ definitions:
     english_alternatives: so that, such that, in a way that
     meaning: A result, criterion or standard in the following action is expected and necessary for the first clause to be realized. Like -게, but with more emphasis.
     examples:
-      - sentence: 아무도 눈치를 채지 못하<f>게끔</f> 조심스럽게 과자를 훔쳐먹었다. 
+      - sentence: 아무도 눈치를 채지 못하<f>게끔</f> 조심스럽게 과자를 훔쳐먹었다.
         type: simple
         translated: I ate the snacks stealthily such that no one would notice.
-        audio_url: 
-      - sentence: '떡밥'이란 알려지지 않았던 사실이나 반전 등을 작품에서 직접적으로 드러내기 전 그 사실을 조금이나마 유추할 수 있<f>게끔</f> 미리 작품속에 숨겨놓은 내용을 비유적으로 이르는 말이다. 
+        audio_url: https://r2.kimchi-reader.app/grammar/아무도_눈치를_채지_못하게끔_조심스럽게_과자를_훔쳐먹었다__2025-11-16.mp3
+      - sentence: "'떡밥'이란 알려지지 않았던 사실이나 반전 등을 작품에서 직접적으로 드러내기 전 그 사실을 조금이나마 유추할 수 있<f>게끔</f> 미리 작품속에 숨겨놓은 내용을 비유적으로 이르는 말이다."
         type: simple
-        translated: '떡밥' is a figurative expression for the phenomenon in which a plot twist or new information is hinted at before it is directly revealed, so that readers have the chance to guess.
-        audio_url: 
+        translated: "'떡밥' is a figurative expression for the phenomenon in which a plot twist or new information is hinted at before it is directly revealed, so that readers have the chance to guess."
+        audio_url: https://r2.kimchi-reader.app/grammar/'떡밥'이란_알려지지_않았던_사실이나_반전_등을_작품에서_직접적으로_드러내기_전_그_사실을_조금이나마_유추할_수_있_2025-11-16.mp3
 metadata:
   type: verb
-details: |-
+details: ""

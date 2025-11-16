@@ -20,7 +20,7 @@ definitions:
       - sentence: 어서 나오<f>너라</f>.
         type: simple
         translated: Come out quickly.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/어서_나오너라__2025-11-16.mp3
 metadata:
   type: verb
 details: |-

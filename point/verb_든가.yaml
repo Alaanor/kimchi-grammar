@@ -9,10 +9,10 @@ definitions:
         type: simple
         translated: Oh, [what you just said] wasn't meant to be heard? Then maybe you should whisper it. Or squish yourselves into a corner before prattling on.
         audio_url: https://r2.kimchi-reader.app/grammar/아,_들으라고_한_소리는_아니구나_그럼_말소리를_좀_작게_소곤대면서_하든가_아니면_어디_구석에_찌그러져서_지껄이든가__2025-11-16.mp3
-      - sentence: 밥이 없으니 점심으로 라면을 끓이<f>든가</f> 빵을 먹<f>든가/f> 해.
+      - sentence: 밥이 없으니 점심으로 라면을 끓이<f>든가</f> 빵을 먹<f>든가</f> 해.
         type: simple
         translated: There's no rice, so boil ramen or eat bread for lunch.
-        audio_url: https://r2.kimchi-reader.app/grammar/밥이_없으니_점심으로_라면을_끓이든가_빵을_먹든가/f>_해__2025-11-16.mp3
+        audio_url: https://r2.kimchi-reader.app/grammar/밥이_없으니_점심으로_라면을_끓이든가_빵을_먹든가_해__2025-11-16.mp3
       - sentence: "가: 빨리 원하는 거나 사. 좀 이따 친구랑 약속 있는데... 빨리 끝내자. 나: 그럼 그냥 가<f>든가</f>!"
         type: simple
         translated: "A: Just hurry up and buy whatever you want. I have plans with a friend in a bit... let's finish up quickly. B: Then just go!"

@@ -1,0 +1,41 @@
+name: ㅆ더니
+definitions:
+  - slug: change-compared-to-the-past
+    name: Change compared to the past
+    english_alternatives: but, and now
+    meaning: Used when the speaker wants to refer to a change compared to the past that they have directly seen or experienced. The speaker themself must be the subject. 
+    examples:
+      - sentence: 방수가 되는 줄 알고 오늘 오후에 손목시계를 차고 수영을 <f>했더니</f>, 지금 작동이 안 돼. 
+        type: simple
+        translated: Thinking my watch was waterproof, I went swimming with it on this afternoon, but now it's not working. 
+        audio_url: 
+      - sentence: 어제 하체 운동을 너무 열심히 <f>했더니</f> 오늘 다리가 후들후들거리네요. 
+        type: simple
+        translated: Yesterday I went too hard doing leg day and now today my legs are trembling. 
+        audio_url: 
+  - slug: and-then
+    name: And then
+    english_alternatives: and
+    meaning: Used to narrate a sequence of events directly observed by the speaker. The subjects of both clauses must be different, and the speaker can be the subject. There is often a nuance that the first clause becomes the cause of the second clause.
+    examples:
+      - sentence: 어느 학원에 다녔는지 물<f>었더니</f> 학원 아예 안 다녔다고 하더래. 그렇게 성적이 좋은데 말이 되냐? 
+        type: simple
+        translated: I heard someone asked her what hakwon she went to, but she said she didn't go to any at all. Are we supposed to believe that when her grades are so good? 
+        audio_url: 
+      - sentence: 다른 조원들이 지정된 일을 하겠거니 하고 컴퓨터 껐는데 다음 날에 등교<f>했더니</f> 아무것도 안 했더라고요. 
+        type: simple
+        translated: I figured my other project members would do their assigned work and turned my computer off, but when I came to school the next day I found they hadn't done anything. 
+        audio_url: 
+      - sentence: 오빠가 언니한테 괜찮냐고 물어<f>봤더니</f> 펑펑 울기 시작하더라고요. 
+        type: simple
+        translated: My brother asked my sister if she was okay and then she started crying really hard. 
+        audio_url: 
+      - sentence: 누가 창유리를 두드리는 소리를 듣고 네에, 하고 대답<f>했더니</f> 창문이 살짝 열리고 여자친구가 얼굴을 내밀었다. 
+        type: simple
+        translated: Hearing someone tapping on the window, I answered "Yes?" and then the window opened slightly and my girlfriend stuck her face in.
+        audio_url: 
+  metadata:
+    type: verb
+  details: |-
+      It is advised to compare this grammar to :grammar[verb_더니] for better understanding, as the differences are subtle but important.
+      '했더니' expressions and the expression '그랬더니' (to start a sentence) are often used when telling stories, particularly when talking about asking someone something or telling someone something and their subsequent reaction. 

@@ -9,7 +9,7 @@ definitions:
         type: simple
         translated: Enter the water with clothes on.
         audio_url: 
-      - sentence: 소포가 개봉</f>된 채로</f> 배달되었다.
+      - sentence: 소포가 개봉<f>된 채로</f> 배달되었다.
         type: simple
         translated: The package was delivered unopened.
         audio_url:

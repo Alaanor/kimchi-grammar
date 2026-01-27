@@ -1,0 +1,19 @@
+name: 보고
+definitions:
+  - slug: target-person
+    name: Target Person
+    english_alternatives:
+    meaning: Used to indicate the person to whom a question, request, order, etc is directed at. Commonly used in colloquial speech when quoting others.
+    examples:
+      - sentence: 회선 씨가 세훈 씨<f>보고</f> 보고서 쓰는 설 도와 달라고 하던데요.
+        type: simple
+        translated: Heesun asked Sehun to help write the report.
+        audio_url:
+      - sentence: 남편이 <f>보고</f> 보라색이 잘 어울린다고 했어요.
+        type: simple
+        translated: My husband told me that purple suits me.
+        audio_url:
+metadata:
+  type: noun
+details: |-
+  Can be replaced with 더러 with little change in meaning.

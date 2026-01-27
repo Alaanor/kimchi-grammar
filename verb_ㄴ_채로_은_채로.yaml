@@ -14,6 +14,6 @@ definitions:
         translated: The package was delivered unopened.
         audio_url:
 metadata:
-  type: verb
+  type: composite
 details: |-
   The 로 can be omitted like 개봉된 채 or 입은 채.

@@ -9,7 +9,7 @@ definitions:
         type: simple
         translated: He has nothing to lose whether he kills another person or not! He's already in prison for life. He can't get out regardless.
         audio_url: 
-      - sentence: 벼락치기로 시험공부 하나마나 마찬가지이다.
+      - sentence: 벼락치기로 시험공부 하<f>나마나</f> 마찬가지이다.
         type: simple
         translated: There's no point cramming for a test. The result will be the same as if you didn't cram.
         audio_url: 

@@ -22,7 +22,7 @@ definitions:
         type: simple
         translated: Would you spit on a smiling face? (You can't treat someone badly who treats you well)
         audio_url:
-      - sentence: 돈을 누가 마다하랴.
+      - sentence: 돈을 누가 마다하<f>랴</f>.
         type: simple
         translated: Who would turn down money?
         audio_url:

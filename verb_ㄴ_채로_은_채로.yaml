@@ -1,0 +1,19 @@
+name: (으)ㄴ 채로
+definitions:
+  - slug: in-the-state-of
+    name: In the State of
+    english_alternatives: Under the Conditions of
+    meaning: Used to indicate that the following clause is performed whilst in the state or condition described before.
+    examples:
+      - sentence: 옷을 입<f>은 채로</f> 물에 들어가세요.
+        type: simple
+        translated: Enter the water with clothes on.
+        audio_url: 
+      - sentence: 소포가 개봉<f>된 채로</f> 배달되었다.
+        type: simple
+        translated: The package was delivered unopened.
+        audio_url:
+metadata:
+  type: composite
+details: |-
+  The 로 can be omitted like 개봉된 채 or 입은 채.

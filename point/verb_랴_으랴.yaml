@@ -18,7 +18,7 @@ definitions:
     english_alternatives:
     meaning: Used in informal language to forcefully and ironically support or refute an idea. Very similar to the rhetorical use of -겠어(요).
     examples:
-      - sentence: 웃는 낯에 침 뱉으랴.
+      - sentence: 웃는 낯에 침 뱉<f>으랴</f>.
         type: simple
         translated: Would you spit on a smiling face? (You can't treat someone badly who treats you well)
         audio_url:

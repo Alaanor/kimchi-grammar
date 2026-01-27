@@ -9,7 +9,7 @@ definitions:
         type: simple
         translated: Heesun asked Sehun to help write the report.
         audio_url:
-      - sentence: 남편이 </f>보고</f> 보라색이 잘 어울린다고 했어요.
+      - sentence: 남편이 <f>보고</f> 보라색이 잘 어울린다고 했어요.
         type: simple
         translated: My husband told me that purple suits me.
         audio_url:

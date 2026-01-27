@@ -5,7 +5,7 @@ definitions:
     english_alternatives: 
     meaning: Used to indicate the occurance of something being natural or inevitable based on common facts or beliefs.
     examples:
-      - sentence: 겨울이 아무리 추워도 봄은 오</f>기 마련이다</f>. 
+      - sentence: 겨울이 아무리 추워도 봄은 오<f>기 마련이다</f>. 
         type: simple
         translated: Regardless of how cold winter is, spring will naturally come.
         audio_url:

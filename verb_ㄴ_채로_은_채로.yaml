@@ -5,7 +5,7 @@ definitions:
     english_alternatives: Under the Conditions of
     meaning: Used to indicate that the following clause is performed whilst in the state or condition described before.
     examples:
-      - sentence: 옷을 입</f>은 채로</f> 물에 들어가세요.
+      - sentence: 옷을 입<f>은 채로</f> 물에 들어가세요.
         type: simple
         translated: Enter the water with clothes on.
         audio_url: 

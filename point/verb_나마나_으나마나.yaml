@@ -5,7 +5,7 @@ definitions:
     english_alternatives: whether or not, regardless of, no point
     meaning: Expresses that it is obvious that the result will be the same whether or not a certain action is taken.
     examples:
-      - sentence: 하나 더 죽이나마나 손해 볼 거 없어! 어차피 무기징역이잖아. 어차피 못 나가는데.
+      - sentence: 하나 더 죽이<f>나마나</f> 손해 볼 거 없어! 어차피 무기징역이잖아. 어차피 못 나가는데.
         type: simple
         translated: He has nothing to lose whether he kills another person or not! He's already in prison for life. He can't get out regardless.
         audio_url: 

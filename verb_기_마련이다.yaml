@@ -9,7 +9,7 @@ definitions:
         type: simple
         translated: Regardless of how cold winter is, spring will naturally come.
         audio_url:
-      - sentence: 진실은 언젠가 드러나</f>기 마련이니까</f> 어디 두고 봅시다.
+      - sentence: 진실은 언젠가 드러나<f>기 마련이니까</f> 어디 두고 봅시다.
         type: simple
         translated: It's inevitable that the truth will come out, so let's wait and see.
         audio_url:

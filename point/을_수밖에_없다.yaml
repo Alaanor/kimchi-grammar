@@ -12,7 +12,7 @@ definitions:
       - sentence: 금연법이 시행되면 PC방을 닫<f>을 수밖에 없다</f>.
         type: simple
         translated: If the law comes into effect, I will have no other option but to shut down the shop
-        audio_url: 
+        audio_url:
 metadata:
   type: composite
 details: |-

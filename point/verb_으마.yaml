@@ -3,13 +3,13 @@ definitions:
   - slug: intention-old-fashioned
     name: Old Fashioned Intention
     english_alternatives: will do
-      meaning: Used when the speaker promises to the listener that they will do something. Very similar to (으)ㄹ게(요).
+    meaning: Used when the speaker promises to the listener that they will do something. Very similar to (으)ㄹ게(요).
     examples:
-      - sentence: 오전에 가<f>마</f>. 
+      - sentence: 오전에 가<f>마</f>.
         type: simple
         translated: I'll go in the morning.
         audio_url:
-      - sentence: 내가 도와주<f>마</f>. 
+      - sentence: 내가 도와주<f>마</f>.
         type: simple
         translated: I'll help you.
         audio_url:

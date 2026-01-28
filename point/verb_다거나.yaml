@@ -3,10 +3,10 @@ definitions:
   - slug: or-something
     name: Or Something
     english_alternatives: or, for instance
-    meaning: Used to indirectly reference something when listing options. 
+    meaning: Used to indirectly reference something when listing options.
     examples:
       - type: simple
-        sentence: 다솜은 친구랑 통화<f>한다거나</f> 좋아하는 웹툰을 정주행<f>한다거나</f> 하는 것으로 스트레스를 푼다. 
+        sentence: 다솜은 친구랑 통화<f>한다거나</f> 좋아하는 웹툰을 정주행<f>한다거나</f> 하는 것으로 스트레스를 푼다.
         translated: Dasom relieves stress by doing things like calling a friend or binging a favorite webtoon.
         audio_url:
       - type: simple
@@ -14,7 +14,7 @@ definitions:
         translated: Sumin keeps playing jokes on me or calling me stupid and I really can't stand it.
         audio_url:
       - type: simple
-        sentence: 그 돌을 신으로 모<f>신다거나</f> 뭐 그런 거였습니까? 
+        sentence: 그 돌을 신으로 모<f>신다거나</f> 뭐 그런 거였습니까?
         translated: Were they worshipping that stone as a god or something?
         audio_url:
       - type: simple

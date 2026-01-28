@@ -8,7 +8,7 @@ definitions:
       - sentence: 옷을 입<f>은 채로</f> 물에 들어가세요.
         type: simple
         translated: Enter the water with clothes on.
-        audio_url: 
+        audio_url:
       - sentence: 소포가 개봉<f>된 채로</f> 배달되었다.
         type: simple
         translated: The package was delivered unopened.

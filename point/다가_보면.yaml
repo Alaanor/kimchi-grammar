@@ -6,17 +6,17 @@ definitions:
     meaning: Expresses a result that can happen when an action is done consistently for quite some time. Often used in suggestions.
     examples:
       - type: simple
-        sentence: 강력계 형사로 활동<f>하다 보면</f> 위험에 처할 때도 있어서 호신술로 합기도 배웠죠. 
+        sentence: 강력계 형사로 활동<f>하다 보면</f> 위험에 처할 때도 있어서 호신술로 합기도 배웠죠.
         translated: In my career as a homicide detective, there are times I'm put in danger, so I learned hapkido for self-defense.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/강력계_형사로_활동하다_보면_위험에_처할_때도_있어서_호신술로_합기도_배웠죠__2026-01-28.mp3
       - type: simple
-        sentence: 그 선배와 함께 일하<f>다 보면</f> 좋은 호텔리어란 뭔지 곧 알게 될 겁니다. 
+        sentence: 그 선배와 함께 일하<f>다 보면</f> 좋은 호텔리어란 뭔지 곧 알게 될 겁니다.
         translated: If you work with him for a while, you'll come to know what it means to be a good hotelier.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/그_선배와_함께_일하다_보면_좋은_호텔리어란_뭔지_곧_알게_될_겁니다__2026-01-28.mp3
       - type: simple
-        sentence: 헬스 꾸준히 가<f>다 보면</f> 살 빠질 거예요. 
+        sentence: 헬스 꾸준히 가<f>다 보면</f> 살 빠질 거예요.
         translated: If you keep going to the gym consistently, you'll be able to lose weight.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/헬스_꾸준히_가다_보면_살_빠질_거예요__2026-01-28.mp3
 metadata:
   type: composite
-details: |-
+details: ""

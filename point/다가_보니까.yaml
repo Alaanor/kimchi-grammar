@@ -16,24 +16,24 @@ definitions:
       - type: simple
         sentence: 한국어를 매일매일 계속 하<f>다 보니까</f> 발음이 알아서 늘더라고요.
         translated: I noticed that my pronunciation improved on its own when I kept consistently using Korean every single day.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/한국어를_매일매일_계속_하다_보니까_발음이_알아서_늘더라고요__2026-01-28.mp3
   - slug: causation
     name: Causation
     english_alternatives: since, as a(n) X
     meaning: Used with 이다. It provides a reason or background for the following clause.
     examples:
       - type: simple
-        sentence: 열아홉 살이<f>다 보니까</f> 솔직히 유치할 줄 알았는데 생각이 깊더라. 
+        sentence: 열아홉 살이<f>다 보니까</f> 솔직히 유치할 줄 알았는데 생각이 깊더라.
         translated: Honestly, I thought he would be immature since he's only 19, but it turns out he's a deep thinker.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/열아홉_살이다_보니까_솔직히_유치할_줄_알았는데_생각이_깊더라__2026-01-28.mp3
       - type: simple
-        sentence: 선생님이<f>다 보니까</f> 애들이 쓰는 신조어를 쉽게 배우게 돼요. 
-        translated: As a teacher, I can easily pick up the new slang the kids use. 
-        audio_url:
+        sentence: 선생님이<f>다 보니까</f> 애들이 쓰는 신조어를 쉽게 배우게 돼요.
+        translated: As a teacher, I can easily pick up the new slang the kids use.
+        audio_url: https://r2.kimchi-reader.app/grammar/선생님이다_보니까_애들이_쓰는_신조어를_쉽게_배우게_돼요__2026-01-28.mp3
       - type: simple
         sentence: 판매자가 말하는 가격이 말도 안 되게 비쌌는데, 절실히 필요로 하는 입장이<f>다 보니</f> 잔말 없이 살 수밖에 없었다.
         translated: The price the seller gave was insanely expensive, but since I desperately needed it, I couldn't help but buy it without a complaint.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/판매자가_말하는_가격이_말도_안_되게_비쌌는데,_절실히_필요로_하는_입장이다_보니_잔말_없이_살_수밖에_없었다__2026-01-28.mp3
 metadata:
   type: composite
 details: |-

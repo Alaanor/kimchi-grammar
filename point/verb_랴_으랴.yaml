@@ -5,14 +5,14 @@ definitions:
     english_alternatives: between A and B
     meaning: Used to enumerate several actions that the speaker is trying hard to complete and the negative effect on the speaker, such as being tired or busy.
     examples:
-      - sentence: 음식 만들<f>랴</f> 집안 청소하<f>랴</f> 쉴 틈이 없다. 
+      - sentence: 음식 만들<f>랴</f> 집안 청소하<f>랴</f> 쉴 틈이 없다.
         type: simple
         translated: Between preparing food and cleaning the house, I can't get a second of rest.
-        audio_url:
-      - sentence: 어학당에서 공부하<f>랴</f> 회사에 다니<f>랴</f> 눈 코 뜰 새 없어요. 
+        audio_url: https://r2.kimchi-reader.app/grammar/음식_만들랴_집안_청소하랴_쉴_틈이_없다__2026-01-28.mp3
+      - sentence: 어학당에서 공부하<f>랴</f> 회사에 다니<f>랴</f> 눈 코 뜰 새 없어요.
         type: simple
         translated: I'm busy as a bee between studying at language school and working at my job.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/어학당에서_공부하랴_회사에_다니랴_눈_코_뜰_새_없어요__2026-01-28.mp3
   - slug: rhetorical-question
     name: Rhetorical Question
     english_alternatives:
@@ -21,15 +21,15 @@ definitions:
       - sentence: 웃는 낯에 침 뱉<f>으랴</f>.
         type: simple
         translated: Would you spit on a smiling face? (You can't treat someone badly who treats you well)
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/웃는_낯에_침_뱉으랴__2026-01-28.mp3
       - sentence: 돈을 누가 마다하<f>랴</f>.
         type: simple
         translated: Who would turn down money?
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/돈을_누가_마다하랴__2026-01-28.mp3
       - sentence: 공든 탑이 무너지<f>랴</f>.
         type: simple
         translated: Would a carefully-built tower collapse? (If you put all of your effort into what you do, the result cannot possibly be bad)
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/공든_탑이_무너지랴__2026-01-28.mp3
 metadata:
   type: verb
 details: |-

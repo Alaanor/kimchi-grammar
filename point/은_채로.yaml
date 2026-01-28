@@ -8,11 +8,11 @@ definitions:
       - sentence: 옷을 입<f>은 채로</f> 물에 들어가세요.
         type: simple
         translated: Enter the water with clothes on.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/옷을_입은_채로_물에_들어가세요__2026-01-28.mp3
       - sentence: 소포가 개봉<f>된 채로</f> 배달되었다.
         type: simple
         translated: The package was delivered unopened.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/소포가_개봉된_채로_배달되었다__2026-01-28.mp3
 metadata:
   type: composite
 details: |-

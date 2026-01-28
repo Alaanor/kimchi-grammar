@@ -8,11 +8,11 @@ definitions:
       - sentence: 겨울이 아무리 추워도 봄은 오<f>기 마련이다</f>.
         type: simple
         translated: Regardless of how cold winter is, spring will naturally come.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/겨울이_아무리_추워도_봄은_오기_마련이다__2026-01-28.mp3
       - sentence: 진실은 언젠가 드러나<f>기 마련이니까</f> 어디 두고 봅시다.
         type: simple
         translated: It's inevitable that the truth will come out, so let's wait and see.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/진실은_언젠가_드러나기_마련이니까_어디_두고_봅시다__2026-01-28.mp3
 metadata:
   type: composite
 details: |-

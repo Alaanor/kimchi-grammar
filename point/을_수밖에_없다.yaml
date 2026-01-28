@@ -8,11 +8,11 @@ definitions:
       - sentence: 너무 빨리 운전해서, 차 손잡이를 꽉 잡<f>을 수밖에 없었다</f>.
         type: simple
         translated: They were driving so fast I had no choice but to grip the car handle tightly.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/너무_빨리_운전해서,_차_손잡이를_꽉_잡을_수밖에_없었다__2026-01-28.mp3
       - sentence: 금연법이 시행되면 PC방을 닫<f>을 수밖에 없다</f>.
         type: simple
         translated: If the law comes into effect, I will have no other option but to shut down the shop
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/금연법이_시행되면_PC방을_닫을_수밖에_없다__2026-01-28.mp3
 metadata:
   type: composite
-details: |-
+details: ""

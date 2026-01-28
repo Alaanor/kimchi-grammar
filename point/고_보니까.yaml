@@ -8,11 +8,11 @@ definitions:
       - type: simple
         sentence: 지하철에서 내리<f>고 보니</f> 가방이 없더라고요.
         translated: I got off the subway and found I didn't have my bag with me.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/지하철에서_내리고_보니_가방이_없더라고요__2026-01-28.mp3
       - type: simple
         sentence: 버스를 타<f>고 보니까</f> 반대 방향으로 가는 것이었어요.
         translated: I got on the bus and found it was goind in the opposite direction.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/버스를_타고_보니까_반대_방향으로_가는_것이었어요__2026-01-28.mp3
 metadata:
   type: composite
-details: |-
+details: ""

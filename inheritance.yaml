@@ -1,35 +1,267 @@
 inheritance:
-  - parent: "을지도_모르다"
-    children: ["verb_을지_ㄹ지"]
-  - parent: "지_못하다"
-    children: ["verb_지"]
-  - parent: "지_않다"
-    children: ["verb_지"]
-  - parent: "지_말다"
-    children: ["verb_지"]
-  - parent: "고_있다"
-    children: ["verb_고"]
+  - parent: "noun_만큼"
+    children: ["verb_ㄴ_은_는_ㄹ_을"]
+  - parent: "noun_이자"
+    children: ["noun_이다", "verb_자"]
+  - parent: "noun_커녕"
+    children: ["noun_은_는"]
+  - parent: "verb_겠거니"
+    children: ["verb_거니", "verb_겠"]
+  - parent: "verb_기에"
+    children: ["noun_에", "verb_기"]
+  - parent: "verb_냐고"
+    children: ["verb_고", "verb_냐"]
+  - parent: "verb_는다기보다는"
+    children: ["noun_보다", "noun_은_는", "verb_기", "verb_다_ㄴ다_는다", "verb_라고"]
+  - parent: "verb_는다는_ㄴ다는_다는_라는"
+    children: ["verb_ㄴ_은_는_ㄹ_을", "verb_다_ㄴ다_는다"]
+  - parent: "verb_는다면_ㄴ다면_다면"
+    children: ["verb_다_ㄴ다_는다", "verb_라고", "verb_면_으면"]
+  - parent: "verb_다가는"
+    children: ["noun_은_는", "verb_다가"]
+  - parent: "verb_다거나"
+    children: ["verb_거나", "verb_다_ㄴ다_는다", "verb_라고"]
+  - parent: "verb_다고"
+    children: ["verb_고", "verb_다_ㄴ다_는다"]
+  - parent: "verb_다니_라니_냐니_자니"
+    children: ["verb_냐", "verb_다_ㄴ다_는다", "verb_라고", "verb_으니_니", "verb_자"]
+  - parent: "verb_다니까"
+    children: ["verb_다_ㄴ다_는다", "verb_라고", "verb_으니까_니까"]
+  - parent: "verb_다든가"
+    children: ["verb_다_ㄴ다_는다", "verb_든가", "verb_라고"]
+  - parent: "verb_다든지"
+    children: ["verb_다_ㄴ다_는다", "verb_든지", "verb_라고"]
+  - parent: "verb_다면서_라면서_다며"
+    children: ["verb_다_ㄴ다_는다", "verb_라고", "verb_며_으며", "verb_면서_으면서"]
+  - parent: "verb_더냐"
+    children: ["verb_냐", "verb_더"]
+  - parent: "verb_더니"
+    children: ["verb_더", "verb_으니_니"]
+  - parent: "verb_더라고"
+    children: ["verb_더", "verb_라고"]
+  - parent: "verb_더라면"
+    children: ["verb_더", "verb_라고", "verb_면_으면"]
+  - parent: "verb_던"
+    children: ["verb_ㄴ_은_는_ㄹ_을", "verb_더"]
+  - parent: "verb_던가"
+    children: ["verb_더", "verb_은가_ㄴ가_나"]
+  - parent: "verb_던데"
+    children: ["verb_ㄴ데_은데_는데", "verb_더"]
+  - parent: "verb_세요_으세요"
+    children: ["noun_요", "verb_시_으시", "verb_아_어_여"]
+  - parent: "verb_습니다만"
+    children: ["noun_만", "verb_습니다_ㅂ니다"]
+  - parent: "verb_아봤자_어봤자_해봤자"
+    children: ["verb_았_었_했", "verb_자", "아어_보다"]
+  - parent: "verb_아서_어서_해서"
+    children: ["verb_아_어_여"]
+  - parent: "verb_았_었_했"
+    children: ["verb_아_어_여"]
+  - parent: "verb_았던_었던_했던"
+    children: ["verb_ㄴ_은_는_ㄹ_을", "verb_더", "verb_았_었_했"]
+  - parent: "verb_어서인지"
+    children: ["noun_이다", "verb_ㄴ지_은지_는지", "verb_아서_어서_해서"]
+  - parent: "verb_어야지"
+    children: ["verb_어야_아야", "verb_지"]
+  - parent: "verb_었더니"
+    children: ["verb_더니", "verb_았_었_했"]
+  - parent: "verb_지만"
+    children: ["noun_만", "verb_지"]
   - parent: "ㄹ_것이다"
+    children: ["noun_이다", "verb_ㄴ_은_는_ㄹ_을"]
+  - parent: "ㄹ_바라다"
+    children: ["verb_기"]
+  - parent: "ㄹ_뻔하다"
     children: ["verb_ㄴ_은_는_ㄹ_을"]
   - parent: "ㄹ_수_있다"
     children: ["verb_ㄴ_은_는_ㄹ_을"]
   - parent: "ㄹ_수도_있다"
+    children: ["noun_도", "verb_ㄴ_은_는_ㄹ_을"]
+  - parent: "거나_말거나"
+    children: ["verb_거나"]
+  - parent: "건_말건"
+    children: ["verb_건"]
+  - parent: "게_되다"
+    children: ["verb_게"]
+  - parent: "게_하다"
+    children: ["verb_게"]
+  - parent: "고_나니까"
+    children: ["verb_고"]
+  - parent: "고_나면"
+    children: ["verb_고"]
+  - parent: "고_나서"
+    children: ["verb_고", "verb_아서_어서_해서"]
+  - parent: "고_말겠다"
+    children: ["verb_고"]
+  - parent: "고_말다"
+    children: ["verb_고"]
+  - parent: "고_보니까"
+    children: ["verb_고"]
+  - parent: "고_싶다"
+    children: ["verb_고"]
+  - parent: "고_있다"
+    children: ["verb_고"]
+  - parent: "곤_하다"
+    children: ["verb_ㄴ_은_는_ㄹ_을", "verb_고"]
+  - parent: "기_마련이다"
+    children: ["verb_기"]
+  - parent: "기_일쑤이다"
+    children: ["verb_기"]
+  - parent: "기도_하다"
+    children: ["noun_도", "verb_기"]
+  - parent: "기로_하다"
+    children: ["noun_로_으로", "verb_기"]
+  - parent: "는_것"
     children: ["verb_ㄴ_은_는_ㄹ_을"]
-  - parent: "verb_았던_었던_했던"
-    children: ["verb_았_었_했", "verb_던"]
-  - parent: "verb_기는_긴"
-    children: ["verb_기", "noun_은_는"]
-  - parent: "단_말"
-    children: ["verb_는다는_ㄴ다는_다는_라는"]
+  - parent: "는_것_같다"
+    children: ["verb_ㄴ_은_는_ㄹ_을", "verb_던"]
+  - parent: "는_길에"
+    children: ["noun_에", "verb_ㄴ_은_는_ㄹ_을"]
+  - parent: "는_길이다"
+    children: ["noun_이다", "verb_ㄴ_은_는_ㄹ_을"]
+  - parent: "는_김에"
+    children: ["noun_에", "verb_ㄴ_은_는_ㄹ_을"]
+  - parent: "는_모양이다"
+    children: ["noun_이다", "verb_ㄴ_은_는_ㄹ_을"]
+  - parent: "는_바람에"
+    children: ["noun_에", "verb_ㄴ_은_는_ㄹ_을"]
+  - parent: "는_반면에"
+    children: ["noun_에", "verb_ㄴ_은_는_ㄹ_을"]
+  - parent: "는_법이다"
+    children: ["noun_이다", "verb_ㄴ_은_는_ㄹ_을"]
+  - parent: "는_셈이다"
+    children: ["noun_이다", "verb_ㄴ_은_는_ㄹ_을"]
+  - parent: "는_편이다"
+    children: ["verb_ㄴ_은_는_ㄹ_을"]
   - parent: "다가_보니까"
-    children: ["verb_다가", "verb_으니까_니까"]
+    children: ["verb_다_ㄴ다_는다", "verb_다가", "verb_으니_니", "verb_으니까_니까"]
+  - parent: "다가_보면"
+    children: ["verb_다_ㄴ다_는다", "verb_다가", "verb_면_으면"]
+  - parent: "다고_치다"
+    children: ["verb_고", "verb_다_ㄴ다_는다", "verb_라고"]
+  - parent: "다시피_하다"
+    children: ["verb_다시피"]
+  - parent: "단_말"
+    children: ["noun_이다", "noun_이야", "verb_ㄴ_은_는_ㄹ_을", "verb_다_ㄴ다_는다", "verb_라고"]
+  - parent: "대신에"
+    children: ["verb_ㄴ_은_는_ㄹ_을"]
+  - parent: "동안"
+    children: ["verb_ㄴ_은_는_ㄹ_을"]
+  - parent: "때"
+    children: ["verb_ㄴ_은_는_ㄹ_을"]
+  - parent: "때문에"
+    children: ["noun_에", "verb_기"]
+  - parent: "만_해도"
+    children: ["noun_만", "verb_아도_어도_여도"]
+  - parent: "아어_가다"
+    children: ["verb_아_어_여"]
+  - parent: "아어_가지다"
+    children: ["verb_아_어_여"]
+  - parent: "아어_놓다"
+    children: ["verb_아_어_여"]
+  - parent: "아어_달다"
+    children: ["verb_아_어_여"]
+  - parent: "아어_달라고"
+    children: ["verb_라고", "verb_아_어_여"]
+  - parent: "아어_대다"
+    children: ["verb_아_어_여"]
+  - parent: "아어_두다"
+    children: ["verb_아_어_여"]
+  - parent: "아어_드리다"
+    children: ["verb_아_어_여"]
+  - parent: "아어_버리다"
+    children: ["verb_아_어_여"]
+  - parent: "아어_보다"
+    children: ["verb_아_어_여"]
+  - parent: "아어_보이다"
+    children: ["verb_게", "verb_아_어_여"]
+  - parent: "아어_빠지다"
+    children: ["verb_아_어_여"]
+  - parent: "아어_오다"
+    children: ["verb_아_어_여"]
+  - parent: "아어_있다"
+    children: ["verb_아_어_여"]
+  - parent: "아어_주다"
+    children: ["verb_아_어_여"]
+  - parent: "아어도_되다"
+    children: ["verb_아_어_여", "verb_아도_어도_여도"]
+  - parent: "안_아요"
+    children: ["verb_아_어_여"]
+  - parent: "어야_되다"
+    children: ["verb_어야_아야"]
+  - parent: "었으면_좋겠다"
+    children: ["verb_겠", "verb_면_으면", "verb_았_었_했"]
+  - parent: "었을_것"
+    children: ["verb_ㄴ_은_는_ㄹ_을", "verb_았_었_했"]
+  - parent: "에_대해서"
+    children: ["noun_에"]
+  - parent: "에_따라서"
+    children: ["noun_에"]
+  - parent: "에도_불구하고"
+    children: ["noun_도", "noun_에"]
+  - parent: "으나_마나"
+    children: ["verb_으나"]
   - parent: "으려고_하다"
     children: ["verb_으려고_려고"]
-  - parent: "verb_더라고"
-    children: ["verb_더", "verb_라고"]
-  - parent: "verb_더냐"
-    children: ["verb_더", "verb_냐"]
-  - parent: "verb_더니"
-    children: ["verb_더", "verb_으니_니"]
-  - parent: "verb_더라면"
-    children: ["verb_더", "verb_라고", "verb_면_으면"]
+  - parent: "으려던_참이다"
+    children: ["verb_으려던_려던"]
+  - parent: "으로_인하다"
+    children: ["noun_로_으로"]
+  - parent: "으면_안_되다"
+    children: ["verb_면_으면"]
+  - parent: "은_적이_있다"
+    children: ["verb_ㄴ_은_는_ㄹ_을"]
+  - parent: "은_지"
+    children: ["verb_ㄴ_은_는_ㄹ_을"]
+  - parent: "은_채로"
+    children: ["verb_ㄴ_은_는_ㄹ_을"]
+  - parent: "을_길이_없다"
+    children: ["verb_ㄴ_은_는_ㄹ_을"]
+  - parent: "을_리가_없다"
+    children: ["verb_ㄴ_은_는_ㄹ_을"]
+  - parent: "을_막론하고"
+    children: ["noun_을_를", "verb_고"]
+  - parent: "을_만하다"
+    children: ["verb_ㄴ_은_는_ㄹ_을"]
+  - parent: "을_바에야"
+    children: ["verb_ㄴ_은_는_ㄹ_을"]
+  - parent: "을_뿐만_아니라"
+    children: ["noun_만", "verb_ㄴ_은_는_ㄹ_을"]
+  - parent: "을_수밖에_없다"
+    children: ["noun_밖에", "verb_ㄴ_은_는_ㄹ_을"]
+  - parent: "을_위해서"
+    children: ["noun_을_를", "verb_기"]
+  - parent: "을_정도로"
+    children: ["noun_로_으로", "verb_ㄴ_은_는_ㄹ_을"]
+  - parent: "을_정도이다"
+    children: ["noun_이다", "verb_ㄴ_은_는_ㄹ_을"]
+  - parent: "을_줄_알다"
+    children: ["verb_ㄴ_은_는_ㄹ_을"]
+  - parent: "을_테니까"
+    children: ["verb_ㄴ_은_는_ㄹ_을", "verb_으니까_니까"]
+  - parent: "을_텐데"
+    children: ["verb_ㄴ_은_는_ㄹ_을", "verb_ㄴ데_은데_는데"]
+  - parent: "을까_말까"
+    children: ["verb_을까_ㄹ까"]
+  - parent: "을까_봐"
+    children: ["verb_을까_ㄹ까"]
+  - parent: "을까_하다"
+    children: ["verb_을까_ㄹ까"]
+  - parent: "을지도_모르다"
+    children: ["verb_을지_ㄹ지"]
+  - parent: "전에"
+    children: ["noun_에", "verb_기"]
+  - parent: "중"
+    children: ["verb_ㄴ_은_는_ㄹ_을"]
+  - parent: "지_그렇다"
+    children: ["verb_지"]
+  - parent: "지_말다"
+    children: ["verb_지"]
+  - parent: "지_못하다"
+    children: ["verb_지"]
+  - parent: "지_않다"
+    children: ["verb_지"]
+  - parent: "지_않아도_되다"
+    children: ["verb_아도_어도_여도", "verb_지"]
+  - parent: "후에"
+    children: ["noun_에", "verb_ㄴ_은_는_ㄹ_을"]

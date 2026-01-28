@@ -33,7 +33,7 @@ definitions:
         translated: If you have time this afternoon, let's, at least, go to a cafe.
         audio_url: https://r2.kimchi-reader.app/grammar/오늘_오후에_시간_있으면_카페에나_갑시다._2024-03-15.mp3
 metadata:
-  type: noun
+  type: universal
 details: |-
   # Usage {#usage}
 

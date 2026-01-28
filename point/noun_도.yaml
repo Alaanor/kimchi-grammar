@@ -15,7 +15,7 @@ definitions:
         translated: The friend came too.
         audio_url: https://r2.kimchi-reader.app/grammar/친구도_왔어요_2024-02-18.mp3
 metadata:
-  type: noun
+  type: universal
 details: |-
   # Particle Omission {#ommision}
 

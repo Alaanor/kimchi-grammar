@@ -28,7 +28,7 @@ definitions:
         translated: How many people are you making a reservation for? 10 people.
         audio_url: https://r2.kimchi-reader.app/grammar/몇_분_예약_도와_드릴까요_10명요__2024-03-26.mp3
 metadata:
-  type: noun
+  type: universal
 details: |-
   # Usage {#usage}
 

@@ -28,7 +28,7 @@ definitions:
         translated: I went with my friend.
         audio_url: https://r2.kimchi-reader.app/grammar/친구와_같이_갔어요._2024-02-21.mp3
 metadata:
-  type: noun
+  type: universal
 details: |-
   # Usage {#usage}
 

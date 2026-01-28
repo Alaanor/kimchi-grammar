@@ -14,7 +14,7 @@ definitions:
         translated: It's as scary as seeing a ghost.
         audio_url: https://r2.kimchi-reader.app/grammar/유령을_본_것만큼_무서워요__2024-04-13.mp3
 metadata:
-  type: noun
+  type: universal
 details: |-
   # Usage with nouns modifiers {#noun-modifiers}
 

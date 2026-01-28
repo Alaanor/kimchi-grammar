@@ -13,7 +13,7 @@ definitions:
         translated: If your hair is long, you should tie it up.
         audio_url: https://r2.kimchi-reader.app/grammar/머리가_길다면_머리를_묶어야_해요._2024-03-14.mp3
 metadata:
-  type: noun
+  type: universal
 details: |-
   # Usage {#usage}
 

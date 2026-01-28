@@ -3,7 +3,7 @@ definitions:
   - slug: no-choice-but-to
     name: No Choice But To
     english_alternatives:
-    meaning: Used when there is no other choice but the preceeding state/action.
+    meaning: Used when there is no other choice but the preceding state/action.
     examples:
       - sentence: 너무 빨리 운전해서, 차 손잡이를 꽉 잡<f>을 수밖에 없었다</f>.
         type: simple

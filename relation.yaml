@@ -58,3 +58,67 @@ relation:
   - concern:
       - { id: "noun_부터", slug: "starting-point" }
       - { id: "noun_부", slug: "starting-from" }
+  - concern:
+      - { id: "verb_아도_어도_여도", slug: "inevitable-outcome" }
+      - { id: "verb_더라도", slug: "strong-inevitable-outcome" }
+      - { id: "verb_아봤자_어봤자_해봤자", slug: "no-use" }
+  - concern:
+      - { id: "noun_처럼", slug: "similarity" }
+      - { id: "noun_같이", slug: "similarity" }
+      - { id: "noun_만큼", slug: "as-much-as" }
+      - { id: "verb_듯이", slug: "similarity" }
+  - concern:
+      - { id: "noun_만", slug: "limitation" }
+      - { id: "noun_뿐", slug: "nothing-more" }
+      - { id: "noun_밖에", slug: "exclusion" }
+  - concern:
+      - { id: "verb_면서_으면서", slug: "simultaneous" }
+      - { id: "verb_며_으며", slug: "occurring-simultaneously" }
+      - { id: "verb_고", slug: "listing" }
+  - concern:
+      - { id: "게_하다", slug: "To-influence-someone" }
+      - { id: "verb_도록", slug: "objective" }
+      - { id: "verb_게끔", slug: "expectation-emphasized" }
+  - concern:
+      - { id: "아어_놓다", slug: "maintain" }
+      - { id: "아어_두다", slug: "maintain" }
+  - concern:
+      - { id: "고_있다", slug: "ongoing-state" }
+      - { id: "아어_있다", slug: "continuing-state" }
+  - concern:
+      - { id: "지_않다", slug: "negative-expression" }
+      - { id: "지_못하다", slug: "lack-of-ability" }
+      - { id: "안_아요", slug: "negative-expression" }
+  - concern:
+      - { id: "verb_으려고_려고", slug: "intention" }
+      - { id: "verb_고자", slug: "purpose" }
+      - { id: "을_위해서", slug: "purpose" }
+  - concern:
+      - { id: "으려고_하다", slug: "intending-to" }
+      - { id: "기로_하다", slug: "make-a-promise-with-another-person-or-oneself" }
+      - { id: "으려던_참이다", slug: "be-just-about-to" }
+  - concern:
+      - { id: "는_것_같다", slug: "it-seems-like" }
+      - { id: "는_모양이다", slug: "guess-a-situation-after-observation" }
+      - { id: "을지도_모르다", slug: "possible-outcome" }
+  - concern:
+      - { id: "noun_마저", slug: "even-this-too" }
+      - { id: "noun_조차", slug: "extreme-cases" }
+      - { id: "noun_도", slug: "addition" }
+  - concern:
+      - { id: "verb_지만", slug: "contrast" }
+      - { id: "verb_으나", slug: "although-but" }
+      - { id: "verb_ㄴ데_은데_는데", slug: "background-information" }
+  - concern:
+      - { id: "고_싶다", slug: "desire" }
+      - { id: "었으면_좋겠다", slug: "person-wish-or-hope" }
+  - concern:
+      - { id: "ㄹ_수_있다", slug: "ability-or-possibility" }
+      - { id: "지_못하다", slug: "lack-of-ability" }
+  - concern:
+      - { id: "ㄹ_뻔하다", slug: "something-almost-happened" }
+      - { id: "고_말다", slug: "unintentional-result" }
+  - concern:
+      - { id: "noun_커녕", slug: "not-even" }
+      - { id: "noun_밖에", slug: "exclusion" }
+      - { id: "noun_조차", slug: "extreme-cases" }

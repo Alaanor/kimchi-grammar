@@ -1,0 +1,20 @@
+name: 데(요)
+definitions:
+  - slug: recollecting-a-personal-experience
+    name: Recollecting a personal experience
+    english_alternatives: It was, it seemed
+    meaning: Used to relate something that the speaker came to know through direct past experience.
+    examples:
+      - sentence: 일본에서 타코야키를 너무 잘 먹<f>데</f>.
+        type: simple
+        translated: They eat takoyaki a lot in Japan.
+      - sentence: 오늘 시험 공부를 열심히 했는데 알고 보니 새벽 2시<f>데요</f>.
+        type: simple
+        translated: I studied hard for my exam today and when I was done, it turned out to be 2 in the morning.
+      - sentence: 우리 할머니 고향은 하나도 변하지 않았<f>데</f>.
+        type: simple
+        translated: My grandma's hometown hadn't changed at all.
+metadata:
+  type: verb
+details: |-
+  This grammar point is mainly used in the spoken language, but not as commonly as '-더라' or '-:grammar[verb_더라고]'.

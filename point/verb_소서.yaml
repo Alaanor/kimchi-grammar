@@ -1,0 +1,22 @@
+point: 소서
+definitions:
+  - slug: solemn-request
+    name: Solemn request
+    english_alternatives:
+    meaning: Used to express a request or wish in an extremely polite fashion. Most often used when speaking to kings, queens, and God.
+    examples:
+      - type: simple
+        sentence: 신이시여, 우리를 버리지 <f>마소서</f>!
+        translated: O Lord, do not forsake us!
+        audio_url: 
+      - type: simple
+        sentence: 주님을 믿사오며 나의 마음에 용기를 <f>채워주소서</f>.
+        translated: As I trust in you Lord, please fill my heart with courage.
+        audio_url:       
+      - type: simple
+        sentence: 하늘에 계신 근육의 신이시여 무게를 두려워하지 않게 하소서.
+        translated: O God of muscle in heaven, grant that I may not fear this weight.
+        audio_url: 
+metadata:
+  type: verb
+details: |-

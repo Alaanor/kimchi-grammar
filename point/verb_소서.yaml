@@ -14,8 +14,8 @@ definitions:
         translated: As I trust in you Lord, please fill my heart with courage.
         audio_url:       
       - type: simple
-        sentence: 하늘에 계신 근육의 신이시여 무게를 두려워하지 않게 하소서.
-        translated: O God of muscle in heaven, grant that I may not fear this weight.
+        sentence: 하늘에 계신 근육의 신이시여 무게를 두려워하지 않게 <f>하소서</f>.
+        translated: O God of muscles above, grant that I may not fear this weight.
         audio_url: 
 metadata:
   type: verb

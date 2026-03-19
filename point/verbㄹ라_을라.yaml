@@ -1,0 +1,22 @@
+point: (으)ㄹ라
+definitions:
+  - slug: expresses-concern
+    name: Expresses concern
+    english_alternatives:
+    meaning: Expresses concern that what was just mentioned might happen.
+    examples:
+      - type: simple
+        sentence: 쉿! 이쭉 쳐다볼라.
+        translated: Shush! He might look this way. 
+        audio_url: 
+      - type: simple
+        sentence: 그렇게 빨리 뛰지 마라 다칠라.
+        translated: Don't run so fast, you might get hurt.
+        audio_url: 
+      - type: simple
+        sentence: 우리는 가지 말자, 그 귀찮은 놈도 왔을라.
+        translated: Let's not go, that annoying guy is probably there too.
+        audio_url: 
+metadata:
+  type: verb
+details: |-

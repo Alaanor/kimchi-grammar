@@ -1,4 +1,4 @@
-point: 소서
+name: 소서
 definitions:
   - slug: solemn-request
     name: Solemn request
@@ -8,15 +8,15 @@ definitions:
       - type: simple
         sentence: 신이시여, 우리를 버리지 <f>마소서</f>!
         translated: O Lord, do not forsake us!
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 주님을 믿사오며 나의 마음에 용기를 <f>채워주소서</f>.
         translated: As I trust in you Lord, please fill my heart with courage.
-        audio_url:       
+        audio_url:
       - type: simple
         sentence: 식단의 고통을 이겨내게 <f>하소서</f>.
         translated: Help me overcome the hardships of this diet.
-        audio_url: 
+        audio_url:
 metadata:
   type: verb
 details: |-

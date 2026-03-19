@@ -6,21 +6,21 @@ definitions:
     meaning: Expresses a result that can happen when an action is done consistently.
     examples:
       - type: simple
-        sentence: 열심히 사<f>노라면</f> 좋은 날도 있겠지. 
+        sentence: 열심히 사<f>노라면</f> 좋은 날도 있겠지.
         translated: If you work hard, good days will come.
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 홈쇼핑을 보고 있<f>노라면</f> 언제 시간이 갔는지 알 수 없을 지경이었다.
         translated: When I was watching home shopping channels, I couldn't tell when time passed.
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 어머니 사진을 보<f>느라면</f>, 어머니가 보고 싶어져요.
         translated: Whenever I look at my mother's photo, I miss her.
-        audio_url: 
+        audio_url:
 metadata:
   type: composite
 details: |-
-# Usage {#usage}
-- It can be replaced by <f>다(가) 보면</f>.
-- It sounds a bit old fashioned, so it is less commonly used than <f>다(가) 보면</f> nowadays.
-- <f>느라면</f> is a less commonly used form of <f>노라면</f>.
+  # Usage {#usage}
+  - It can be replaced by <f>다(가) 보면</f>.
+  - It sounds a bit old fashioned, so it is less commonly used than <f>다(가) 보면</f> nowadays.
+  - <f>느라면</f> is a less commonly used form of <f>노라면</f>.

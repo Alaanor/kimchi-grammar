@@ -20,11 +20,11 @@ definitions:
       - sentence: 길을 잘 모르는 걸 보니 이번이 초행길이시로구먼.
         type: simple
         translated: Seeing as you don't know the way, this must be your first time here.
-        audio_url:   
+        audio_url:
       - sentence: 역겨운 아해들이로고! 옛날과 달라진 바가 하나도 없다!
         type: simple
         translated: You disgusting brats! Nothing has changed since the old days!
-        audio_url:   
+        audio_url:
 metadata:
   type: verb
 details: ""

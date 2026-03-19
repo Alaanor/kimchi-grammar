@@ -13,6 +13,15 @@ definitions:
         type: simple
         translated: Rather than studying alone, I'll study with friends at the library.
         audio_url: https://r2.kimchi-reader.app/grammar/혼자서_공부하느니_도서관에서_친구들과_같이_공부할게요__2024-05-27.mp3
+  - slug: listing
+    name: Listing
+    english_alternatives: Or
+    meaning: A connective ending used when listing words, thoughts, opinions, etc, that are usually opposite of one another.
+    examples:
+      - sentence: 그 두 사람 정말 결혼 할 수 있을까요? 결혼을 하<f>느니</f> 마<f>느니</f> 정말 말이 많던데요?
+        type: simple
+        translated: Can those two really get married? There's been so much talk about whether they should or shouldn't get married.
+        audio_url:
       - sentence: 화초 색상이 안 어울린다<f>느니</f>, 키가 안 맞는다<f>느니</f>, 나불나불 말만 하던 김 대리는 갑자기 집에 일이 생겼다며 먼저 돌아갔다.
         type: simple
         translated: Assistant manager Kim, who had been chattering away about how the flower colors didn't match or how the height wasn't right, suddenly claimed he had something come up at home and left early.
@@ -22,5 +31,5 @@ metadata:
 details: |-
   # Usage {#usage}
 
-  The words 차라리 or 아예 are often used in the following clause.
-  It is often used in conjunction with <f>ㄴ다</f>.
+  - The words 차라리 or 아예 are often used in the following clause.
+  - When listing something,　<f>느니</f> is often used in conjunction with <f>ㄴ다</f>.

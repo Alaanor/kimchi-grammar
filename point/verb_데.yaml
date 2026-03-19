@@ -8,12 +8,15 @@ definitions:
       - sentence: 일본 사람들은 타코야끼를 자주 먹<f>데</f>.
         type: simple
         translated: Japanese people frequently eat takoyaki.
+        audio_url: https://r2.kimchi-reader.app/grammar/일본_사람들은_타코야끼를_자주_먹데__2026-03-19.mp3
       - sentence: 오늘 시험 공부를 열심히 했는데 끝나고 보니까 새벽 2시<f>데요</f>.
         type: simple
         translated: I studied hard for my exam today and when I was done, it turned out to be 2 in the morning.
+        audio_url: https://r2.kimchi-reader.app/grammar/오늘_시험_공부를_열심히_했는데_끝나고_보니까_새벽_2시데요__2026-03-19.mp3
       - sentence: 우리 할머니 고향은 하나도 안 변했<f>데</f>.
         type: simple
         translated: My grandma's hometown hadn't changed at all.
+        audio_url: https://r2.kimchi-reader.app/grammar/우리_할머니_고향은_하나도_안_변했데__2026-03-19.mp3
 metadata:
   type: verb
 details: |-

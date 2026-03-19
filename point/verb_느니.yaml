@@ -21,11 +21,11 @@ definitions:
       - sentence: 그 두 사람 정말 결혼 할 수 있을까요? 결혼을 하<f>느니</f> 마<f>느니</f> 정말 말이 많던데요?
         type: simple
         translated: Can those two really get married? There's been so much talk about whether they should or shouldn't get married.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/그_두_사람_정말_결혼_할_수_있을까요_결혼을_하느니_마느니_정말_말이_많던데요__2026-03-19.mp3
       - sentence: 화초 색상이 안 어울린다<f>느니</f>, 키가 안 맞는다<f>느니</f>, 나불나불 말만 하던 김 대리는 갑자기 집에 일이 생겼다며 먼저 돌아갔다.
         type: simple
         translated: Assistant manager Kim, who had been chattering away about how the flower colors didn't match or how the height wasn't right, suddenly claimed he had something come up at home and left early.
-        audio_url: 
+        audio_url: https://r2.kimchi-reader.app/grammar/화초_색상이_안_어울린다느니,_키가_안_맞는다느니,_나불나불_말만_하던_김_대리는_갑자기_집에_일이_생겼다며_먼저__2026-03-19.mp3
 metadata:
   type: verb
 details: |-

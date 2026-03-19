@@ -8,15 +8,15 @@ definitions:
       - type: simple
         sentence: 쉿! 이쭉 쳐다볼라.
         translated: Shush! He might look this way.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/쉿_이쭉_쳐다볼라__2026-03-19.mp3
       - type: simple
         sentence: 그렇게 빨리 뛰지 마라 다칠라.
         translated: Don't run so fast, you might get hurt.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/그렇게_빨리_뛰지_마라_다칠라__2026-03-19.mp3
       - type: simple
         sentence: 우리는 가지 말자, 그 귀찮은 놈도 왔을라.
         translated: Let's not go, that annoying guy is probably there too.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/우리는_가지_말자,_그_귀찮은_놈도_왔을라__2026-03-19.mp3
 metadata:
   type: verb
-details: |-
+details: ""

@@ -8,15 +8,15 @@ definitions:
       - type: simple
         sentence: 열심히 사<f>노라면</f> 좋은 날도 있겠지.
         translated: If you work hard, good days will come.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/열심히_사노라면_좋은_날도_있겠지__2026-03-19.mp3
       - type: simple
         sentence: 홈쇼핑을 보고 있<f>노라면</f> 언제 시간이 갔는지 알 수 없을 지경이었다.
         translated: When I was watching home shopping channels, I couldn't tell when time passed.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/홈쇼핑을_보고_있노라면_언제_시간이_갔는지_알_수_없을_지경이었다__2026-03-19.mp3
       - type: simple
         sentence: 어머니 사진을 보<f>느라면</f>, 어머니가 보고 싶어져요.
         translated: Whenever I look at my mother's photo, I miss her.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/어머니_사진을_보느라면,_어머니가_보고_싶어져요__2026-03-19.mp3
 metadata:
   type: composite
 details: |-

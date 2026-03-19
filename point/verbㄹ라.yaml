@@ -1,0 +1,22 @@
+point: ㄹ라
+definitions:
+  - slug: expresses-concern
+    name: Expresses concern
+    english_alternatives:
+    meaning: Expresses concern that what was just mentioned might happen.
+    examples:
+      - type: simple
+        sentence: 꼭꼭 숨어라 머리카락 보일라. 
+        translated: Hide really well or your hair might show.
+        audio_url: 
+      - type: simple
+        sentence: 쉿! 이쭉 쳐다볼라. 모르는 척해, 모르는 척.
+        translated: Shush! He might look this way. Pretend you don't know, pretend you don't know.
+        audio_url: 
+      - type: simple
+        sentence: 옷도 얇게 입고 감기 들라.
+        translated: You're dressed too lightly, you'll catch a cold.
+        audio_url: 
+metadata:
+  type: verb
+details: |-

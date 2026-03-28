@@ -61,7 +61,7 @@ relation:
   - concern:
       - { id: "verb_아도_어도_여도", slug: "inevitable-outcome" }
       - { id: "verb_더라도", slug: "strong-inevitable-outcome" }
-      - { id: "verb_아봤자_어봤자_해봤자", slug: "no-use" }
+      - { id: "아어_봤자", slug: "no-use" }
   - concern:
       - { id: "noun_처럼", slug: "similarity" }
       - { id: "noun_같이", slug: "similarity" }

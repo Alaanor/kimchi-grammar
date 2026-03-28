@@ -51,7 +51,7 @@ inheritance:
     children: ["noun_요", "verb_시_으시", "verb_아_어_여"]
   - parent: "verb_습니다만"
     children: ["noun_만", "verb_습니다_ㅂ니다"]
-  - parent: "verb_아봤자_어봤자_해봤자"
+  - parent: "아어_봤자"
     children: ["verb_았_었_했", "verb_자", "아어_보다"]
   - parent: "verb_아서_어서_해서"
     children: ["verb_아_어_여"]

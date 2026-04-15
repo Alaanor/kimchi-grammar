@@ -1,0 +1,33 @@
+point: (으)ㅁ세
+definitions:
+  - slug: Promise
+    name: Promise
+    meaning: Expresses the speaker would be happy to do something in the 하게체 speech level.
+    examples:
+      - type: simple
+        sentence: 곧 밥을 먹음세.
+        translated: I'd love to eat soon.
+        audio_url: 
+      - type: simple
+        sentence: 그 일은 내가 함세.
+        translated: I'll take care of that.
+        audio_url: 
+      - type: simple
+        sentence: 커피를 사다 줌세.
+        translated: I'll get you a coffee.
+        audio_url: 
+
+metadata:
+  type: [ verb ]
+details: |-
+  # What is 하게체? {#what-is-하게체?}
+
+  <f>하게체</f> is used to familiarly address someone without lowering oneself. It can be used to show respect when the other
+  person is of lower social standing but not necessarily young in absolute age.
+
+  You will encounter <f>하게체</f> in situations such as a father-in-law and mother-in-law using the form with their son-in-law,
+  an uncle using it with a grown nephew with children, or two brother-in-laws speaking with each other.
+
+  You will still hear <f>하게체</f> used in daily conversation but it has a slightly archaic tone, so it will usually only
+  be used by older people. A young person speaking using <f>하게체</f> will tend to sound quite awkward.
+  :source[https://namu.wiki/w/하게체]

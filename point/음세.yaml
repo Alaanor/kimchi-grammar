@@ -1,6 +1,6 @@
 point: (으)ㅁ세
 definitions:
-  - slug: Future intention
+  - slug: future-intention
     name: Future intention
     meaning: Expresses the speaker's enthusiastic intention to do something in the 하게체 speech level.
     examples:
@@ -18,7 +18,7 @@ definitions:
         audio_url: 
 
 metadata:
-  type: [ verb ]
+  type:  verb 
 details: |-
   # What is 하게체? {#what-is-하게체?}
 

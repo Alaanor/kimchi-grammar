@@ -1,0 +1,40 @@
+point: (으)오/(으)옵/사오(ㅂ)/자오(ㅂ)
+definitions:
+  - slug: humility
+    name: Humility
+    meaning: Used to express humility and additional politeness in the 하소서체 speech level.
+    examples:
+      - type: simple
+        sentence: 그런 게 없으와.
+        translated: 
+        audio_url:
+      - type: simple
+        sentence: 당신을 믿사오니 힘내세요.
+        translated: 
+        audio_url:
+      - type: simple
+        sentence: 저희가 그 사람을 믿었삽더니.
+        translated: 
+        audio_url:
+      - type: simple
+        sentence: 저를 불러 주시옵소서.
+        translated: 
+        audio_url:
+      - type: simple
+        sentence: 스승의 뜻을 좇잡나이다.
+        translated: 
+        audio_url:
+      - type: simple
+        sentence: 
+        translated: 
+        audio_url:
+      - type: simple
+        sentence: 
+        translated: 
+        audio_url:
+metadata:
+  type: verb
+details: |-
+This differs from 시 in that 시 shows respect to the subject of the verb, while this shows politeness and
+humbleness from the speaker.
+  

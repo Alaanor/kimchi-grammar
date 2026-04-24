@@ -9,7 +9,7 @@ definitions:
         sentence: 김치리더 덕분에 드디어 그 어려운 책을 읽어 냈습니다!
         translated: Thanks to Kimchi Reader, I finally read that difficult book.
       - type: simple
-        sentence: 경찰 아저씨가 범인을 찾아 냈다.
+        sentence: 경찰 아저씨가 범인을 찾아냈다.
         translated: The policeman finally found the culprit.
 metadata:
   type: composite

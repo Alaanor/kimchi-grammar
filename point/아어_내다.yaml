@@ -6,10 +6,10 @@ definitions:
     meaning: Marks an action as completed through much difficulty, effort, or time.
     examples:
       - type: simple
-        sentence: 김치리더 덕분에 드디어 그 어려운 책을 읽어 냈습니다!
+        sentence: 김치리더 덕분에 드디어 그 어려운 책을 <f>읽어 냈습니다</f>!
         translated: Thanks to Kimchi Reader, I finally read that difficult book.
       - type: simple
-        sentence: 경찰 아저씨가 범인을 찾아냈다.
+        sentence: 경찰 아저씨가 범인을 <f>찾아냈다</f>.
         translated: The policeman finally found the culprit.
 metadata:
   type: composite

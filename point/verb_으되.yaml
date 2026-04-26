@@ -6,10 +6,10 @@ definitions:
     meaning: Introduces some truth but adds a contrasting fact, details, conditions, or restrictions.
     examples:
       - type: simple
-        sentence: 한국 드라마를 당연히 보시되 영어 자막만 쓰지 마셔요.
+        sentence: 한국 드라마를 당연히 보시<f>되</f> 영어 자막만 쓰지 마셔요.
         translated: Watch K-dramas, of course, just don't use English subtitles.
       - type: simple
-        sentence: 돈은 있으되 쓸 시간은 없다...
+        sentence: 돈은 있<f>으되</f> 쓸 시간은 없다...
         translated: I have the money, but not the time to spend it...
   - slug: archaic-quoting
     name: Old-style quoting introduction
@@ -17,7 +17,7 @@ definitions:
     meaning: Introduces a direct quote.
     examples:
       - type: simple
-        sentence: 임금님이 말씀하시되, "들라 하라!"
+        sentence: 임금님이 말씀하시<f>되</f>, "들라 하라!"
         translated: The king said, "let him in!"
 metadata:
   type: verb

@@ -18,7 +18,7 @@ definitions:
         translated: Help me overcome the hardships of this diet.
         audio_url: https://r2.kimchi-reader.app/grammar/식단의_고통을_이겨내게_하소서__2026-03-19.mp3
       - type: simple
-        sentence: 저의 말씀을 <f>들으소서<f>.
+        sentence: 저의 말씀을 <f>들으소서</f>.
         translated: Listen to what I have to say.
         audio_url: 
 metadata:

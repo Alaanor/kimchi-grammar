@@ -5,17 +5,17 @@ definitions:
     meaning: Expresses the speaker's enthusiastic intention to do something in the 하게체 speech level.
     examples:
       - type: simple
-        sentence: 곧 밥을 먹음세.
+        sentence: 곧 밥을 <f>먹음세</f>.
         translated: I'll eat soon!
-        audio_url: 
+        audio_url:
       - type: simple
-        sentence: 그 일은 내가 함세.
+        sentence: 그 일은 내가 <f>함세</f>.
         translated: I'll take care of that.
-        audio_url: 
+        audio_url:
       - type: simple
-        sentence: 커피를 사다 줌세.
+        sentence: 커피를 사다 <f>줌세</f>.
         translated: I'll get you a coffee.
-        audio_url: 
+        audio_url:
 
 metadata:
   type:  verb 

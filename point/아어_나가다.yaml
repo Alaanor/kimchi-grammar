@@ -6,10 +6,10 @@ definitions:
     meaning: Marks an action as ongoing or in progress.
     examples:
       - type: simple
-        sentence: 아무것도 없어도 너만 있으면 살아 나가겠지.
+        sentence: 아무것도 없어도 너만 있으면 <f>살아 나가겠지</f>.
         translated: Even if I don't have anything, if I just have you I can keep on living.
       - type: simple
-        sentence: 우리 아들이 일을 열심히 해나가고 있어.
+        sentence: 우리 아들이 일을 열심히 <f>해나가고</f> 있어.
         translated: Our son keeps working hard.
 metadata:
   type: composite

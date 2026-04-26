@@ -5,10 +5,10 @@ definitions:
     english_alternatives: (more/less) than, compared to
     meaning: Used to compare two items.
     examples:
-      - sentence: 택시를 타는 거에 비해 기차를 타는 건 더 싸요.
+      - sentence: 택시를 타는 거<f>에 비해</f> 기차를 타는 건 더 싸요.
         type: simple
         translated: Taking the train is much cheaper than taking a taxi.
-      - sentence: 우리 아버지가 사진에 비하면 실물이 훨씬 낫거든요.
+      - sentence: 우리 아버지가 사진<f>에 비하면</f> 실물이 훨씬 낫거든요.
         type: simple
         translated: My father looks better in real life compared to the pictures.
 metadata:

@@ -5,17 +5,17 @@ definitions:
     meaning: Expresses a simple statement in 하소서체.
     examples:
       - type: simple
-        sentence: 나라를 위하여 죽는 것이 제 영광이옵나이다.
+        sentence: 나라를 위하여 죽는 것이 제 영광이옵<f>나이다</f>.
         translated: It is my honor to die for my country.
-        audio_url: 
+        audio_url:
       - type: simple
-        sentence: 신령님께 비나이다.
+        sentence: 신령님께 비<f>나이다</f>.
         translated: We pray to the Divine Spirit.
-        audio_url: 
+        audio_url:
       - type: simple
-        sentence: 명대로 거행하겠나이다.
+        sentence: 명대로 거행하겠<f>나이다</f>.
         translated: I shall proceed as ordered.
-        audio_url: 
+        audio_url:
         
 metadata:
   type: verb

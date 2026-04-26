@@ -1,0 +1,20 @@
+name: 에 비해(서)/비하면
+definitions:
+  - slug: compared-to
+    name: Compared to
+    english_alternatives: (more/less) than, compared to
+    meaning: Used to compare two items.
+    examples:
+      - sentence: 택시를 타는 거에 비해 기차를 타는 건 더 싸요.
+        type: simple
+        translated: Taking the train is much cheaper than taking a taxi.
+      - sentence: 우리 아버지가 사진에 비하면 실물이 훨씬 낫거든요.
+        type: simple
+        translated: My father looks better in real life compared to the pictures.
+metadata:
+  type: composite
+details: |-
+  # Usage {#usage}
+  - This grammar is a more formal variant of :grammar[noun_보다].
+  - As seen in the first example, when comparing two actions or states, you would use a nominalizer like :grammar[는_것] or 데.
+  - The form using 비하면 is less common than 비해(서).

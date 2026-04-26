@@ -1,4 +1,4 @@
-name: 소서
+name: (으)소서
 definitions:
   - slug: solemn-request
     name: Solemn request
@@ -17,6 +17,10 @@ definitions:
         sentence: 식단의 고통을 이겨내게 <f>하소서</f>.
         translated: Help me overcome the hardships of this diet.
         audio_url: https://r2.kimchi-reader.app/grammar/식단의_고통을_이겨내게_하소서__2026-03-19.mp3
+      - type: simple
+        sentence: 저의 말씀을 <f>들으소서<f>.
+        translated: Listen to what I have to say.
+        audio_url: 
 metadata:
   type: verb
 details: ""

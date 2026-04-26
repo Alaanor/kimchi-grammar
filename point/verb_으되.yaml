@@ -21,6 +21,7 @@ definitions:
       - type: simple
         sentence: 임금님이 말씀하시<f>되</f>, "들라 하라!"
         translated: The king said, "let him in!"
+        audio_url: https://r2.kimchi-reader.app/grammar/임금님이_말씀하시되,_"들라_하라_"_2026-04-26.mp3
 metadata:
   type: verb
 details: |-

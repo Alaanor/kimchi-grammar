@@ -1,0 +1,30 @@
+point: 나이다
+definitions:
+  - slug: simple-statement
+    name: Simple statement
+    meaning: Expresses a simple statement in 하소서체.
+    examples:
+      - type: simple
+        sentence: 나라를 위하여 죽는 것이 제 영광이옵나이다.
+        translated: It is my honor to die for my country.
+        audio_url: 
+      - type: simple
+        sentence: 신령님께 비나이다.
+        translated: We pray to the Divine Spirit.
+        audio_url: 
+      - type: simple
+        sentence: 명대로 거행하겠나이다.
+        translated: I shall proceed as ordered.
+        audio_url: 
+        
+metadata:
+  type: verb
+details: |-
+  # What is 하소서체? {#what-is-하소서체?}
+
+  <f>하소서체</f> is honorific speech used in archaic Korean; used to extremely respectfully address the listener. To modern 
+  Korean speakers this level of speech is perceived as an archaic style used only during the monarchical era. 
+  
+  In modern Korean <f>하소서체</f> is functionally used only in literary expressions, and it is considered natural to use only
+  when addressing a deity. You will encounter <f>하소서체</f> in period dramas, traditional literature, the bible, prayers
+  to God, and similar.  :source[https://namu.wiki/w/하소서체]

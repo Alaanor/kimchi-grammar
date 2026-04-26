@@ -1,0 +1,19 @@
+point: 아/어 나가다
+definitions:
+  - slug: in-progress-action
+    name: Ongoing or in-progress action
+    english_alternatives: keep on
+    meaning: Marks an action as ongoing or in progress.
+    examples:
+      - type: simple
+        sentence: 아무것도 없어도 너만 있으면 살아 나가겠지.
+        translated: Even if I don't have anything, if I just have you I can keep on living.
+      - type: simple
+        sentence: 우리 아들이 일을 열심히 해나가고 있어.
+        translated: Our son keeps working hard.
+metadata:
+  type: composite
+details: |-
+  # Similar grammar {#similar-grammar}
+  
+  When denoting in-progress actions, this grammar point is similar to :grammar[아어_가다]{noprefix}.

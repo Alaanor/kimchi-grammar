@@ -8,12 +8,14 @@ definitions:
       - type: simple
         sentence: 김치리더 덕분에 드디어 그 어려운 책을 <f>읽어 냈습니다</f>!
         translated: Thanks to Kimchi Reader, I finally read that difficult book.
+        audio_url: https://r2.kimchi-reader.app/grammar/김치리더_덕분에_드디어_그_어려운_책을_읽어_냈습니다__2026-04-26.mp3
       - type: simple
         sentence: 경찰 아저씨가 범인을 <f>찾아냈다</f>.
         translated: The policeman finally found the culprit.
+        audio_url: https://r2.kimchi-reader.app/grammar/경찰_아저씨가_범인을_찾아냈다__2026-04-26.mp3
 metadata:
   type: composite
 details: |-
   # Completed actions {#completed-actions}
-  
+
   Both :grammar[아어_버리다]{noprefix} and :grammar[아어_내다]{noprefix} mark action as completed. However, the latter always has an underlying tone of going through some difficulty in achieving the action. That may include effort or time put in.

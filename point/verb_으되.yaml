@@ -8,9 +8,11 @@ definitions:
       - type: simple
         sentence: 한국 드라마를 당연히 보시<f>되</f> 영어 자막만 쓰지 마셔요.
         translated: Watch K-dramas, of course, just don't use English subtitles.
+        audio_url: https://r2.kimchi-reader.app/grammar/한국_드라마를_당연히_보시되_영어_자막만_쓰지_마셔요__2026-04-26.mp3
       - type: simple
         sentence: 돈은 있<f>으되</f> 쓸 시간은 없다...
         translated: I have the money, but not the time to spend it...
+        audio_url: https://r2.kimchi-reader.app/grammar/돈은_있으되_쓸_시간은_없다__2026-04-26.mp3
   - slug: archaic-quoting
     name: Old-style quoting introduction
     english_alternatives: Says/said so
@@ -23,21 +25,21 @@ metadata:
   type: verb
 details: |-
   # Usage {#usage}
-  
+
   This grammar point is very formal, literary, or archaic and shows up in such texts or those mimicking their style.
-  
+
   The old-style direct quote introduction meaning is only really used in archaic contexts like the Bible or old records.
-  
+
   # Alternative forms {#alternative-forms}
-  
+
   Regardless of whether the verb ends with a consonant or a vowel, the form -되 is used.
   However, after 있다, 없다, -:grammar[verb_았_었_했]-, or -:grammar[verb_겠]-, the form -으되 is used.
   In nonstandard writing though, some people may use -되 after those as well.
-  
+
   In archaic speech, after :grammar[noun_이다] or 아니다, the form -로되 may be used.
-  
+
   # Synonyms {#synonyms}
-  
+
   The first meaning is similar to :grammar[verb_지만], :grammar[verb_ㄴ데_은데_는데], or -는 이상.
-  
+
   The second meaning is similar to -기를 or -길.

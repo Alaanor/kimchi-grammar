@@ -8,12 +8,14 @@ definitions:
       - type: simple
         sentence: 아무것도 없어도 너만 있으면 <f>살아 나가겠지</f>.
         translated: Even if I don't have anything, if I just have you I can keep on living.
+        audio_url: https://r2.kimchi-reader.app/grammar/아무것도_없어도_너만_있으면_살아_나가겠지__2026-04-26.mp3
       - type: simple
         sentence: 우리 아들이 일을 열심히 <f>해나가고</f> 있어.
         translated: Our son keeps working hard.
+        audio_url: https://r2.kimchi-reader.app/grammar/우리_아들이_일을_열심히_해나가고_있어__2026-04-26.mp3
 metadata:
   type: composite
 details: |-
   # Similar grammar {#similar-grammar}
-  
+
   When denoting in-progress actions, this grammar point is similar to :grammar[아어_가다]{noprefix}.

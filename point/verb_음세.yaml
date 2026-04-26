@@ -7,18 +7,17 @@ definitions:
       - type: simple
         sentence: 곧 밥을 <f>먹음세</f>.
         translated: I'll eat soon!
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/곧_밥을_먹음세__2026-04-26.mp3
       - type: simple
         sentence: 그 일은 내가 <f>함세</f>.
         translated: I'll take care of that.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/그_일은_내가_함세__2026-04-26.mp3
       - type: simple
         sentence: 커피를 사다 <f>줌세</f>.
         translated: I'll get you a coffee.
-        audio_url:
-
+        audio_url: https://r2.kimchi-reader.app/grammar/커피를_사다_줌세__2026-04-26.mp3
 metadata:
-  type:  verb 
+  type: verb
 details: |-
   # What is 하게체? {#what-is-하게체?}
 

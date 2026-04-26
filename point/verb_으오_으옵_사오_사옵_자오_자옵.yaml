@@ -2,45 +2,44 @@ point: (으)오/(으)옵/사오/사옵/자오/자옵
 definitions:
   - slug: humility
     name: Humility
-    meaning: Used to express humility and additional politeness in the 하소서체 speech level. 사옵 and 자옵 are
-    occasionally shortened to 삽 and 잡 respectively.
+    meaning: >-
+      Used to express humility and additional politeness in the 하소서체 speech level. 사옵 and 자옵 are occasionally shortened to 삽 and 잡 respectively.
     examples:
       - type: simple
         sentence: 여기 그런 게 <f>없으와</f>.
         translated: We don't have that here.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/여기_그런_게_없으와__2026-04-26.mp3
       - type: simple
         sentence: 필요한 거 있으시다면 저를 불러 <f>주시옵소서</f>.
         translated: Please call me if you need anything.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/필요한_거_있으시다면_저를_불러_주시옵소서__2026-04-26.mp3
       - type: simple
         sentence: 저희가 그 사람을 <f>믿었삽더니</f> 배신당했나이다.
         translated: We trusted them, but they betrayed us.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/저희가_그_사람을_믿었삽더니_배신당했나이다__2026-04-26.mp3
       - type: simple
         sentence: 당신을 <f>믿사오니</f> 힘내세요.
         translated: I believe in you, so cheer up.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/당신을_믿사오니_힘내세요__2026-04-26.mp3
       - type: simple
         sentence: 스승의 뜻을 <f>좇잡나이다</f>.
         translated: I shall follow my teacher’s will.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/스승의_뜻을_좇잡나이다__2026-04-26.mp3
       - type: simple
         sentence: 당신을 <f>믿사옵고</f> <f>따르옵니다</f>.
         translated: We trust in and follow you.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/당신을_믿사옵고_따르옵니다__2026-04-26.mp3
       - type: simple
         sentence: 분부 <f>받자옵나이다</f>.
         translated: We await your instructions.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/분부_받자옵나이다__2026-04-26.mp3
 metadata:
   type: verb
 details: |-
   # What is 하소서체? {#what-is-하소서체?}
 
-  <f>하소서체</f> is honorific speech used in archaic Korean; used to extremely respectfully address the listener. To modern 
-  Korean speakers this level of speech is perceived as an archaic style used only during the monarchical era. 
-  
+  <f>하소서체</f> is honorific speech used in archaic Korean; used to extremely respectfully address the listener. To modern
+  Korean speakers this level of speech is perceived as an archaic style used only during the monarchical era.
   In modern Korean <f>하소서체</f> is functionally used only in literary expressions, and it is considered natural to use only
   when addressing a deity. You will encounter <f>하소서체</f> in period dramas, traditional literature, the bible, prayers
   to God, and similar.  :source[https://namu.wiki/w/하소서체]

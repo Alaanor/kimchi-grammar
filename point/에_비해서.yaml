@@ -8,9 +8,11 @@ definitions:
       - sentence: 택시를 타는 거<f>에 비해</f> 기차를 타는 건 더 싸요.
         type: simple
         translated: Taking the train is much cheaper than taking a taxi.
+        audio_url: https://r2.kimchi-reader.app/grammar/택시를_타는_거에_비해_기차를_타는_건_더_싸요__2026-04-26.mp3
       - sentence: 우리 아버지가 사진<f>에 비하면</f> 실물이 훨씬 낫거든요.
         type: simple
         translated: My father looks better in real life compared to the pictures.
+        audio_url: https://r2.kimchi-reader.app/grammar/우리_아버지가_사진에_비하면_실물이_훨씬_낫거든요__2026-04-26.mp3
 metadata:
   type: composite
 details: |-

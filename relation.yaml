@@ -125,3 +125,7 @@ relation:
   - concern:
       - { id: "(으)ㄹ까 봐", slug: "concern-about-something" }
       - { id: "(으)ㄹ라", slug: "expresses-concern" }
+  - concern:
+      - { id: "noun_되다", slug: "to-become" }
+      - { id: "noun_받다", slug: "receive-action" }
+      - { id: "noun_당하다", slug: "experience-consequence" }

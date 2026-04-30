@@ -111,6 +111,7 @@ relation:
       - { id: "verb_ㄴ데_은데_는데", slug: "background-information" }
   - concern:
       - { id: "고_싶다", slug: "desire" }
+      - { id: "verb_고프다", slug: "desire" }
       - { id: "었으면_좋겠다", slug: "person-wish-or-hope" }
   - concern:
       - { id: "ㄹ_수_있다", slug: "ability-or-possibility" }

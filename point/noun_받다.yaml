@@ -1,0 +1,26 @@
+name: 받다
+definitions:
+  - slug: receive-action
+    name: To receive or undergo an action
+    english_alternatives: to be -ed, get
+    meaning: Attaches to nouns denoting action and expresses that the subject is the recipient of that action.
+    examples:
+      - sentence: 현우는 모든 사람에게 <f>사랑받아요</f>.
+        type: simple
+        translated: Hyunwoo is loved by everyone.
+      - sentence: 선생님께 <f>칭찬받았어</f>.
+        type: simple
+        translated: I got praise from the teacher.
+metadata:
+  type: noun
+details: |-
+  # Usage {#usage}
+  
+  받다 is only added to nouns directly if those nouns express some sort of an action, typically otherwise expressed through a related or 하다 verb.
+  Some examples of such nouns are 사랑, 칭찬, 존경, 미움, 무시, etc.
+  It does not attach to quality nouns like 아름다움 or 행복.
+
+  # Spacing {#spacing}
+
+  In cases when 받다 expresses receiving some action passively, it is directly attached to the noun.
+  However, if you are receiving a physical object, you space it.

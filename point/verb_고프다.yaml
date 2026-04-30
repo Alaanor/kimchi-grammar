@@ -1,0 +1,22 @@
+name: 고프다
+definitions:
+  - slug: desire
+    name: Desire
+    english_alternatives: to want, desire
+    meaning: Used to express a desire or wish to do something. A shortened form of :grammar[고_싶다].
+    examples:
+      - sentence: 나도 춤추고파!
+        type: simple
+        translated: I want to dance too!
+      - sentence: 예전부터 보고픈 사람을 드디어 봤다.
+        type: simple
+        translated: I finally saw the person I've wanted to see for a long time.
+metadata:
+  type: verb
+details: |-
+  # Usage (#usage)
+
+  -고프다 as a contraction of -:grammar[고_싶다]{noprefix} is used in literary or poetic settings like novels, poems, or songs.
+  It's mostly seen in the noun modifier form as -고픈.
+
+  It's not to be confused with the adjective 고프다 (for one's stomach to be empty).

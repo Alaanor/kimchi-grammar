@@ -20,3 +20,12 @@ definitions:
 metadata:
   type: verb
 details: |-
+  # Alternative forms {#alt-forms}
+  
+  Before 1989, this grammar point was written as -읍니다 after final consonants ㅆ and ㅄ. For example:
+  ::example[제가 하겠읍니다! | I will do it]
+  ::example[선곡하신 곡이 없읍니다. | The song you've selected is unavailable]
+
+  This usage of -읍니다 can still be seen in the writings of older people or to give a piece of text the vibe that a person who learned Korean spelling before 1989 is writing it.
+  In modern usage, this form can sometimes be used humorously even after consonants that usually wouldn't take -읍니다. For example:
+  ::example[그렇읍니다! | It is so!]

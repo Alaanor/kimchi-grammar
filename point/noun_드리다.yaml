@@ -1,0 +1,25 @@
+name: 드리다
+definitions:
+  - slug: do-respectfully
+    name: To peform respectfully
+    english_alternatives: respectfully
+    meaning: Attaches to nouns denoting action and expresses that the action is done respectfully.
+    examples:
+      - sentence: 일단 부모님께 <f>문안드려야</f> 합니다.
+        type: simple
+        translated: You must first greet your parents.
+      - sentence: 선생님, <f>감사드립니다</f>!
+        type: simple
+        translated: Thank you, teacher!
+metadata:
+  type: noun
+details: |-
+  # Usage {#usage}
+  
+  드리다 is usually added to nouns expressing some sort of (formal) action.
+  The action's recipient is someone who would usually be honored in formal or polite situations.
+
+  # Spacing {#spacing}
+
+  In cases when 드리다 expresses doing an action respectfully, it is directly attached to the noun.
+  However, if you are giving a physical object to someone honorable, you space it.

@@ -1,4 +1,4 @@
-name: (이)나마 / (으)나마
+name: (으)나마
 definitions:
   - slug: reluctant-acceptance
     name: Reluctant acceptance
@@ -26,7 +26,7 @@ definitions:
         translated: Although it's late, I'd like to extend my greetings.
         audio_url: https://r2.kimchi-reader.app/grammar/늦었으나마_인사드립니다__2026-05-15.mp3
 metadata:
-  type: universal
+  type: verb
 details: |-
   # Usage {#usage}
 

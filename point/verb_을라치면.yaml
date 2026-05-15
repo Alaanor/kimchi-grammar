@@ -1,0 +1,19 @@
+name: (으)ㄹ라치면
+definitions:
+  - slug: whenever
+    name: Whenever
+    english_alternatives: Whenever, everytime
+    meaning: Expresses that every time some action tries to happen, it results in another action to happen. Equivalent to -으려고 할 때마다 or -으려고 하면.
+    examples:
+      - sentence: 무슨 BL 드라마를 <f>볼라치면</f> 어머니가 내 방에 들어오셔.
+        type: simple
+        translated: Whenever I try to watch some BL drama, my mom comes into my room.
+      - sentence: 분위기가 <f>어색할라치면</f> 얘가 재밌는 농담을 하거든.
+        type: simple
+        translated: Everytime the atmosphere becomes awkward he cracks a funny joke, y'know.
+      - sentence: 공부를 <f>할라치면</f> 친구가 카톡을 보내요...
+        type: simple
+        translated: Everytime I study, my friend sends me a message on KakaoTalk.
+metadata:
+  type: verb
+details: ""

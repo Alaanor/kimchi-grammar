@@ -8,15 +8,15 @@ definitions:
       - type: simple
         sentence: 암, 네 말이 맞다마다.
         translated: Yeah, you’re right.
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 도와달라 말했는가. 물론일세! 좋다마다! 얼마든지 도와줌세!
         translated: You asked for help? Of course! That's great! I’ll help you as much as I can!
-        audio_url: 
+        audio_url:
 metadata:
   type: verb
 details: |-
-  # Usage {usage}
+  # Usage {#usage}
   It is worth noting that in very rare cases this grammar can show up separated as, for example, 좋다 말다 instead of 좋다마다. If you see something like
   좋다 말다 then it will likely be something more common such as :grammar[verb_다가] + 말다 to mean "it was almost good...", but it is possible for such a phrase
   to be this grammar and take on a positive meaning.

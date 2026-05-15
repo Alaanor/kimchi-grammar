@@ -7,11 +7,11 @@ definitions:
       - type: simple
         sentence: 자네를 <f>믿나니</f> 나를 실망시키지 말게.
         translated: I trust you, so don’t let me down.
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 다시 <f>묻나니</f> 너는 어디에서 와서 어디로 가느냐.
-        translated: I ask you again: Where have you come from, and where are you going?
-        audio_url: 
+        translated: "I ask you again: Where have you come from, and where are you going?"
+        audio_url:
   - slug: reason
     name: Reason
     meaning: Expresses the first clause is the reason, condition, or basis for the second clause and should only be used with action verbs. It has a serious or solemn tone.
@@ -19,11 +19,11 @@ definitions:
       - type: simple
         sentence: 네가 진심으로 <f>사과하나니</f> 내가 용서하겠다.
         translated: Since you're sincerely apologizing, I will forgive you.
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 모든 준비가 <f>끝났나니</f> 이제 시작하도록 하자.
         translated: Now that everything is ready, let’s get started.
-        audio_url: 
+        audio_url:
 metadata:
   type: verb
 details: |-

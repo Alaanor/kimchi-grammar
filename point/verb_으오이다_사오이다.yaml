@@ -7,33 +7,33 @@ definitions:
       - type: simple
         sentence: 그만 <f>가겠쇠다</f>.
         translated: I'm heading out.
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 아비가 산삼 효험으로 병은 좀 나았사오나 소인 옥에 있는 동안에 <f>죽었소이다</f>.
         translated: My father’s illness improved somewhat thanks to the wild ginseng, but he passed away while I was in prison.
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 우리에겐 우리의 임무가 <f>있사오이다</f>.
         translated: We have a mission to fulfill.
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 웬 낯선 사람이 <f>찾으오이다</f>.
         translated: There’s a stranger looking for you.
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 참으로 <f>오랜만이오이다</f>.
         translated: It’s been quite a while.
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 나는 오늘 <f>떠나외다</f>.
         translated: I am leaving today.
-        audio_url: 
+        audio_url:
 metadata:
   type: verb
 details: |-
-  # Usage {usage}
+  # Usage {#usage}
   사오이다 is also used in shortform as one of <f>사외다</f>, <f>쇠다</f>, and <f>소이다</f>. (으)오이다 has only one shortform, <f>(으)외다</f>
-  
+
   # What is 하소서체? {#what-is-하소서체?}
 
   <f>하소서체</f> is honorific speech used in archaic Korean; used to extremely respectfully address the listener. To modern

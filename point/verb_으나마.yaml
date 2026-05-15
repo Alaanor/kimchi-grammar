@@ -8,26 +8,26 @@ definitions:
       - type: simple
         sentence: <f>너나마</f> 와 주어서 다행이다.
         translated: I'm glad at least you came.
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 반찬 없는 <f>밥이나마</f> 많이 자시게.
         translated: Even though it's a meal without side dishes, please eat your fill.
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: <f>먼발치로나마</f> 보게 되어 기뻤다.
         translated: I was happy to see it, even if only from a distance.
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 변변치는 <f>못하나마</f> 많이 잡수십시오.
         translated: It’s nothing special, but please help yourself.
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: <f>늦었으나마</f> 인사드립니다.
         translated: Although it's late, I'd like to extend my greetings.
-        audio_url: 
+        audio_url:
 metadata:
   type: universal
 details: |-
-  # Usage {usage}
+  # Usage {#usage}
 
   The form <f>(이)나마</f> is used with nouns, and <f>(으)나마</f> is used with verbs.

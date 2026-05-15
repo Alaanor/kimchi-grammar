@@ -7,19 +7,19 @@ definitions:
       - type: simple
         sentence: 그는 뭐든 열심히 일하니 꼭 <f>성공하리라</f>.
         translated: That guy works hard at everything so he’s bound to succeed.
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 내일이면 <f>늦으리니</f> 빨리 대책을 세워야 할 것이다.
         translated: Tomorrow will be too late, so we'll have to come up with a plan quickly.
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 사노라면 슬픈 날도 있겠지만 즐거운 날도 <f>있으리다</f>.
         translated: As you go through life there may be sad days, but there will certainly be happy days too.
-        audio_url: 
+        audio_url:
       - type: simple
-        sentence: 지금쯤이면 고향에 진달래가 활짝 </f>피었으리</f>.
+        sentence: 지금쯤이면 고향에 진달래가 활짝 <f>피었으리</f>.
         translated: The azaleas must be in full bloom back home now.
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 그 사람이 그런 짓을 하<f>리라</f>고는 상상도 못했어요.
         translated: I couldn't even imagine that he would do such a thing.
@@ -30,25 +30,24 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/자신은_그녀에게_아주_소중한_친구이리라는_자신감이_있었다__2025-05-24.mp3
   - slug: intention
     name: Intention
-    meaning: Expresses the speaker's intention or will to do something. Can be used in pairing with other conjugations or used alone as a verb final ending.
-    When used as a final ending, can be used to ask about the listener's intention.
+    meaning: Expresses the speaker's intention or will to do something. Can be used in pairing with other conjugations or used alone as a verb final ending. When used as a final ending, can be used to ask about the listener's intention.
     examples:
       - type: simple
         sentence: 잠시 기다리면 내가 곧 처리해 <f>주리다</f>.
         translated: If you wait a moment I will take care of it right away.
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 내 반드시 <f>돌아오리니</f> 꼭 기다려 다오.
         translated: I will definitely come back, so please wait for me.
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 뒷일은 내가 <f>맡으리다</f>.
         translated: I'll take care of the rest.
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 내가 먼저 밥을 <f>먹으리</f>?
         translated: Should I eat first?
-        audio_url: 
+        audio_url:
   - slug: informal-logical-rebuttal
     name: Informal logical rebuttal
     meaning: Used to respond back with a question, asking how something could be so based on reason. This meaning is only used alone as a verb final ending.
@@ -56,11 +55,11 @@ definitions:
       - type: simple
         sentence: 그런 사람이 무슨 <f>애국자이리</f>?
         translated: How could someone like that be a patriot?
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 어찌 내가 이런 일을 <f>하리</f>?
         translated: How could I ever do such a thing?
-        audio_url: 
+        audio_url:
 metadata:
   type: verb
 details: |-

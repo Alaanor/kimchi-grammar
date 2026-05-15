@@ -269,11 +269,11 @@ inheritance:
     children: ["verb_으오_으옵_사오_사옵_자오_자옵", "verb_시_으시"]
   - parent: "verb_노라면_느라면"
     children: ["verb_노라"]
-  - parent: "verb_거들랑_걸랑"
-    children: ["verb_거든"]
-  - parent: "verb_으오이까_사오이까_소이까"
+  - parent: "verb_거든"
+    children: ["verb_거들랑"]
+  - parent: "verb_으오이까_사오이까"
     children: ["verb_으오_으옵_사오_사옵_자오_자옵"]
-  - parent: "verb_으오이다_으외다_사오이다_사외다_쇠다_소이다."
+  - parent: "verb_으오이다_사오이다"
     children: ["verb_으오_으옵_사오_사옵_자오_자옵"]
   - parent: "verb_지만"
     children: ["verb_마는"]

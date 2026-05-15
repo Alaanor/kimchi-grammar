@@ -7,15 +7,15 @@ definitions:
       - type: simple
         sentence: 어찌 감히 어명을 거역하겠나이까?
         translated: How could I possibly dare to disobey the royal command?
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 주인님, 부르셨나이까?
         translated: Master, did you call me?
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 제가 어찌 그런 말을 하겠사옵나이까?
         translated: How could I possibly say such a thing?
-        audio_url: 
+        audio_url:
 metadata:
   type: verb
 details: |-

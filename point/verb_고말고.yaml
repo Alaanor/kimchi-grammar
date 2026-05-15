@@ -8,11 +8,11 @@ definitions:
       - type: simple
         sentence: 기쁜 일이고말고.
         translated: That’s certainly good news.
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 나야 물론 좋고말고.
         translated: Of course I'm all for it.
-        audio_url: 
+        audio_url:
 metadata:
   type: verb
 details: |-

@@ -137,27 +137,27 @@ relation:
   - concern:
       - { id: "noun_이나_나", slug: "at-least" }
       - { id: "noun_이라도_라도", slug: "sufficient-choice" }
-      - { id: "이나마_으나마", slug: "reluctant-acceptance" }
+      - { id: "verb_으나마", slug: "reluctant-acceptance" }
   - concern:
       - { id: "verb_을밖에", slug: "no-choice-but-to" }
       - { id: "을_수밖에_없다", slug: "no-choice-but-to" }
   - concern:
-      - { id: "verb_을꼬_ㄹ꼬", slug: "asking-opinion" }
+      - { id: "verb_을꼬", slug: "asking-opinion" }
       - { id: "verb_을까_ㄹ까", slug: "asking-opinion" }
   - concern:
-      - { id: "verb_을꼬_ㄹ꼬", slug: "wondering" }
+      - { id: "verb_을꼬", slug: "wondering" }
       - { id: "verb_을까_ㄹ까", slug: "wondering" }
   - concern:
       - { id: "verb_은가_ㄴ가_나", slug: "soft-question" }
-      - { id: "verb_는고_은고", slug: "soft-question" }
+      - { id: "verb_는고", slug: "soft-question" }
   - concern:
       - { id: "verb_은가_ㄴ가_나", slug: "pondering" }
-      - { id: "verb_는고_은고", slug: "pondering" }
+      - { id: "verb_는고", slug: "pondering" }
   - concern:
-      - { id: "verb_거들랑_걸랑", slug: "conditional" }
+      - { id: "verb_거들랑", slug: "conditional" }
       - { id: "verb_거든", slug: "conditional" }
   - concern:
-      - { id: "verb_거들랑_걸랑", slug: "informing" }
+      - { id: "verb_거들랑", slug: "informing" }
       - { id: "verb_거든", slug: "reasoning" }
   - concern:
       - { id: "noun_되다", slug: "to-become" }

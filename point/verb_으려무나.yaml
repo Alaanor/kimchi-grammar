@@ -34,9 +34,9 @@ definitions:
         translated: Sit quietly, the class will begin soon.
         audio_url: https://r2.kimchi-reader.app/grammar/조용히_앉으려무나_수업이_곧_시작될_거야__2025-02-16.mp3
       - type: simple
-        sentence: 잘 놀았으니 이제 공부를 열심히 <f>하려므나</f> .
+        sentence: 잘 놀았으니 이제 공부를 열심히 <f>하려므나</f>.
         translated: You’ve had plenty of fun, so study hard now.
-        audio_url: 
+        audio_url:
 metadata:
   type: verb
 details: |-

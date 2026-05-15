@@ -8,23 +8,23 @@ definitions:
       - type: simple
         sentence: 우리 힘껏 일해 보세.
         translated: Let’s do our best.
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 이 책을 우리 함께 읽으세.
         translated: Let's read this book together.
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 그 일 우리가 맡으세.
         translated: Let us take care of that.
-        audio_url: 
+        audio_url:
       - type: simple
-        sentence:  말로만 사죄해서는 쓸모가 없지. 그대가 바라는 것이라면 무엇이든 들어주도록 합세·
+        sentence: 말로만 사죄해서는 쓸모가 없지. 그대가 바라는 것이라면 무엇이든 들어주도록 합세.
         translated: My just saying sorry isn't enough. If there's anything you want, let's do that.
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 문을 닫습세.
         translated: Let's close the door please.
-        audio_url: 
+        audio_url:
 metadata:
   type: verb
 details: |-

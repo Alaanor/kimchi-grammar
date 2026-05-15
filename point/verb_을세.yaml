@@ -7,15 +7,15 @@ definitions:
       - type: simple
         sentence: 내 가게 문 닫으면 그 자가 춤출세.
         translated: If my shop closes, that guy will be dancing for joy.
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 이번 그림 참 좋을세그려.
         translated: This painting is really nice.
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: “누구요?” “날세.”
-        translated: "Who is it?" "It's me."
-        audio_url: 
+        translated: '"Who is it?" "It''s me."'
+        audio_url:
   - slug: 하게체-realization
     name: 하게체 Realization
     meaning: Express admiration after realizing something new, in the 하게체 speech level.
@@ -23,27 +23,27 @@ definitions:
       - type: simple
         sentence: 어머, 그게 바로 오늘일세.
         translated: Oh my, that’s today.
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 그 생각 참 좋을세.
         translated: Wow, that’s a great idea.
-        audio_url: 
+        audio_url:
   - slug: 하게체-intention
     name: 하게체 Intention
     meaning: Express intention in the 하게체 speech level.
     examples:
-     - type: simple
+      - type: simple
         sentence: 그럼 이따가 기별할세. 잘 가게.
-        translated: I'll let you know later then. Take care. 
-        audio_url: 
+        translated: I'll let you know later then. Take care.
+        audio_url:
       - type: simple
         sentence: 아버님이 오시면 함께 먹을세.
         translated: We'll eat together once father arrives.
-        audio_url: 
+        audio_url:
 metadata:
   type: verb
 details: |-
-   # What is 하게체? {#what-is-하게체?}
+  # What is 하게체? {#what-is-하게체?}
 
   <f>하게체</f> is used to familiarly address someone without lowering oneself. It can be used to show respect when the other
   person is of lower social standing but not necessarily young in absolute age, but it is no longer common in the present day.

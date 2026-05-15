@@ -8,15 +8,15 @@ definitions:
       - type: simple
         sentence: 선물로 무엇이 좋은고?
         translated: What would be a good gift?
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 이게 누구 것인고?
         translated: Whose is this?
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 무엇을 바라는고?
         translated: What are you hoping for?
-        audio_url: 
+        audio_url:
   - slug: pondering
     name: Pondering
     english_alternatives: I wonder, Assuming
@@ -25,19 +25,19 @@ definitions:
       - type: simple
         sentence: 얼마나 훌륭한 일인고!
         translated: What a wonderful thing!
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 일이 해결이 되다니 이 얼마나 좋은고?
         translated: Isn't it wonderful that the problem has been solved?
-        audio_url: 
-       - type: simple
+        audio_url:
+      - type: simple
         sentence: 내가 왜 그런 말을 했는고.
         translated: Why did I say that?
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 내가 무슨 잘못이 있는고.
         translated: What have I done wrong?
-        audio_url: 
+        audio_url:
 metadata:
   type: verb
 details: |-
@@ -49,6 +49,6 @@ details: |-
   |Future (all)|<f>-(으)ㄹ 건고(요)</f>|
 
   # Usage {#usage}
-  
+
   This carries the same meanings as :grammar[verb_은가_ㄴ가_나], except it is generally used with question words like "who",
-  "what", "when", "where", "why", or "how", and not used for yes-or-no questions. 
+  "what", "when", "where", "why", or "how", and not used for yes-or-no questions.

@@ -8,11 +8,11 @@ definitions:
       - type: simple
         sentence: 자네 말마따나 쉬는 게 좋겠네.
         translated: As you said, I think I'd better get some rest.
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 자네 말마따나 극과 극은 통하는 법이지.
         translated: Just as you said, opposites attract.
-        audio_url: 
+        audio_url:
 metadata:
   type: noun
 details: |-

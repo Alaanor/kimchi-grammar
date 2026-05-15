@@ -7,19 +7,19 @@ definitions:
       - type: simple
         sentence: 야, 이 멍청아! 제대로 공부 안 해?
         translated: Hey, you idiot! Won't you study properly?
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 새야 새야 파랑새야.
         translated: Bird, bird, bluebird.
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 철수야, 어디 가니?
         translated: Cheolsu, where are you going?
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 얘들아, 이리 와라!
         translated: Hey guys, come here!
-        audio_url: 
+        audio_url:
 metadata:
   type: noun
 details: |-

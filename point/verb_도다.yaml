@@ -7,15 +7,15 @@ definitions:
       - type: simple
         sentence: 평생을 조국을 위해 헌신하였으니 참으로 애국자도다.
         translated: Having devoted his entire life to his country, he is truly a patriot.
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 훌륭하도다, 우리 학생들.
         translated: Well done, students.
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 독하도다. 독하도다. 서울 양반 독하도다. 원수로다. 원수로다. 존비귀천 원수로다.
         translated: How cruel! How cruel! How cruel are the Seoul aristocrats! They are my enemies. They are my enemies. High and low, they are all my enemies.
-        audio_url: 
+        audio_url:
 metadata:
   type: verb
 details: |-

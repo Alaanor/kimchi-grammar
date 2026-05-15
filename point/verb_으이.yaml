@@ -7,23 +7,23 @@ definitions:
       - type: simple
         sentence: 그것 참 <f>좋의</f>.
         translated: That's really great.
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 요사이 날씨가 꽤 <f>차이</f>.
         translated: The weather is quite cold lately.
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 자네 솜씨가 정말 <f>대단하이</f>.
         translated: Your skills are really amazing.
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 그런 짓은 이제 <f>싫으이</f>.
         translated: I'm done with that kind of thing.
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: <f>용하이</f>, 정말 좋은 생각을 했네.
         translated: That's clever, you really had a great idea.
-        audio_url:       
+        audio_url:
 metadata:
   type: verb
 details: |-
@@ -38,6 +38,3 @@ details: |-
   Like 하오체, <f>하게체</f> is primarily used in historical dramas and other works set in the past. When used in modern times,
   it is often to portray a dignified character; like a king, a high-ranked noble, or a chill uncle.
   :source[https://namu.wiki/w/하게체]
-
-  
-이 늙은 가슴이 미어지는 듯 아프이.

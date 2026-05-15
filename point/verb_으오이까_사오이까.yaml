@@ -7,26 +7,25 @@ definitions:
       - type: simple
         sentence: 이 마을에 그런 사람이 있겠사오이까?
         translated: Surely there is no such person in this village?
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 선생께서는 진정 정당하게 이겼소이까?
         translated: Did you truly win fairly?
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 그것이 그리 중요하오이까?
         translated: Is that really so important?
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 선생은 누구를 찾으오이까?
         translated: Who are you looking for, sir?
-        audio_url: 
-metadata:
+        audio_url:
 metadata:
   type: verb
 details: |-
-  # Usage {usage}
+  # Usage {#usage}
   <f>사오이까</f> also has a shortform of 소이까.
-  
+
   # What is 하소서체? {#what-is-하소서체?}
 
   <f>하소서체</f> is honorific speech used in archaic Korean; used to extremely respectfully address the listener. To modern

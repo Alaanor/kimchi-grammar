@@ -37,11 +37,11 @@ definitions:
       - type: simple
         sentence: 자네 이것 좀 보게.
         translated: Take a look at this.
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 김 서방인가? 어서 들어오게.
         translated: Is that Mr. Kim? Come on in.
-        audio_url: 
+        audio_url:
 metadata:
   type: verb
 details: |-

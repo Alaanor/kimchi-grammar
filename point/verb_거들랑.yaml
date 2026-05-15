@@ -8,11 +8,11 @@ definitions:
       - type: simple
         sentence: 그 무렵 우리는 서울에서 살았거들랑.
         translated: We were living in Seoul around then.
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 사실은 그 아이가 내 친구 동생이걸랑.
         translated: Actually, that kid is my friend's younger sibling.
-        audio_url:         
+        audio_url:
   - slug: conditional
     name: Conditional
     english_alternatives: if actually true, then
@@ -21,15 +21,15 @@ definitions:
       - type: simple
         sentence: 철수를 만나거들랑 내 말을 전해라.
         translated: If you see Chul-soo, please give him my regards.
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 서울에 가거들랑 편지해라.
         translated: Write me if you go to Seoul.
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 커피가 마시고 싶걸랑 설탕을 사 와라.
         translated: If you want coffee, go buy some sugar.
-        audio_url: 
+        audio_url:
 metadata:
   type: verb
 details: |-

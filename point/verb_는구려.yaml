@@ -7,15 +7,15 @@ definitions:
       - type: simple
         sentence: 정말 깨끗한 동네이구려.
         translated: Wow, this is a really clean neighborhood.
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 그 소식에 참 서운하셨겠구료.
         translated: You must have been really disappointed to hear that.
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 오늘은 참 잘 잡수시는구려.
         translated: You’re really eating well today.
-        audio_url: 
+        audio_url:
   - slug: 하오체-polite-command
     name: 하오체 Polite command
     meaning: Expresses a command in a polite, suggestive tone.
@@ -23,19 +23,19 @@ definitions:
       - type: simple
         sentence: 더 늦으면 어두워질 테니 어서 가구려.
         translated: It'll get dark soon so let's get going.
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 이 사람에게도 한 잔 권하시구려.
         translated: Why don't you offer this person a drink, too?
-        audio_url: 
+        audio_url:
 metadata:
   type: verb
 details: |-
   # Usage {#usage}
-  
+
   :grammar[verb_는구려]{하오체-new-information} takes the form 는구려 after action verbs and 구려 after descriptive verbs, while :grammar[verb_는구려]{하오체-polite-command}
   takes the form 구려 after action verbs and is not used with descriptive verbs. (는)구려 is the correct spelling, but (는)구료 is a common non-standard usage.
-  
+
   # What is 하오체? {#what-is-하오체?}
 
   <f>하오체</f> is honorific speech used in archaic Korean; used to respectfully address someone without lowering

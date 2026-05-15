@@ -7,15 +7,15 @@ definitions:
       - type: simple
         sentence: 영희야, 너는 무슨 노래를 부를꼬?
         translated: Young-hee, what song are you going to sing?
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 우리 언제 떠날꼬?
         translated: When are we leaving?
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 방이 왜 이리 좁을꼬?
         translated: Why is this room so small?
-        audio_url: 
+        audio_url:
   - slug: wondering
     name: Wondering
     english_alternatives: I wonder
@@ -24,21 +24,21 @@ definitions:
       - type: simple
         sentence: 이제 나는 무엇을 하여 먹고살꼬?
         translated: What am I going to do to make a living now?
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 집도 없이 나는 어디로 갈꼬?
         translated: With no home, where am I supposed to go?
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 그이는 어디로 갔을꼬?
         translated: I wonder where he went?
-        audio_url: 
+        audio_url:
 
 metadata:
   type: verb
 details: |-
   # Usage {#usage}
-  
+
   This carries two of the same meanings as :grammar[verb_을까_ㄹ까], except it is generally used with question words like "who",
   "what", "when", "where", "why", or "how", and not used for yes-or-no questions. For this reason it does not share the meaning of a suggestion,
   which is a yes-or-no question. <f>ㄹ꼬</f> additionally carries a more solemn or austere tone than <f>ㄹ까</f>.

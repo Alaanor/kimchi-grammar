@@ -2,28 +2,28 @@ point: 마는/만
 definitions:
   - slug: contrasting
     name: Contrasting
-    meaning: Acknowledges a preceding fact while expressing doubts about it or situations that contradict it. 
+    meaning: Acknowledges a preceding fact while expressing doubts about it or situations that contradict it.
     examples:
       - type: simple
         sentence: 얼마 되겠느냐마는 보태어 쓰도록 해라.
         translated: It probably isn't much, but please use it to supplement your needs.
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 너도 가지마는 그다지 재미는 없을 것이다.
         translated: You can go too, but it probably won't be much fun.
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 영화를 보고는 싶지마는 시간이 안 난다.
         translated: I’d like to see a movie, but I don’t have the time.
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 사고 싶다마는 돈이 없군.
         translated: I want to buy it but I don't have the money.
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 집에서 쉬겠다더니만 웬일로 나왔니?
         translated: You said you were going to rest at home, so why did you come out?
-        audio_url: 
+        audio_url:
 metadata:
   type: noun
 details: |-

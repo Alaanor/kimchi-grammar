@@ -7,15 +7,15 @@ definitions:
       - type: simple
         sentence: 앞으로는 자주 만납시다그려.
         translated: Let's meet up more often from now on.
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 그 집 사정이 참 딱하데그려.
         translated: That family's situation is really pitiful.
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 일주일 전에 나갔던 놈이 이제야 돌아왔네그려.
         translated: The guy who left a week ago has finally come back.
-        audio_url: 
+        audio_url:
 metadata:
   type: verb
 details: |-

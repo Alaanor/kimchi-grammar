@@ -8,15 +8,15 @@ definitions:
       - type: simple
         sentence: 어른들이 다 가시니 나도 갈밖에.
         translated: Since all the adults have left, I guess I have to go too.
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 선생님이 시키는데 할밖에.
         translated: The teacher's telling me to do it, so I have to.
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 주인이 내놓으라면 내놓을밖에.
         translated: If the owner tells me to hand it over, I’ll have no choice but to do so.
-        audio_url: 
+        audio_url:
 metadata:
   type: verb
 details: |-

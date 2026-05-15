@@ -7,19 +7,19 @@ definitions:
       - type: simple
         sentence: 이기고 돌아왔노라.
         translated: I have returned victorious.
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 그는 이기고 돌아왔노라고 말했다.
         translated: He said he had returned victorious.
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 우리는 어떠한 어려움에 부닥쳐도 명예를 지키겠노라 맹세하였다.
         translated: We swore that we would uphold our honor no matter what difficulties we faced.
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 우리의 회포를 적어 형을 영결하노라.
         translated: We write these words to bid farewell to our brother.
-        audio_url: 
+        audio_url:
 metadata:
   type: verb
 details: |-

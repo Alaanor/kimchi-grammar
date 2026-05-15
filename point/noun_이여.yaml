@@ -2,20 +2,20 @@ point: (이)여
 definitions:
   - slug: polite-address
     name: Polite address
-    meaning: A polite form of address, often implying an exaclamation or an appeal.
+    meaning: A polite form of address, often implying an exclamation or an appeal.
     examples:
       - type: simple
         sentence: 주여, 잘못을 용서하여 주소서.
         translated: Lord, forgive me for my sins.
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 젊은 그대들이여, 시간을 아껴 쓰시오.
         translated: Young people, make the most of your time.
-        audio_url: 
+        audio_url:
       - type: simple
         sentence: 겨레여, 잠에서 깨어나라!
         translated: My fellow countrymen, wake up!
-        audio_url: 
+        audio_url:
 metadata:
   type: noun
 details: |-

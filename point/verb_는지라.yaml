@@ -5,19 +5,19 @@ definitions:
     meaning: Indicates that the first clause is the reason or cause for the second clause.
     examples:
       - type: simple
-        sentence: 선생님께서 고집을 굽히지 않으시는지라 우리도 어쩔 수 없었다.
+        sentence: 선생님께서 고집을 굽히지 <f>않으시는지라</f> 우리도 어쩔 수 없었다.
         translated: Since the teacher won't budge, there was nothing we could do.
         audio_url:
       - type: simple
-        sentence: 이미 밥을 먹은지라 더 이상 먹을 수가 없다.
+        sentence: 이미 밥을 <f>먹은지라</f> 더 이상 먹을 수가 없다.
         translated: I already ate, so I can’t eat any more.
         audio_url:
       - type: simple
-        sentence: 나는 어릴 적부터의 친구인지라 그의 마음을 잘 안다.
+        sentence: 나는 어릴 적부터의 <f>친구인지라</f> 그의 마음을 잘 안다.
         translated: Since we've been friends since childhood, I know exactly how he feels.
         audio_url:
       - type: simple
-        sentence: 기분이 좋은지라 다른 사람에게도 다정하게 말을 건다.
+        sentence: 기분이 <f>좋은지라</f> 다른 사람에게도 다정하게 말을 건다.
         translated: Since I'm in a good mood, I speak kindly to others as well.
         audio_url:
 metadata:

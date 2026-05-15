@@ -5,15 +5,15 @@ definitions:
     meaning: Ask for the listener's or one's own preference, thought or opinion.
     examples:
       - type: simple
-        sentence: 영희야, 너는 무슨 노래를 부를꼬?
+        sentence: 영희야, 너는 무슨 노래를 <f>부를꼬</f>?
         translated: Young-hee, what song are you going to sing?
         audio_url:
       - type: simple
-        sentence: 우리 언제 떠날꼬?
+        sentence: 우리 언제 <f>떠날꼬</f>?
         translated: When are we leaving?
         audio_url:
       - type: simple
-        sentence: 방이 왜 이리 좁을꼬?
+        sentence: 방이 왜 이리 <f>좁을꼬</f>?
         translated: Why is this room so small?
         audio_url:
   - slug: wondering
@@ -22,15 +22,15 @@ definitions:
     meaning: Wondering to oneself, expressing conjecture or speculation.
     examples:
       - type: simple
-        sentence: 이제 나는 무엇을 하여 먹고살꼬?
+        sentence: 이제 나는 무엇을 하여 <f>먹고살꼬</f>?
         translated: What am I going to do to make a living now?
         audio_url:
       - type: simple
-        sentence: 집도 없이 나는 어디로 갈꼬?
+        sentence: 집도 없이 나는 어디로 <f>갈꼬</f>?
         translated: With no home, where am I supposed to go?
         audio_url:
       - type: simple
-        sentence: 그이는 어디로 갔을꼬?
+        sentence: 그이는 어디로 <f>갔을꼬</f>?
         translated: I wonder where he went?
         audio_url:
 

@@ -5,11 +5,11 @@ definitions:
     meaning: A polite form of address, often implying an exclamation or an appeal. This is a more polite version of (이)여.
     examples:
       - type: simple
-        sentence: 전능자시여 우리에게 자비를 베풀어 주옵소서.
+        sentence: <f>전능자시여</f> 우리에게 자비를 베풀어 주옵소서.
         translated: Almighty God, have mercy on us.
         audio_url:
       - type: simple
-        sentence: 하늘이시여, 우리를 지켜 주소서.
+        sentence: <f>하늘이시여</f>, 우리를 지켜 주소서.
         translated: O God please watch over us.
         audio_url:
 metadata:

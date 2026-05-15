@@ -6,11 +6,11 @@ definitions:
     meaning: Used with the word 말 to express sentiments like "as you said", "as mentioned", "as I say", "as you say".
     examples:
       - type: simple
-        sentence: 자네 말마따나 쉬는 게 좋겠네.
+        sentence: 자네 <f>말마따나</f> 쉬는 게 좋겠네.
         translated: As you said, I think I'd better get some rest.
         audio_url:
       - type: simple
-        sentence: 자네 말마따나 극과 극은 통하는 법이지.
+        sentence: 자네 <f>말마따나</f> 극과 극은 통하는 법이지.
         translated: Just as you said, opposites attract.
         audio_url:
 metadata:

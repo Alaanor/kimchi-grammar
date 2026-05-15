@@ -5,15 +5,15 @@ definitions:
     meaning: Express surprise after learning something new.
     examples:
       - type: simple
-        sentence: 정말 깨끗한 동네이구려.
+        sentence: 정말 깨끗한 <f>동네이구려</f>.
         translated: Wow, this is a really clean neighborhood.
         audio_url:
       - type: simple
-        sentence: 그 소식에 참 서운하셨겠구료.
+        sentence: 그 소식에 참 <f>서운하셨겠구료</f>.
         translated: You must have been really disappointed to hear that.
         audio_url:
       - type: simple
-        sentence: 오늘은 참 잘 잡수시는구려.
+        sentence: 오늘은 참 잘 <f>잡수시는구려</f>.
         translated: You’re really eating well today.
         audio_url:
   - slug: 하오체-polite-command
@@ -21,11 +21,11 @@ definitions:
     meaning: Expresses a command in a polite, suggestive tone.
     examples:
       - type: simple
-        sentence: 더 늦으면 어두워질 테니 어서 가구려.
+        sentence: 더 늦으면 어두워질 테니 어서 <f>가구려</f>.
         translated: It'll get dark soon so let's get going.
         audio_url:
       - type: simple
-        sentence: 이 사람에게도 한 잔 권하시구려.
+        sentence: 이 사람에게도 한 잔 <f>권하시구려</f>.
         translated: Why don't you offer this person a drink, too?
         audio_url:
 metadata:

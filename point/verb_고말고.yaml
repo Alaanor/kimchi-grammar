@@ -6,11 +6,11 @@ definitions:
     meaning: Emphasizes a positive response to a question from the other party.
     examples:
       - type: simple
-        sentence: 기쁜 일이고말고.
+        sentence: 기쁜 <f>일이고말고</f>.
         translated: That’s certainly good news.
         audio_url:
       - type: simple
-        sentence: 나야 물론 좋고말고.
+        sentence: 나야 물론 <f>좋고말고</f>.
         translated: Of course I'm all for it.
         audio_url:
 metadata:

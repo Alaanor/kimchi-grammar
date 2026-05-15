@@ -5,10 +5,10 @@ definitions:
     english_alternatives: to want, desire
     meaning: Used to express a desire or wish to do something. A shortened form of :grammar[고_싶다].
     examples:
-      - sentence: 나도 춤추고파!
+      - sentence: 나도 <f>춤추고파</f>!
         type: simple
         translated: I want to dance too!
-      - sentence: 예전부터 보고픈 사람을 드디어 봤다.
+      - sentence: 예전부터 <f>보고픈</f> 사람을 드디어 봤다.
         type: simple
         translated: I finally saw the person I've wanted to see for a long time.
 metadata:

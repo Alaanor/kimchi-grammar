@@ -6,15 +6,15 @@ definitions:
     meaning: It can be used to ask a question in a polite and gentle way.
     examples:
       - type: simple
-        sentence: 선물로 무엇이 좋은고?
+        sentence: 선물로 무엇이 <f>좋은고</f>?
         translated: What would be a good gift?
         audio_url:
       - type: simple
-        sentence: 이게 누구 것인고?
+        sentence: 이게 누구 <f>것인고</f>?
         translated: Whose is this?
         audio_url:
       - type: simple
-        sentence: 무엇을 바라는고?
+        sentence: 무엇을 <f>바라는고</f>?
         translated: What are you hoping for?
         audio_url:
   - slug: pondering
@@ -23,19 +23,19 @@ definitions:
     meaning: Expresses the speaker's speculation, curiosity or assumption about something.
     examples:
       - type: simple
-        sentence: 얼마나 훌륭한 일인고!
+        sentence: 얼마나 훌륭한 <f>일인고</f>!
         translated: What a wonderful thing!
         audio_url:
       - type: simple
-        sentence: 일이 해결이 되다니 이 얼마나 좋은고?
+        sentence: 일이 해결이 되다니 이 얼마나 <f>좋은고</f>?
         translated: Isn't it wonderful that the problem has been solved?
         audio_url:
       - type: simple
-        sentence: 내가 왜 그런 말을 했는고.
+        sentence: 내가 왜 그런 말을 <f>했는고</f>.
         translated: Why did I say that?
         audio_url:
       - type: simple
-        sentence: 내가 무슨 잘못이 있는고.
+        sentence: 내가 무슨 잘못이 <f>있는고</f>.
         translated: What have I done wrong?
         audio_url:
 metadata:

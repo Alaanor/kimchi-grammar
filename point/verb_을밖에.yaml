@@ -6,15 +6,15 @@ definitions:
     meaning: Used when there is no other choice but the preceding state/action. This is an informal version of :grammar[을_수밖에_없다].
     examples:
       - type: simple
-        sentence: 어른들이 다 가시니 나도 갈밖에.
+        sentence: 어른들이 다 가시니 나도 <f>갈밖에</f>.
         translated: Since all the adults have left, I guess I have to go too.
         audio_url:
       - type: simple
-        sentence: 선생님이 시키는데 할밖에.
+        sentence: 선생님이 시키는데 <f>할밖에</f>.
         translated: The teacher's telling me to do it, so I have to.
         audio_url:
       - type: simple
-        sentence: 주인이 내놓으라면 내놓을밖에.
+        sentence: 주인이 내놓으라면 <f>내놓을밖에</f>.
         translated: If the owner tells me to hand it over, I’ll have no choice but to do so.
         audio_url:
 metadata:

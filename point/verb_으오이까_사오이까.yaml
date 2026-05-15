@@ -5,19 +5,19 @@ definitions:
     meaning: Used to ask a question politely and respectfully in the 하소서체 speech level.
     examples:
       - type: simple
-        sentence: 이 마을에 그런 사람이 있겠사오이까?
+        sentence: 이 마을에 그런 사람이 <f>있겠사오이까</f>?
         translated: Surely there is no such person in this village?
         audio_url:
       - type: simple
-        sentence: 선생께서는 진정 정당하게 이겼소이까?
+        sentence: 선생께서는 진정 정당하게 <f>이겼소이까</f>?
         translated: Did you truly win fairly?
         audio_url:
       - type: simple
-        sentence: 그것이 그리 중요하오이까?
+        sentence: 그것이 그리 <f>중요하오이까</f>?
         translated: Is that really so important?
         audio_url:
       - type: simple
-        sentence: 선생은 누구를 찾으오이까?
+        sentence: 선생은 누구를 <f>찾으오이까</f>?
         translated: Who are you looking for, sir?
         audio_url:
 metadata:

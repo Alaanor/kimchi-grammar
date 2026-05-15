@@ -5,15 +5,15 @@ definitions:
     meaning: Expresses a conjecture or assertion that something is undoubtedly true based on experience or logic.
     examples:
       - type: simple
-        sentence: 그는 다시는 두말 못 하렷다.
+        sentence: 그는 다시는 두말 못 <f>하렷다</f>.
         translated: He won't be complaining again.
         audio_url:
       - type: simple
-        sentence: 지금쯤은 책을 다 읽었으렷다.
+        sentence: 지금쯤은 책을 다 <f>읽었으렷다</f>.
         translated: You must've finished the book by now.
         audio_url:
       - type: simple
-        sentence: 눈어림으로 짐작하건대 아직 25살이 넘지 않으렷다.
+        sentence: 눈어림으로 짐작하건대 아직 25살이 넘지 <f>않으렷다</f>.
         translated: Judging by his appearance, he can’t be more than 25.
         audio_url:
   - slug: command
@@ -21,11 +21,11 @@ definitions:
     meaning: Expresses a command or order.
     examples:
       - type: simple
-        sentence: 다시는 내 앞에 나타나지 말렷다.
+        sentence: 다시는 내 앞에 나타나지 <f>말렷다</f>.
         translated: Don't ever show your face here again.
         audio_url:
       - type: simple
-        sentence: 당장 그 죄인을 묶으렷다.
+        sentence: 당장 그 죄인을 <f>묶으렷다</f>.
         translated: Bind that criminal at once.
         audio_url:
 metadata:

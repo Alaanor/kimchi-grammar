@@ -6,15 +6,15 @@ definitions:
     meaning: A way to express a suggestion to do a certain act together. This is identical in meaning to :grammar[verb_자]{suggestion}, but carries a more intimate tone.
     examples:
       - type: simple
-        sentence: 너만 먹지 말고 나도 좀 먹자꾸나.
+        sentence: 너만 먹지 말고 나도 좀 <f>먹자꾸나</f>.
         translated: Don't just eat it all yourself, let me have some too.
         audio_url:
       - type: simple
-        sentence: 더욱 부지런해지자꾸나.
+        sentence: 더욱 <f>부지런해지자꾸나</f>.
         translated: Let’s work even harder.
         audio_url:
       - type: simple
-        sentence: 같이 놀자꾸나.
+        sentence: 같이 <f>놀자꾸나</f>.
         translated: Let's hang out.
         audio_url:
 metadata:

@@ -5,15 +5,15 @@ definitions:
     meaning: Emphasizes the contents of the sentence.
     examples:
       - type: simple
-        sentence: 앞으로는 자주 만납시다그려.
+        sentence: 앞으로는 자주 <f>만납시다그려</f>.
         translated: Let's meet up more often from now on.
         audio_url:
       - type: simple
-        sentence: 그 집 사정이 참 딱하데그려.
+        sentence: 그 집 사정이 참 <f>딱하데그려</f>.
         translated: That family's situation is really pitiful.
         audio_url:
       - type: simple
-        sentence: 일주일 전에 나갔던 놈이 이제야 돌아왔네그려.
+        sentence: 일주일 전에 나갔던 놈이 이제야 <f>돌아왔네그려</f>.
         translated: The guy who left a week ago has finally come back.
         audio_url:
 metadata:

@@ -5,15 +5,15 @@ definitions:
     meaning: An archaic ending used to express admiration in a solemn tone.
     examples:
       - type: simple
-        sentence: 평생을 조국을 위해 헌신하였으니 참으로 애국자도다.
+        sentence: 평생을 조국을 위해 헌신하였으니 참으로 <f>애국자도다</f>.
         translated: Having devoted his entire life to his country, he is truly a patriot.
         audio_url:
       - type: simple
-        sentence: 훌륭하도다, 우리 학생들.
+        sentence: <f>훌륭하도다</f>, 우리 학생들.
         translated: Well done, students.
         audio_url:
       - type: simple
-        sentence: 독하도다. 독하도다. 서울 양반 독하도다. 원수로다. 원수로다. 존비귀천 원수로다.
+        sentence: <f>독하도다</f>. <f>독하도다</f>. 서울 양반 <f>독하도다</f>. <f>원수로다</f>. <f>원수로다</f>. 존비귀천 <f>원수로다</f>.
         translated: How cruel! How cruel! How cruel are the Seoul aristocrats! They are my enemies. They are my enemies. High and low, they are all my enemies.
         audio_url:
 metadata:

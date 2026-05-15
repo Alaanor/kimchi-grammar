@@ -5,15 +5,15 @@ definitions:
     meaning: Used to ask a question in the 하소서체 speech level.
     examples:
       - type: simple
-        sentence: 어찌 감히 어명을 거역하겠나이까?
+        sentence: 어찌 감히 어명을 <f>거역하겠나이까</f>?
         translated: How could I possibly dare to disobey the royal command?
         audio_url:
       - type: simple
-        sentence: 주인님, 부르셨나이까?
+        sentence: 주인님, <f>부르셨나이까</f>?
         translated: Master, did you call me?
         audio_url:
       - type: simple
-        sentence: 제가 어찌 그런 말을 하겠사옵나이까?
+        sentence: 제가 어찌 그런 말을 <f>하겠사옵나이까</f>?
         translated: How could I possibly say such a thing?
         audio_url:
 metadata:

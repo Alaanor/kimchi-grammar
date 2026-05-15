@@ -6,23 +6,23 @@ definitions:
     meaning: A way to express a suggestion to do a certain act together in the 하게체 speech level. It can also show up as (스)ㅂ세 in dialect.
     examples:
       - type: simple
-        sentence: 우리 힘껏 일해 보세.
+        sentence: 우리 힘껏 일해 <f>보세</f>.
         translated: Let’s do our best.
         audio_url:
       - type: simple
-        sentence: 이 책을 우리 함께 읽으세.
+        sentence: 이 책을 우리 함께 <f>읽으세</f>.
         translated: Let's read this book together.
         audio_url:
       - type: simple
-        sentence: 그 일 우리가 맡으세.
+        sentence: 그 일 우리가 <f>맡으세</f>.
         translated: Let us take care of that.
         audio_url:
       - type: simple
-        sentence: 말로만 사죄해서는 쓸모가 없지. 그대가 바라는 것이라면 무엇이든 들어주도록 합세.
+        sentence: 말로만 사죄해서는 쓸모가 없지. 그대가 바라는 것이라면 무엇이든 들어주도록 <f>합세</f>.
         translated: My just saying sorry isn't enough. If there's anything you want, let's do that.
         audio_url:
       - type: simple
-        sentence: 문을 닫습세.
+        sentence: 문을 <f>닫습세</f>.
         translated: Let's close the door please.
         audio_url:
 metadata:

@@ -5,15 +5,15 @@ definitions:
     meaning: Used to express the speaker's thoughts or conjecture in the 하게체 speech level.
     examples:
       - type: simple
-        sentence: 내 가게 문 닫으면 그 자가 춤출세.
+        sentence: 내 가게 문 닫으면 그 자가 <f>춤출세</f>.
         translated: If my shop closes, that guy will be dancing for joy.
         audio_url:
       - type: simple
-        sentence: 이번 그림 참 좋을세그려.
+        sentence: 이번 그림 참 <f>좋을세그려</f>.
         translated: This painting is really nice.
         audio_url:
       - type: simple
-        sentence: “누구요?” “날세.”
+        sentence: “누구요?” “<f>날세</f>.”
         translated: '"Who is it?" "It''s me."'
         audio_url:
   - slug: 하게체-realization
@@ -21,11 +21,11 @@ definitions:
     meaning: Express admiration after realizing something new, in the 하게체 speech level.
     examples:
       - type: simple
-        sentence: 어머, 그게 바로 오늘일세.
+        sentence: 어머, 그게 바로 <f>오늘일세</f>.
         translated: Oh my, that’s today.
         audio_url:
       - type: simple
-        sentence: 그 생각 참 좋을세.
+        sentence: 그 생각 참 <f>좋을세</f>.
         translated: Wow, that’s a great idea.
         audio_url:
   - slug: 하게체-intention
@@ -33,11 +33,11 @@ definitions:
     meaning: Express intention in the 하게체 speech level.
     examples:
       - type: simple
-        sentence: 그럼 이따가 기별할세. 잘 가게.
+        sentence: 그럼 이따가 <f>기별할세</f>. 잘 가게.
         translated: I'll let you know later then. Take care.
         audio_url:
       - type: simple
-        sentence: 아버님이 오시면 함께 먹을세.
+        sentence: 아버님이 오시면 함께 <f>먹을세</f>.
         translated: We'll eat together once father arrives.
         audio_url:
 metadata:

@@ -10,8 +10,8 @@ relation:
       - { id: "noun_한테", slug: "target" }
       - { id: "noun_께", slug: "target" }
   - concern:
-      - { id: "verb_아드리다_어드리다_해드리다", slug: "favor-request" }
-      - { id: "verb_아주다_어주다_해주다", slug: "favor-request" }
+      - { id: "아어_드리다", slug: "favor-request" }
+      - { id: "아어_주다", slug: "favor-request" }
   - concern:
       - { id: "verb_으십시오_십시오", slug: "politely-asking" }
       - { id: "verb_세요_으세요", slug: "polite-command" }
@@ -129,8 +129,8 @@ relation:
       - { id: "noun_밖에", slug: "exclusion" }
       - { id: "noun_조차", slug: "extreme-cases" }
   - concern:
-      - { id: "(으)ㄹ까 봐", slug: "concern-about-something" }
-      - { id: "(으)ㄹ라", slug: "expresses-concern" }
+      - { id: "을까_봐", slug: "concern-about-something" }
+      - { id: "verb_을라", slug: "expresses-concern" }
   - concern:
       - { id: "verb_게", slug: "하게체-command" }
       - { id: "verb_게나", slug: "하게체-command" }

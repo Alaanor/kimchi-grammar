@@ -117,6 +117,7 @@ relation:
       - { id: "지_못하다", slug: "lack-of-ability" }
   - concern:
       - { id: "ㄹ_뻔하다", slug: "something-almost-happened" }
+      - { id: "을락_말락", slug: "close-to-happening" }
       - { id: "고_말다", slug: "unintentional-result" }
   - concern:
       - { id: "noun_커녕", slug: "not-even" }

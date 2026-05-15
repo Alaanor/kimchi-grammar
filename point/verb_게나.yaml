@@ -1,0 +1,22 @@
+point: 게나
+definitions:
+  - slug: 하게체-command
+    name: 하게체 Command
+    meaning: Used to give commands or requests to a junior or someone with whom one is on familiar terms, in the 하게체 speech level. 
+    Identical to :grammar[verb_게]{하게체-command} in meaning, but expresses a more familiar and friendly tone.
+    examples:
+      - type: simple
+        sentence: 어서 오게나.
+        translated: Come on in.
+        audio_url: 
+      - type: simple
+        sentence: 혼자만 알고 있게나.
+        translated: Let this be a secret between us.
+        audio_url: 
+      - type: simple
+        sentence: 수건 좀 가져다주게나.
+        translated: Could you bring me a towel?
+        audio_url: 
+metadata:
+  type: verb
+details: |-

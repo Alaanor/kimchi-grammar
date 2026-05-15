@@ -30,6 +30,29 @@ definitions:
         type: simple
         translated: They put up a notice on the wall so that everyone could see it.
         audio_url: https://r2.kimchi-reader.app/grammar/사람들이_모두_보게_안내문_벽에_붙였다__2024-04-13.mp3
+  - slug: 하게체-command
+    name: 하게체 Command
+    meaning: Used to give commands or requests to a junior or someone with whom one is on familiar terms, in the 하게체 speech level.
+    examples:
+      - type: simple
+        sentence: 자네 이것 좀 보게.
+        translated: Take a look at this.
+        audio_url: 
+      - type: simple
+        sentence: 김 서방인가? 어서 들어오게.
+        translated: Is that Mr. Kim? Come on in.
+        audio_url: 
 metadata:
   type: verb
 details: |-
+  # What is 하게체? {#what-is-하게체?}
+
+  <f>하게체</f> is used to familiarly address someone without lowering oneself. It can be used to show respect when the other
+  person is of lower social standing but not necessarily young in absolute age, but it is no longer common in the present day.
+
+  You will still hear <f>하게체</f> used in daily conversation but due to its slightly archaic tone it will usually only
+  be used by older people. A young person speaking using <f>하게체</f> will tend to sound quite awkward.
+
+  Like 하오체, <f>하게체</f> is primarily used in historical dramas and other works set in the past. When used in modern times,
+  it is often to portray a dignified character; like a king, a high-ranked noble, or a chill uncle.
+  :source[https://namu.wiki/w/하게체]

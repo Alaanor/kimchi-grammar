@@ -7,15 +7,15 @@ definitions:
       - type: simple
         sentence: 정말 깨끗한 <f>동네이구려</f>.
         translated: Wow, this is a really clean neighborhood.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/정말_깨끗한_동네이구려__2026-05-15.mp3
       - type: simple
         sentence: 그 소식에 참 <f>서운하셨겠구료</f>.
         translated: You must have been really disappointed to hear that.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/그_소식에_참_서운하셨겠구료__2026-05-15.mp3
       - type: simple
         sentence: 오늘은 참 잘 <f>잡수시는구려</f>.
         translated: You’re really eating well today.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/오늘은_참_잘_잡수시는구려__2026-05-15.mp3
   - slug: 하오체-polite-command
     name: 하오체 Polite command
     meaning: Expresses a command in a polite, suggestive tone.
@@ -23,11 +23,11 @@ definitions:
       - type: simple
         sentence: 더 늦으면 어두워질 테니 어서 <f>가구려</f>.
         translated: It'll get dark soon so let's get going.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/더_늦으면_어두워질_테니_어서_가구려__2026-05-15.mp3
       - type: simple
         sentence: 이 사람에게도 한 잔 <f>권하시구려</f>.
         translated: Why don't you offer this person a drink, too?
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/이_사람에게도_한_잔_권하시구려__2026-05-15.mp3
 metadata:
   type: verb
 details: |-

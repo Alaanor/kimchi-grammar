@@ -7,23 +7,23 @@ definitions:
       - type: simple
         sentence: 그것 참 <f>좋의</f>.
         translated: That's really great.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/그것_참_좋의__2026-05-15.mp3
       - type: simple
         sentence: 요사이 날씨가 꽤 <f>차이</f>.
         translated: The weather is quite cold lately.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/요사이_날씨가_꽤_차이__2026-05-15.mp3
       - type: simple
         sentence: 자네 솜씨가 정말 <f>대단하이</f>.
         translated: Your skills are really amazing.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/자네_솜씨가_정말_대단하이__2026-05-15.mp3
       - type: simple
         sentence: 그런 짓은 이제 <f>싫으이</f>.
         translated: I'm done with that kind of thing.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/그런_짓은_이제_싫으이__2026-05-15.mp3
       - type: simple
         sentence: <f>용하이</f>, 정말 좋은 생각을 했네.
         translated: That's clever, you really had a great idea.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/용하이,_정말_좋은_생각을_했네__2026-05-15.mp3
 metadata:
   type: verb
 details: |-

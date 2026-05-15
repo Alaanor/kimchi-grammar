@@ -7,19 +7,19 @@ definitions:
       - type: simple
         sentence: 야, 이 <f>멍청아</f>! 제대로 공부 안 해?
         translated: Hey, you idiot! Won't you study properly?
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/야,_이_멍청아_제대로_공부_안_해__2026-05-15.mp3
       - type: simple
         sentence: <f>새야</f> <f>새야</f> <f>파랑새야</f>.
         translated: Bird, bird, bluebird.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/새야_새야_파랑새야__2026-05-15.mp3
       - type: simple
         sentence: <f>철수야</f>, 어디 가니?
         translated: Cheolsu, where are you going?
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/철수야,_어디_가니__2026-05-15.mp3
       - type: simple
         sentence: <f>얘들아</f>, 이리 와라!
         translated: Hey guys, come here!
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/얘들아,_이리_와라__2026-05-15.mp3
 metadata:
   type: noun
-details: |-
+details: ""

@@ -8,11 +8,11 @@ definitions:
       - type: simple
         sentence: 자네 <f>말마따나</f> 쉬는 게 좋겠네.
         translated: As you said, I think I'd better get some rest.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/자네_말마따나_쉬는_게_좋겠네__2026-05-15.mp3
       - type: simple
         sentence: 자네 <f>말마따나</f> 극과 극은 통하는 법이지.
         translated: Just as you said, opposites attract.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/자네_말마따나_극과_극은_통하는_법이지__2026-05-15.mp3
 metadata:
   type: noun
-details: |-
+details: ""

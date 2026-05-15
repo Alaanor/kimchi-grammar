@@ -8,23 +8,23 @@ definitions:
       - type: simple
         sentence: 우리 힘껏 일해 <f>보세</f>.
         translated: Let’s do our best.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/우리_힘껏_일해_보세__2026-05-15.mp3
       - type: simple
         sentence: 이 책을 우리 함께 <f>읽으세</f>.
         translated: Let's read this book together.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/이_책을_우리_함께_읽으세__2026-05-15.mp3
       - type: simple
         sentence: 그 일 우리가 <f>맡으세</f>.
         translated: Let us take care of that.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/그_일_우리가_맡으세__2026-05-15.mp3
       - type: simple
         sentence: 말로만 사죄해서는 쓸모가 없지. 그대가 바라는 것이라면 무엇이든 들어주도록 <f>합세</f>.
         translated: My just saying sorry isn't enough. If there's anything you want, let's do that.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/말로만_사죄해서는_쓸모가_없지_그대가_바라는_것이라면_무엇이든_들어주도록_합세__2026-05-15.mp3
       - type: simple
         sentence: 문을 <f>닫습세</f>.
         translated: Let's close the door please.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/문을_닫습세__2026-05-15.mp3
 metadata:
   type: verb
 details: |-

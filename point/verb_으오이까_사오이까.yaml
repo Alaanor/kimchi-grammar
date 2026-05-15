@@ -7,19 +7,19 @@ definitions:
       - type: simple
         sentence: 이 마을에 그런 사람이 <f>있겠사오이까</f>?
         translated: Surely there is no such person in this village?
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/이_마을에_그런_사람이_있겠사오이까__2026-05-15.mp3
       - type: simple
         sentence: 선생께서는 진정 정당하게 <f>이겼소이까</f>?
         translated: Did you truly win fairly?
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/선생께서는_진정_정당하게_이겼소이까__2026-05-15.mp3
       - type: simple
         sentence: 그것이 그리 <f>중요하오이까</f>?
         translated: Is that really so important?
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/그것이_그리_중요하오이까__2026-05-15.mp3
       - type: simple
         sentence: 선생은 누구를 <f>찾으오이까</f>?
         translated: Who are you looking for, sir?
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/선생은_누구를_찾으오이까__2026-05-15.mp3
 metadata:
   type: verb
 details: |-

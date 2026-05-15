@@ -8,15 +8,15 @@ definitions:
       - type: simple
         sentence: 선물로 무엇이 <f>좋은고</f>?
         translated: What would be a good gift?
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/선물로_무엇이_좋은고__2026-05-15.mp3
       - type: simple
         sentence: 이게 누구 <f>것인고</f>?
         translated: Whose is this?
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/이게_누구_것인고__2026-05-15.mp3
       - type: simple
         sentence: 무엇을 <f>바라는고</f>?
         translated: What are you hoping for?
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/무엇을_바라는고__2026-05-15.mp3
   - slug: pondering
     name: Pondering
     english_alternatives: I wonder, Assuming
@@ -25,19 +25,19 @@ definitions:
       - type: simple
         sentence: 얼마나 훌륭한 <f>일인고</f>!
         translated: What a wonderful thing!
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/얼마나_훌륭한_일인고__2026-05-15.mp3
       - type: simple
         sentence: 일이 해결이 되다니 이 얼마나 <f>좋은고</f>?
         translated: Isn't it wonderful that the problem has been solved?
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/일이_해결이_되다니_이_얼마나_좋은고__2026-05-15.mp3
       - type: simple
         sentence: 내가 왜 그런 말을 <f>했는고</f>.
         translated: Why did I say that?
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/내가_왜_그런_말을_했는고__2026-05-15.mp3
       - type: simple
         sentence: 내가 무슨 잘못이 <f>있는고</f>.
         translated: What have I done wrong?
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/내가_무슨_잘못이_있는고__2026-05-15.mp3
 metadata:
   type: verb
 details: |-

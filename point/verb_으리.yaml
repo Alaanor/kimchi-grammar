@@ -7,19 +7,19 @@ definitions:
       - type: simple
         sentence: 그는 뭐든 열심히 일하니 꼭 <f>성공하리라</f>.
         translated: That guy works hard at everything so he’s bound to succeed.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/그는_뭐든_열심히_일하니_꼭_성공하리라__2026-05-15.mp3
       - type: simple
         sentence: 내일이면 <f>늦으리니</f> 빨리 대책을 세워야 할 것이다.
         translated: Tomorrow will be too late, so we'll have to come up with a plan quickly.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/내일이면_늦으리니_빨리_대책을_세워야_할_것이다__2026-05-15.mp3
       - type: simple
         sentence: 사노라면 슬픈 날도 있겠지만 즐거운 날도 <f>있으리다</f>.
         translated: As you go through life there may be sad days, but there will certainly be happy days too.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/사노라면_슬픈_날도_있겠지만_즐거운_날도_있으리다__2026-05-15.mp3
       - type: simple
         sentence: 지금쯤이면 고향에 진달래가 활짝 <f>피었으리</f>.
         translated: The azaleas must be in full bloom back home now.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/지금쯤이면_고향에_진달래가_활짝_피었으리__2026-05-15.mp3
       - type: simple
         sentence: 그 사람이 그런 짓을 하<f>리라</f>고는 상상도 못했어요.
         translated: I couldn't even imagine that he would do such a thing.
@@ -35,19 +35,19 @@ definitions:
       - type: simple
         sentence: 잠시 기다리면 내가 곧 처리해 <f>주리다</f>.
         translated: If you wait a moment I will take care of it right away.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/잠시_기다리면_내가_곧_처리해_주리다__2026-05-15.mp3
       - type: simple
         sentence: 내 반드시 <f>돌아오리니</f> 꼭 기다려 다오.
         translated: I will definitely come back, so please wait for me.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/내_반드시_돌아오리니_꼭_기다려_다오__2026-05-15.mp3
       - type: simple
         sentence: 뒷일은 내가 <f>맡으리다</f>.
         translated: I'll take care of the rest.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/뒷일은_내가_맡으리다__2026-05-15.mp3
       - type: simple
         sentence: 내가 먼저 밥을 <f>먹으리</f>?
         translated: Should I eat first?
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/내가_먼저_밥을_먹으리__2026-05-15.mp3
   - slug: informal-logical-rebuttal
     name: Informal logical rebuttal
     meaning: Used to respond back with a question, asking how something could be so based on reason. This meaning is only used alone as a verb final ending.
@@ -55,11 +55,11 @@ definitions:
       - type: simple
         sentence: 그런 사람이 무슨 <f>애국자이리</f>?
         translated: How could someone like that be a patriot?
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/그런_사람이_무슨_애국자이리__2026-05-15.mp3
       - type: simple
         sentence: 어찌 내가 이런 일을 <f>하리</f>?
         translated: How could I ever do such a thing?
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/어찌_내가_이런_일을_하리__2026-05-15.mp3
 metadata:
   type: verb
-details: |-
+details: ""

@@ -37,11 +37,11 @@ definitions:
       - type: simple
         sentence: 자네 이것 좀 <f>보게</f>.
         translated: Take a look at this.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/자네_이것_좀_보게__2026-05-15.mp3
       - type: simple
         sentence: 김 서방인가? 어서 <f>들어오게</f>.
         translated: Is that Mr. Kim? Come on in.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/김_서방인가_어서_들어오게__2026-05-15.mp3
 metadata:
   type: verb
 details: |-

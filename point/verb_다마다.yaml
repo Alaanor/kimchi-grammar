@@ -8,11 +8,11 @@ definitions:
       - type: simple
         sentence: 암, 네 말이 <f>맞다마다</f>.
         translated: Yeah, you’re right.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/암,_네_말이_맞다마다__2026-05-15.mp3
       - type: simple
         sentence: 도와달라 말했는가. 물론일세! <f>좋다마다</f>! 얼마든지 도와줌세!
         translated: You asked for help? Of course! That's great! I’ll help you as much as I can!
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/도와달라_말했는가_물론일세_좋다마다_얼마든지_도와줌세__2026-05-15.mp3
 metadata:
   type: verb
 details: |-

@@ -8,15 +8,15 @@ definitions:
       - type: simple
         sentence: 너만 먹지 말고 나도 좀 <f>먹자꾸나</f>.
         translated: Don't just eat it all yourself, let me have some too.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/너만_먹지_말고_나도_좀_먹자꾸나__2026-05-15.mp3
       - type: simple
         sentence: 더욱 <f>부지런해지자꾸나</f>.
         translated: Let’s work even harder.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/더욱_부지런해지자꾸나__2026-05-15.mp3
       - type: simple
         sentence: 같이 <f>놀자꾸나</f>.
         translated: Let's hang out.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/같이_놀자꾸나__2026-05-15.mp3
 metadata:
   type: verb
-details: |-
+details: ""

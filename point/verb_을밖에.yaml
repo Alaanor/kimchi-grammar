@@ -8,15 +8,15 @@ definitions:
       - type: simple
         sentence: 어른들이 다 가시니 나도 <f>갈밖에</f>.
         translated: Since all the adults have left, I guess I have to go too.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/어른들이_다_가시니_나도_갈밖에__2026-05-15.mp3
       - type: simple
         sentence: 선생님이 시키는데 <f>할밖에</f>.
         translated: The teacher's telling me to do it, so I have to.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/선생님이_시키는데_할밖에__2026-05-15.mp3
       - type: simple
         sentence: 주인이 내놓으라면 <f>내놓을밖에</f>.
         translated: If the owner tells me to hand it over, I’ll have no choice but to do so.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/주인이_내놓으라면_내놓을밖에__2026-05-15.mp3
 metadata:
   type: verb
-details: |-
+details: ""

@@ -7,19 +7,19 @@ definitions:
       - type: simple
         sentence: 평생을 조국을 위해 헌신하였으니 참으로 <f>애국자도다</f>.
         translated: Having devoted his entire life to his country, he is truly a patriot.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/평생을_조국을_위해_헌신하였으니_참으로_애국자도다__2026-05-15.mp3
       - type: simple
         sentence: <f>훌륭하도다</f>, 우리 학생들.
         translated: Well done, students.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/훌륭하도다,_우리_학생들__2026-05-15.mp3
       - type: simple
         sentence: <f>독하도다</f>. <f>독하도다</f>. 서울 양반 <f>독하도다</f>. <f>원수로다</f>. <f>원수로다</f>. 존비귀천 <f>원수로다</f>.
         translated: How cruel! How cruel! How cruel are the Seoul aristocrats! They are my enemies. They are my enemies. High and low, they are all my enemies.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/독하도다_독하도다_서울_양반_독하도다_원수로다_원수로다_존비귀천_원수로다__2026-05-15.mp3
 metadata:
   type: verb
 details: |-
-    # Usage {#usage}
+  # Usage {#usage}
 
-    <f>로다</f> is a more archaic version of <f>도다</f> and gives an older feel, however they share the same meaning. Additionally 로다 will only be used
-    after :grammar[noun_이다], 아니다, :grammar[verb_으리], and :grammar[verb_으시] when used together with the aforementioned grammars. 도다 is less restricted.
+  <f>로다</f> is a more archaic version of <f>도다</f> and gives an older feel, however they share the same meaning. Additionally 로다 will only be used
+  after :grammar[noun_이다], 아니다, :grammar[verb_으리], and :grammar[verb_으시] when used together with the aforementioned grammars. 도다 is less restricted.

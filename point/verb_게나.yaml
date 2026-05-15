@@ -7,15 +7,15 @@ definitions:
       - type: simple
         sentence: 어서 <f>오게나</f>.
         translated: Come on in.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/어서_오게나__2026-05-15.mp3
       - type: simple
         sentence: 혼자만 알고 <f>있게나</f>.
         translated: Let this be a secret between us.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/혼자만_알고_있게나__2026-05-15.mp3
       - type: simple
         sentence: 수건 좀 <f>가져다주게나</f>.
         translated: Could you bring me a towel?
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/수건_좀_가져다주게나__2026-05-15.mp3
 metadata:
   type: verb
-details: |-
+details: ""

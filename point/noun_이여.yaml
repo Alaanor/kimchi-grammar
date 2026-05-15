@@ -7,15 +7,15 @@ definitions:
       - type: simple
         sentence: <f>주여</f>, 잘못을 용서하여 주소서.
         translated: Lord, forgive me for my sins.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/주여,_잘못을_용서하여_주소서__2026-05-15.mp3
       - type: simple
         sentence: 젊은 <f>그대들이여</f>, 시간을 아껴 쓰시오.
         translated: Young people, make the most of your time.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/젊은_그대들이여,_시간을_아껴_쓰시오__2026-05-15.mp3
       - type: simple
         sentence: <f>겨레여</f>, 잠에서 깨어나라!
         translated: My fellow countrymen, wake up!
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/겨레여,_잠에서_깨어나라__2026-05-15.mp3
 metadata:
   type: noun
-details: |-
+details: ""

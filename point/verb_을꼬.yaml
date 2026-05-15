@@ -7,15 +7,15 @@ definitions:
       - type: simple
         sentence: 영희야, 너는 무슨 노래를 <f>부를꼬</f>?
         translated: Young-hee, what song are you going to sing?
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/영희야,_너는_무슨_노래를_부를꼬__2026-05-15.mp3
       - type: simple
         sentence: 우리 언제 <f>떠날꼬</f>?
         translated: When are we leaving?
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/우리_언제_떠날꼬__2026-05-15.mp3
       - type: simple
         sentence: 방이 왜 이리 <f>좁을꼬</f>?
         translated: Why is this room so small?
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/방이_왜_이리_좁을꼬__2026-05-15.mp3
   - slug: wondering
     name: Wondering
     english_alternatives: I wonder
@@ -24,16 +24,15 @@ definitions:
       - type: simple
         sentence: 이제 나는 무엇을 하여 <f>먹고살꼬</f>?
         translated: What am I going to do to make a living now?
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/이제_나는_무엇을_하여_먹고살꼬__2026-05-15.mp3
       - type: simple
         sentence: 집도 없이 나는 어디로 <f>갈꼬</f>?
         translated: With no home, where am I supposed to go?
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/집도_없이_나는_어디로_갈꼬__2026-05-15.mp3
       - type: simple
         sentence: 그이는 어디로 <f>갔을꼬</f>?
         translated: I wonder where he went?
-        audio_url:
-
+        audio_url: https://r2.kimchi-reader.app/grammar/그이는_어디로_갔을꼬__2026-05-15.mp3
 metadata:
   type: verb
 details: |-

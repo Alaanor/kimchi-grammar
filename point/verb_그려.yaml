@@ -7,15 +7,15 @@ definitions:
       - type: simple
         sentence: 앞으로는 자주 <f>만납시다그려</f>.
         translated: Let's meet up more often from now on.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/앞으로는_자주_만납시다그려__2026-05-15.mp3
       - type: simple
         sentence: 그 집 사정이 참 <f>딱하데그려</f>.
         translated: That family's situation is really pitiful.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/그_집_사정이_참_딱하데그려__2026-05-15.mp3
       - type: simple
         sentence: 일주일 전에 나갔던 놈이 이제야 <f>돌아왔네그려</f>.
         translated: The guy who left a week ago has finally come back.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/일주일_전에_나갔던_놈이_이제야_돌아왔네그려__2026-05-15.mp3
 metadata:
   type: verb
-details: |-
+details: ""

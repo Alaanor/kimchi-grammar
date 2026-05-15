@@ -8,11 +8,11 @@ definitions:
       - type: simple
         sentence: 그 무렵 우리는 서울에서 <f>살았거들랑</f>.
         translated: We were living in Seoul around then.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/그_무렵_우리는_서울에서_살았거들랑__2026-05-15.mp3
       - type: simple
         sentence: 사실은 그 아이가 내 친구 <f>동생이걸랑</f>.
         translated: Actually, that kid is my friend's younger sibling.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/사실은_그_아이가_내_친구_동생이걸랑__2026-05-15.mp3
   - slug: conditional
     name: Conditional
     english_alternatives: if actually true, then
@@ -21,15 +21,15 @@ definitions:
       - type: simple
         sentence: 철수를 <f>만나거들랑</f> 내 말을 전해라.
         translated: If you see Chul-soo, please give him my regards.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/철수를_만나거들랑_내_말을_전해라__2026-05-15.mp3
       - type: simple
         sentence: 서울에 <f>가거들랑</f> 편지해라.
         translated: Write me if you go to Seoul.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/서울에_가거들랑_편지해라__2026-05-15.mp3
       - type: simple
         sentence: 커피가 마시고 <f>싶걸랑</f> 설탕을 사 와라.
         translated: If you want coffee, go buy some sugar.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/커피가_마시고_싶걸랑_설탕을_사_와라__2026-05-15.mp3
 metadata:
   type: verb
 details: |-

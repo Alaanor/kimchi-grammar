@@ -8,11 +8,11 @@ definitions:
       - type: simple
         sentence: 기쁜 <f>일이고말고</f>.
         translated: That’s certainly good news.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/기쁜_일이고말고__2026-05-15.mp3
       - type: simple
         sentence: 나야 물론 <f>좋고말고</f>.
         translated: Of course I'm all for it.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/나야_물론_좋고말고__2026-05-15.mp3
 metadata:
   type: verb
-details: |-
+details: ""

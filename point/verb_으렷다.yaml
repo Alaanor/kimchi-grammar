@@ -7,15 +7,15 @@ definitions:
       - type: simple
         sentence: 그는 다시는 두말 못 <f>하렷다</f>.
         translated: He won't be complaining again.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/그는_다시는_두말_못_하렷다__2026-05-15.mp3
       - type: simple
         sentence: 지금쯤은 책을 다 <f>읽었으렷다</f>.
         translated: You must've finished the book by now.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/지금쯤은_책을_다_읽었으렷다__2026-05-15.mp3
       - type: simple
         sentence: 눈어림으로 짐작하건대 아직 25살이 넘지 <f>않으렷다</f>.
         translated: Judging by his appearance, he can’t be more than 25.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/눈어림으로_짐작하건대_아직_25살이_넘지_않으렷다__2026-05-15.mp3
   - slug: command
     name: Command
     meaning: Expresses a command or order.
@@ -23,11 +23,11 @@ definitions:
       - type: simple
         sentence: 다시는 내 앞에 나타나지 <f>말렷다</f>.
         translated: Don't ever show your face here again.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/다시는_내_앞에_나타나지_말렷다__2026-05-15.mp3
       - type: simple
         sentence: 당장 그 죄인을 <f>묶으렷다</f>.
         translated: Bind that criminal at once.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/당장_그_죄인을_묶으렷다__2026-05-15.mp3
 metadata:
   type: verb
-details: |-
+details: ""

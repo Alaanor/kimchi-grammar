@@ -7,15 +7,15 @@ definitions:
       - type: simple
         sentence: 부모님의 은혜는 <f>깊으옵시어</f> 갚을 길이 없어라.
         translated: My parents' favour is so deep I cannot repay it.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/부모님의_은혜는_깊으옵시어_갚을_길이_없어라__2026-05-15.mp3
       - type: simple
         sentence: 제 말씀을 <f>듣자옵시니</f> 놀라셨나이다
         translated: He was astonished to hear what I had to say.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/제_말씀을_듣자옵시니_놀라셨나이다_2026-05-15.mp3
       - type: simple
         sentence: 성주님께서 <f>행차하옵신다</f>.
         translated: The castellan is visiting.
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/성주님께서_행차하옵신다__2026-05-15.mp3
 metadata:
   type: verb
 details: |-

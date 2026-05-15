@@ -8,9 +8,11 @@ definitions:
       - sentence: 현우는 모든 사람에게 <f>사랑받아요</f>.
         type: simple
         translated: Hyunwoo is loved by everyone.
+        audio_url: https://r2.kimchi-reader.app/grammar/현우는_모든_사람에게_사랑받아요__2026-05-15.mp3
       - sentence: 선생님께 <f>칭찬받았어</f>.
         type: simple
         translated: I got praise from the teacher.
+        audio_url: https://r2.kimchi-reader.app/grammar/선생님께_칭찬받았어__2026-05-15.mp3
 metadata:
   type: noun
 details: |-

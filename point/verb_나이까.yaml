@@ -7,15 +7,15 @@ definitions:
       - type: simple
         sentence: 어찌 감히 어명을 <f>거역하겠나이까</f>?
         translated: How could I possibly dare to disobey the royal command?
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/어찌_감히_어명을_거역하겠나이까__2026-05-15.mp3
       - type: simple
         sentence: 주인님, <f>부르셨나이까</f>?
         translated: Master, did you call me?
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/주인님,_부르셨나이까__2026-05-15.mp3
       - type: simple
         sentence: 제가 어찌 그런 말을 <f>하겠사옵나이까</f>?
         translated: How could I possibly say such a thing?
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/제가_어찌_그런_말을_하겠사옵나이까__2026-05-15.mp3
 metadata:
   type: verb
 details: |-

@@ -84,7 +84,7 @@ and/or alternatively you can always ask for helps on our discord server. The gen
 ### Schema for a Grammar point
 
 ```yaml
-point: [ Hangul form of grammar, appears in pop-up dict ]
+name: [ Hangul form of grammar, appears in pop-up dict ]
 definitions:
   - slug: [ Appears at the end of url in browser ]
     name: [ Summarizes grammar in pop-up dict ]

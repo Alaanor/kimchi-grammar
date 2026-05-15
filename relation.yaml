@@ -93,6 +93,7 @@ relation:
       - { id: "verb_으려고_려고", slug: "intention" }
       - { id: "verb_고자", slug: "purpose" }
       - { id: "을_위해서", slug: "purpose" }
+      - { id: "verb_을라치면", slug: "whenever"}
   - concern:
       - { id: "으려고_하다", slug: "intending-to" }
       - { id: "기로_하다", slug: "make-a-promise-with-another-person-or-oneself" }

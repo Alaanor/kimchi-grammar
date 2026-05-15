@@ -1,0 +1,16 @@
+name: 따라
+definitions:
+  - slug: unusually
+    name: Unusually
+    english_alternatives: Unusually
+    meaning: Follows a time expression and expresses that some action happened exclusively or unusually so in that period of time and does not represent the usual behavior or state of affairs.
+    examples:
+      - sentence: <f>오늘따라</f> 날씨가 왜 이래?
+        type: simple
+        translated: Why's the weather like this today?
+      - sentence: <f>그날따라</f> 남편이 일찍 들어왔거든...
+        type: simple
+        translated: My husband came home unusually early that day...
+metadata:
+  type: noun
+details: ""

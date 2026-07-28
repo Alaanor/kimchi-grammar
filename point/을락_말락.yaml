@@ -8,12 +8,15 @@ definitions:
       - sentence: 비가 <f>올락 말락</f> 하는 날씨가 제일 싫거든요.
         type: simple
         translated: I hate it when it seems like it will rain.
+        audio_url: https://r2.kimchi-reader.app/grammar/비가_올락_말락_하는_날씨가_제일_싫거든요__2026-07-28.mp3
       - sentence: 남편이 <f>설득될락 말락</f> 해서 조금 더 기다려줘.
         type: simple
         translated: My husband is this close to being persuaded so just wait a bit more.
+        audio_url: https://r2.kimchi-reader.app/grammar/남편이_설득될락_말락_해서_조금_더_기다려줘__2026-07-28.mp3
       - sentence: 요즘은 눈이 너무 <f>올랑 말랑</f> 하네요.
         type: simple
         translated: It seems like it will snow any minute now.
+        audio_url: https://r2.kimchi-reader.app/grammar/요즘은_눈이_너무_올랑_말랑_하네요__2026-07-28.mp3
 metadata:
   type: composite
 details: |-

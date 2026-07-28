@@ -8,9 +8,11 @@ definitions:
       - sentence: <f>오늘따라</f> 날씨가 왜 이래?
         type: simple
         translated: Why's the weather like this today?
+        audio_url: https://r2.kimchi-reader.app/grammar/오늘따라_날씨가_왜_이래__2026-07-28.mp3
       - sentence: <f>그날따라</f> 남편이 일찍 들어왔거든...
         type: simple
         translated: My husband came home unusually early that day...
+        audio_url: https://r2.kimchi-reader.app/grammar/그날따라_남편이_일찍_들어왔거든__2026-07-28.mp3
 metadata:
   type: noun
 details: ""

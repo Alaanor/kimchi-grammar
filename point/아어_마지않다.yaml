@@ -1,0 +1,26 @@
+name: 아/어 마지않다
+definitions:
+  - slug: sincerely
+    name: Sincerely
+    english_alternatives: Sincerely, really
+    meaning: Emphasizes that an action is being done sincerely.
+    examples:
+      - sentence: 올해는 좋은 일만 있으시길 <f>바라 마지않습니다</f>.
+        type: simple
+        translated: I sincerely wish you only the best this year.
+      - sentence: 그대를 <f>기대해마지않아</f> 자꾸 먼 바다를 쳐다보오!
+        type: simple
+        translated: I stare at the distant sea, sincerely waiting for you.
+      - sentence: 현우가 수빈이를 <f>사랑해 마지아니한다</f>.
+        type: simple
+        translated: Hyunwoo really loves Subin.
+metadata:
+  type: composite
+details: |-
+  # Spacing {#spacing}
+
+  Although nonstandard, you may see it spaced as <f>-아/어마지 않다</f> or <f>-아/어 마지 않다</f>.
+
+  # Alternate form {#alternate-form}
+
+  Although uncommon, you may see it in the form of <f>-아/어 마지아니하다</f>.

@@ -1,0 +1,30 @@
+name: (으)ㄹ락 말락
+definitions:
+  - slug: close-to-happening
+    name: Close to happening
+    english_alternatives: About to, almost, this close to
+    meaning: Expresses that an action is about to happen or really close to occurring with no indication of it actually happening or not.
+    examples:
+      - sentence: 비가 올락 말락 하는 날씨가 제일 싫거든요.
+        type: simple
+        translated: I hate it when it seems like it will rain.
+      - sentence: 남편이 설득될락 말락 해서 조금 더 기다려줘.
+        type: simple
+        translated: My husband is this close to being persuaded so just wait a bit more.
+      - sentence: 요즘은 눈이 너무 올랑 말랑 하네요.
+        type: simple
+        translated: It seems like it will snow any minute now.
+metadata:
+  type: composite
+details: |-
+  # Usage (#usage)
+
+  The clause after -을락 말락 is mostly just the verb 하다, however in some situations you can see another clause or the verb being simply omitted.
+  
+  # Spacing (#spacing)
+
+  Though not approved as standard, some may write the grammar point unspaced as -을락말락 and even put 하다 directly after it without space as well.
+
+  # Alternative forms {#alternative}
+
+  Sometimes, some speakers may mistakenly pronounce or write this grammar point as -을랑 말랑 (with or without space) as seen in example 3.

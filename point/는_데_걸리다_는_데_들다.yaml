@@ -1,0 +1,31 @@
+name: 는 데 걸리다/들다
+definitions:
+  - slug: it-takes-time
+    name: It takes time
+    english_alternatives: Take
+    meaning: Expresses how much time is involved in doing something
+    examples:
+      - sentence: 운전을 <f>배우는 데 한 달 걸렸어요</f>.
+        type: simple
+        translated: It took me a month to learn to drive.
+        audio_url:
+      - sentence: 집에서 학교끼지 <f>걸어가는 데 10 분 정도 걸려요</f>.
+        type: simple
+        translated: It takes me about 10 minutes to go from home to school.
+        audio_url:
+  - slug: it-costs-money
+    name: IT costs money
+    english_alternatives: Cost
+    meaning: Expresses how much money is involved in doing something
+    examples:
+      - sentence: 머리를 <f>자르는 데 1만원 들어요</f>.
+        type: simple
+        translated: It costs 10,000 won to have a hair cut.
+        audio_url:
+      - sentence: 이 스마트폰을 <f>사는 데 70만 원 들어요</f>.
+        type: simple
+        translated: It costs 700k won to buy this smartphone.
+        audio_url:
+metadata:
+  type: composite
+details: |-

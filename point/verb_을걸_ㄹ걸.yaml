@@ -3,7 +3,7 @@ definitions:
   - slug: guessing
     name: Guessing
     english_alternatives:
-    meaning: Used when stating an unconfirmed assumptions or supposition about a something unsure or a future event.
+    meaning: Used when stating an unconfirmed assumption or supposition about something unsure or a future event.
     examples:
       - sentence: 출퇴근 시간이니까 지하철을 타는 게 더 <f>빠를걸요</f>.
         type: simple

@@ -3,7 +3,7 @@ definitions:
   - slug: perceived-action
     name: Perceived action
     english_alternatives: appears to be, seems
-    meaning: Added to descriptive verbs to change turn them into action verbs and convey an emotion or sensation.
+    meaning: Added to descriptive verbs to turn them into action verbs and convey an emotion or sensation.
     examples:
       - sentence: 동생은 한국어 공부를 <f>재미있어해요</f>.
         type: simple

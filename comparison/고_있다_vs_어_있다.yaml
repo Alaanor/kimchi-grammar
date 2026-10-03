@@ -4,7 +4,7 @@ points:
     details: |-
       Expresses the continuing state of a completed action.
 
-      Can be used when talking about standing, sitting, lying, whereas :grammar[고_있다]{no_prefix} can not.
+      Can be used when talking about standing, sitting, lying, whereas :grammar[고_있다]{noprefix} can not.
   - grammar_id: 고_있다
     definition_slug: ongoing-state
     details: |-

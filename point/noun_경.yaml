@@ -11,7 +11,7 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/아마_작년_4월경이었을_거예요__2025-04-18.mp3
       - sentence: 민수는 1시 <f>반경</f>에 지하철역으로 향했다.
         type: simple
-        translated: Minsu headed for the train station at 1 or so.
+        translated: Minsu headed for the train station at around 1:30.
         audio_url: https://r2.kimchi-reader.app/grammar/민수는_1시_반경에_지하철역으로_향했다__2025-04-18.mp3
       - sentence: 시현에 따르면 어젯밤 8<f>시경</f>부터 친구와 해변에서 불꽃놀이를 했다고 한다.
         type: simple

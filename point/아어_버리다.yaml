@@ -3,7 +3,7 @@ definitions:
   - slug: completed
     name: After completed action or event
     english_alternatives:
-    meaning: Used after an action or event is finished and completed. It can refers to facts nothing remains after that or the speaker's feeling about it.
+    meaning: Used after an action or event is finished and completed. It can refer to the fact that nothing remains after that or the speaker's feeling about it.
     examples:
       - sentence: 그 사람이 드디어 <f>떠나 버렸어요</f>.
         type: simple

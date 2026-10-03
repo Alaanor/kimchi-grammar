@@ -30,5 +30,5 @@ details: |-
 
   # With nouns {#nouns}
 
-  :grammar[verb_든지] can be indirectly attached to nouns, in those case it goes through :grammar[noun_이다] first.
+  :grammar[verb_든지] can be indirectly attached to nouns, in those cases it goes through :grammar[noun_이다] first.
   Note that <span c-orange>이</span> might not appear at all.

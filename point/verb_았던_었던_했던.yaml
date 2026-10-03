@@ -3,7 +3,7 @@ definitions:
   - slug: past-completed
     name: Past completed
     english_alternatives: Had done/Used to be
-    meaning: Indicates an verb in the past has completed in the past, with the nuance of recollecting a memory.
+    meaning: Indicates a verb in the past has completed in the past, with the nuance of recollecting a memory.
     examples:
       - sentence: <f>시끄러웠던</f> 교실이 요즘에 아주 조용해요.
         type: simple

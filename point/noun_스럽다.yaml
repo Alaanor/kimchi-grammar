@@ -3,7 +3,7 @@ definitions:
   - slug: has-quality-of
     name: Has some of the quality of
     english_alternatives: -like, -ish, -ly
-    meaning: Indicate that it has all of the qualities or characteristics of the noun and turn it into an descriptive verb.
+    meaning: Indicate that it has all of the qualities or characteristics of the noun and turn it into a descriptive verb.
     examples:
       - sentence: 강아지가 너무 <f>사랑스럽게</f> 웃어요.
         type: simple

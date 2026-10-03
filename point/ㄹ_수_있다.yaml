@@ -3,7 +3,7 @@ definitions:
   - slug: ability-or-possibility
     name: Ability or possibility
     english_alternatives: can
-    meaning: A pattern to expresses when someone is able to do something or when something is possible.
+    meaning: A pattern that expresses when someone is able to do something or when something is possible.
     examples:
       - sentence: <f>운전할 수 있어요</f>.
         type: simple

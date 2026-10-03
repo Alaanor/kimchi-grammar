@@ -11,7 +11,7 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/조금_비싸지만_그래도_너무_맛있어요__2024-04-13.mp3
       - sentence: 경고하<f>지만</f> 그것은 위험하다.
         type: simple
-        translated: I warned you, but it's dangerous.
+        translated: I'm warning you, but it's dangerous.
         audio_url: https://r2.kimchi-reader.app/grammar/경고하지만_그것은_위험하다__2024-04-13.mp3
 metadata:
   type: verb

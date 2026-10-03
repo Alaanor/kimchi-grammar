@@ -3,7 +3,7 @@ definitions:
   - slug: soft-question
     name: Soft question
     english_alternatives:
-    meaning: It can be use to ask a question in a polite and gentle way.
+    meaning: It can be used to ask a question in a polite and gentle way.
     examples:
       - sentence: 여러분도 혹시 명상을 <f>하시나요</f>?
         type: simple

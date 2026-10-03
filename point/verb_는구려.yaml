@@ -22,7 +22,7 @@ definitions:
     examples:
       - type: simple
         sentence: 더 늦으면 어두워질 테니 어서 <f>가구려</f>.
-        translated: It'll get dark soon so let's get going.
+        translated: It'll get dark soon so hurry and go.
         audio_url: https://r2.kimchi-reader.app/grammar/더_늦으면_어두워질_테니_어서_가구려__2026-05-15.mp3
       - type: simple
         sentence: 이 사람에게도 한 잔 <f>권하시구려</f>.
@@ -41,6 +41,6 @@ details: |-
   <f>하오체</f> is honorific speech used in archaic Korean; used to respectfully address someone without lowering
   oneself, however, it is considered archaic in modern Korean and it is rare to encounter it in everyday speech.
 
-  You will encounter <f>하오체</f> in period dramas, traditional literature or in North - Korea; where it is still in use today.
+  You will encounter <f>하오체</f> in period dramas, traditional literature or in North Korea; where it is still in use today.
 
   <f>하오체</f> has been replaced by <f>해요체</f> in modern times. :source[https://en.wikipedia.org/wiki/Korean_speech_levels]

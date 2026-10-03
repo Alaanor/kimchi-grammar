@@ -20,7 +20,7 @@ definitions:
     examples:
       - sentence: 휴대 전화로 사진을 <f>보낼 줄 몰라요</f>.
         type: simple
-        translated: I don't know how to dsend pictures by mobile phone.
+        translated: I don't know how to send pictures by mobile phone.
         audio_url: https://r2.kimchi-reader.app/grammar/휴대_전화로_사진을_보낼_줄_몰라요__2024-05-16.mp3
       - sentence: 저는 영어를 <f>할 줄 몰라요</f>.
         type: simple

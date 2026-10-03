@@ -6,7 +6,7 @@ definitions:
     meaning: Expresses concern that what was just mentioned might happen.
     examples:
       - type: simple
-        sentence: 쉿! 이쭉 쳐다<f>볼라</f>.
+        sentence: 쉿! 이쪽 쳐다<f>볼라</f>.
         translated: Shush! He might look this way.
         audio_url: https://r2.kimchi-reader.app/grammar/쉿_이쭉_쳐다볼라__2026-03-19.mp3
       - type: simple

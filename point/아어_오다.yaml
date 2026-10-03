@@ -5,13 +5,13 @@ definitions:
     english_alternatives: Has been
     meaning: Indicates an action that started in the past continues into the present.
     examples:
-      - sentence: 10년부터 한국에서 <f>살아 왔어요</f>.
+      - sentence: 10년 전부터 한국에서 <f>살아 왔어요</f>.
         type: simple
         translated: I've lived in Korea as of 10 years ago (so far even till now)
         audio_url: https://r2.kimchi-reader.app/grammar/10년부터_한국에서_살아_왔어요__2024-04-21.mp3
-      - sentence: 제 선생님을 항상 <f>믿어 와요</f>?
+      - sentence: 제 선생님을 항상 <f>믿어 왔어요</f>.
         type: simple
-        translated: I always believe in my teacher (before and still to this day).
+        translated: I have always believed in my teacher (before and still to this day).
         audio_url: https://r2.kimchi-reader.app/grammar/제_선생님을_항상_믿어_와요__2024-04-21.mp3
       - sentence: 나는 열심히 <f>일해 왔어요</f>.
         translated: I've worked hard (from the start continually even now)

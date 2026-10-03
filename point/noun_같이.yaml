@@ -5,7 +5,7 @@ definitions:
     english_alternatives: like, as
     meaning: Indicates resemblance or a metaphorical comparison in actions or objects
     examples:
-      - sentence: 그녀는 너<f>같이</f> 예쁜다.
+      - sentence: 그녀는 너<f>같이</f> 예쁘다.
         type: simple
         translated: She is as pretty as you.
         audio_url: https://r2.kimchi-reader.app/grammar/그녀는_너같이_예쁜다__2024-03-17.mp3

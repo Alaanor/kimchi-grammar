@@ -5,7 +5,7 @@ definitions:
     english_alternatives: Instead of, compensate for, but
     meaning: Indicates an action can be replaced or compensated by another.
     examples:
-      - sentence: <f>저 대신에</f> 주문좀 해주시겠어요?
+      - sentence: <f>저 대신에</f> 주문 좀 해주시겠어요?
         type: simple
         translated: Could you order instead of me?
         audio_url: https://r2.kimchi-reader.app/grammar/저_대신에_주문좀_해주시겠어요__2024-05-26.mp3

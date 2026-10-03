@@ -7,7 +7,7 @@ definitions:
     examples:
       - sentence: 주말에 날씨가 <f>나쁠까 봐</f> 걱정이에요.
         type: simple
-        translated: I am worried that the weather would be bad in weekend
+        translated: I am worried that the weather would be bad on the weekend
         audio_url: https://r2.kimchi-reader.app/grammar/주말에_날씨가_나쁠까_봐_걱정이에요__2024-05-27.mp3
       - sentence: 중요한 일을 <f>잊어버릴까 봐</f> 수첩에 항상 메모해요.
         type: simple

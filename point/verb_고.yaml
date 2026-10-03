@@ -3,7 +3,7 @@ definitions:
   - slug: listing
     name: Listing
     english_alternatives: and
-    meaning: Used when listing two or more equals elements or facts.
+    meaning: Used when listing two or more equal elements or facts.
     examples:
       - sentence: 그 모임은 아주 즐겁<f>고</f> 좋았어요.
         type: simple

@@ -3,7 +3,7 @@ definitions:
   - slug: condition
     name: Condition
     english_alternatives: should, must, have to
-    meaning: Express a necessity, obligation or a condition that has be completed for something else to realize.
+    meaning: Express a necessity, obligation or a condition that has to be completed for something else to realize.
     examples:
       - sentence: 날씨가 추워졌으니까 옷을 따뜻하게 입<f>어야</f>겠어요.
         type: simple

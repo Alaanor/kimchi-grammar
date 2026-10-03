@@ -4,7 +4,7 @@ definitions:
     name: Sequential actions
     english_alternatives:
     meaning: It expresses that the second clause is performed based on the result of first completing
-      the action in the first clause. The first and seconds clause must happens in different locations.
+      the action in the first clause. The first and second clauses must happen in different locations.
     examples:
       - sentence: 케이크를 <f>만들어다가</f> 친구에게 줬어요.
         type: simple

@@ -3,7 +3,7 @@ definitions:
   - slug: sequence
     name: Sequence
     english_alternatives:
-    meaning: When the first action get completed before the subsequent action started
+    meaning: When the first action gets completed before the subsequent action started
       and there is a relationship between the two actions.
     examples:
       - sentence: 저 문을 뚫<f>고서</f> 궁전으로 돌진합시다!

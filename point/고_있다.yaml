@@ -3,7 +3,7 @@ definitions:
   - slug: ongoing-state
     name: Ongoing state
     english_alternatives: -ing
-    meaning: Expresses that an action is ongoing. This pattern is sometime mentioned as progressive tense.
+    meaning: Expresses that an action is ongoing. This pattern is sometimes mentioned as progressive tense.
     examples:
       - sentence: 지금 이메일를 쓰<f>고 있어요</f>.
         type: simple

@@ -3,7 +3,7 @@ definitions:
   - slug: prohibition
     name: Prohibition
     english_alternatives: don't do
-    meaning: Used to requesting, persuading or ordering the listener not to do something.
+    meaning: Used for requesting, persuading or ordering the listener not to do something.
     examples:
       - sentence: 기대도 <f>하지 마</f>.
         type: simple

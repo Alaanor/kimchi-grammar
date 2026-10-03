@@ -16,7 +16,7 @@ definitions:
   - slug: asking-opinion
     name: Asking opinion
     english_alternatives: I wonder if, shall I, do you want me to
-    meaning: Ask the for listener's preference, thought or opinion.
+    meaning: Ask for the listener's preference, thought or opinion.
     examples:
       - sentence: 제가 몇 시에 <f>전화할까요</f>?
         type: simple
@@ -33,7 +33,7 @@ definitions:
   - slug: wondering
     name: Wondering
     english_alternatives: I wonder, should I?
-    meaning: Wondering to oneself, considering a possbility or action.
+    meaning: Wondering to oneself, considering a possibility or action.
     examples:
       - sentence: 이게 <f>맛있을까</f>?
         type: simple

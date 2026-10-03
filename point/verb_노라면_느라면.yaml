@@ -18,7 +18,7 @@ definitions:
         translated: Whenever I look at my mother's photo, I miss her.
         audio_url: https://r2.kimchi-reader.app/grammar/어머니_사진을_보느라면,_어머니가_보고_싶어져요__2026-03-19.mp3
 metadata:
-  type: composite
+  type: verb
 details: |-
   # Usage {#usage}
   - It can be replaced by <f>다(가) 보면</f>.

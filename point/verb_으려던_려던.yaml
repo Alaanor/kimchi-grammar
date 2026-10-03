@@ -3,7 +3,7 @@ definitions:
   - slug: interruption
     name: Interruption
     english_alternatives: was about to
-    meaning: Express that the action or intention was about to happens but got interrupted to change to something else.
+    meaning: Express that the action or intention was about to happen but got interrupted to change to something else.
     examples:
       - sentence: 라면을 끓이는군요. 저도 마침 라면을 먹<f>으려던</f> 참이었어요.
         type: simple

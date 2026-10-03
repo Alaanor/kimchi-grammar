@@ -19,7 +19,7 @@ definitions:
         audio_url: https://r2.kimchi-reader.app/grammar/이_책은_교과서이자_참고서입니다__2024-10-24.mp3
       - sentence: 슬기님은 프로그래머<f>이자</f> 여성입니다.
         type: simple
-        translated: Seulgi is a programmar as well as a woman.
+        translated: Seulgi is a programmer as well as a woman.
         audio_url: https://r2.kimchi-reader.app/grammar/슬기님은_프로그래머이자_여성입니다__2024-10-24.mp3
       - sentence: 이곳은 관광지<f>이자</f> 역사적인 장소입니다.
         type: simple

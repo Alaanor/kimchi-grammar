@@ -8,7 +8,7 @@ definitions:
       - sentence: 나<f>보고</f> 어쩌라고!
         type: simple
         translated: What do you want me to do about it?
-        audio_url:
+        audio_url: https://r2.kimchi-reader.app/grammar/나보고_어쩌라고__2026-10-03.mp3
       - sentence: 남편이 저<f>보고</f> 보라색이 잘 어울린다고 했어요.
         type: simple
         translated: My husband told me that purple suits me.

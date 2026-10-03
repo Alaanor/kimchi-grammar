@@ -5,7 +5,7 @@ definitions:
     english_alternatives: even if, regardless whether
     meaning: Indicates that the second clause will happen regardless of the described state or action of the first clause.
     examples:
-      - sentence: 책을 <f>사도</f> 공부는 안해요.
+      - sentence: 책을 <f>사도</f> 공부는 안 해요.
         type: simple
         translated: I don't study <f>even if</f> I buy books.
         audio_url: https://r2.kimchi-reader.app/grammar/책을_사도_공부는_안해요__2024-04-13.mp3

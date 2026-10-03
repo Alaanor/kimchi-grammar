@@ -9,7 +9,7 @@ definitions:
         type: simple
         translated: If the weather was a little warmer, I would have gone out.
         audio_url: https://r2.kimchi-reader.app/grammar/날씨가_좀_더_따뜻했다면_나갔을_거예요__2024-05-15.mp3
-      - sentence: 그 카메라를 싼다면 <f>샀을 거예요</f>.
+      - sentence: 그 카메라가 쌌다면 <f>샀을 거예요</f>.
         type: simple
         translated: I would have bought that camera if it were cheaper.
         audio_url: https://r2.kimchi-reader.app/grammar/그_카메라를_싼다면_샀을_거예요__2024-05-15.mp3

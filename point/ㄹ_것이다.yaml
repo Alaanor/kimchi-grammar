@@ -13,7 +13,7 @@ definitions:
         type: simple
         translated: Where will you sell it?
         audio_url: https://r2.kimchi-reader.app/grammar/어디에서_팔_거예요__2024-04-13.mp3
-      - sentence: 토요일에는 소풍을 <f>갈 거에요</f>.
+      - sentence: 토요일에는 소풍을 <f>갈 거예요</f>.
         type: simple
         translated: I will go on a picnic on Saturday.
         audio_url: https://r2.kimchi-reader.app/grammar/토요일에는_소풍을_갈_거에요__2024-04-13.mp3

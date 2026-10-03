@@ -5,7 +5,7 @@ definitions:
     english_alternatives: if
     meaning: Used when the preceding statement becomes the condition of the following statement.
     examples:
-      - sentence: 공부를 열심히 <f>하면</f> 좋은 성적이 좋아집니다.
+      - sentence: 공부를 열심히 <f>하면</f> 성적이 좋아집니다.
         type: simple
         translated: If you study hard, your grades will improve.
         audio_url: https://r2.kimchi-reader.app/grammar/공부를_열심히_하면_좋은_성적이_좋아집니다__2024-04-13.mp3

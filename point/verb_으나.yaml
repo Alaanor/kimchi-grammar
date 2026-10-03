@@ -10,7 +10,7 @@ definitions:
         translated: This food is healthy, but it's a bit bland.
         audio_url: https://r2.kimchi-reader.app/grammar/이_음식은_건강에_좋으나_맛이_조금_밍밍해요__2024-12-19.mp3
       - type: simple
-        sentence: 새로운 게임은 흥미롭<f>으나</f> 버그가 많아서 플레이하기 어렵네요.
+        sentence: 새로운 게임은 흥미로<f>우나</f> 버그가 많아서 플레이하기 어렵네요.
         translated: The new game is interesting, but it has so many bugs that it’s hard to play.
         audio_url: https://r2.kimchi-reader.app/grammar/새로운_게임은_흥미롭으나_버그가_많아서_플레이하기_어렵네요__2024-12-19.mp3
       - type: simple

@@ -7,7 +7,7 @@ definitions:
       Indirectly quoting a declarative sentence.
       Used to ask for clarification or reconfirmation of something they just heard.
     examples:
-      - sentence: 가족이 모두 4명<f>이라고</f> 하요.
+      - sentence: 가족이 모두 4명<f>이라고</f> 해요.
         type: simple
         translated: They said their family has four members.
         audio_url: https://r2.kimchi-reader.app/grammar/가족이_모두_4명이라고_하요__2024-04-13.mp3
